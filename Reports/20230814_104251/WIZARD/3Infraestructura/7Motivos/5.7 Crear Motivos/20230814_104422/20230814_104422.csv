@@ -1,0 +1,108 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.7 Crear Motivos,Chrome 115.0.0.0,,,2023-08-14 11:50:08,2023-08-14 11:52:25,"2m - 17,023s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/7Motivos/5.7 Crear Motivos,Chrome 115.0.0.0,,,2023-08-14 11:50:08,2023-08-14 11:52:25,"2m - 16,777s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 11:50:09,2023-08-14 11:50:20,"11,232s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 115.0.0.0,,,2023-08-14 11:50:20,2023-08-14 11:50:21,"0,758s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:50:21,2023-08-14 11:50:24,"3,005s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Motivos""))",Chrome 115.0.0.0,Motivos listado jerarquia,,2023-08-14 11:50:24,2023-08-14 11:50:26,"2,641s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:50:26,2023-08-14 11:50:29,"3,010s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos""))",Chrome 115.0.0.0,Pestaña Motivos para crear,,2023-08-14 11:50:29,2023-08-14 11:50:30,"0,477s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:50:30,2023-08-14 11:50:33,"3,003s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""Hora de almuerzo"")",Chrome 115.0.0.0,Motivo 1,,2023-08-14 11:50:33,2023-08-14 11:50:33,"0,796s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""Hora de almuerzo"")",Chrome 115.0.0.0,,,2023-08-14 11:50:33,2023-08-14 11:50:34,"0,811s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Cierre"", false)",Chrome 115.0.0.0,,,2023-08-14 11:50:34,2023-08-14 11:50:35,"0,728s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo Ocio""), ""Receso Laboral"", false)",Chrome 115.0.0.0,,,2023-08-14 11:50:35,2023-08-14 11:50:36,"0,758s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:50:36,2023-08-14 11:50:36,"0,440s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:50:36,2023-08-14 11:50:39,"3,006s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""Pausa Activa AM"")",Chrome 115.0.0.0,Motivo 2,,2023-08-14 11:50:39,2023-08-14 11:50:40,"0,820s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""Pausa Activa AM"")",Chrome 115.0.0.0,,,2023-08-14 11:50:40,2023-08-14 11:50:41,"0,788s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Cierre"", false)",Chrome 115.0.0.0,,,2023-08-14 11:50:41,2023-08-14 11:50:41,"0,671s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo Ocio""), ""Receso Laboral"", false)",Chrome 115.0.0.0,,,2023-08-14 11:50:41,2023-08-14 11:50:42,"0,775s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:50:42,2023-08-14 11:50:43,"0,431s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:50:43,2023-08-14 11:50:46,"3,007s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""Pausa Activa PM"")",Chrome 115.0.0.0,Motivo 3,,2023-08-14 11:50:46,2023-08-14 11:50:46,"0,781s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""Pausa Activa PM"")",Chrome 115.0.0.0,,,2023-08-14 11:50:46,2023-08-14 11:50:47,"0,781s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Cierre"", false)",Chrome 115.0.0.0,,,2023-08-14 11:50:47,2023-08-14 11:50:48,"0,733s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo Ocio""), ""Receso Laboral"", false)",Chrome 115.0.0.0,,,2023-08-14 11:50:48,2023-08-14 11:50:49,"1,086s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:50:49,2023-08-14 11:50:49,"0,401s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:50:49,2023-08-14 11:50:52,"3,005s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""Capacitación"")",Chrome 115.0.0.0,Motivo 4,,2023-08-14 11:50:52,2023-08-14 11:50:53,"0,827s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""Capacitación"")",Chrome 115.0.0.0,,,2023-08-14 11:50:53,2023-08-14 11:50:54,"0,763s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Cierre"", false)",Chrome 115.0.0.0,,,2023-08-14 11:50:54,2023-08-14 11:50:55,"0,668s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo Ocio""), ""Labores Administrativas"", false)",Chrome 115.0.0.0,,,2023-08-14 11:50:55,2023-08-14 11:50:56,"0,967s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:50:56,2023-08-14 11:50:56,"0,444s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:50:56,2023-08-14 11:50:59,"3,010s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""Permiso Autorizado"")",Chrome 115.0.0.0,Motivo 5,,2023-08-14 11:50:59,2023-08-14 11:51:00,"0,774s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""Permiso Autorizado"")",Chrome 115.0.0.0,,,2023-08-14 11:51:00,2023-08-14 11:51:01,"0,748s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Cierre"", false)",Chrome 115.0.0.0,,,2023-08-14 11:51:01,2023-08-14 11:51:01,"0,697s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo Ocio""), ""Tiempo Ocio Voluntario"", false)",Chrome 115.0.0.0,,,2023-08-14 11:51:01,2023-08-14 11:51:03,"1,142s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:51:03,2023-08-14 11:51:03,"0,403s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:51:03,2023-08-14 11:51:06,"3,003s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""Falla Técnica"")",Chrome 115.0.0.0,Motivo 6,,2023-08-14 11:51:06,2023-08-14 11:51:07,"0,791s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""Falla Técnica"")",Chrome 115.0.0.0,,,2023-08-14 11:51:07,2023-08-14 11:51:08,"0,781s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Cierre"", false)",Chrome 115.0.0.0,,,2023-08-14 11:51:08,2023-08-14 11:51:08,"0,702s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo Ocio""), ""Labores Administrativas"", false)",Chrome 115.0.0.0,,,2023-08-14 11:51:08,2023-08-14 11:51:09,"1,138s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:51:09,2023-08-14 11:51:10,"0,414s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:51:10,2023-08-14 11:51:13,"3,004s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""WC - Baño"")",Chrome 115.0.0.0,Motivo 7,,2023-08-14 11:51:13,2023-08-14 11:51:14,"0,785s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""WC - Baño"")",Chrome 115.0.0.0,,,2023-08-14 11:51:14,2023-08-14 11:51:14,"0,788s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Cierre"", false)",Chrome 115.0.0.0,,,2023-08-14 11:51:14,2023-08-14 11:51:15,"0,686s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo Ocio""), ""Receso Laboral"", false)",Chrome 115.0.0.0,,,2023-08-14 11:51:15,2023-08-14 11:51:16,"0,941s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:51:16,2023-08-14 11:51:16,"0,416s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:51:16,2023-08-14 11:51:19,"3,010s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""Fin de Jornada"")",Chrome 115.0.0.0,Motivo 8,,2023-08-14 11:51:19,2023-08-14 11:51:20,"0,801s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""Fin de Jornada"")",Chrome 115.0.0.0,,,2023-08-14 11:51:20,2023-08-14 11:51:21,"0,796s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Cierre"", false)",Chrome 115.0.0.0,,,2023-08-14 11:51:21,2023-08-14 11:51:22,"0,687s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo Ocio""), ""Labores Administrativas"", false)",Chrome 115.0.0.0,,,2023-08-14 11:51:22,2023-08-14 11:51:23,"0,966s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:51:23,2023-08-14 11:51:23,"0,403s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:51:23,2023-08-14 11:51:26,"3,004s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""Actividad Interna"")",Chrome 115.0.0.0,Motivo 9,,2023-08-14 11:51:26,2023-08-14 11:51:27,"0,809s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""Actividad Interna"")",Chrome 115.0.0.0,,,2023-08-14 11:51:27,2023-08-14 11:51:28,"0,763s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Cierre"", false)",Chrome 115.0.0.0,,,2023-08-14 11:51:28,2023-08-14 11:51:28,"0,698s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo Ocio""), ""Labores Administrativas"", false)",Chrome 115.0.0.0,,,2023-08-14 11:51:28,2023-08-14 11:51:29,"0,843s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:51:29,2023-08-14 11:51:30,"0,364s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:51:30,2023-08-14 11:51:33,"3,009s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""Falta Fotocopia"")",Chrome 115.0.0.0,Motivo 10,,2023-08-14 11:51:33,2023-08-14 11:51:33,"0,835s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""Falta Fotocopia"")",Chrome 115.0.0.0,,,2023-08-14 11:51:33,2023-08-14 11:51:34,"0,801s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Suspensión"", false)",Chrome 115.0.0.0,,,2023-08-14 11:51:34,2023-08-14 11:51:35,"0,753s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:51:35,2023-08-14 11:51:36,"0,752s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:51:36,2023-08-14 11:51:39,"3,004s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""Falta Autorización"")",Chrome 115.0.0.0,Motivo 11,,2023-08-14 11:51:39,2023-08-14 11:51:40,"0,826s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""Falta Autorización"")",Chrome 115.0.0.0,,,2023-08-14 11:51:40,2023-08-14 11:51:40,"0,785s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Suspensión"", false)",Chrome 115.0.0.0,,,2023-08-14 11:51:40,2023-08-14 11:51:41,"0,662s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:51:41,2023-08-14 11:51:41,"0,431s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:51:41,2023-08-14 11:51:44,"3,008s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""Falta Recibo de Pago"")",Chrome 115.0.0.0,Motivo 12,,2023-08-14 11:51:44,2023-08-14 11:51:45,"0,783s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""Falta Recibo de Pago"")",Chrome 115.0.0.0,,,2023-08-14 11:51:45,2023-08-14 11:51:46,"0,809s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Suspensión"", false)",Chrome 115.0.0.0,,,2023-08-14 11:51:46,2023-08-14 11:51:47,"0,684s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:51:47,2023-08-14 11:51:48,"0,892s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:51:48,2023-08-14 11:51:51,"3,017s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""Falta Ausente"")",Chrome 115.0.0.0,Motivo 13,,2023-08-14 11:51:51,2023-08-14 11:51:51,"0,811s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""Falta Ausente"")",Chrome 115.0.0.0,,,2023-08-14 11:51:51,2023-08-14 11:51:52,"0,813s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Suspensión"", false)",Chrome 115.0.0.0,,,2023-08-14 11:51:52,2023-08-14 11:51:53,"0,681s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:51:53,2023-08-14 11:51:54,"0,820s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:51:54,2023-08-14 11:51:57,"3,009s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""No Corresponde a Negocio"")",Chrome 115.0.0.0,Motivo 14,,2023-08-14 11:51:57,2023-08-14 11:51:58,"0,824s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""No Corresponde a Negocio"")",Chrome 115.0.0.0,,,2023-08-14 11:51:58,2023-08-14 11:51:58,"0,763s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Cancelación servicio"", false)",Chrome 115.0.0.0,,,2023-08-14 11:51:58,2023-08-14 11:51:59,"0,715s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:51:59,2023-08-14 11:52:00,"0,917s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:52:00,2023-08-14 11:52:03,"3,009s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""Sin Documento"")",Chrome 115.0.0.0,Motivo 15,,2023-08-14 11:52:03,2023-08-14 11:52:04,"0,798s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""Sin Documento"")",Chrome 115.0.0.0,,,2023-08-14 11:52:04,2023-08-14 11:52:05,"0,778s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Cancelación servicio"", false)",Chrome 115.0.0.0,,,2023-08-14 11:52:05,2023-08-14 11:52:05,"0,715s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:52:05,2023-08-14 11:52:06,"0,844s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:52:06,2023-08-14 11:52:09,"3,012s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""Tramitador"")",Chrome 115.0.0.0,Motivo 16,,2023-08-14 11:52:09,2023-08-14 11:52:10,"0,847s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""Tramitador"")",Chrome 115.0.0.0,,,2023-08-14 11:52:10,2023-08-14 11:52:11,"0,774s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Cancelación servicio"", false)",Chrome 115.0.0.0,,,2023-08-14 11:52:11,2023-08-14 11:52:11,"0,635s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:52:11,2023-08-14 11:52:12,"0,382s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:52:12,2023-08-14 11:52:15,"3,013s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/input_Nombre""), ""Caída de ERP"")",Chrome 115.0.0.0,Motivo 17,,2023-08-14 11:52:15,2023-08-14 11:52:16,"0,828s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/textarea_Descripcion""), ""Caída de ERP"")",Chrome 115.0.0.0,,,2023-08-14 11:52:16,2023-08-14 11:52:16,"0,818s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/select_Tipo motivo""), ""Cancelación servicio"", false)",Chrome 115.0.0.0,,,2023-08-14 11:52:16,2023-08-14 11:52:17,"0,684s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/7Motivos/Motivos/span_Motivos(1)/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:52:17,2023-08-14 11:52:18,"0,824s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:52:18,2023-08-14 11:52:21,"3,004s",PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2023-08-14 11:52:21,2023-08-14 11:52:22,"1,033s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:52:22,2023-08-14 11:52:25,"3,008s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-08-14 11:52:25,2023-08-14 11:52:25,"0,000s",PASSED

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_1Bogota Selector 01</name>
+   <tag></tag>
+   <elementGuidId>56c0f6c9-8cd1-4697-b4bc-c3075c3ee12c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_Selectores1_GridView']/tbody/tr/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c50a029d-5db6-4d92-ad38-b1730006614d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bogota Selector 01</value>
+      <webElementGuid>8c68e3c0-2055-456b-9f85-d102a960fea4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_Selectores1_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>0c36bdb8-01e0-4b3c-a4c6-ea69a88706db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_Selectores1_GridView']/tbody/tr/td[3]</value>
+      <webElementGuid>7aaa47fa-05dc-4d1f-983a-de615c86c2ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[1]/following::td[2]</value>
+      <webElementGuid>fc27714e-8604-41ec-bf50-5b33e25537f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oficina'])[1]/following::td[3]</value>
+      <webElementGuid>5e6d3bc3-8cfb-4a77-a954-204d90d99b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual'])[1]/preceding::td[1]</value>
+      <webElementGuid>25df4f84-4759-4b1d-b538-b1bd94e08c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bogota Selector 01'])[2]/preceding::td[2]</value>
+      <webElementGuid>83c48779-7215-4faf-8d1c-7e54e3b86e90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bogota Selector 01']/parent::*</value>
+      <webElementGuid>765702dd-49e8-4571-bda7-25119d2ab01a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>298ea02c-11c6-4baf-abaa-00b2dd26a8b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Bogota Selector 01' or . = 'Bogota Selector 01')]</value>
+      <webElementGuid>53faab76-6c26-4239-a45a-e4bd3bff2c62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

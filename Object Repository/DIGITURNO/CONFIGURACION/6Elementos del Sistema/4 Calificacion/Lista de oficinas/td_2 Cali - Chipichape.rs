@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_2 Cali - Chipichape</name>
+   <tag></tag>
+   <elementGuidId>82fd4c46-29a1-470b-87e6-fe1091ffd95c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_Oficinas1_gv']/tbody/tr[2]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>85071eed-9793-4844-a7d9-77ed9067f51b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cali - Chipichape</value>
+      <webElementGuid>7bf18500-b81f-4fd6-b779-fe187726319e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_Oficinas1_gv&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>17d76944-b118-48cd-bbcf-a65dcbb09c85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_Oficinas1_gv']/tbody/tr[2]/td[3]</value>
+      <webElementGuid>121f7f87-dddb-4fa9-a0d7-ee74580ac1cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[2]/following::td[2]</value>
+      <webElementGuid>3c91613a-8f09-4376-b3e0-d2e89c805054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bogota - CIEL'])[1]/following::td[6]</value>
+      <webElementGuid>e4790c39-9c22-4cc5-9b09-a38c0892887b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[3]/preceding::td[4]</value>
+      <webElementGuid>549eedf8-973b-4ca6-89de-c1b95bda4ac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cartagena - Bocagrande'])[1]/preceding::td[6]</value>
+      <webElementGuid>ffefb7a7-97c2-4f42-bdfc-d3ccb7aca046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cali - Chipichape']/parent::*</value>
+      <webElementGuid>9b11620f-e469-4700-a115-791744197986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[3]</value>
+      <webElementGuid>b47c343c-79df-4d1e-a7ed-6843df10a32c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Cali - Chipichape' or . = 'Cali - Chipichape')]</value>
+      <webElementGuid>023cb141-f510-44eb-8ddc-5e790d4b897b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

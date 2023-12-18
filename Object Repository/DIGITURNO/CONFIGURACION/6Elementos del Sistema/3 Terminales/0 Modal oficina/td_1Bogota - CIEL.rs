@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_1Bogota - CIEL</name>
+   <tag></tag>
+   <elementGuidId>c54f7b6d-f1bf-4915-ae8d-860c3cfbc876</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_Oficinas1_gv']/tbody/tr/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ce060e51-14b6-4ec0-8b67-6e81101487ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bogota - CIEL</value>
+      <webElementGuid>a1210fc6-2904-46eb-b6a6-b508b363d304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_Oficinas1_gv&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>40ce24e0-4f66-4263-99e2-59394bdc8d8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_Oficinas1_gv']/tbody/tr/td[3]</value>
+      <webElementGuid>649dde44-b89e-442a-ac10-b8b717c6609f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[1]/following::td[2]</value>
+      <webElementGuid>eb0ce49b-3f23-41a6-9f5d-d3675b0b81cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terminales'])[4]/following::td[3]</value>
+      <webElementGuid>263528ec-bc99-49ea-be98-88f424e7828e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[2]/preceding::td[4]</value>
+      <webElementGuid>b3d2158a-c01b-4735-bd0f-db52f3f41f51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cali - Chipichape'])[2]/preceding::td[6]</value>
+      <webElementGuid>c47c571a-8f4b-4b5c-aa17-79ee2672f39a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td[3]</value>
+      <webElementGuid>0bc76346-5c47-44db-bf79-5ea21a168710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Bogota - CIEL' or . = 'Bogota - CIEL')]</value>
+      <webElementGuid>4713a223-3e85-4f7f-8ce0-885454c9ed39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

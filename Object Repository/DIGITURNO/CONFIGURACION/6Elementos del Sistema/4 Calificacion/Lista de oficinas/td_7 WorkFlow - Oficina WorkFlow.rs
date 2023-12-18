@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_7 WorkFlow - Oficina WorkFlow</name>
+   <tag></tag>
+   <elementGuidId>296ccd18-78b7-490b-b388-b24b5113cec7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_Oficinas1_gv']/tbody/tr[7]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e08d301b-327b-422c-9541-22d4e1485798</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WorkFlow - Oficina WorkFlow</value>
+      <webElementGuid>df89f064-27de-4f09-9715-2ba4940960bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_Oficinas1_gv&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>f0374ca9-3a0b-44b8-91cc-524b8802daa0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_Oficinas1_gv']/tbody/tr[7]/td[3]</value>
+      <webElementGuid>c7af6504-c2ed-448d-a9ef-84e9924dc826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[7]/following::td[2]</value>
+      <webElementGuid>73149c80-18fd-4ab5-86ba-4af69e1b5f4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual - Oficina Virtual'])[1]/following::td[6]</value>
+      <webElementGuid>08ed3a24-13c1-40fb-b581-f58011a8100e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preguntas'])[1]/preceding::td[4]</value>
+      <webElementGuid>2357cdd7-2679-47db-a2ef-150c56dd0c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nuevo'])[1]/preceding::td[4]</value>
+      <webElementGuid>fb583747-6c8e-45e5-98a2-499127fa6d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WorkFlow - Oficina WorkFlow']/parent::*</value>
+      <webElementGuid>e514d42a-ab0d-4a35-868a-5d4b5a5af9a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[3]</value>
+      <webElementGuid>e085fe61-f87c-4bcc-8b06-59a61f8f7be4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'WorkFlow - Oficina WorkFlow' or . = 'WorkFlow - Oficina WorkFlow')]</value>
+      <webElementGuid>fb693939-3167-4861-9d1a-0e077bbcd8a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

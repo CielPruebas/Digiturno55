@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+35 Usuarios por Terminales,Chrome 115.0.0.0,,,2023-08-14 14:40:42,2023-08-14 14:41:24,"42,590s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/35 Usuarios por Terminales,Chrome 115.0.0.0,,,2023-08-14 14:40:42,2023-08-14 14:41:24,"42,356s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/5 Usuarios""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 14:40:42,2023-08-14 14:41:05,"22,430s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/0Principal/img_5Usuarios en Terminales""))",Chrome 115.0.0.0,,,2023-08-14 14:41:05,2023-08-14 14:41:05,"0,796s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:41:05,2023-08-14 14:41:08,"3,002s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/0Oficinas/Oficinas/td1_Bogota - CIEL""))",Chrome 115.0.0.0,,,2023-08-14 14:41:08,2023-08-14 14:41:09,"0,458s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 14:41:09,2023-08-14 14:41:11,"2,002s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/0Usuarios/td_1CIEL""))",Chrome 115.0.0.0,,,2023-08-14 14:41:11,2023-08-14 14:41:11,"0,432s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 14:41:11,2023-08-14 14:41:13,"2,011s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/Selectores Disponibles/a_SeleccionarTodo""))",Chrome 115.0.0.0,,,2023-08-14 14:41:13,2023-08-14 14:41:14,"0,428s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/Selectores Disponibles/img_Agregar Selectores""))",Chrome 115.0.0.0,,,2023-08-14 14:41:14,2023-08-14 14:41:14,"0,538s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 14:41:14,2023-08-14 14:41:16,"2,007s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/Terminales Disponibles/a_SeleccionarTodo""))",Chrome 115.0.0.0,,,2023-08-14 14:41:16,2023-08-14 14:41:17,"0,598s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/Terminales Disponibles/img_Agregar Terminales""))",Chrome 115.0.0.0,,,2023-08-14 14:41:17,2023-08-14 14:41:17,"0,537s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:41:17,2023-08-14 14:41:20,"3,011s",PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2023-08-14 14:41:20,2023-08-14 14:41:21,"0,775s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:41:21,2023-08-14 14:41:24,"3,017s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-08-14 14:41:24,2023-08-14 14:41:24,"0,000s",PASSED

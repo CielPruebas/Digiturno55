@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_1Busqueda</name>
+   <tag></tag>
+   <elementGuidId>dd1fc130-1eb9-41bd-a647-5607ec8909f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_tabCon_tabNum_Numeradores1_GridView']/tbody/tr/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>cb4e6576-2a09-4410-9778-3722c149501f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Numerador Bogota - CIEL</value>
+      <webElementGuid>89332487-c4b0-4f91-9ee3-be246be504aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_tabCon_tabNum_Numeradores1_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>5c32cffc-6718-4e1a-be09-aacfefb2a853</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_tabCon_tabNum_Numeradores1_GridView']/tbody/tr/td[3]</value>
+      <webElementGuid>89d58314-59dc-428b-9571-083775890b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[9]/following::td[2]</value>
+      <webElementGuid>b0d79b59-0d27-40c9-b58b-6d9bea8b99e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actual'])[1]/following::td[3]</value>
+      <webElementGuid>e441035e-fa8b-4835-9331-76473bb2a750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WIZ'])[8]/preceding::td[1]</value>
+      <webElementGuid>ed85af4a-117e-4cea-b42e-abd983a66e11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Colas del sistema'])[1]/preceding::td[5]</value>
+      <webElementGuid>ee5a5cf3-f4f1-466f-9b42-2f1546ee2883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Numerador Bogota - CIEL']/parent::*</value>
+      <webElementGuid>804738db-6b2e-4c3c-bf04-5dddd68be643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/table/tbody/tr/td[3]</value>
+      <webElementGuid>159df02e-3809-4042-a613-af98b8d12c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Numerador Bogota - CIEL' or . = 'Numerador Bogota - CIEL')]</value>
+      <webElementGuid>d73f9f2b-bad2-4244-9a9b-e9f3a58aedb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

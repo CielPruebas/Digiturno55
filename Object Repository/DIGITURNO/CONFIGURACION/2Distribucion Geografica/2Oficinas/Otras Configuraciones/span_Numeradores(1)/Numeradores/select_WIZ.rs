@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_WIZ</name>
+   <tag></tag>
+   <elementGuidId>e2e8fc3a-af30-4943-9590-ba13f54925d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_tabCon_tabNum_Numeradores1_ddlPrefijos</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='cPHPri_tabCon_tabNum_Numeradores1_ddlPrefijos']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f18f3622-497d-4442-bbd1-8ad82ff1946b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$cPHPri$tabCon$tabNum$Numeradores1$ddlPrefijos</value>
+      <webElementGuid>ae162243-c278-457e-88c6-aff59d271260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:setTimeout('__doPostBack(\'ctl00$cPHPri$tabCon$tabNum$Numeradores1$ddlPrefijos\',\'\')', 0)</value>
+      <webElementGuid>efa706c1-d659-4c52-9601-a199ef3abb29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cPHPri_tabCon_tabNum_Numeradores1_ddlPrefijos</value>
+      <webElementGuid>e47f8f62-e2cc-4339-b004-d72794eec666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				...
+				WIZ
+
+			</value>
+      <webElementGuid>a7b82c71-417d-4e7c-91f0-a2a519dd6be3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_tabCon_tabNum_Numeradores1_ddlPrefijos&quot;)</value>
+      <webElementGuid>fec2b0c6-9dc1-4aca-ad1b-192dfa51d714</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='cPHPri_tabCon_tabNum_Numeradores1_ddlPrefijos']</value>
+      <webElementGuid>100f4e3d-435b-40cb-a65a-3ac719a695a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_tabCon_tabNum_Numeradores1_divBuscar']/div/select</value>
+      <webElementGuid>f0795501-1bcb-4e83-9889-188bb2d6f02b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::select[1]</value>
+      <webElementGuid>45cdf88b-b40e-470e-8afe-471525082c83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar:'])[1]/following::select[1]</value>
+      <webElementGuid>5086874c-6bc2-4b87-9a95-562c905b3767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[3]/preceding::select[2]</value>
+      <webElementGuid>04775c2c-918c-4151-84cf-78453f8f0f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[3]/preceding::select[2]</value>
+      <webElementGuid>8bd53c18-a452-4dfa-9811-d5eb842c6aa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/select</value>
+      <webElementGuid>f4584cd1-07e5-4c25-9c54-4d3bafdef9d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$cPHPri$tabCon$tabNum$Numeradores1$ddlPrefijos' and @id = 'cPHPri_tabCon_tabNum_Numeradores1_ddlPrefijos' and (text() = '
+				...
+				WIZ
+
+			' or . = '
+				...
+				WIZ
+
+			')]</value>
+      <webElementGuid>f53248bd-5583-45d5-8fc8-aa3c9aa763f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

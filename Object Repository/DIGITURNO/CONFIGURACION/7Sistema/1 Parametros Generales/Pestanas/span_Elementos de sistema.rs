@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Elementos de sistema</name>
+   <tag></tag>
+   <elementGuidId>202f5ff3-6ac7-428c-8929-795fc7fb4052</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabsTiposParametros']/ul/li[2]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.k-item.k-state-default.k-state-hover > span.k-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3bf5859e-c1bf-4e35-a80a-9200b1cb693b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>44deb36a-ba26-4b2b-9828-6a733b4acb5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-link</value>
+      <webElementGuid>bded1ce8-2ff6-4863-89ec-5288dd40daf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Elementos de sistema</value>
+      <webElementGuid>c6a94f2d-1894-4e72-a820-e8d801409216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabsTiposParametros&quot;)/ul[@class=&quot;k-tabstrip-items k-reset&quot;]/li[@class=&quot;k-item k-state-default k-state-hover&quot;]/span[@class=&quot;k-link&quot;]</value>
+      <webElementGuid>3383bb21-ccc5-4cae-9f02-552594cd07b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabsTiposParametros']/ul/li[2]/span[2]</value>
+      <webElementGuid>da611c00-bcb0-4f2c-847b-2cc48d64554c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sistema'])[3]/following::span[2]</value>
+      <webElementGuid>39eb24d8-9290-4675-b1b6-cddc881ea224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parámetros generales'])[3]/following::span[4]</value>
+      <webElementGuid>df141fdc-5a93-4594-9896-3e8f661a3feb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alarmas'])[1]/preceding::span[2]</value>
+      <webElementGuid>2877e71f-4ef8-44e3-8858-2bbe09055fb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Encuestas'])[1]/preceding::span[4]</value>
+      <webElementGuid>c4d44c29-1708-42ac-af59-bddda6af50de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Elementos de sistema']/parent::*</value>
+      <webElementGuid>3be2181b-59a3-4fdb-8fca-fac2759fe432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span[2]</value>
+      <webElementGuid>d100b861-e929-4541-bcec-298072a9eb2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Elementos de sistema' or . = 'Elementos de sistema')]</value>
+      <webElementGuid>533baab7-752a-49b1-b8df-e5867f342b6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

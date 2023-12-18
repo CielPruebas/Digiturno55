@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_6 Red Fis Virtual - Oficina Virtual</name>
+   <tag></tag>
+   <elementGuidId>7282a4c8-2a12-49cd-98ab-5fef33383121</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_ctl00_TabRedes_ListadoRedes_GridView']/tbody/tr[6]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>617fd36c-61bc-470d-a48b-9f1d547f68bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Red Fis Virtual - Oficina Virtual</value>
+      <webElementGuid>8e76a677-75e1-4828-8b7a-616d7f97bb2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl00_TabRedes_ListadoRedes_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>e9dc3476-8eec-4cbb-aa0e-bb34dbfe3501</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_ctl00_TabRedes_ListadoRedes_GridView']/tbody/tr[6]/td[3]</value>
+      <webElementGuid>1b10d257-66ec-4721-ae27-7dc490cc5484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[13]/following::td[2]</value>
+      <webElementGuid>270bdcce-98d7-4488-865a-cc059075fde1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL Medellin - Laureles'])[4]/following::td[3]</value>
+      <webElementGuid>252553a1-482a-4a58-82de-0f43e71db2a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Red TCP/IP'])[6]/preceding::td[1]</value>
+      <webElementGuid>9e589584-ac99-4a86-9205-f75b48a5b07b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL Virtual - Oficina Virtual'])[4]/preceding::td[3]</value>
+      <webElementGuid>38ee8440-aa1f-49a9-b8ee-67b985322655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Red Fis Virtual - Oficina Virtual']/parent::*</value>
+      <webElementGuid>cd9d5b94-4ed4-45c5-be24-90bee79cff35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div/div[2]/table/tbody/tr[6]/td[3]</value>
+      <webElementGuid>c54302b5-3f8b-4338-abcd-b7aaf58b9759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Red Fis Virtual - Oficina Virtual' or . = 'Red Fis Virtual - Oficina Virtual')]</value>
+      <webElementGuid>eb08bd66-44b3-40dc-a6ea-b84884e4c6fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

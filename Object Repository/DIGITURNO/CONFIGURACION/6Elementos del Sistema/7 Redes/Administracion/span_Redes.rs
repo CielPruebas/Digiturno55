@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Redes</name>
+   <tag></tag>
+   <elementGuidId>4ddad6dd-ee93-411b-b670-945303a1bd89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='__tab_cPHPri_ctl00_TabRedes']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__tab_cPHPri_ctl00_TabRedes > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e714dfaf-1689-4a13-b3f0-50b55bb11515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Redes</value>
+      <webElementGuid>cfe82308-aec9-4c36-8d92-46ec3003454f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tab_cPHPri_ctl00_TabRedes&quot;)/span[1]</value>
+      <webElementGuid>d442d8ba-4bf1-4d86-b364-ac1d02686031</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='__tab_cPHPri_ctl00_TabRedes']/span</value>
+      <webElementGuid>7b889e96-1af5-4206-b8b8-ba73dff8c40e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clientes ARL'])[1]/following::span[4]</value>
+      <webElementGuid>cd873a0d-4533-437e-a30c-1f1547b0a0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrador de recursos locales'])[1]/following::span[8]</value>
+      <webElementGuid>f83ee519-6c61-47e5-b3e3-4f31f235a63a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edición Administrador Recursos Locales'])[1]/preceding::span[1]</value>
+      <webElementGuid>8bd64117-b4a0-4870-90be-ee069c4855d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nuevo'])[1]/preceding::span[2]</value>
+      <webElementGuid>9b3b9352-b79d-4233-8b30-9d76b1ee4e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/span/span/a/span</value>
+      <webElementGuid>8a33dbf3-e774-45e7-99f3-d3b741f57eb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Redes' or . = 'Redes')]</value>
+      <webElementGuid>f9c965da-14a8-412a-af7c-fe84501222cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

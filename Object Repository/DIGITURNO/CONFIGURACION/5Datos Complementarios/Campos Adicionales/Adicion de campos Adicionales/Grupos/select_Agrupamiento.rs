@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Agrupamiento</name>
+   <tag></tag>
+   <elementGuidId>52e88895-4705-4835-9379-6820cff72925</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='cPHPri_TabContainer_tabContainerGrupo_ddlTiposGrupo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_TabContainer_tabContainerGrupo_ddlTiposGrupo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>855896d6-7f02-419e-9142-5795a739c668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$cPHPri$TabContainer$tabContainerGrupo$ddlTiposGrupo</value>
+      <webElementGuid>9ef6b2d1-31c3-40ac-992d-a1b51b799240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:setTimeout('__doPostBack(\'ctl00$cPHPri$TabContainer$tabContainerGrupo$ddlTiposGrupo\',\'\')', 0)</value>
+      <webElementGuid>35edcb63-2f62-4613-8c89-ae247fb12e10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cPHPri_TabContainer_tabContainerGrupo_ddlTiposGrupo</value>
+      <webElementGuid>19994141-e19f-45a0-b0b0-0ce451b1136f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				Colas
+				Elementos
+
+			</value>
+      <webElementGuid>5f9e965a-ba92-4c81-adcc-180fb1579d9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_TabContainer_tabContainerGrupo_ddlTiposGrupo&quot;)</value>
+      <webElementGuid>c955741f-b1ea-41d3-8303-854237541c6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='cPHPri_TabContainer_tabContainerGrupo_ddlTiposGrupo']</value>
+      <webElementGuid>0910e5da-fc86-480e-861a-1877760b1d6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_TabContainer_tabContainerGrupo']/div/div/div/table/tbody/tr[5]/td[2]/select</value>
+      <webElementGuid>5da8d57c-1a0e-4ed8-9bb7-caa0af8df255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agrupamiento'])[1]/following::select[1]</value>
+      <webElementGuid>173fb6c3-5661-450a-840b-163cdd5c96a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Destino'])[1]/following::select[2]</value>
+      <webElementGuid>d8264b95-f150-446d-a1ef-31f8f8de4a39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Id'])[3]/preceding::select[1]</value>
+      <webElementGuid>ea684d14-4d6e-4f98-a53d-8efc1653c023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre'])[3]/preceding::select[1]</value>
+      <webElementGuid>317e9d5a-5a63-4f1e-8420-c37e077f3fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]/select</value>
+      <webElementGuid>461bcb55-f8d3-4fd0-a442-62d08417df04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$cPHPri$TabContainer$tabContainerGrupo$ddlTiposGrupo' and @id = 'cPHPri_TabContainer_tabContainerGrupo_ddlTiposGrupo' and (text() = '
+				Colas
+				Elementos
+
+			' or . = '
+				Colas
+				Elementos
+
+			')]</value>
+      <webElementGuid>b5d5a123-147c-4bc9-b66a-abf264f3f86f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

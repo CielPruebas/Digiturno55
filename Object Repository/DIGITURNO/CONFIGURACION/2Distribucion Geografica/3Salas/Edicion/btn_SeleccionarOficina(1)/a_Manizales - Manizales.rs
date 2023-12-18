@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manizales - Manizales</name>
+   <tag></tag>
+   <elementGuidId>e48a6785-50ae-4887-9bce-8eb5db9f9a10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_DistribucionGeograficaEdicion_tVt3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='cPHPri_DistribucionGeograficaEdicion_tVt3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>85c9c657-99f9-44f1-8272-3667c1b066e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$cPHPri$DistribucionGeograficaEdicion$tV','sOficina@@@4')</value>
+      <webElementGuid>f4d5bbbc-7f4e-4de2-a94f-3c60b3f5b507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>TreeView_SelectNode(cPHPri_DistribucionGeograficaEdicion_tV_Data, this,'cPHPri_DistribucionGeograficaEdicion_tVt3');</value>
+      <webElementGuid>bc8321e6-837d-4d8c-8023-90a21a633a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Manizales - Manizales</value>
+      <webElementGuid>1afff9cd-6ca7-4f66-aaa3-ba1cbaaecd01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cPHPri_DistribucionGeograficaEdicion_tVt3</value>
+      <webElementGuid>9d5f3b01-8330-4778-a67c-baeeb88ae23a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manizales - Manizales</value>
+      <webElementGuid>073957c9-2c23-457b-8024-8254eb032f42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_DistribucionGeograficaEdicion_tVt3&quot;)</value>
+      <webElementGuid>1f2ece5b-e96f-4909-95e5-40847f18f629</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='cPHPri_DistribucionGeograficaEdicion_tVt3']</value>
+      <webElementGuid>6297be3a-0441-4590-a74a-0531b0c5fed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_DistribucionGeograficaEdicion_tV']/table[4]/tbody/tr/td[3]/a</value>
+      <webElementGuid>6625e2a0-447a-45a4-b5ff-a103808b372b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Manizales - Manizales')])[2]</value>
+      <webElementGuid>1b3570ce-6002-44cc-a215-d77289c3f437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cartagena - Bocagrande'])[3]/following::a[2]</value>
+      <webElementGuid>6b31eca3-1e39-4e2c-b934-8668bb1564fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cali - Chipichape'])[3]/following::a[4]</value>
+      <webElementGuid>8c0baa10-d200-4dbc-923e-1a962f862ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medellin - Laureles'])[3]/preceding::a[2]</value>
+      <webElementGuid>002d85e7-094e-4c16-8f53-cd4750b1d671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual - Oficina Virtual'])[3]/preceding::a[4]</value>
+      <webElementGuid>baacbf7b-8552-4204-8ffc-ee08eaad3458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, &quot;javascript:__doPostBack('ctl00$cPHPri$DistribucionGeograficaEdicion$tV','sOficina@@@4')&quot;)])[2]</value>
+      <webElementGuid>c238168d-7f28-479d-a580-97d30a38ba34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/table[4]/tbody/tr/td[3]/a</value>
+      <webElementGuid>40394f81-4266-44b7-9f9f-18be5939c0c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$cPHPri$DistribucionGeograficaEdicion$tV&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;sOficina@@@4&quot; , &quot;'&quot; , &quot;)&quot;) and @title = 'Manizales - Manizales' and @id = 'cPHPri_DistribucionGeograficaEdicion_tVt3' and (text() = 'Manizales - Manizales' or . = 'Manizales - Manizales')]</value>
+      <webElementGuid>7689f454-cf98-48a2-bffe-f3b5b441c680</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

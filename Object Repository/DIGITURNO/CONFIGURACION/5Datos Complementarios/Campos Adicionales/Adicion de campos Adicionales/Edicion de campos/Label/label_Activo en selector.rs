@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Activo en selector</name>
+   <tag></tag>
+   <elementGuidId>b655ebe9-c08e-4342-a36b-e29101cdaeb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_TabContainer_TabContainer8']/div/div/div/table/tbody/tr[15]/td/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>65396d2b-1b5e-4a7d-a2cd-bdbd0b035018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_TabContainer_TabContainer8_chkActivoSelector</value>
+      <webElementGuid>e516ba0f-a411-4fdb-92e6-895292e96fdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Activo en selector</value>
+      <webElementGuid>6d33cb5c-5d66-48b7-b6b1-b3dec327540c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_TabContainer_TabContainer8&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-6 col-lg-5 col-xxl-4 order-1&quot;]/div[@class=&quot;cajaSoloContenido&quot;]/table[1]/tbody[1]/tr[15]/td[1]/span[1]/label[1]</value>
+      <webElementGuid>bebf2373-81c8-427f-8a13-fdd0d2da565b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_TabContainer_TabContainer8']/div/div/div/table/tbody/tr[15]/td/span/label</value>
+      <webElementGuid>d399b1e1-8251-4e9a-beea-dab40588c04e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Editable en terminal'])[1]/following::label[1]</value>
+      <webElementGuid>4f082680-29e0-4909-b1e9-d0c3f7eee906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Requerido en terminal'])[1]/following::label[2]</value>
+      <webElementGuid>3721ae67-35a1-453c-8202-97ecd34af085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Requerido en selector'])[1]/preceding::label[1]</value>
+      <webElementGuid>a48eeed7-4361-4879-96fe-01c7e06ae9c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Editable en selector'])[1]/preceding::label[2]</value>
+      <webElementGuid>8a626d3f-7600-4dd7-8d9a-5f4a81279335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Activo en selector']/parent::*</value>
+      <webElementGuid>79bb4da6-69f4-45f7-96d1-22ec5a90a3a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[15]/td/span/label</value>
+      <webElementGuid>641adc80-5d9f-46b1-80af-46234e97d44e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Activo en selector' or . = 'Activo en selector')]</value>
+      <webElementGuid>b0e5ee09-ed54-424b-9701-8dbd34c2aee6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

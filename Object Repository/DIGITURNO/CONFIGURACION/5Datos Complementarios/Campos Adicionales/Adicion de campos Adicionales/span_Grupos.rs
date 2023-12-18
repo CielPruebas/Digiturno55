@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Grupos</name>
+   <tag></tag>
+   <elementGuidId>b11bb7e1-83ce-4a1a-afe1-3b746e5bb087</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='__tab_cPHPri_TabContainer_tabContainerGrupo']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__tab_cPHPri_TabContainer_tabContainerGrupo > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6d0d5577-4a77-4221-94d2-f91af43bba4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Grupos</value>
+      <webElementGuid>9a7eced9-cff8-4391-bd23-a6e274143c4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tab_cPHPri_TabContainer_tabContainerGrupo&quot;)/span[1]</value>
+      <webElementGuid>b77df730-1b88-4137-96ef-18465a462ab2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='__tab_cPHPri_TabContainer_tabContainerGrupo']/span</value>
+      <webElementGuid>193e2fd5-c6b7-4c47-8360-5d71b6329230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edicion de campos'])[1]/following::span[4]</value>
+      <webElementGuid>267a3bc6-d219-4a04-bbae-f62393941d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adición de campos adicionales'])[1]/following::span[8]</value>
+      <webElementGuid>10e8c6bb-a116-400c-8e57-e62dca4e3f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nuevo'])[1]/preceding::span[1]</value>
+      <webElementGuid>d357dd27-517d-4941-83d2-63a822453487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminar'])[1]/preceding::span[2]</value>
+      <webElementGuid>e0751657-8070-4ec0-a91c-5f54b522c0a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span/span/a/span</value>
+      <webElementGuid>cec4a550-4d79-40a8-9cae-63b647adab0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Grupos' or . = 'Grupos')]</value>
+      <webElementGuid>7d0cafe1-905a-48fe-9bb9-f8e49409d07b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

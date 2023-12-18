@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_3 Autorizacion Personalizada</name>
+   <tag></tag>
+   <elementGuidId>94a2e771-e2e3-4ade-b23f-52e4503c9189</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@src = '/img/iconos/Secciones/Autorizacion.svg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b3d11a85-bdc1-4127-b333-deb4f3bc9be9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/img/iconos/Secciones/Autorizacion.svg</value>
+      <webElementGuid>1b8c343f-517e-4595-a70d-0ff293a6b00d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divContenidoPrincipal&quot;)/div[@class=&quot;d-flex&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;cajaSoloContenido contenedorMenuIconos&quot;]/div[@class=&quot;menuIconos&quot;]/div[1]/a[3]/img[1]</value>
+      <webElementGuid>ff3af027-1d20-446e-b4c6-0649376d896c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divContenidoPrincipal']/div[2]/div/div/div/div/a[3]/img</value>
+      <webElementGuid>3c03ac89-fb38-4163-a70b-da964830ab18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/img</value>
+      <webElementGuid>ce4b5aeb-faf6-4698-bf4f-cd742200cce8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/img/iconos/Secciones/Autorizacion.svg']</value>
+      <webElementGuid>33dda881-5b4c-4203-93bc-b16735eb9ebd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

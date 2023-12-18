@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Motivos</name>
+   <tag></tag>
+   <elementGuidId>c623929a-96bb-479d-a5cf-a303ec40fddd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='__tab_cPHPri_TabContainer1_TabMotivosContainer']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__tab_cPHPri_TabContainer1_TabMotivosContainer > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7ea24a6b-31c9-46f4-a819-2349f5c7a06a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Motivos</value>
+      <webElementGuid>164a3ff0-c8a1-4335-95a9-051c33356d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tab_cPHPri_TabContainer1_TabMotivosContainer&quot;)/span[1]</value>
+      <webElementGuid>77dbab80-c046-4cd3-945a-5765df3bbb33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='__tab_cPHPri_TabContainer1_TabMotivosContainer']/span</value>
+      <webElementGuid>1696e711-433c-4b88-9159-1b48bceee40a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipos de motivo'])[1]/following::span[4]</value>
+      <webElementGuid>539f257c-b684-4823-8479-0afea185e68d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edición'])[2]/following::span[8]</value>
+      <webElementGuid>918d3171-e9c5-4719-9bcc-3cbbe2a5bb1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Id:'])[1]/preceding::span[1]</value>
+      <webElementGuid>3481b726-dc88-453f-8ff0-5dfab840aa07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre:'])[1]/preceding::span[3]</value>
+      <webElementGuid>14e08043-25ba-4577-b011-d0e6982ccd8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span/span/a/span</value>
+      <webElementGuid>eee69786-66d5-48c0-a37f-b1ad6932339f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Motivos' or . = 'Motivos')]</value>
+      <webElementGuid>c4b885aa-5c17-4bab-993d-62a25b8361c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

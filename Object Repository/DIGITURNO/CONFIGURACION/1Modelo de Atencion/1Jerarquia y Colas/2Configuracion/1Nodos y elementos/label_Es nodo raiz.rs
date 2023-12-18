@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Es nodo raiz</name>
+   <tag></tag>
+   <elementGuidId>984406d4-b953-4c2c-8ee6-8ab3c093e94b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_ctl00_ctl00_UpdatePanelNodosEdicion']/table/tbody/tr/td/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>17a09b8f-69e8-4349-9c29-67825288dfcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_ctl00_ctl00_chkEsNodoRaiz</value>
+      <webElementGuid>393862c5-6126-4461-909e-44a1d725f404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¿Es nodo raiz?</value>
+      <webElementGuid>24a9772e-36d0-4bbe-b652-b2820995d717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl00_ctl00_UpdatePanelNodosEdicion&quot;)/table[@class=&quot;tabla2&quot;]/tbody[1]/tr[1]/td[1]/span[1]/label[1]</value>
+      <webElementGuid>7beeba27-ecec-4383-be6a-98387fd8d591</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_ctl00_ctl00_UpdatePanelNodosEdicion']/table/tbody/tr/td/span/label</value>
+      <webElementGuid>5c83b866-2bae-491a-a7a1-4ddddcea985e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminar'])[3]/following::label[1]</value>
+      <webElementGuid>8c63b0ff-a301-438e-af6b-25008a2140d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nuevo'])[3]/following::label[1]</value>
+      <webElementGuid>65960b3e-9a7b-450a-b2ae-465253ea15d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Nodo Activo?'])[1]/preceding::label[1]</value>
+      <webElementGuid>87ee5a09-ce39-4a03-b454-a47c12f8a2f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nodo'])[1]/preceding::label[2]</value>
+      <webElementGuid>fa0d3d16-047f-4364-bcc8-a565f4e44359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='¿Es nodo raiz?']/parent::*</value>
+      <webElementGuid>eb364474-30c0-4f8e-b3e0-69706944e3a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>a4f9cc2e-4e3a-45fb-b737-a72449242b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '¿Es nodo raiz?' or . = '¿Es nodo raiz?')]</value>
+      <webElementGuid>b0f4925d-4c44-4f1c-891d-c0c1a4f75074</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

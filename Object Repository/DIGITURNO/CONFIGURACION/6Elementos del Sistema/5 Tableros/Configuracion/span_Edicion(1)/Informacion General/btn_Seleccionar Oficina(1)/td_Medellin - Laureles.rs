@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Medellin - Laureles</name>
+   <tag></tag>
+   <elementGuidId>f346cef6-188f-4163-a791-218b98edc997</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_TabContainer1_tpEdicion_OficinasEdicion_gv']/tbody/tr[5]/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b0c7d53b-398e-47be-8792-0973c32b4fb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Medellin - Laureles</value>
+      <webElementGuid>3ef91b02-b9d1-4e22-943e-b30a4f00c602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_TabContainer1_tpEdicion_OficinasEdicion_gv&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>ee4562c3-5134-4bba-a0a2-775b95f5a324</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_TabContainer1_tpEdicion_OficinasEdicion_gv']/tbody/tr[5]/td[3]</value>
+      <webElementGuid>4457c1ac-c0b3-476b-8666-1ed0ddd005c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[20]/following::td[2]</value>
+      <webElementGuid>3f39e4b1-253a-4f72-b031-0144e2bb5630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manizales - Manizales'])[2]/following::td[3]</value>
+      <webElementGuid>edbec5e7-a7cb-4f94-8870-bc20bddbfe08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[21]/preceding::td[1]</value>
+      <webElementGuid>4c2a193c-425c-4168-a26e-8260a1aecd9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual - Oficina Virtual'])[2]/preceding::td[3]</value>
+      <webElementGuid>b10a8ec5-aea5-4fef-ad76-bc595eb609b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[2]/table/tbody/tr[5]/td[3]</value>
+      <webElementGuid>ba22c966-161d-409a-8aeb-ebb3ed0349ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Medellin - Laureles' or . = 'Medellin - Laureles')]</value>
+      <webElementGuid>fca10e8c-56e5-4dc9-9f57-a3b421c6c125</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

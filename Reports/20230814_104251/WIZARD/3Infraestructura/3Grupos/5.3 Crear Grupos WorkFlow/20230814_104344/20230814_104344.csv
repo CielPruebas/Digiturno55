@@ -1,0 +1,90 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.3 Crear Grupos WorkFlow,Chrome 115.0.0.0,,,2023-08-14 11:15:40,2023-08-14 11:17:56,"2m - 16,430s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/3Grupos/5.3 Crear Grupos WorkFlow,Chrome 115.0.0.0,,,2023-08-14 11:15:40,2023-08-14 11:17:56,"2m - 16,129s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 11:15:40,2023-08-14 11:15:55,"14,792s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 115.0.0.0,,,2023-08-14 11:15:55,2023-08-14 11:16:01,"5,438s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:16:01,2023-08-14 11:16:04,"3,018s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 115.0.0.0,,,2023-08-14 11:16:04,2023-08-14 11:16:05,"1,206s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:16:05,2023-08-14 11:16:08,"3,004s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 115.0.0.0,Se escoge sala WorkFlow - Sala General,,2023-08-14 11:16:08,2023-08-14 11:16:08,"0,527s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:16:08,2023-08-14 11:16:11,"3,008s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_WorkFlow - Sala General""))",Chrome 115.0.0.0,,,2023-08-14 11:16:11,2023-08-14 11:16:12,"0,489s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:16:12,2023-08-14 11:16:15,"3,010s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo General"")",Chrome 115.0.0.0,,,2023-08-14 11:16:15,2023-08-14 11:16:16,"0,788s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""WorkFlow - Grupo General"")",Chrome 115.0.0.0,,,2023-08-14 11:16:16,2023-08-14 11:16:16,"0,798s",PASSED
+"scrollToPosition(0, 800)",Chrome 115.0.0.0,,,2023-08-14 11:16:16,2023-08-14 11:16:16,"0,038s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 115.0.0.0,,,2023-08-14 11:16:16,2023-08-14 11:16:17,"0,874s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:16:17,2023-08-14 11:16:19,"2,017s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 115.0.0.0,,,2023-08-14 11:16:19,2023-08-14 11:16:20,"0,785s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:16:20,2023-08-14 11:16:22,"2,000s",PASSED
+"scrollToPosition(0, 0)",Chrome 115.0.0.0,,,2023-08-14 11:16:22,2023-08-14 11:16:22,"0,034s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:16:22,2023-08-14 11:16:23,"0,442s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:16:23,2023-08-14 11:16:26,"3,010s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 115.0.0.0,Para crear Grupo Entrega Documentos,,2023-08-14 11:16:26,2023-08-14 11:16:27,"0,983s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:16:27,2023-08-14 11:16:30,"3,007s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 115.0.0.0,Se escoge sala WorkFlow - Sala Entrega Documentos,,2023-08-14 11:16:30,2023-08-14 11:16:30,"0,427s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:16:30,2023-08-14 11:16:33,"3,010s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_WorkFlow - Sala Entrega Documentos""))",Chrome 115.0.0.0,,,2023-08-14 11:16:33,2023-08-14 11:16:34,"0,497s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:16:34,2023-08-14 11:16:37,"3,012s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo Entrega Documentos"")",Chrome 115.0.0.0,,,2023-08-14 11:16:37,2023-08-14 11:16:37,"0,827s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""WorkFlow - Entrega Documentos"")",Chrome 115.0.0.0,,,2023-08-14 11:16:37,2023-08-14 11:16:38,"0,788s",PASSED
+"scrollToPosition(0, 800)",Chrome 115.0.0.0,,,2023-08-14 11:16:38,2023-08-14 11:16:38,"0,008s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 115.0.0.0,,,2023-08-14 11:16:38,2023-08-14 11:16:39,"0,702s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:16:39,2023-08-14 11:16:41,"2,013s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 115.0.0.0,,,2023-08-14 11:16:41,2023-08-14 11:16:42,"0,792s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:16:42,2023-08-14 11:16:44,"2,011s",PASSED
+"scrollToPosition(0, 0)",Chrome 115.0.0.0,,,2023-08-14 11:16:44,2023-08-14 11:16:44,"0,024s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:16:44,2023-08-14 11:16:44,"0,429s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:16:44,2023-08-14 11:16:47,"3,011s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 115.0.0.0,Grupo Pagos,,2023-08-14 11:16:47,2023-08-14 11:16:48,"1,095s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:16:48,2023-08-14 11:16:51,"3,020s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 115.0.0.0,Se escoge sala WorkFlow - Sala Pagos,,2023-08-14 11:16:51,2023-08-14 11:16:52,"0,419s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:16:52,2023-08-14 11:16:55,"3,014s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_WorkFlow - Sala Pagos""))",Chrome 115.0.0.0,,,2023-08-14 11:16:55,2023-08-14 11:16:55,"0,430s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:16:55,2023-08-14 11:16:58,"3,015s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo Pagos"")",Chrome 115.0.0.0,,,2023-08-14 11:16:58,2023-08-14 11:16:59,"0,757s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""WorkFlow - Pagos"")",Chrome 115.0.0.0,,,2023-08-14 11:16:59,2023-08-14 11:17:00,"0,799s",PASSED
+"scrollToPosition(0, 800)",Chrome 115.0.0.0,,,2023-08-14 11:17:00,2023-08-14 11:17:00,"0,019s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 115.0.0.0,,,2023-08-14 11:17:00,2023-08-14 11:17:00,"0,705s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:17:00,2023-08-14 11:17:02,"2,005s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 115.0.0.0,,,2023-08-14 11:17:02,2023-08-14 11:17:03,"0,726s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:17:03,2023-08-14 11:17:05,"2,012s",PASSED
+"scrollToPosition(0, 0)",Chrome 115.0.0.0,,,2023-08-14 11:17:05,2023-08-14 11:17:05,"0,019s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:17:05,2023-08-14 11:17:06,"0,400s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:17:06,2023-08-14 11:17:09,"3,009s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 115.0.0.0,Grupo Radicaciones,,2023-08-14 11:17:09,2023-08-14 11:17:10,"0,992s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:17:10,2023-08-14 11:17:13,"3,003s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 115.0.0.0,Se escoge sala WorkFlow - Sala Radicaciones,,2023-08-14 11:17:13,2023-08-14 11:17:13,"0,477s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:17:13,2023-08-14 11:17:16,"3,004s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_WorkFlow - Sala Radicaciones""))",Chrome 115.0.0.0,,,2023-08-14 11:17:16,2023-08-14 11:17:17,"0,431s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:17:17,2023-08-14 11:17:20,"3,005s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo Radicaciones"")",Chrome 115.0.0.0,,,2023-08-14 11:17:20,2023-08-14 11:17:20,"0,769s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""WorkFlow - Radicaciones"")",Chrome 115.0.0.0,,,2023-08-14 11:17:20,2023-08-14 11:17:21,"0,780s",PASSED
+"scrollToPosition(0, 800)",Chrome 115.0.0.0,,,2023-08-14 11:17:21,2023-08-14 11:17:21,"0,025s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 115.0.0.0,,,2023-08-14 11:17:21,2023-08-14 11:17:22,"0,735s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:17:22,2023-08-14 11:17:24,"2,006s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 115.0.0.0,,,2023-08-14 11:17:24,2023-08-14 11:17:25,"0,771s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:17:25,2023-08-14 11:17:27,"2,017s",PASSED
+"scrollToPosition(0, 0)",Chrome 115.0.0.0,,,2023-08-14 11:17:27,2023-08-14 11:17:27,"0,026s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:17:27,2023-08-14 11:17:27,"0,467s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:17:27,2023-08-14 11:17:30,"3,014s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 115.0.0.0,Grupo Recepciones,,2023-08-14 11:17:30,2023-08-14 11:17:31,"1,185s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:17:31,2023-08-14 11:17:34,"3,015s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 115.0.0.0,Se escoge sala WorkFlow - Sala Recepcion,,2023-08-14 11:17:34,2023-08-14 11:17:35,"0,484s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:17:35,2023-08-14 11:17:38,"3,005s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_WorkFlow - Sala Recepcion""))",Chrome 115.0.0.0,,,2023-08-14 11:17:38,2023-08-14 11:17:38,"0,440s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:17:38,2023-08-14 11:17:41,"3,004s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo Recepciones"")",Chrome 115.0.0.0,,,2023-08-14 11:17:41,2023-08-14 11:17:42,"0,780s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""WorkFlow - Recepciones"")",Chrome 115.0.0.0,,,2023-08-14 11:17:42,2023-08-14 11:17:43,"0,789s",PASSED
+"scrollToPosition(0, 800)",Chrome 115.0.0.0,,,2023-08-14 11:17:43,2023-08-14 11:17:43,"0,027s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 115.0.0.0,,,2023-08-14 11:17:43,2023-08-14 11:17:44,"0,751s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:17:44,2023-08-14 11:17:46,"2,005s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 115.0.0.0,,,2023-08-14 11:17:46,2023-08-14 11:17:46,"0,774s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:17:46,2023-08-14 11:17:48,"2,000s",PASSED
+"scrollToPosition(0, 0)",Chrome 115.0.0.0,,,2023-08-14 11:17:48,2023-08-14 11:17:48,"0,028s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:17:48,2023-08-14 11:17:49,"0,445s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:17:49,2023-08-14 11:17:52,"3,010s",PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2023-08-14 11:17:52,2023-08-14 11:17:53,"1,213s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:17:53,2023-08-14 11:17:56,"3,011s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-08-14 11:17:56,2023-08-14 11:17:56,"0,015s",PASSED

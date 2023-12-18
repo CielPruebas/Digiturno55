@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Cali - Chipichape</name>
+   <tag></tag>
+   <elementGuidId>78bef8c1-70c8-42c9-bdeb-4d0be7eaa7fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_ctl04_TabEdicion_ucOfiSel_gv']/tbody/tr[2]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>1d1c7e17-df21-491b-83ad-7641052f3be3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cali - Chipichape</value>
+      <webElementGuid>e53651e0-fd1a-4661-bac5-8e867db1e838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl04_TabEdicion_ucOfiSel_gv&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>c113bdfb-0a5f-4847-bccf-aaa416ea8e83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_ctl04_TabEdicion_ucOfiSel_gv']/tbody/tr[2]/td[3]</value>
+      <webElementGuid>7e479a5e-4da9-48e8-b9de-4d28f7065f36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[10]/following::td[2]</value>
+      <webElementGuid>a2a769f8-50b5-4e2b-acc6-001e6f7221ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bogota - CIEL'])[3]/following::td[6]</value>
+      <webElementGuid>e3fb1d4a-d333-4077-aeeb-2c8f6bfbb162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[11]/preceding::td[4]</value>
+      <webElementGuid>34901d83-a38f-4569-8d19-43937eeba365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cartagena - Bocagrande'])[2]/preceding::td[6]</value>
+      <webElementGuid>03af0ea5-2cc1-4dc6-a400-0251a0b62cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[3]</value>
+      <webElementGuid>82d5e4be-64e2-4dc5-8b06-e55e0adb7047</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Cali - Chipichape' or . = 'Cali - Chipichape')]</value>
+      <webElementGuid>4f3129dd-fa4a-4311-b487-2c40f1e2f83f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

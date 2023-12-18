@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="10 Cambiar Tipo Terminal (Mantis 3525)" time="75.737" tests="1" failures="0" errors="0">
+   <testsuite name="10 Cambiar Tipo Terminal (Mantis 3525)" tests="1" failures="0" errors="0" time="75.737" skipped="0" timestamp="2023-08-14 14:07:44" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/DIGITURNO/OPERACION BASICA/10 Cambiar Tipo Terminal (Mantis 3525)">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_135312\\DIGITURNO\\OPERACION BASICA\\10 Cambiar Tipo Terminal (Mantis 3525)\\20230814_135337"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_135312\\DIGITURNO\\OPERACION BASICA\\10 Cambiar Tipo Terminal (Mantis 3525)\\20230814_135337\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_135312\\DIGITURNO\\OPERACION BASICA\\10 Cambiar Tipo Terminal (Mantis 3525)\\20230814_135337\\1692040114381.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_135312\\DIGITURNO\\OPERACION BASICA\\10 Cambiar Tipo Terminal (Mantis 3525)\\20230814_135337\\1692040123655.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_135312\\DIGITURNO\\OPERACION BASICA\\10 Cambiar Tipo Terminal (Mantis 3525)\\20230814_135337\\1692040133335.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_135312\\DIGITURNO\\OPERACION BASICA\\10 Cambiar Tipo Terminal (Mantis 3525)\\20230814_135337\\1692040137419.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 115.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.33"/>
+         <property name="sessionId" value="2129d3f6949da7fdc17f561c8a4727c0"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/DIGITURNO/OPERACION BASICA/10 Cambiar Tipo Terminal(mantis 3525)" time="75.495" classname="Test Cases/DIGITURNO/OPERACION BASICA/10 Cambiar Tipo Terminal(mantis 3525)" status="PASSED">
+         <system-out><![CDATA[2023-08-14 14:07:44 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/OPERACION BASICA/10 Cambiar Tipo Terminal(mantis 3525): Test Cases/DIGITURNO/OPERACION BASICA/10 Cambiar Tipo Terminal(mantis 3525)
+
+2023-08-14 14:07:44 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2023-08-14 14:07:44 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2023-08-14 14:07:45 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8610'
+
+2023-08-14 14:07:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-08-14 14:07:45 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2023-08-14 14:07:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-08-14 14:07:47 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8610'
+
+2023-08-14 14:07:47 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-08-14 14:07:48 - [MESSAGE][PASSED] - Current window maximized
+
+2023-08-14 14:07:48 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:07:51 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:07:51 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2023-08-14 14:07:51 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2023-08-14 14:07:51 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2023-08-14 14:07:52 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2023-08-14 14:07:52 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2023-08-14 14:07:53 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2023-08-14 14:07:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:07:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:07:56 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2023-08-14 14:07:56 - [TEST_STEP][PASSED] - comment("Eliminar los selectores de usuarios por terminal"): Eliminar los selectores de usuarios por terminal
+
+2023-08-14 14:07:56 - [MESSAGE][INFO] - Eliminar los selectores de usuarios por terminal
+
+2023-08-14 14:07:56 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2023-08-14 14:07:56 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2023-08-14 14:07:56 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:07:59 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:07:59 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_4Usuarios")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_4Usuarios' is clicked on
+
+2023-08-14 14:08:00 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_4Usuarios' is clicked on
+
+2023-08-14 14:08:00 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:08:03 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:08:03 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/4Usuarios/0Principal/img_5Usuarios en Terminales")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/0Principal/img_5Usuarios en Terminales' is clicked on
+
+2023-08-14 14:08:04 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/0Principal/img_5Usuarios en Terminales' is clicked on
+
+2023-08-14 14:08:04 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:08:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:08:07 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/0Oficinas/Oficinas/td1_Bogota - CIEL")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/0Oficinas/Oficinas/td1_Bogota - CIEL' is clicked on
+
+2023-08-14 14:08:07 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/0Oficinas/Oficinas/td1_Bogota - CIEL' is clicked on
+
+2023-08-14 14:08:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-08-14 14:08:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-08-14 14:08:09 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/0Usuarios/td_1CIEL")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/0Usuarios/td_1CIEL' is clicked on
+
+2023-08-14 14:08:10 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/0Usuarios/td_1CIEL' is clicked on
+
+2023-08-14 14:08:10 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:08:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:08:13 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/Selectores y servidores por usuarios/Selectores asignados/a_SeleccionarTodo")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/Selectores y servidores por usuarios/Selectores asignados/a_SeleccionarTodo' is clicked on
+
+2023-08-14 14:08:13 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/Selectores y servidores por usuarios/Selectores asignados/a_SeleccionarTodo' is clicked on
+
+2023-08-14 14:08:13 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:08:16 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:08:16 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/Selectores y servidores por usuarios/img_Eliminar Selectores")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/Selectores y servidores por usuarios/img_Eliminar Selectores' is clicked on
+
+2023-08-14 14:08:17 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/5Usuarios en Terminales/Selectores y servidores por usuarios/img_Eliminar Selectores' is clicked on
+
+2023-08-14 14:08:17 - [TEST_STEP][PASSED] - acceptAlert(): Alert accepted
+
+2023-08-14 14:08:17 - [MESSAGE][PASSED] - Alert accepted
+
+2023-08-14 14:08:17 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:08:20 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:08:20 - [TEST_STEP][PASSED] - comment("Abrimos una terminal virtual para intentar cambiar tipo"): Abrimos una terminal virtual para intentar cambiar tipo
+
+2023-08-14 14:08:20 - [MESSAGE][INFO] - Abrimos una terminal virtual para intentar cambiar tipo
+
+2023-08-14 14:08:20 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_ImageLogo")): Object: 'Object Repository/DIGITURNO/1Principal/img_ImageLogo' is clicked on
+
+2023-08-14 14:08:20 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_ImageLogo' is clicked on
+
+2023-08-14 14:08:20 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:08:23 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:08:23 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Operacion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Operacion(1)' is clicked on
+
+2023-08-14 14:08:24 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Operacion(1)' is clicked on
+
+2023-08-14 14:08:24 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:08:27 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:08:27 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/0Principal/Elementos del Sistema/img_Terminales")): Object: 'Object Repository/DIGITURNO/OPERACION/0Principal/Elementos del Sistema/img_Terminales' is clicked on
+
+2023-08-14 14:08:27 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/0Principal/Elementos del Sistema/img_Terminales' is clicked on
+
+2023-08-14 14:08:27 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:08:30 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:08:30 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/2Terminales/0Oficinas/td_1Bogota - CIEL")): Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/0Oficinas/td_1Bogota - CIEL' is clicked on
+
+2023-08-14 14:08:31 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/0Oficinas/td_1Bogota - CIEL' is clicked on
+
+2023-08-14 14:08:31 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:08:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:08:34 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2023-08-14 14:08:34 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-08-14 14:08:35 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_135312\\DIGITURNO\\OPERACION BASICA\\10 Cambiar Tipo Terminal (Mantis 3525)\\20230814_135337\\1692040114381.png]]
+
+2023-08-14 14:08:35 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:08:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:08:38 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/2Terminales/0Terminales (Menos WorkFlow)/td_3 - Terminal - Radicaciones")): Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/0Terminales (Menos WorkFlow)/td_3 - Terminal - Radicaciones' is clicked on
+
+2023-08-14 14:08:38 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/0Terminales (Menos WorkFlow)/td_3 - Terminal - Radicaciones' is clicked on
+
+2023-08-14 14:08:38 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:08:41 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:08:41 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2023-08-14 14:08:41 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2023-08-14 14:08:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-08-14 14:08:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-08-14 14:08:43 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2023-08-14 14:08:44 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-08-14 14:08:44 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_135312\\DIGITURNO\\OPERACION BASICA\\10 Cambiar Tipo Terminal (Mantis 3525)\\20230814_135337\\1692040123655.png]]
+
+2023-08-14 14:08:44 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-08-14 14:08:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-08-14 14:08:46 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar")): Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar' is clicked on
+
+2023-08-14 14:08:46 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar' is clicked on
+
+2023-08-14 14:08:46 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:08:49 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:08:49 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar(1)/btn_4FindeJornada_8")): Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar(1)/btn_4FindeJornada_8' is clicked on
+
+2023-08-14 14:08:50 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar(1)/btn_4FindeJornada_8' is clicked on
+
+2023-08-14 14:08:50 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:08:53 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:08:53 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2023-08-14 14:08:53 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-08-14 14:08:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_135312\\DIGITURNO\\OPERACION BASICA\\10 Cambiar Tipo Terminal (Mantis 3525)\\20230814_135337\\1692040133335.png]]
+
+2023-08-14 14:08:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-08-14 14:08:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-08-14 14:08:55 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/2Terminales/Terminal Inactiva/a_Cambiar tipo")): Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal Inactiva/a_Cambiar tipo' is clicked on
+
+2023-08-14 14:08:56 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal Inactiva/a_Cambiar tipo' is clicked on
+
+2023-08-14 14:08:56 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2023-08-14 14:08:57 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2023-08-14 14:08:57 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2023-08-14 14:08:57 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-08-14 14:08:57 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_135312\\DIGITURNO\\OPERACION BASICA\\10 Cambiar Tipo Terminal (Mantis 3525)\\20230814_135337\\1692040137419.png]]
+
+2023-08-14 14:08:57 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-08-14 14:08:59 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-08-14 14:08:59 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-08-14 14:07:44 - [TEST_SUITE][PASSED] - 10 Cambiar Tipo Terminal (Mantis 3525): Test Cases/DIGITURNO/OPERACION BASICA/10 Cambiar Tipo Terminal(mantis 3525)]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

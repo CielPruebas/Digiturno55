@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_6 Virtual - Oficina Virtual</name>
+   <tag></tag>
+   <elementGuidId>89319800-ac07-472e-8475-98b1223574c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_TabContainer1_TabEdicion_Oficinas_gv']/tbody/tr[6]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>573af8e2-1736-40d4-a9f6-bf17a4f1c74d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Virtual - Oficina Virtual</value>
+      <webElementGuid>e08d04f8-c67f-41a6-859e-7f8c03de5959</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_TabContainer1_TabEdicion_Oficinas_gv&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>54ff011c-0260-4600-a4c7-9a20d4becd36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_TabContainer1_TabEdicion_Oficinas_gv']/tbody/tr[6]/td[3]</value>
+      <webElementGuid>83b34038-114c-49ef-91ee-85348b1a3e26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[20]/following::td[2]</value>
+      <webElementGuid>dc726acc-e387-47b4-b06a-01d95e0f0c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medellin - Laureles'])[2]/following::td[6]</value>
+      <webElementGuid>ffe028eb-42f3-4bed-a4f6-75c75dbd1712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[21]/preceding::td[4]</value>
+      <webElementGuid>5798420c-e6ed-4472-98dc-0bd77dd41d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WorkFlow - Oficina WorkFlow'])[2]/preceding::td[6]</value>
+      <webElementGuid>d184e24f-6013-4b0a-bc5f-c14d59638169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/table/tbody/tr[6]/td[3]</value>
+      <webElementGuid>fd62d829-53e8-452e-86b4-9992a6216069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Virtual - Oficina Virtual' or . = 'Virtual - Oficina Virtual')]</value>
+      <webElementGuid>70e4acd3-1e40-469a-a460-50034b24ea93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

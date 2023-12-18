@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Numeradores</name>
+   <tag></tag>
+   <elementGuidId>96565997-5a3a-4c04-ba0d-8f7dbcc6ee98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__tab_cPHPri_tabCon_tabNum > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='__tab_cPHPri_tabCon_tabNum']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>856d4713-9fc3-40c9-affd-0fa1fae0fb85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Numeradores</value>
+      <webElementGuid>df39fcd2-cc89-4814-a49d-8eb971624561</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tab_cPHPri_tabCon_tabNum&quot;)/span[1]</value>
+      <webElementGuid>c33c8070-aefb-438d-bd62-509768b411bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='__tab_cPHPri_tabCon_tabNum']/span</value>
+      <webElementGuid>c0425cd2-7da4-4a8c-b9d2-947a8c92224d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Colas'])[1]/following::span[4]</value>
+      <webElementGuid>01c57bc5-ef9f-49b8-b83a-d066ff555b7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otras configuraciones'])[1]/following::span[8]</value>
+      <webElementGuid>d8d96838-5b19-48b6-9571-f2f10446edc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Motivos'])[2]/preceding::span[1]</value>
+      <webElementGuid>2af32dac-921d-4f3f-b04d-f8b5ce71076a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Colas de la oficina'])[1]/preceding::span[5]</value>
+      <webElementGuid>441a6625-c665-4d6a-b0ca-7078d607fe16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span/span/a/span</value>
+      <webElementGuid>05a18f56-a378-4b75-8d08-0d88c2c1b724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Numeradores' or . = 'Numeradores')]</value>
+      <webElementGuid>56b91911-7e3b-4eba-8f5b-cae945becc83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

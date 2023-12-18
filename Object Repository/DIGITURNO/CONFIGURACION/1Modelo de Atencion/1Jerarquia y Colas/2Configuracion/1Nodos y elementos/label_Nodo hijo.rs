@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Nodo hijo</name>
+   <tag></tag>
+   <elementGuidId>303a9c53-caa5-4a84-9beb-9c133ea3bb47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_ctl00_ctl00_UpdatePanelNodosEdicion']/table/tbody/tr[6]/td/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ba34b4b6-0999-4759-a489-c8388f32da99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_ctl00_ctl00_rBtnNodoHijo</value>
+      <webElementGuid>adbf5cf4-780c-41ac-ad73-e9b667d52f2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nodo hijo</value>
+      <webElementGuid>fcb9fa06-c479-4616-b0c4-352fa293b5e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl00_ctl00_UpdatePanelNodosEdicion&quot;)/table[@class=&quot;tabla2&quot;]/tbody[1]/tr[6]/td[1]/span[1]/label[1]</value>
+      <webElementGuid>68d85617-1d50-4659-9951-a6972ef3f09b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_ctl00_ctl00_UpdatePanelNodosEdicion']/table/tbody/tr[6]/td/span/label</value>
+      <webElementGuid>9f72df05-2fc3-46fa-af45-42127c588736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nivel elemento:'])[1]/following::label[1]</value>
+      <webElementGuid>67a40adb-2521-46a9-90bc-5b57b500cc8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre elemento:'])[1]/following::label[1]</value>
+      <webElementGuid>cec8eea4-b2c0-4e59-b9e9-763f9d45fd05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Id nodo hijo:'])[1]/preceding::label[1]</value>
+      <webElementGuid>bde55a8e-4ca7-4321-9aac-9bb375012940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/preceding::label[1]</value>
+      <webElementGuid>49e6969f-eccc-4170-b0a4-444b3fab5d4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nodo hijo']/parent::*</value>
+      <webElementGuid>e5de2263-ec3a-4496-902f-2e7d68d04915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td/span/label</value>
+      <webElementGuid>d4cd9fc7-06cd-4815-abd8-5988a3593944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Nodo hijo' or . = 'Nodo hijo')]</value>
+      <webElementGuid>4fbc7cf8-354e-4029-bcb3-be0a62defd6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

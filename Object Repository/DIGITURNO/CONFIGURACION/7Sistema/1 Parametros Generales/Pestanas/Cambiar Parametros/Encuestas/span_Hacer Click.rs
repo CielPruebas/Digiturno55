@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hacer Click</name>
+   <tag></tag>
+   <elementGuidId>79de1eef-ce40-4820-bd80-9467d16cb360</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-icon.k-i-arrow-60-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>66ce3ff4-a7fa-4b32-840b-443a3f1e127b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-arrow-60-down</value>
+      <webElementGuid>97714c8c-0543-40a3-beb1-42e28cd8846a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;k-webkit k-webkit100&quot;]/body[1]/div[@class=&quot;k-widget k-window&quot;]/div[@class=&quot;k-popup-edit-form k-window-content k-content&quot;]/div[@class=&quot;k-edit-form-container&quot;]/div[@class=&quot;k-edit-field&quot;]/span[@class=&quot;k-widget k-dropdown k-textbox&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover k-state-focused&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-arrow-60-down&quot;]</value>
+      <webElementGuid>9bbd74fc-5016-4e47-9191-b6c40054acf2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span</value>
+      <webElementGuid>86a5d8ad-e70e-493a-a756-9b59be9096bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

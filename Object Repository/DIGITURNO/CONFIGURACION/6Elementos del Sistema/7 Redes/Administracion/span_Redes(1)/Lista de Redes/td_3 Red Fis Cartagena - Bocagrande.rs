@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_3 Red Fis Cartagena - Bocagrande</name>
+   <tag></tag>
+   <elementGuidId>b5321b08-f037-4e53-8bfb-b63b2b3535f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_ctl00_TabRedes_ListadoRedes_GridView']/tbody/tr[3]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5d754526-2f6f-421f-93e2-3044cbaa8015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Red Fis Cartagena - Bocagrande</value>
+      <webElementGuid>98005e0f-f395-461d-b4c1-b81c903d2e55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl00_TabRedes_ListadoRedes_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>4e8605f4-7960-48a2-8dd9-0bce46fb5545</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_ctl00_TabRedes_ListadoRedes_GridView']/tbody/tr[3]/td[3]</value>
+      <webElementGuid>766113ca-3451-4a0c-b9cd-b536ad70148e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[10]/following::td[2]</value>
+      <webElementGuid>d03bb0d0-f390-45a1-8a15-b002d83380ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL Cali - Chipichape'])[4]/following::td[3]</value>
+      <webElementGuid>abb40a95-bd1f-42ce-9498-e7f29b537720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Red TCP/IP'])[3]/preceding::td[1]</value>
+      <webElementGuid>f1ed19ae-5c66-4bc9-9c86-604eb5645875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL Cartagena - Bocagrande'])[4]/preceding::td[3]</value>
+      <webElementGuid>bc65091d-4e6b-4b73-b57c-7b74c2b8ed29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Red Fis Cartagena - Bocagrande']/parent::*</value>
+      <webElementGuid>2e7a4b22-c510-4929-b91f-3fd044f2eccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div/div[2]/table/tbody/tr[3]/td[3]</value>
+      <webElementGuid>18520388-4dd1-428e-a01b-f91d6b26e5a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Red Fis Cartagena - Bocagrande' or . = 'Red Fis Cartagena - Bocagrande')]</value>
+      <webElementGuid>02492c48-778f-4123-aef1-75323bdb3fba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

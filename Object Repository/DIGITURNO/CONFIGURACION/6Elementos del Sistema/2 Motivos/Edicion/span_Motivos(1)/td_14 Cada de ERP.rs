@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_14 Cada de ERP</name>
+   <tag></tag>
+   <elementGuidId>dcc1635c-fb3f-4531-8443-ac3a2b5e709f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_TabContainer1_TabMotivosContainer_AdministracionMotivos1_GridView']/tbody/tr[14]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>dc871ddc-0879-4c1c-a5c9-a18b6e43ab2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Caída de ERP</value>
+      <webElementGuid>92b55722-4fe2-4321-8b32-8ccc58c90628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_TabContainer1_TabMotivosContainer_AdministracionMotivos1_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>5ee5e915-b9bd-4b7d-a009-9898ca43d68f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_TabContainer1_TabMotivosContainer_AdministracionMotivos1_GridView']/tbody/tr[14]/td[3]</value>
+      <webElementGuid>4e63aca2-23fd-409c-a4c9-7c80562fe49f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[19]/following::td[2]</value>
+      <webElementGuid>b807f109-d8ad-4bbf-9c82-a6f5eb0987ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suspensión'])[6]/following::td[3]</value>
+      <webElementGuid>1380cc29-02bd-4ced-af09-58920c1ab6ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caída de ERP'])[2]/preceding::td[1]</value>
+      <webElementGuid>7928f1e6-3fdd-4a9a-b853-4a42ba62a04b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelación servicio'])[3]/preceding::td[2]</value>
+      <webElementGuid>a034790f-f225-459c-a5a7-8d67670eb22b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Caída de ERP']/parent::*</value>
+      <webElementGuid>f930ace0-cf3f-4ba9-9237-d266c21d54e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[14]/td[3]</value>
+      <webElementGuid>69ff8d75-50e2-427b-a00a-322b1af1ee9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Caída de ERP' or . = 'Caída de ERP')]</value>
+      <webElementGuid>ffda3a77-bd86-49fc-8355-981019490891</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

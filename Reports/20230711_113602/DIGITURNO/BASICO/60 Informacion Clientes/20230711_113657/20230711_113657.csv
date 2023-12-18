@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+60 Informacion Clientes,Chrome 114.0.0.0,,,2023-07-11 12:19:08,2023-07-11 12:20:21,"1m - 12,928s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/60 Informacion Clientes,Chrome 114.0.0.0,,,2023-07-11 12:19:08,2023-07-11 12:20:21,"1m - 12,689s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/59 Datos Complementarios""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 12:19:09,2023-07-11 12:19:35,"26,276s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/0Principal/img_Informacion de clientes""))",Chrome 114.0.0.0,,,2023-07-11 12:19:35,2023-07-11 12:19:36,"0,975s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:19:36,2023-07-11 12:19:39,"3,019s",PASSED
+"scrollToElement(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/Informacion Clientes/0 Tipo de usuario clientes/img_Nuevo""), 2)",Chrome 114.0.0.0,,,2023-07-11 12:19:39,2023-07-11 12:19:39,"0,441s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/Informacion Clientes/0 Tipo de usuario clientes/input_Nombre""), ""Prueba"")",Chrome 114.0.0.0,Creacion tipo de cliente,,2023-07-11 12:19:39,2023-07-11 12:19:41,"1,276s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/Informacion Clientes/0 Tipo de usuario clientes/textarea_Descripcion""), ""Prueba"")",Chrome 114.0.0.0,,,2023-07-11 12:19:41,2023-07-11 12:19:41,"0,814s",PASSED
+"scrollToPosition(0, 100)",Chrome 114.0.0.0,,,2023-07-11 12:19:41,2023-07-11 12:19:41,"0,034s",PASSED
+"delay(2, STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 12:19:41,2023-07-11 12:19:44,"2,010s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/Informacion Clientes/0 Tipo de usuario clientes/img_Nuevo""))",Chrome 114.0.0.0,,,2023-07-11 12:19:44,2023-07-11 12:20:13,"29,993s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:20:13,2023-07-11 12:20:17,"3,007s",PASSED
+takeFullPageScreenshot(),Chrome 114.0.0.0,,,2023-07-11 12:20:17,2023-07-11 12:20:18,"1,515s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:20:18,2023-07-11 12:20:21,"3,009s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 114.0.0.0,,,2023-07-11 12:20:21,2023-07-11 12:20:21,"0,015s",PASSED

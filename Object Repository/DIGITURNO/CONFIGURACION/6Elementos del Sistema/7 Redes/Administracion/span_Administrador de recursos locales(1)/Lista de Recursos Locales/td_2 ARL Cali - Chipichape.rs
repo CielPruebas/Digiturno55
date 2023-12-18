@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_2 ARL Cali - Chipichape</name>
+   <tag></tag>
+   <elementGuidId>47c23bbd-9c0b-4d75-855f-77ebf6311253</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_ctl00_TabAdministradorRecursosLocales_ListaAdministradorRecursosLocales_GridView']/tbody/tr[2]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>95f7596f-4d0d-4815-ac06-e7e40efb5e90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>left</value>
+      <webElementGuid>d37b5521-5d3b-4d05-8776-44a5c0d84edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ARL Cali - Chipichape</value>
+      <webElementGuid>7c3a2fba-21eb-46eb-be0d-71e881f6fb13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl00_TabAdministradorRecursosLocales_ListaAdministradorRecursosLocales_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[2]</value>
+      <webElementGuid>ee9e3215-2b1c-4e73-a826-67ceacea1cbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_ctl00_TabAdministradorRecursosLocales_ListaAdministradorRecursosLocales_GridView']/tbody/tr[2]/td[2]</value>
+      <webElementGuid>62c604c5-63e3-4989-9336-69f12ae35f37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[2]/following::td[1]</value>
+      <webElementGuid>46c7458d-583b-4a1c-839a-88d35047bd58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL Bogota - CIEL'])[2]/following::td[2]</value>
+      <webElementGuid>7e5b6373-d331-42fb-a708-2d08475302c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL Cali - Chipichape'])[2]/preceding::td[1]</value>
+      <webElementGuid>5d1b3c7f-1a4c-4fda-a63c-2cda7f9a0d8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[3]/preceding::td[2]</value>
+      <webElementGuid>7a112734-6ce7-4df8-b121-f26a3d493000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ARL Cali - Chipichape']/parent::*</value>
+      <webElementGuid>a95367a9-b9ca-49ac-9ab4-49ce195b3b55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>ad8f0bfd-49a9-4d48-ab1c-55651988de94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'ARL Cali - Chipichape' or . = 'ARL Cali - Chipichape')]</value>
+      <webElementGuid>2477999e-d888-4c96-8029-53e3919ea454</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

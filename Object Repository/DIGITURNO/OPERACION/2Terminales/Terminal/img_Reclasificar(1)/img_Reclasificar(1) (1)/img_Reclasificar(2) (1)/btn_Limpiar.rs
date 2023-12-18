@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Limpiar</name>
+   <tag></tag>
+   <elementGuidId>15427a73-fc37-44c0-a8dc-27e6603ca4d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_pnReclasificacionServicio']/div/div/table/tbody/tr/td[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cajaBusquedaTreeviewLimpia.treeviewFiltrobtnCancelar.ms-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>41aa22a1-082c-4f8c-9171-9ceb7728dd0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cajaBusquedaTreeviewLimpia treeviewFiltrobtnCancelar ms-2</value>
+      <webElementGuid>78865adc-df13-46ba-94ac-5d28183ff94b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_pnReclasificacionServicio&quot;)/div[1]/div[@class=&quot;treeViewEnvoltura&quot;]/table[1]/tbody[1]/tr[1]/td[4]/div[@class=&quot;cajaBusquedaTreeviewLimpia treeviewFiltrobtnCancelar ms-2&quot;]</value>
+      <webElementGuid>30b0edaf-ef39-4814-92a2-b0d60255d1b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_pnReclasificacionServicio']/div/div/table/tbody/tr/td[4]/div</value>
+      <webElementGuid>2050a4ae-6bfe-4197-8263-e563d3b0b601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div</value>
+      <webElementGuid>ea178663-01b7-4d57-abbf-92b2df61ba3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

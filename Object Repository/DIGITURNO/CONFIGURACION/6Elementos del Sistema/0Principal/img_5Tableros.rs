@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_5Tableros</name>
+   <tag></tag>
+   <elementGuidId>05f454c7-8be5-4c44-aa46-3cef7d1c6a43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@src = '/img/iconos/Secciones/Tablero.svg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>57efe19b-4aeb-4da0-879e-c90386e74194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/img/iconos/Secciones/Tablero.svg</value>
+      <webElementGuid>cf95c935-89e3-4088-98af-0018fcf01e9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divContenidoPrincipal&quot;)/div[@class=&quot;d-flex&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;cajaSoloContenido contenedorMenuIconos&quot;]/div[@class=&quot;menuIconos&quot;]/div[1]/a[5]/img[1]</value>
+      <webElementGuid>7958048b-7913-4483-ae2b-27f6057e5c48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divContenidoPrincipal']/div[2]/div/div/div/div/a[5]/img</value>
+      <webElementGuid>b7f67a27-60d8-4025-baee-bff2ab5652d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/img</value>
+      <webElementGuid>61dfa8c3-59a0-45fe-a832-6d5c733eead3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/img/iconos/Secciones/Tablero.svg']</value>
+      <webElementGuid>e22fcd06-bbd7-4df3-9794-30beb636e5e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

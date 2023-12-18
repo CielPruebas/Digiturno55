@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+70 Usuarios por perfil,Chrome 115.0.0.0,,,2023-08-14 15:07:13,2023-08-14 15:07:55,"41,816s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/70 Usuario por perfil,Chrome 115.0.0.0,,,2023-08-14 15:07:13,2023-08-14 15:07:55,"41,543s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/5 Usuarios""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 15:07:13,2023-08-14 15:07:36,"22,258s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/0Principal/img_6Usuario por Perfil""))",Chrome 115.0.0.0,,,2023-08-14 15:07:36,2023-08-14 15:07:36,"0,687s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 15:07:36,2023-08-14 15:07:39,"3,007s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/6Usuario por perfil/select_Perfiles""), 1)",Chrome 115.0.0.0,EScogerá el select con el indice 1,,2023-08-14 15:07:39,2023-08-14 15:07:40,"1,184s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 15:07:40,2023-08-14 15:07:43,"3,005s",PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2023-08-14 15:07:43,2023-08-14 15:07:44,"0,469s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 15:07:44,2023-08-14 15:07:47,"3,010s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/6Usuario por perfil/select_Perfiles""), 0)",Chrome 115.0.0.0,EScogerá el select con el indice 1,,2023-08-14 15:07:47,2023-08-14 15:07:48,"1,118s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 15:07:48,2023-08-14 15:07:51,"3,007s",PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2023-08-14 15:07:51,2023-08-14 15:07:52,"0,447s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 15:07:52,2023-08-14 15:07:55,"3,008s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-08-14 15:07:55,2023-08-14 15:07:55,"0,000s",PASSED

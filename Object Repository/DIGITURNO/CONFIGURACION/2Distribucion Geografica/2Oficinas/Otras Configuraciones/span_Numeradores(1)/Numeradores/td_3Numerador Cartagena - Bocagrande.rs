@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_3Numerador Cartagena - Bocagrande</name>
+   <tag></tag>
+   <elementGuidId>bdc44abe-1ab7-4408-89e1-79b08eb5f943</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_tabCon_tabNum_Numeradores1_GridView']/tbody/tr[3]/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e1565149-284a-495a-bccb-f439134817ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Numerador Cartagena - Bocagrande</value>
+      <webElementGuid>fcb3900e-7ed1-4add-b9c0-dc174a9d5179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_tabCon_tabNum_Numeradores1_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>07f25a95-8811-4d81-b97a-6b68ee34ce55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_tabCon_tabNum_Numeradores1_GridView']/tbody/tr[3]/td[3]</value>
+      <webElementGuid>cc30580f-a9c6-4952-a717-bd91b9aa3f51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[11]/following::td[2]</value>
+      <webElementGuid>27253971-b701-4b4d-89c5-239dc35709f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WIZ'])[9]/following::td[6]</value>
+      <webElementGuid>b63b04c4-a30c-4de7-abaf-8f66f8644f47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WIZ'])[10]/preceding::td[1]</value>
+      <webElementGuid>7a1ae43f-7d47-4416-98e2-73b62175457a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[12]/preceding::td[5]</value>
+      <webElementGuid>4d0e9121-7d10-498e-8521-45bd262cb654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Numerador Cartagena - Bocagrande']/parent::*</value>
+      <webElementGuid>ab89dc4c-ee69-4766-8072-2dc498277335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/table/tbody/tr[3]/td[3]</value>
+      <webElementGuid>7da085a4-3997-4bd8-b14f-b004dd9675db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Numerador Cartagena - Bocagrande' or . = 'Numerador Cartagena - Bocagrande')]</value>
+      <webElementGuid>7f17609d-0837-48a0-a139-c4e7dbe97a79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

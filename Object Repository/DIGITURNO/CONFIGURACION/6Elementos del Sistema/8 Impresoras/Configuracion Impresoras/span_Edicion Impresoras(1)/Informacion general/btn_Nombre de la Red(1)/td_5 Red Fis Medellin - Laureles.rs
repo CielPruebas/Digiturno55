@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_5 Red Fis Medellin - Laureles</name>
+   <tag></tag>
+   <elementGuidId>3c8c983e-74f7-45b9-a96a-0aeadeef796b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_ListaRedesParaImpresora_GridView']/tbody/tr[5]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>12056ac1-0bbe-4ef7-9536-eae2785f173f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Red Fis Medellin - Laureles</value>
+      <webElementGuid>ca526f0c-410e-4a1e-a4bc-9504a628ff8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ListaRedesParaImpresora_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>5c26ec3a-00fc-435a-9e2e-8a0288624bc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_ListaRedesParaImpresora_GridView']/tbody/tr[5]/td[3]</value>
+      <webElementGuid>5e48a97e-5ed3-4667-a933-29b7ac8c279f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[22]/following::td[2]</value>
+      <webElementGuid>bb974b68-02d8-4cd1-99df-46bce16f8ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL Manizales - Manizales'])[1]/following::td[3]</value>
+      <webElementGuid>b10058e3-888e-4f15-82ed-5db01248f339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Red TCP/IP'])[5]/preceding::td[1]</value>
+      <webElementGuid>7bad34ec-8727-46be-9aa9-08f0b8ab8ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL Medellin - Laureles'])[1]/preceding::td[3]</value>
+      <webElementGuid>bd2bc9e0-1128-4b6c-baf6-0e51d08ab900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Red Fis Medellin - Laureles']/parent::*</value>
+      <webElementGuid>defb000b-d268-4f5a-993b-6c27628729f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/table/tbody/tr[5]/td[3]</value>
+      <webElementGuid>b2939621-cb51-412e-b216-4edb50780a07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Red Fis Medellin - Laureles' or . = 'Red Fis Medellin - Laureles')]</value>
+      <webElementGuid>e74be538-c6c3-43be-81c8-7d80a61aaa73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

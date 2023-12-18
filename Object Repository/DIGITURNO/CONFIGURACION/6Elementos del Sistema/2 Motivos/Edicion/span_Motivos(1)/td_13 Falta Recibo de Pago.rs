@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_13 Falta Recibo de Pago</name>
+   <tag></tag>
+   <elementGuidId>e9b7f8d2-e842-4c28-8d33-81b851bf0e75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_TabContainer1_TabMotivosContainer_AdministracionMotivos1_GridView']/tbody/tr[13]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>8a04d0e7-856c-4bd1-a2d5-2ae294f26fdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Falta Recibo de Pago</value>
+      <webElementGuid>40563f0d-bbee-4041-9c4a-0ae34b185219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_TabContainer1_TabMotivosContainer_AdministracionMotivos1_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>4aafde58-751b-4d36-8eb5-39d9b2f25b67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_TabContainer1_TabMotivosContainer_AdministracionMotivos1_GridView']/tbody/tr[13]/td[3]</value>
+      <webElementGuid>99b05aa9-c42c-4188-af7e-04be3ada8e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[18]/following::td[2]</value>
+      <webElementGuid>700e7a4f-d7a6-4a47-b194-a5dd1e2962cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suspensión'])[5]/following::td[3]</value>
+      <webElementGuid>447216b4-c886-4b9a-a2f6-76b0d94f3097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Falta Recibo de Pago'])[2]/preceding::td[1]</value>
+      <webElementGuid>d1b440d7-c300-46b4-9360-d3970918f112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suspensión'])[6]/preceding::td[2]</value>
+      <webElementGuid>346c83a0-2919-4a41-9aed-904a2cbd8461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Falta Recibo de Pago']/parent::*</value>
+      <webElementGuid>05d69d57-35c7-4403-a193-8aba20c6bfff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[13]/td[3]</value>
+      <webElementGuid>9097b029-2192-4950-a4a0-c6cb4beed96c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Falta Recibo de Pago' or . = 'Falta Recibo de Pago')]</value>
+      <webElementGuid>f45a5543-cc7a-4b31-827b-1a60a67d26eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cartagena - Bocagrande</name>
+   <tag></tag>
+   <elementGuidId>fe84af77-8133-4aa1-877c-0810b2861570</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_DistribucionGeograficaEdicion_tVt2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='cPHPri_DistribucionGeograficaEdicion_tVt2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>15250224-3500-46da-a0e4-5fbf98a944b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$cPHPri$DistribucionGeograficaEdicion$tV','sOficina@@@3')</value>
+      <webElementGuid>cbed5911-a52d-4934-a107-9c0e1d743d74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>TreeView_SelectNode(cPHPri_DistribucionGeograficaEdicion_tV_Data, this,'cPHPri_DistribucionGeograficaEdicion_tVt2');</value>
+      <webElementGuid>4d9e09f7-2ac0-4148-b8af-507b7e579ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Cartagena - Bocagrande</value>
+      <webElementGuid>b931453f-4d42-4abf-a257-53a981520d30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cPHPri_DistribucionGeograficaEdicion_tVt2</value>
+      <webElementGuid>71b662ef-80d3-46f5-b972-6bd7996a1177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cartagena - Bocagrande</value>
+      <webElementGuid>0c06ce98-f72d-41e6-b106-7530f7390088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_DistribucionGeograficaEdicion_tVt2&quot;)</value>
+      <webElementGuid>603f4f82-d7cb-43da-a211-3bdd94b6e746</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='cPHPri_DistribucionGeograficaEdicion_tVt2']</value>
+      <webElementGuid>0735c1b5-5a54-437f-8979-f996bcc0464b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_DistribucionGeograficaEdicion_tV']/table[3]/tbody/tr/td[3]/a</value>
+      <webElementGuid>eee4fd42-8215-4493-a0c4-dcc5c18a06fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Cartagena - Bocagrande')])[2]</value>
+      <webElementGuid>166a819e-1410-424c-be34-ac941326ed56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cali - Chipichape'])[3]/following::a[2]</value>
+      <webElementGuid>562244c8-1535-491a-985e-1fd0dfaea5cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bogota - CIEL'])[4]/following::a[4]</value>
+      <webElementGuid>f6cd196f-8231-4b1f-b732-b832997987f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manizales - Manizales'])[3]/preceding::a[2]</value>
+      <webElementGuid>fef2bef7-e948-48e6-967f-00e437cece60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medellin - Laureles'])[3]/preceding::a[4]</value>
+      <webElementGuid>be370658-298f-49cd-ae21-758f30a8a052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, &quot;javascript:__doPostBack('ctl00$cPHPri$DistribucionGeograficaEdicion$tV','sOficina@@@3')&quot;)])[2]</value>
+      <webElementGuid>a83b2abb-bb74-4cce-9203-11462f182f49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/table[3]/tbody/tr/td[3]/a</value>
+      <webElementGuid>c0b45327-3e01-4025-a221-6f83acf84439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$cPHPri$DistribucionGeograficaEdicion$tV&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;sOficina@@@3&quot; , &quot;'&quot; , &quot;)&quot;) and @title = 'Cartagena - Bocagrande' and @id = 'cPHPri_DistribucionGeograficaEdicion_tVt2' and (text() = 'Cartagena - Bocagrande' or . = 'Cartagena - Bocagrande')]</value>
+      <webElementGuid>dc9d007d-101e-40fa-b6e5-5a0f542a7fcd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

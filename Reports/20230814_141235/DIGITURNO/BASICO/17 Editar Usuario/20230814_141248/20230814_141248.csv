@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+17 Editar Usuario,Chrome 115.0.0.0,,,2023-08-14 14:22:42,2023-08-14 14:23:31,"49,299s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/17 Editar Usuarios,Chrome 115.0.0.0,,,2023-08-14 14:22:42,2023-08-14 14:23:31,"49,043s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/5 Usuarios""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 14:22:42,2023-08-14 14:23:05,"22,470s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:23:05,2023-08-14 14:23:08,"3,015s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/0Principal/img_3Consultar Usuarios""))",Chrome 115.0.0.0,,,2023-08-14 14:23:08,2023-08-14 14:23:08,"0,615s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:23:08,2023-08-14 14:23:11,"3,004s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/input_TextoABuscar""), ""usuario"")",Chrome 115.0.0.0,Buscar usuario de prueba para editar,,2023-08-14 14:23:11,2023-08-14 14:23:12,"0,832s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/img_Filtrar""))",Chrome 115.0.0.0,,,2023-08-14 14:23:12,2023-08-14 14:23:13,"0,432s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:23:13,2023-08-14 14:23:16,"3,017s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/td_1Lista""))",Chrome 115.0.0.0,,,2023-08-14 14:23:16,2023-08-14 14:23:16,"0,820s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:23:16,2023-08-14 14:23:19,"3,011s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/informacion Principal/img_Editar""))",Chrome 115.0.0.0,,,2023-08-14 14:23:19,2023-08-14 14:23:20,"0,492s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:23:20,2023-08-14 14:23:23,"3,014s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/informacion Principal/img_Editar(1)/input_Numero de celular""), ""3192222222"")",Chrome 115.0.0.0,Cambiaremos el telefono de un usuario,,2023-08-14 14:23:23,2023-08-14 14:23:24,"0,853s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/informacion Principal/img_Editar(1)/img_Actualizar""))",Chrome 115.0.0.0,,,2023-08-14 14:23:24,2023-08-14 14:23:24,"0,419s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:23:24,2023-08-14 14:23:27,"3,002s",PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2023-08-14 14:23:27,2023-08-14 14:23:28,"0,733s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:23:28,2023-08-14 14:23:31,"3,002s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-08-14 14:23:31,2023-08-14 14:23:31,"0,000s",PASSED

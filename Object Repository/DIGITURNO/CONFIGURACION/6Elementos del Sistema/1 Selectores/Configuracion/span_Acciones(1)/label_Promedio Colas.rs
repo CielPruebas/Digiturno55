@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Promedio Colas</name>
+   <tag></tag>
+   <elementGuidId>c183ef17-4be8-49d4-996e-f0519bdd0824</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_ctl04_TabAcciones_upAcciones']/div/div[4]/div[3]/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>873a6835-fcf2-407d-a8f1-3386bbbdf746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_ctl04_TabAcciones_CheckBuscarCola</value>
+      <webElementGuid>38e3ddf9-b8ff-4639-abf4-5aa4d8e26248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Promedio Colas</value>
+      <webElementGuid>b677b3fb-3981-4508-85ec-d0dbdc49ad48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl04_TabAcciones_upAcciones&quot;)/div[@class=&quot;cajaSoloContenido&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4&quot;]/span[1]/label[1]</value>
+      <webElementGuid>c36562bb-d6a9-4ff7-b3e7-a28bead000a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_ctl04_TabAcciones_upAcciones']/div/div[4]/div[3]/span/label</value>
+      <webElementGuid>d2242219-2a82-443f-a0b5-9126c3273e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver promedios de las salas asociados al selector'])[1]/following::label[1]</value>
+      <webElementGuid>59ede393-adc5-4c67-a051-1a48d7ac6736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permitir cancelar un turno al selector'])[1]/following::label[2]</value>
+      <webElementGuid>4b1e3de1-4e0d-4e94-9480-c0c8a21a23ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/preceding::label[1]</value>
+      <webElementGuid>8d64dd3d-c53b-4551-98aa-245d1313a28c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='X'])[1]/preceding::label[1]</value>
+      <webElementGuid>1853347e-c6a6-4c20-b097-ef99c5057cce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Promedio Colas']/parent::*</value>
+      <webElementGuid>9f2ea088-9666-4fd9-9af4-6608b59d83b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/span/label</value>
+      <webElementGuid>a2668632-9348-4384-87ba-36307ee7f0b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Promedio Colas' or . = 'Promedio Colas')]</value>
+      <webElementGuid>e9dbc2f8-10e5-46e9-9aaa-20871a5f4bfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

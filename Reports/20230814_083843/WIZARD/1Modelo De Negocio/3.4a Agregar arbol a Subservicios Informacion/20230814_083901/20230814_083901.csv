@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+3.4a Agregar arbol a Subservicios Informacion,Chrome 115.0.0.0,,,2023-08-14 08:54:40,2023-08-14 08:55:54,"1m - 14,247s",FAILED
+,,,,,,,
+Test Cases/WIZARD/1Modelo De Negocio/3.4a Agregar arbol a SubServicios Informacion,Chrome 115.0.0.0,,,2023-08-14 08:54:40,2023-08-14 08:55:54,"1m - 13,822s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 08:54:41,2023-08-14 08:54:56,"14,912s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_ModeloDeNegocioMAX""))",Chrome 115.0.0.0,,,2023-08-14 08:54:56,2023-08-14 08:55:07,"11,771s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 08:55:07,2023-08-14 08:55:10,"3,006s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda""), ""Información"")",Chrome 115.0.0.0,Buscamos el Servicio Información General,,2023-08-14 08:55:10,2023-08-14 08:55:11,"0,774s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 08:55:11,2023-08-14 08:55:14,"3,010s",PASSED
+"rightClick(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_7 Informacion""))",Chrome 115.0.0.0,,,2023-08-14 08:55:14,2023-08-14 08:55:15,"0,637s",PASSED
+"mouseOver(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Elemento""))",Chrome 115.0.0.0,,,2023-08-14 08:55:15,2023-08-14 08:55:16,"0,836s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 08:55:16,2023-08-14 08:55:18,"2,008s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Elemento(1)/span_Agregar Elementos""))",Chrome 115.0.0.0,,,2023-08-14 08:55:18,2023-08-14 08:55:18,"0,456s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 08:55:18,2023-08-14 08:55:21,"3,019s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_0 Actualizacion de Datos""))",Chrome 115.0.0.0,,,2023-08-14 08:55:21,2023-08-14 08:55:22,"0,408s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_3 Facturacion""))",Chrome 115.0.0.0,,,2023-08-14 08:55:22,2023-08-14 08:55:22,"0,443s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_5 Inscripciones""))",Chrome 115.0.0.0,,,2023-08-14 08:55:22,2023-08-14 08:55:22,"0,466s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_10 Renovaciones""))",Chrome 115.0.0.0,,,2023-08-14 08:55:22,2023-08-14 08:55:54,"31,564s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-08-14 08:55:54,2023-08-14 08:55:54,"0,012s",PASSED

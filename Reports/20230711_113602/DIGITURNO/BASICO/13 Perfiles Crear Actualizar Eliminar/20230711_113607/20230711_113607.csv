@@ -1,0 +1,53 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+13 Perfiles Crear Actualizar Eliminar,Chrome 114.0.0.0,,,2023-07-11 11:40:28,2023-07-11 11:42:32,"2m - 4,043s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/13 Perfiles Crear,Chrome 114.0.0.0,,,2023-07-11 11:40:28,2023-07-11 11:41:06,"37,521s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/5 Usuarios""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 11:40:28,2023-07-11 11:40:51,"22,332s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 11:40:51,2023-07-11 11:40:53,"2,010s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/0Principal/img_1Perfiles""))",Chrome 114.0.0.0,,,2023-07-11 11:40:53,2023-07-11 11:40:54,"0,833s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 11:40:54,2023-07-11 11:40:57,"3,005s",PASSED
+"scrollToElement(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/1Perfiles/Edicion/input_Nombre""), 0)",Chrome 114.0.0.0,,,2023-07-11 11:40:57,2023-07-11 11:40:57,"0,464s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/1Perfiles/Edicion/input_Nombre""), ""prueba"")",Chrome 114.0.0.0,,,2023-07-11 11:40:57,2023-07-11 11:40:58,"0,795s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/1Perfiles/Edicion/textarea_Descripcion""), ""prueba"")",Chrome 114.0.0.0,,,2023-07-11 11:40:58,2023-07-11 11:40:59,"0,777s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/1Perfiles/Edicion/input_Prioridad""), ""3"")",Chrome 114.0.0.0,,,2023-07-11 11:40:59,2023-07-11 11:40:59,"0,751s",PASSED
+delay(0),Chrome 114.0.0.0,,,2023-07-11 11:40:59,2023-07-11 11:40:59,"0,000s",PASSED
+"scrollToPosition(0, 0)",Chrome 114.0.0.0,,,2023-07-11 11:40:59,2023-07-11 11:40:59,"0,041s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/1Perfiles/Edicion/img_Nuevo""))",Chrome 114.0.0.0,,,2023-07-11 11:40:59,2023-07-11 11:41:00,"0,414s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 11:41:00,2023-07-11 11:41:03,"3,003s",PASSED
+takeFullPageScreenshot(),Chrome 114.0.0.0,,,2023-07-11 11:41:03,2023-07-11 11:41:04,"0,727s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 11:41:04,2023-07-11 11:41:06,"2,028s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 114.0.0.0,,,2023-07-11 11:41:06,2023-07-11 11:41:06,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/13 Perfil Actualizar,Chrome 114.0.0.0,,,2023-07-11 11:41:06,2023-07-11 11:41:50,"44,344s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/5 Usuarios""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 11:41:06,2023-07-11 11:41:27,"21,027s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 11:41:27,2023-07-11 11:41:29,"2,015s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/0Principal/img_1Perfiles""))",Chrome 114.0.0.0,,,2023-07-11 11:41:29,2023-07-11 11:41:30,"0,653s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 11:41:30,2023-07-11 11:41:33,"3,016s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/1Perfiles/Perfiles/input_TextoABuscar""), ""prueba"")",Chrome 114.0.0.0,Busca el perfil prueba,,2023-07-11 11:41:33,2023-07-11 11:41:34,"0,818s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 11:41:34,2023-07-11 11:41:37,"3,003s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/1Perfiles/Perfiles/td_SeleccionLista1""))",Chrome 114.0.0.0,Selecciona el perfil,,2023-07-11 11:41:37,2023-07-11 11:41:37,"0,475s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 11:41:37,2023-07-11 11:41:40,"3,005s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/1Perfiles/Edicion/textarea_Descripcion""), ""prueba Actualizada"")",Chrome 114.0.0.0,Hace un cambio en la descripcion del perfil,,2023-07-11 11:41:40,2023-07-11 11:41:41,"0,822s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 11:41:41,2023-07-11 11:41:43,"2,009s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/1Perfiles/Edicion/img_Actualizar""))",Chrome 114.0.0.0,Actualiza el perfil,,2023-07-11 11:41:43,2023-07-11 11:41:43,"0,473s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 11:41:43,2023-07-11 11:41:46,"3,009s",PASSED
+takeFullPageScreenshot(),Chrome 114.0.0.0,,,2023-07-11 11:41:46,2023-07-11 11:41:47,"0,666s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 11:41:47,2023-07-11 11:41:50,"3,025s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 114.0.0.0,,,2023-07-11 11:41:50,2023-07-11 11:41:50,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/13 Perfil Eliminar,Chrome 114.0.0.0,,,2023-07-11 11:41:50,2023-07-11 11:42:32,"41,933s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/5 Usuarios""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 11:41:50,2023-07-11 11:42:11,"21,042s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 11:42:11,2023-07-11 11:42:13,"2,010s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/0Principal/img_1Perfiles""))",Chrome 114.0.0.0,,,2023-07-11 11:42:13,2023-07-11 11:42:14,"0,667s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 11:42:14,2023-07-11 11:42:17,"3,009s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/1Perfiles/Perfiles/input_TextoABuscar""), ""prueba"")",Chrome 114.0.0.0,Busca el perfil prueba,,2023-07-11 11:42:17,2023-07-11 11:42:18,"0,826s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 11:42:18,2023-07-11 11:42:21,"3,004s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/1Perfiles/Perfiles/td_SeleccionLista1""))",Chrome 114.0.0.0,Selecciona el perfil,,2023-07-11 11:42:21,2023-07-11 11:42:21,"0,486s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 11:42:21,2023-07-11 11:42:24,"3,004s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/1Perfiles/Edicion/img_Eliminar""))",Chrome 114.0.0.0,,,2023-07-11 11:42:24,2023-07-11 11:42:25,"0,525s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/1Perfiles/Edicion/img_Eliminar""))",Chrome 114.0.0.0,,,2023-07-11 11:42:25,2023-07-11 11:42:25,"0,308s",PASSED
+acceptAlert(),Chrome 114.0.0.0,,,2023-07-11 11:42:25,2023-07-11 11:42:25,"0,047s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 11:42:25,2023-07-11 11:42:28,"3,016s",PASSED
+takeFullPageScreenshot(),Chrome 114.0.0.0,,,2023-07-11 11:42:28,2023-07-11 11:42:29,"0,644s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 11:42:29,2023-07-11 11:42:32,"3,014s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 114.0.0.0,,,2023-07-11 11:42:32,2023-07-11 11:42:32,"0,000s",PASSED

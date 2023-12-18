@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Base Datos Local</name>
+   <tag></tag>
+   <elementGuidId>d2d0770d-fcf3-469a-b2b3-8918bb17c133</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_rbtBusqueda']/tbody/tr/td/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_rbtBusqueda > tbody > tr > td > span > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ca01cd16-b241-4256-a419-381726966290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_rbtBusqueda_0</value>
+      <webElementGuid>4bb0d29f-f8ba-427d-95dd-12db8f52e0f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Base Datos Local</value>
+      <webElementGuid>d39a78af-2ee5-4051-bab4-146202332a9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_rbtBusqueda&quot;)/tbody[1]/tr[1]/td[1]/span[1]/label[1]</value>
+      <webElementGuid>bb9b898c-c221-49b7-a2f0-d2f1ec26a67c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_rbtBusqueda']/tbody/tr/td/span/label</value>
+      <webElementGuid>403e41d7-8b9a-4c83-b3aa-52367538c13f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actualizar'])[3]/following::label[1]</value>
+      <webElementGuid>f3751215-395e-4c02-bbea-095e0a22c2ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Búsqueda por'])[1]/following::label[1]</value>
+      <webElementGuid>89757cbc-576c-4251-b31b-7dd91e4888b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SistemaExterno'])[1]/preceding::label[1]</value>
+      <webElementGuid>6e3d9708-501c-4de3-89e6-1ded27e153f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de usuario clientes'])[1]/preceding::label[2]</value>
+      <webElementGuid>fe6730be-b36e-4c4a-8fa6-131029fdbe97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Base Datos Local']/parent::*</value>
+      <webElementGuid>79032767-0ed2-4916-bfdc-13c19b512958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/table/tbody/tr/td/span/label</value>
+      <webElementGuid>9476b2c8-3dbd-47ca-b6c6-d479f36ee10c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Base Datos Local' or . = 'Base Datos Local')]</value>
+      <webElementGuid>c0d005c6-cfa8-4719-aa4a-36ee08b97229</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

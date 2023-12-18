@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_WorkFlow - Oficina WorkFlow</name>
+   <tag></tag>
+   <elementGuidId>b2d488af-cce1-485c-8e9a-2184ebe343be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_DistribucionGeograficaEdicion_tVt6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='cPHPri_DistribucionGeograficaEdicion_tVt6']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>131dd5ac-445c-4a8c-9d36-fc7921a40688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$cPHPri$DistribucionGeograficaEdicion$tV','sOficina@@@7')</value>
+      <webElementGuid>7a7cac1a-50d0-4014-9e26-626a392bb114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>TreeView_SelectNode(cPHPri_DistribucionGeograficaEdicion_tV_Data, this,'cPHPri_DistribucionGeograficaEdicion_tVt6');</value>
+      <webElementGuid>5c5f94f9-d4ec-42ee-ba68-9532bfe1f028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>WorkFlow - Oficina WorkFlow</value>
+      <webElementGuid>701a9af1-b5aa-4ad6-b663-452bd4aec1a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cPHPri_DistribucionGeograficaEdicion_tVt6</value>
+      <webElementGuid>5b262a76-c15a-4363-9285-dbad491fca15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WorkFlow - Oficina WorkFlow</value>
+      <webElementGuid>0b40cc81-3c6b-4d4b-be27-a03f76572d2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_DistribucionGeograficaEdicion_tVt6&quot;)</value>
+      <webElementGuid>bde88ba6-cb60-4681-aabe-bd8b145eee2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='cPHPri_DistribucionGeograficaEdicion_tVt6']</value>
+      <webElementGuid>daf496d8-e72c-41f6-a7c8-d4b5437b4286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_DistribucionGeograficaEdicion_tV']/table[7]/tbody/tr/td[3]/a</value>
+      <webElementGuid>ec026d98-e212-4d2b-a0d1-50c5eb7c7178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'WorkFlow - Oficina WorkFlow')])[2]</value>
+      <webElementGuid>18f66077-e5eb-4b19-bbd9-27e2545a416c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual - Oficina Virtual'])[3]/following::a[2]</value>
+      <webElementGuid>6352d752-161a-41bc-8cba-b8607324ea0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medellin - Laureles'])[3]/following::a[4]</value>
+      <webElementGuid>b682e83d-70e0-4ae1-bea6-f312399c3d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::a[1]</value>
+      <webElementGuid>c0ed873e-8664-4d18-aea0-9ae5e13b4f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::a[1]</value>
+      <webElementGuid>6737a1c9-965c-4906-8d79-c89928f2200e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, &quot;javascript:__doPostBack('ctl00$cPHPri$DistribucionGeograficaEdicion$tV','sOficina@@@7')&quot;)])[2]</value>
+      <webElementGuid>87f67763-b419-499e-bc2e-49916862aada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/table[7]/tbody/tr/td[3]/a</value>
+      <webElementGuid>b3885803-83cc-428c-9170-a109acb4f9d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$cPHPri$DistribucionGeograficaEdicion$tV&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;sOficina@@@7&quot; , &quot;'&quot; , &quot;)&quot;) and @title = 'WorkFlow - Oficina WorkFlow' and @id = 'cPHPri_DistribucionGeograficaEdicion_tVt6' and (text() = 'WorkFlow - Oficina WorkFlow' or . = 'WorkFlow - Oficina WorkFlow')]</value>
+      <webElementGuid>26d3cfac-d247-4be2-a909-6af96b560eae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

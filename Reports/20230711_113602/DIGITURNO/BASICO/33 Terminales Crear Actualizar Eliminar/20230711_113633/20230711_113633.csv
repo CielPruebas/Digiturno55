@@ -1,0 +1,61 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+33 Terminales Crear Actualizar Eliminar,Chrome 114.0.0.0,,,2023-07-11 12:00:25,2023-07-11 12:02:51,"2m - 26,612s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/33 Terminales Crear,Chrome 114.0.0.0,,,2023-07-11 12:00:25,2023-07-11 12:01:18,"53,214s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 12:00:25,2023-07-11 12:00:51,"26,037s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_3Terminales""))",Chrome 114.0.0.0,,,2023-07-11 12:00:51,2023-07-11 12:00:53,"1,312s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:00:53,2023-07-11 12:00:56,"3,005s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/0 Modal oficina/td_1Bogota - CIEL""))",Chrome 114.0.0.0,,,2023-07-11 12:00:56,2023-07-11 12:00:56,"0,459s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:00:56,2023-07-11 12:00:59,"3,006s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/btn_SeleccionarGrupo""))",Chrome 114.0.0.0,,,2023-07-11 12:00:59,2023-07-11 12:00:59,"0,464s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:00:59,2023-07-11 12:01:01,"2,006s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/btn_Seleccionar Grupo(1)/a_1Grupo General""))",Chrome 114.0.0.0,,,2023-07-11 12:01:01,2023-07-11 12:01:02,"0,469s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:01:02,2023-07-11 12:01:05,"3,006s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/input_Nombre""), ""Prueba"")",Chrome 114.0.0.0,,,2023-07-11 12:01:05,2023-07-11 12:01:06,"0,801s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/textarea_Descripcion""), ""Prueba"")",Chrome 114.0.0.0,,,2023-07-11 12:01:06,2023-07-11 12:01:07,"0,811s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/select_Tipo Terminal""), 0, STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 12:01:07,2023-07-11 12:01:08,"1,036s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:01:08,2023-07-11 12:01:10,"2,006s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/input_Direccion en sala""), ""9"")",Chrome 114.0.0.0,,,2023-07-11 12:01:10,2023-07-11 12:01:10,"0,794s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/label_Mostrar Ventana Emergente""))",Chrome 114.0.0.0,,,2023-07-11 12:01:10,2023-07-11 12:01:11,"0,449s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/img_Nuevo""))",Chrome 114.0.0.0,,,2023-07-11 12:01:11,2023-07-11 12:01:11,"0,408s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:01:11,2023-07-11 12:01:14,"3,007s",PASSED
+takeFullPageScreenshot(),Chrome 114.0.0.0,,,2023-07-11 12:01:14,2023-07-11 12:01:15,"0,829s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:01:15,2023-07-11 12:01:18,"3,002s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 114.0.0.0,,,2023-07-11 12:01:18,2023-07-11 12:01:18,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/33 Terminales Actualizar,Chrome 114.0.0.0,,,2023-07-11 12:01:18,2023-07-11 12:02:09,"50,762s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 12:01:19,2023-07-11 12:01:43,"24,688s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_3Terminales""))",Chrome 114.0.0.0,,,2023-07-11 12:01:43,2023-07-11 12:01:44,"0,714s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:01:44,2023-07-11 12:01:47,"3,004s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/0 Modal oficina/td_1Bogota - CIEL""))",Chrome 114.0.0.0,,,2023-07-11 12:01:47,2023-07-11 12:01:47,"0,462s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:01:47,2023-07-11 12:01:50,"3,017s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Lista de Terminales/input_TextoABuscar""), ""Prueba"")",Chrome 114.0.0.0,,,2023-07-11 12:01:50,2023-07-11 12:01:51,"0,815s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:01:51,2023-07-11 12:01:53,"2,005s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Lista de Terminales/td_1 Seleccion Busqueda""))",Chrome 114.0.0.0,,,2023-07-11 12:01:53,2023-07-11 12:01:54,"0,460s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:01:54,2023-07-11 12:01:57,"3,002s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/textarea_Descripcion""), ""Prueba actualizada"")",Chrome 114.0.0.0,,,2023-07-11 12:01:57,2023-07-11 12:01:57,"0,796s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/select_Tipo Terminal""), 3)",Chrome 114.0.0.0,,,2023-07-11 12:01:57,2023-07-11 12:01:59,"1,104s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:01:59,2023-07-11 12:02:02,"3,014s",PASSED
+"scrollToPosition(0, 0)",Chrome 114.0.0.0,,,2023-07-11 12:02:02,2023-07-11 12:02:02,"0,039s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/img_Actualizar""))",Chrome 114.0.0.0,,,2023-07-11 12:02:02,2023-07-11 12:02:02,"0,425s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:02:02,2023-07-11 12:02:05,"3,008s",PASSED
+takeFullPageScreenshot(),Chrome 114.0.0.0,,,2023-07-11 12:02:05,2023-07-11 12:02:06,"0,814s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:02:06,2023-07-11 12:02:09,"3,016s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 114.0.0.0,,,2023-07-11 12:02:09,2023-07-11 12:02:09,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/33 Terminales Eliminar,Chrome 114.0.0.0,,,2023-07-11 12:02:09,2023-07-11 12:02:51,"42,387s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 12:02:09,2023-07-11 12:02:34,"24,866s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_3Terminales""))",Chrome 114.0.0.0,,,2023-07-11 12:02:34,2023-07-11 12:02:35,"0,675s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:02:35,2023-07-11 12:02:38,"3,013s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/0 Modal oficina/td_1Bogota - CIEL""))",Chrome 114.0.0.0,,,2023-07-11 12:02:38,2023-07-11 12:02:38,"0,443s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Lista de Terminales/input_TextoABuscar""), ""Prueba"")",Chrome 114.0.0.0,,,2023-07-11 12:02:38,2023-07-11 12:02:40,"1,298s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:02:40,2023-07-11 12:02:42,"2,006s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Lista de Terminales/td_1 Seleccion Busqueda""))",Chrome 114.0.0.0,,,2023-07-11 12:02:42,2023-07-11 12:02:42,"0,439s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:02:42,2023-07-11 12:02:45,"3,015s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/img_Eliminar""))",Chrome 114.0.0.0,,,2023-07-11 12:02:45,2023-07-11 12:02:45,"0,416s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/img_Eliminar""))",Chrome 114.0.0.0,,,2023-07-11 12:02:45,2023-07-11 12:02:46,"0,157s",PASSED
+acceptAlert(),Chrome 114.0.0.0,,,2023-07-11 12:02:46,2023-07-11 12:02:46,"0,031s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:02:46,2023-07-11 12:02:48,"2,002s",PASSED
+takeFullPageScreenshot(),Chrome 114.0.0.0,,,2023-07-11 12:02:48,2023-07-11 12:02:48,"0,681s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:02:48,2023-07-11 12:02:51,"3,011s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 114.0.0.0,,,2023-07-11 12:02:51,2023-07-11 12:02:51,"0,001s",PASSED

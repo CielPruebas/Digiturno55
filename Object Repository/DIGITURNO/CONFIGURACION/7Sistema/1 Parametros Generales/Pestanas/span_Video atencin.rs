@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Video atencin</name>
+   <tag></tag>
+   <elementGuidId>28425081-52f2-4915-a1eb-e2e88642d492</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabsTiposParametros']/ul/li[8]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.k-item.k-state-default.k-state-hover > span.k-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fbb8fd2a-bc2f-47b4-aa7a-23e8ed01f6b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>da201b9a-3827-4a95-8077-76830c76a6e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-link</value>
+      <webElementGuid>e6904322-aba2-4e5d-85cc-03957284dfa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Video atención</value>
+      <webElementGuid>5fbfc2a3-737f-4534-ae62-362b6c96fbb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabsTiposParametros&quot;)/ul[@class=&quot;k-tabstrip-items k-reset&quot;]/li[@class=&quot;k-item k-state-default k-state-hover&quot;]/span[@class=&quot;k-link&quot;]</value>
+      <webElementGuid>1ffeca77-3aa7-49fa-b676-f2c1be24d94e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabsTiposParametros']/ul/li[8]/span[2]</value>
+      <webElementGuid>0e0ef207-6149-47e8-a114-9459c70ebc07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuarios'])[2]/following::span[2]</value>
+      <webElementGuid>780e49c4-b47c-40eb-ae79-b60c050f1160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reportes'])[1]/following::span[4]</value>
+      <webElementGuid>cb8d0f22-ec69-438a-99cf-c139e6050c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otros'])[1]/preceding::span[2]</value>
+      <webElementGuid>d17b0731-084d-4539-85dc-f559493be6ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cadena.Conexion.Bus.Azure'])[1]/preceding::span[12]</value>
+      <webElementGuid>b4add95f-8286-4385-a702-ec28cf87af74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Video atención']/parent::*</value>
+      <webElementGuid>a7d9ea43-7cdd-4ddf-b2d0-b68bb3bf053c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/span[2]</value>
+      <webElementGuid>7ce10b82-090c-4d28-8f7b-b550df827d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Video atención' or . = 'Video atención')]</value>
+      <webElementGuid>9c662d38-69b3-495c-b46a-ed46a21e5096</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

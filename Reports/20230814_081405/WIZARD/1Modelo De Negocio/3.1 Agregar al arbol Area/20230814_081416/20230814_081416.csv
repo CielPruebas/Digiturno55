@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+3.1 Agregar al arbol Area,Chrome 115.0.0.0,,,2023-08-14 08:27:37,2023-08-14 08:28:05,"28,063s",PASSED
+,,,,,,,
+Test Cases/WIZARD/1Modelo De Negocio/3.1 Agregar al arbol Area,Chrome 115.0.0.0,,,2023-08-14 08:27:37,2023-08-14 08:28:05,"27,781s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 08:27:38,2023-08-14 08:27:50,"12,036s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_ModeloDeNegocioMAX""))",Chrome 115.0.0.0,,,2023-08-14 08:27:50,2023-08-14 08:27:50,"0,528s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 08:27:50,2023-08-14 08:27:53,"3,005s",PASSED
+"rightClick(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/span_arbol de jerarquia(clickDerecho)""))",Chrome 115.0.0.0,,,2023-08-14 08:27:53,2023-08-14 08:27:54,"0,649s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/span_Agregar Elementos""))",Chrome 115.0.0.0,,,2023-08-14 08:27:54,2023-08-14 08:27:54,"0,591s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 08:27:54,2023-08-14 08:27:57,"3,012s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/span Agregar Elementos/label_Area General""))",Chrome 115.0.0.0,"marcar la casilla del nivel 0, Area",,2023-08-14 08:27:57,2023-08-14 08:27:58,"0,432s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/span Agregar Elementos/btn_Agregar""))",Chrome 115.0.0.0,,,2023-08-14 08:27:58,2023-08-14 08:27:58,"0,403s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 08:27:58,2023-08-14 08:28:01,"3,004s",PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2023-08-14 08:28:01,2023-08-14 08:28:02,"0,747s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 08:28:02,2023-08-14 08:28:05,"3,004s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-08-14 08:28:05,2023-08-14 08:28:05,"0,000s",PASSED

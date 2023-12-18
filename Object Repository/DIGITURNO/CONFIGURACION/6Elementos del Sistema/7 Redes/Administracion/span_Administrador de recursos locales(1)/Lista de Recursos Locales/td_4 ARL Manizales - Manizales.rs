@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_4 ARL Manizales - Manizales</name>
+   <tag></tag>
+   <elementGuidId>52609cda-8120-4311-8761-5f51716ecd3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_ctl00_TabAdministradorRecursosLocales_ListaAdministradorRecursosLocales_GridView']/tbody/tr[4]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>73e2adf7-4af9-4cb9-8769-85c8313adc3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>left</value>
+      <webElementGuid>51dcfd65-d4f4-4e67-89f6-280494080705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ARL Manizales - Manizales</value>
+      <webElementGuid>afbb98bd-367d-4c30-b4f2-7c30ad81f384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl00_TabAdministradorRecursosLocales_ListaAdministradorRecursosLocales_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[2]</value>
+      <webElementGuid>3ffc246e-7b5a-41a3-a3dc-2c88627e46ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_ctl00_TabAdministradorRecursosLocales_ListaAdministradorRecursosLocales_GridView']/tbody/tr[4]/td[2]</value>
+      <webElementGuid>cba8e921-7872-4417-94c5-92daad8e1dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[4]/following::td[1]</value>
+      <webElementGuid>a7fb5b51-4875-4783-aa70-ddb5db342cfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL Cartagena - Bocagrande'])[2]/following::td[2]</value>
+      <webElementGuid>8afc69e6-72bc-4621-ae52-41956ade57f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL Manizales - Manizales'])[2]/preceding::td[1]</value>
+      <webElementGuid>dc42ce98-9ca4-4773-9f08-ec54b9aecd63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[5]/preceding::td[2]</value>
+      <webElementGuid>4fea5de9-6fec-4abb-9368-5c102ba7709a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ARL Manizales - Manizales']/parent::*</value>
+      <webElementGuid>349ce4c3-1db9-4c59-b7a1-2358091beedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]</value>
+      <webElementGuid>9d8e36e2-bc96-4e47-b970-70df69664997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'ARL Manizales - Manizales' or . = 'ARL Manizales - Manizales')]</value>
+      <webElementGuid>a0bbaf63-185a-48fa-95f3-cf8e6dea8e3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

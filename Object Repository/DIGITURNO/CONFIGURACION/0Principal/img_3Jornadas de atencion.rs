@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_3Jornadas de atencion</name>
+   <tag></tag>
+   <elementGuidId>cd5e7d7a-9080-4fb3-85f8-ffb34cc8a7de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@src = '/img/iconos/Secciones/Jornada.svg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1778604a-35a9-4440-9b7b-80f65c2541fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/img/iconos/Secciones/Jornada.svg</value>
+      <webElementGuid>0368847f-cc64-4a9f-af95-328549df26b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divContenidoPrincipal&quot;)/div[@class=&quot;d-flex&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;contenedorMenuIconos&quot;]/div[@class=&quot;menuIconos&quot;]/div[1]/a[3]/img[1]</value>
+      <webElementGuid>88bcb889-4e03-4be9-8fa8-77a0755e0ed4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divContenidoPrincipal']/div[2]/div/div/div/div/a[3]/img</value>
+      <webElementGuid>3e87d945-9858-454e-abea-f68c571dbc5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/img</value>
+      <webElementGuid>8ca0428b-f029-40e4-b13f-90aed156ac03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/img/iconos/Secciones/Jornada.svg']</value>
+      <webElementGuid>98e2d96c-2465-4317-a685-4866fe911214</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

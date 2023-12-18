@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_3Grupo Radicaciones</name>
+   <tag></tag>
+   <elementGuidId>dee6baaf-293c-4d88-94fa-3f163c2b363a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='cPHPri_disGeoEdi_tVt4']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_disGeoEdi_tVt4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>20d35810-2962-440d-9d57-13d236e28217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$cPHPri$disGeoEdi$tV','sOficina@@@1\\Sala@@@1\\Grupo@@@3')</value>
+      <webElementGuid>573b9397-89c0-4ea4-a138-0302ecfbcaaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>TreeView_SelectNode(cPHPri_disGeoEdi_tV_Data, this,'cPHPri_disGeoEdi_tVt4');</value>
+      <webElementGuid>c4813bd1-edb2-4714-b85b-9cfe07a06f06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>CIEL - Radicaciones</value>
+      <webElementGuid>988bdac0-ed56-49cf-91b7-68da660fd4d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cPHPri_disGeoEdi_tVt4</value>
+      <webElementGuid>6966b043-0087-4877-a78d-d942e6c8621f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Grupo Radicaciones</value>
+      <webElementGuid>18ad40c6-ec91-4585-a1e4-675dd80bd325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_disGeoEdi_tVt4&quot;)</value>
+      <webElementGuid>51ed9225-9f5f-4910-b640-8eb2ddd5fb34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='cPHPri_disGeoEdi_tVt4']</value>
+      <webElementGuid>e0794eb8-4fb7-48b7-a599-d30e32f51e11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_disGeoEdi_tVn1Nodes']/table[3]/tbody/tr/td[5]/a</value>
+      <webElementGuid>134de990-0a64-45e8-8a96-65de71165ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Grupo Radicaciones')]</value>
+      <webElementGuid>b9627a35-0fd1-42d7-9064-e8debbe7e340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grupo PQRS'])[2]/following::a[2]</value>
+      <webElementGuid>153e87e9-2780-4c40-8984-42f153827542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grupo General'])[5]/following::a[4]</value>
+      <webElementGuid>ebc3cb48-0b74-4ef7-b29b-e827b6a0ee72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::a[1]</value>
+      <webElementGuid>2e1184f5-2b46-4c0f-9cbc-8bbb197783e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::a[1]</value>
+      <webElementGuid>c2c19011-0fbf-4899-b996-9b88fa6b1414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, &quot;javascript:__doPostBack('ctl00$cPHPri$disGeoEdi$tV','sOficina@@@1\\Sala@@@1\\Grupo@@@3')&quot;)])[2]</value>
+      <webElementGuid>df6d7a7e-357a-4d62-81d5-b2960f971d1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[3]/tbody/tr/td[5]/a</value>
+      <webElementGuid>fac58684-7211-4c01-90df-dd208d838bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$cPHPri$disGeoEdi$tV&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;sOficina@@@1\\Sala@@@1\\Grupo@@@3&quot; , &quot;'&quot; , &quot;)&quot;) and @title = 'CIEL - Radicaciones' and @id = 'cPHPri_disGeoEdi_tVt4' and (text() = 'Grupo Radicaciones' or . = 'Grupo Radicaciones')]</value>
+      <webElementGuid>099f8ab6-eacb-4722-bf8d-6f92a027bbc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+68 Administracion Impresoras,Chrome 114.0.0.0,,,2023-07-11 12:27:55,2023-07-11 12:29:05,"1m - 9,914s",FAILED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/68 Administracion Impresoras,Chrome 114.0.0.0,,,2023-07-11 12:27:55,2023-07-11 12:29:05,"1m - 9,665s",FAILED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 12:27:56,2023-07-11 12:28:22,"25,980s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_8Impresoras""))",Chrome 114.0.0.0,,,2023-07-11 12:28:22,2023-07-11 12:28:23,"0,824s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:28:23,2023-07-11 12:28:25,"2,006s",PASSED
+"scrollToPosition(50, 700)",Chrome 114.0.0.0,,,2023-07-11 12:28:25,2023-07-11 12:28:25,"0,041s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/8 Impresoras/Configuracion Impresoras/span_Edicion Impresoras(1)/Informacion general/select_Tipo Impresora""), 0)",Chrome 114.0.0.0,,,2023-07-11 12:28:25,2023-07-11 12:28:26,"1,110s",PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-11 12:28:26,2023-07-11 12:28:31,"5,004s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/8 Impresoras/Configuracion Impresoras/span_Edicion Tiquetes""))",Chrome 114.0.0.0,,,2023-07-11 12:28:31,2023-07-11 12:28:31,"0,433s",PASSED
+"scrollToPosition(0, 300)",Chrome 114.0.0.0,,,2023-07-11 12:28:31,2023-07-11 12:28:31,"0,027s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/8 Impresoras/Configuracion Impresoras/span_Edicion Tiquetes(1)/Tiquete/input_Nombre Tiquete""), ""Prueba"")",Chrome 114.0.0.0,,,2023-07-11 12:28:31,2023-07-11 12:28:32,"0,897s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/8 Impresoras/Configuracion Impresoras/span_Edicion Tiquetes(1)/Tiquete/img_Nuevo""))",Chrome 114.0.0.0,,,2023-07-11 12:28:32,2023-07-11 12:29:05,"33,011s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 114.0.0.0,,,2023-07-11 12:29:05,2023-07-11 12:29:05,"0,000s",PASSED

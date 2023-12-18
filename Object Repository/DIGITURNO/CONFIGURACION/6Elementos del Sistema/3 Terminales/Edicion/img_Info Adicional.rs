@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Info Adicional</name>
+   <tag></tag>
+   <elementGuidId>1860d450-2c92-4344-9685-6adc04e44cb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='cPHPri_MenuEdicion1_lnkInfoTerminal']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_MenuEdicion1_lnkInfoTerminal > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>af05181b-efd5-46cf-9234-0039b3db552b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../../img/Iconos/Terminal/btnTerminalInfo.svg</value>
+      <webElementGuid>3439c6f2-633f-4f81-94c7-0c852c4a3d3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_MenuEdicion1_lnkInfoTerminal&quot;)/img[1]</value>
+      <webElementGuid>5d2cd138-ff61-40a1-b442-74feee370ca9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='cPHPri_MenuEdicion1_lnkInfoTerminal']/img</value>
+      <webElementGuid>c7045721-56ad-45fe-a581-29489530a0da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/img</value>
+      <webElementGuid>cc6f3cd0-d176-44d7-922c-c8df79d72ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../../img/Iconos/Terminal/btnTerminalInfo.svg']</value>
+      <webElementGuid>67c49a15-27fc-475d-aaf7-6516922552c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_1 Tiquete1</name>
+   <tag></tag>
+   <elementGuidId>283994ba-924d-4a7e-98a5-4d4623693e73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_ContenidoTabs_TabCreacion_GridViewTiquetes']/tbody/tr/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>214671a1-fddb-41f5-a731-5e8050667328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tiquete1</value>
+      <webElementGuid>822b220c-9925-4a5c-8e9e-25df1090c9b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ContenidoTabs_TabCreacion_GridViewTiquetes&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>af21a3ec-d94a-44ed-831d-326da948a1aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_ContenidoTabs_TabCreacion_GridViewTiquetes']/tbody/tr/td[3]</value>
+      <webElementGuid>b5da9f80-6649-43b5-b1af-4663fc1cce3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[2]/following::td[2]</value>
+      <webElementGuid>ad7d4432-6a7a-47d1-acab-f60c12731ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logo tiquete'])[1]/following::td[3]</value>
+      <webElementGuid>4c2899d6-6b31-4337-ac12-ef65b8a301cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Epson_TMT88'])[3]/preceding::td[1]</value>
+      <webElementGuid>c07b5a88-4cbf-4fa1-a5e9-50c57128c6d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Controlador para la impesora EPSON TMT-88 el cual imprime el tiquete para Digiturno Mega'])[1]/preceding::td[2]</value>
+      <webElementGuid>ffb0f13b-32b3-4df8-8b68-243406014a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div[2]/div/div/div/div[2]/table/tbody/tr/td[3]</value>
+      <webElementGuid>cfacba3f-cba6-4175-a7d5-c0c00e024eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Tiquete1' or . = 'Tiquete1')]</value>
+      <webElementGuid>2a59c99e-1062-4597-81c3-6406a04a4222</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

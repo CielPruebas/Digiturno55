@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_1Bogota - CIEL Jornada 1 Ter 1</name>
+   <tag></tag>
+   <elementGuidId>aff1518e-fa2f-4a4b-a5cb-aa4b84fe2db2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_Jornadas1_GridView']/tbody/tr[2]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>636f9f73-e71b-47b0-b71d-af6483693ec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bogota - CIEL Jornada 1 Ter 1</value>
+      <webElementGuid>f180e50e-d0d3-4b71-a891-20fb5e42b9a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_Jornadas1_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>ff31fc3e-e7c7-40d3-99b7-77486ee61b5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_Jornadas1_GridView']/tbody/tr[2]/td[3]</value>
+      <webElementGuid>bba403af-2eca-46b8-8ac7-7f34fcc6d3ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[4]/following::td[2]</value>
+      <webElementGuid>77d3e323-3a11-496e-93ad-fbddc2f454a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vigente'])[1]/following::td[3]</value>
+      <webElementGuid>2812d5cc-3eba-4b9a-816b-da45132bd8cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terminal'])[1]/preceding::td[2]</value>
+      <webElementGuid>1810de1b-09ac-48d0-809b-817150bd95e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bogota - CIEL Jornada 1 Ter 1']/parent::*</value>
+      <webElementGuid>79bce7f0-26a9-4eeb-a066-45cadf312b7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div[2]/table/tbody/tr[2]/td[3]</value>
+      <webElementGuid>2a18c4b3-799d-446b-bd47-b85eca2a28ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Bogota - CIEL Jornada 1 Ter 1' or . = 'Bogota - CIEL Jornada 1 Ter 1')]</value>
+      <webElementGuid>8527cdf6-9b46-4f2a-9434-e026b57c04af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

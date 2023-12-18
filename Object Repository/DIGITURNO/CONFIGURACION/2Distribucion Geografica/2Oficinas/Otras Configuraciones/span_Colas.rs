@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Colas</name>
+   <tag></tag>
+   <elementGuidId>8878e693-5694-491d-9dbf-7212de36fbab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__tab_cPHPri_tabCon_tabCol > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='__tab_cPHPri_tabCon_tabCol']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7b858f99-4e37-4189-8443-b2e5f81c110f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Colas</value>
+      <webElementGuid>8f6dd1d4-d932-4c37-b28f-d4b5cbdc05a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tab_cPHPri_tabCon_tabCol&quot;)/span[1]</value>
+      <webElementGuid>1fda54b3-5dfe-4d1d-986f-cbd1be4627e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='__tab_cPHPri_tabCon_tabCol']/span</value>
+      <webElementGuid>e90e9950-eec6-44f1-8320-aa974985b80e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otras configuraciones'])[1]/following::span[4]</value>
+      <webElementGuid>e6832db5-064c-40a8-82b4-3a2461730236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WorkFlow - Oficina WorkFlow'])[2]/following::span[9]</value>
+      <webElementGuid>6da76470-0b48-457a-827a-8d8d090931d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Numeradores'])[2]/preceding::span[1]</value>
+      <webElementGuid>eb76051c-08b5-48c9-8600-9085187cd66f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Motivos'])[2]/preceding::span[5]</value>
+      <webElementGuid>31338028-bc44-4c80-8a58-bf37230869d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Colas']/parent::*</value>
+      <webElementGuid>ee3bb062-d7cd-4ac9-9f86-e9135c8084b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/span</value>
+      <webElementGuid>64b9f8a7-1984-4af8-867d-dc1d65c2f099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Colas' or . = 'Colas')]</value>
+      <webElementGuid>792d5419-283f-49b6-8334-659993ccd98a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

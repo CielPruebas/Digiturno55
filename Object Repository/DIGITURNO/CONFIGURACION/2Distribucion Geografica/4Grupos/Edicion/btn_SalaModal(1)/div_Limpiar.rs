@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Limpiar</name>
+   <tag></tag>
+   <elementGuidId>c179ce6a-dd90-44ca-a280-9cc0f1d667a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_pnSala']/div/div[2]/table/tbody/tr/td[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>86fdacbd-128e-4c14-911b-e76cb8d52b18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cajaBusquedaTreeviewLimpia treeviewFiltrobtnCancelar ms-2</value>
+      <webElementGuid>def459dc-f49e-43be-964a-a6ca67c426ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_pnSala&quot;)/div[1]/div[@class=&quot;treeViewEnvoltura&quot;]/table[1]/tbody[1]/tr[1]/td[4]/div[@class=&quot;cajaBusquedaTreeviewLimpia treeviewFiltrobtnCancelar ms-2&quot;]</value>
+      <webElementGuid>9244336a-eb67-4970-85b5-dcbfc2a8c446</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_pnSala']/div/div[2]/table/tbody/tr/td[4]/div</value>
+      <webElementGuid>fd093367-89b4-454d-9426-afef9f4daddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/table/tbody/tr/td[4]/div</value>
+      <webElementGuid>e5040dbc-d868-48d0-ae52-13ddd04a5b88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

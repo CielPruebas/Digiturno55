@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_6Kioscos</name>
+   <tag></tag>
+   <elementGuidId>2e933b02-f8c5-4e37-8ace-88f785a60880</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@src = '/img/iconos/Secciones/kioscos2.svg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c78f370b-f44b-46c2-acb7-a516dd037a35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/img/iconos/Secciones/kioscos2.svg</value>
+      <webElementGuid>8ba19714-be1d-4f4c-a582-870deecb1841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divContenidoPrincipal&quot;)/div[@class=&quot;d-flex&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;cajaSoloContenido contenedorMenuIconos&quot;]/div[@class=&quot;menuIconos&quot;]/div[1]/a[6]/img[1]</value>
+      <webElementGuid>33333a2d-aacd-413a-8c04-7d07b19434eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divContenidoPrincipal']/div[2]/div/div/div/div/a[6]/img</value>
+      <webElementGuid>8a4758c1-26fa-464b-a663-edfbfb80d6dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]/img</value>
+      <webElementGuid>e9940c7c-bf95-48a6-8d0d-59afcee4f39f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/img/iconos/Secciones/kioscos2.svg']</value>
+      <webElementGuid>cd2f5d19-6975-46cc-b4ec-7d122fbdd875</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

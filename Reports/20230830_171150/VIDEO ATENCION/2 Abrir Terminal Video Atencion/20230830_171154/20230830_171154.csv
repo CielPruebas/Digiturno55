@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+2 Abrir Terminal Video Atencion,Chrome 116.0.0.0,,,2023-08-30 17:13:10,2023-08-30 17:13:36,"25,434s",PASSED
+,,,,,,,
+Test Cases/VIDEO ATENCION/0InicioVideo Atencion Terminal,Chrome 116.0.0.0,,,2023-08-30 17:13:11,2023-08-30 17:13:36,"25,206s",PASSED
+openBrowser(UrlDigiturno),Chrome 116.0.0.0,,,2023-08-30 17:13:11,2023-08-30 17:13:14,"2,795s",PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-08-30 17:13:14,2023-08-30 17:13:14,"0,172s",PASSED
+delay(3),Chrome 116.0.0.0,,,2023-08-30 17:13:14,2023-08-30 17:13:17,"3,045s",PASSED
+"setText(findTestObject(""0Inicio Sesion/input_Usuario""), ""ciel"")",Chrome 116.0.0.0,,,2023-08-30 17:13:17,2023-08-30 17:13:18,"0,722s",PASSED
+"setText(findTestObject(""0Inicio Sesion/input_Clave""), ""digiturno"")",Chrome 116.0.0.0,,,2023-08-30 17:13:18,2023-08-30 17:13:18,"0,724s",PASSED
+"click(findTestObject(""0Inicio Sesion/btn_IniciarSesion""))",Chrome 116.0.0.0,,,2023-08-30 17:13:18,2023-08-30 17:13:19,"0,397s",PASSED
+delay(3),Chrome 116.0.0.0,,,2023-08-30 17:13:19,2023-08-30 17:13:22,"3,015s",PASSED
+"click(findTestObject(""DIGITURNO/1Principal/img_Operacion(1)""))",Chrome 116.0.0.0,,,2023-08-30 17:13:22,2023-08-30 17:13:23,"1,141s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/0Principal/Elementos del Sistema/img_Terminales""))",Chrome 116.0.0.0,,,2023-08-30 17:13:23,2023-08-30 17:13:24,"0,682s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/0Oficinas/td_2Cali - Chipichape""))",Chrome 116.0.0.0,,,2023-08-30 17:13:24,2023-08-30 17:13:24,"0,512s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/0Terminales (Menos WorkFlow)/td_1 - Terminal - Informacion""))",Chrome 116.0.0.0,,,2023-08-30 17:13:24,2023-08-30 17:13:26,"1,431s",PASSED
+switchToWindowUrl(UrlTerminal4),Chrome 116.0.0.0,,,2023-08-30 17:13:26,2023-08-30 17:13:30,"4,452s",PASSED
+delay(2),Chrome 116.0.0.0,,,2023-08-30 17:13:30,2023-08-30 17:13:32,"2,015s",PASSED
+takeFullPageScreenshot(),Chrome 116.0.0.0,,,2023-08-30 17:13:32,2023-08-30 17:13:33,"0,770s",PASSED
+delay(3),Chrome 116.0.0.0,,,2023-08-30 17:13:33,2023-08-30 17:13:36,"3,006s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 116.0.0.0,,,2023-08-30 17:13:36,2023-08-30 17:13:36,"0,009s",PASSED

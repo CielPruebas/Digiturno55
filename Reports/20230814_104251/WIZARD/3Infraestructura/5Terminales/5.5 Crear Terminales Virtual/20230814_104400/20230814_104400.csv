@@ -1,0 +1,66 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.5 Crear Terminales Virtual,Chrome 115.0.0.0,,,2023-08-14 11:31:50,2023-08-14 11:33:20,"1m - 30,365s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/5Terminales/5.5 Crear Terminales Virtual,Chrome 115.0.0.0,,,2023-08-14 11:31:50,2023-08-14 11:33:20,"1m - 30,071s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 11:31:51,2023-08-14 11:32:02,"11,582s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 115.0.0.0,,,2023-08-14 11:32:02,2023-08-14 11:32:03,"0,878s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:32:03,2023-08-14 11:32:06,"3,006s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Terminales""))",Chrome 115.0.0.0,inicio Virtual informacion,,2023-08-14 11:32:06,2023-08-14 11:32:07,"0,792s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:32:07,2023-08-14 11:32:10,"3,009s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_6Virtual - Oficina Virtual""))",Chrome 115.0.0.0,,,2023-08-14 11:32:10,2023-08-14 11:32:10,"0,465s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:32:10,2023-08-14 11:32:13,"3,014s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo""))",Chrome 115.0.0.0,,,2023-08-14 11:32:13,2023-08-14 11:32:14,"0,423s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:32:14,2023-08-14 11:32:17,"3,009s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo General""))",Chrome 115.0.0.0,,,2023-08-14 11:32:17,2023-08-14 11:32:17,"0,451s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:32:17,2023-08-14 11:32:20,"3,015s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), ""A01"")",Chrome 115.0.0.0,,,2023-08-14 11:32:20,2023-08-14 11:32:21,"0,793s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion""), ""Virtual - Terminal - Informacion"")",Chrome 115.0.0.0,,,2023-08-14 11:32:21,2023-08-14 11:32:22,"0,803s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""), 2)",Chrome 115.0.0.0,,,2023-08-14 11:32:22,2023-08-14 11:32:22,"0,397s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""))",Chrome 115.0.0.0,,,2023-08-14 11:32:22,2023-08-14 11:32:23,"0,466s",PASSED
+"scrollToPosition(0, 0)",Chrome 115.0.0.0,,,2023-08-14 11:32:23,2023-08-14 11:32:23,"0,033s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:32:23,2023-08-14 11:32:25,"2,013s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:32:25,2023-08-14 11:32:25,"0,477s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:32:25,2023-08-14 11:32:28,"3,003s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Terminales""))",Chrome 115.0.0.0,inicio Virtual PQRS,,2023-08-14 11:32:28,2023-08-14 11:32:29,"0,699s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:32:29,2023-08-14 11:32:32,"3,014s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_6Virtual - Oficina Virtual""))",Chrome 115.0.0.0,,,2023-08-14 11:32:32,2023-08-14 11:32:32,"0,452s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:32:32,2023-08-14 11:32:35,"3,017s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo""))",Chrome 115.0.0.0,,,2023-08-14 11:32:35,2023-08-14 11:32:36,"0,407s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:32:36,2023-08-14 11:32:39,"3,006s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo PQRS""))",Chrome 115.0.0.0,,,2023-08-14 11:32:39,2023-08-14 11:32:39,"0,461s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:32:39,2023-08-14 11:32:42,"3,006s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), 2)",Chrome 115.0.0.0,,,2023-08-14 11:32:42,2023-08-14 11:32:43,"0,419s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), ""A02"")",Chrome 115.0.0.0,,,2023-08-14 11:32:43,2023-08-14 11:32:43,"0,798s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion""), ""Virtual - Terminal - PQRS"")",Chrome 115.0.0.0,,,2023-08-14 11:32:43,2023-08-14 11:32:44,"0,831s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""), 2)",Chrome 115.0.0.0,,,2023-08-14 11:32:44,2023-08-14 11:32:45,"0,384s",PASSED
+"clearText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala""))",Chrome 115.0.0.0,,,2023-08-14 11:32:45,2023-08-14 11:32:45,"0,440s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala""), ""2"")",Chrome 115.0.0.0,Para colocar Direccion en sala 2,,2023-08-14 11:32:45,2023-08-14 11:32:46,"0,784s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""))",Chrome 115.0.0.0,,,2023-08-14 11:32:46,2023-08-14 11:32:46,"0,446s",PASSED
+"scrollToPosition(0, 0)",Chrome 115.0.0.0,,,2023-08-14 11:32:46,2023-08-14 11:32:46,"0,022s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:32:46,2023-08-14 11:32:48,"2,003s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:32:48,2023-08-14 11:32:49,"0,472s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:32:49,2023-08-14 11:32:52,"3,015s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Terminales""))",Chrome 115.0.0.0,inicio Virtual Radicaciones,,2023-08-14 11:32:52,2023-08-14 11:32:53,"0,684s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:32:53,2023-08-14 11:32:56,"3,015s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_6Virtual - Oficina Virtual""))",Chrome 115.0.0.0,,,2023-08-14 11:32:56,2023-08-14 11:32:56,"0,416s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:32:56,2023-08-14 11:32:59,"3,002s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo""))",Chrome 115.0.0.0,,,2023-08-14 11:32:59,2023-08-14 11:32:59,"0,451s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:32:59,2023-08-14 11:33:02,"3,017s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo Radicaciones""))",Chrome 115.0.0.0,,,2023-08-14 11:33:02,2023-08-14 11:33:03,"0,421s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:33:03,2023-08-14 11:33:06,"3,005s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), 2)",Chrome 115.0.0.0,,,2023-08-14 11:33:06,2023-08-14 11:33:06,"0,409s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), ""A03"")",Chrome 115.0.0.0,,,2023-08-14 11:33:06,2023-08-14 11:33:07,"0,758s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion""), ""Virtual - Terminal - Radicaciones"")",Chrome 115.0.0.0,,,2023-08-14 11:33:07,2023-08-14 11:33:08,"0,820s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""), 2)",Chrome 115.0.0.0,,,2023-08-14 11:33:08,2023-08-14 11:33:08,"0,407s",PASSED
+"clearText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala""))",Chrome 115.0.0.0,,,2023-08-14 11:33:08,2023-08-14 11:33:09,"0,437s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala""), ""3"")",Chrome 115.0.0.0,Para colocar Direccion en sala 3,,2023-08-14 11:33:09,2023-08-14 11:33:09,"0,803s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""))",Chrome 115.0.0.0,,,2023-08-14 11:33:09,2023-08-14 11:33:10,"0,449s",PASSED
+"scrollToPosition(0, 0)",Chrome 115.0.0.0,,,2023-08-14 11:33:10,2023-08-14 11:33:10,"0,010s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:33:10,2023-08-14 11:33:12,"2,003s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:33:12,2023-08-14 11:33:12,"0,435s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:33:12,2023-08-14 11:33:15,"3,004s",PASSED
+"scrollToPosition(0, 0)",Chrome 115.0.0.0,,,2023-08-14 11:33:15,2023-08-14 11:33:15,"0,016s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:33:15,2023-08-14 11:33:17,"2,008s",PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2023-08-14 11:33:17,2023-08-14 11:33:18,"0,830s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:33:18,2023-08-14 11:33:20,"2,014s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-08-14 11:33:20,2023-08-14 11:33:20,"0,000s",PASSED

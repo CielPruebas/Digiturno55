@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tipo Usuario Cliente_Invertir</name>
+   <tag></tag>
+   <elementGuidId>9b1e4ab5-ada4-4867-98fb-823685c7386d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_GridView']/tbody/tr[21]/td[12]/div/img[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>20ca5488-d46c-4392-a327-a9feed17ff8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rol</name>
+      <type>Main</type>
+      <value>checkInverse-h</value>
+      <webElementGuid>8c1ffbb8-aa62-452b-9df4-18c310c6ce26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../../img/Iconos/checkInverse.svg</value>
+      <webElementGuid>79893772-0c31-438d-a5da-8602c7d96e71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_GridView&quot;)/tbody[1]/tr[21]/td[12]/div[@class=&quot;d-flex contenedorUtilidadCheck&quot;]/img[2]</value>
+      <webElementGuid>51b83bba-74b7-49ad-bc9f-3902b9569a50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_GridView']/tbody/tr[21]/td[12]/div/img[2]</value>
+      <webElementGuid>e19e53fa-2c90-4f17-b583-1bdde3960e28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[21]/td[12]/div/img[2]</value>
+      <webElementGuid>f8dd62cc-92bd-4bc8-8d75-9653cd6c49ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../../img/Iconos/checkInverse.svg']</value>
+      <webElementGuid>a1168d97-8e48-4e4b-a37a-1d19d4ae17a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

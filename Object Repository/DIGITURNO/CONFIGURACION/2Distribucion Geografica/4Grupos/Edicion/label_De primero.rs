@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_De primero</name>
+   <tag></tag>
+   <elementGuidId>9d0be1ea-b9a0-43a0-ab29-5b899906c75e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='cPHPri_chklPrioridadesTransferencia']/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_chklPrioridadesTransferencia > span > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7a00bdea-4599-431f-a814-3a9e48ab738a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_chklPrioridadesTransferencia_0</value>
+      <webElementGuid>23937fe0-1824-45ac-b22f-d504038f13bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>De primero</value>
+      <webElementGuid>4eab0e51-aff8-41cd-adf1-fd6bf697d577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_chklPrioridadesTransferencia&quot;)/span[1]/label[1]</value>
+      <webElementGuid>1441592b-fd52-4fdc-a7b8-293106a71f24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='cPHPri_chklPrioridadesTransferencia']/span/label</value>
+      <webElementGuid>2b5065b9-e5b9-4b2e-a8ac-7cd103f16888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prioridades disponibles'])[1]/following::label[1]</value>
+      <webElementGuid>6695dd35-8d10-4081-baa3-51b15bda294d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transferencias de turnos en la actual:'])[1]/following::label[1]</value>
+      <webElementGuid>29620a3b-be43-479e-8041-1ff1647e7610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Por hora de llegada'])[1]/preceding::label[1]</value>
+      <webElementGuid>d6c2c410-df14-47a2-8945-dbaa720feebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hora de transferencia'])[1]/preceding::label[2]</value>
+      <webElementGuid>baceb246-7aca-426a-b931-04dfee479d03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='De primero']/parent::*</value>
+      <webElementGuid>529e94d4-16aa-4e95-90d8-1f6da638b375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/label</value>
+      <webElementGuid>8f9954a5-a7df-4efa-b6c0-9a91cea29220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'De primero' or . = 'De primero')]</value>
+      <webElementGuid>31a0e121-925e-4710-8b8c-b2cc0205f9ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

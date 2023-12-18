@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tipo Usuario Cliente_Nada</name>
+   <tag></tag>
+   <elementGuidId>83e79371-8a8a-4cd8-b0d0-bfa062d468fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_GridView']/tbody/tr[21]/td[12]/div/img[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>be4c7d50-9746-4c9c-a723-721ad5c4dcf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rol</name>
+      <type>Main</type>
+      <value>uncheckAll-h</value>
+      <webElementGuid>990728ec-8591-4291-adcf-925a4ef83042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../../img/Iconos/uncheckAll.svg</value>
+      <webElementGuid>0722b7b9-4101-4661-a918-4ebe71a9f1c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_GridView&quot;)/tbody[1]/tr[21]/td[12]/div[@class=&quot;d-flex contenedorUtilidadCheck&quot;]/img[3]</value>
+      <webElementGuid>fd965f5d-2049-4d62-a076-acaafff140ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_GridView']/tbody/tr[21]/td[12]/div/img[3]</value>
+      <webElementGuid>e5f8e744-d57d-48a1-8821-c2fc71943f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[21]/td[12]/div/img[3]</value>
+      <webElementGuid>1fde118b-9b93-41a5-bcc6-4c5c25c31bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../../img/Iconos/uncheckAll.svg']</value>
+      <webElementGuid>6331c46f-7181-48eb-8ad3-19c0d2f06603</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

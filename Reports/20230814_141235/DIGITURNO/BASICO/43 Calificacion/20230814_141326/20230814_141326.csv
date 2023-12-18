@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+43 Calificacion,Chrome 115.0.0.0,,,2023-08-14 14:51:01,2023-08-14 14:51:45,"44,224s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/43 Calificacion Crear,Chrome 115.0.0.0,,,2023-08-14 14:51:01,2023-08-14 14:51:45,"43,984s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 14:51:01,2023-08-14 14:51:28,"26,215s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_4Calificacion""))",Chrome 115.0.0.0,,,2023-08-14 14:51:28,2023-08-14 14:51:29,"1,068s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:51:29,2023-08-14 14:51:32,"3,003s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/4 Calificacion/Lista de oficinas/td_1 Bogota - CIEL""))",Chrome 115.0.0.0,Oficina,,2023-08-14 14:51:32,2023-08-14 14:51:32,"0,448s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:51:32,2023-08-14 14:51:35,"3,011s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/4 Calificacion/Preguntas/input_TextoPregunta""), ""¿Cómo le pareció la atención brindada del Asesor?"")",Chrome 115.0.0.0,,,2023-08-14 14:51:35,2023-08-14 14:51:36,"0,914s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 14:51:36,2023-08-14 14:51:38,"2,006s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/4 Calificacion/Preguntas/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 14:51:38,2023-08-14 14:51:39,"0,478s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:51:39,2023-08-14 14:51:42,"3,009s",PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2023-08-14 14:51:42,2023-08-14 14:51:42,"0,498s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:51:42,2023-08-14 14:51:45,"3,012s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-08-14 14:51:45,2023-08-14 14:51:45,"0,000s",PASSED

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_3Cartagena - Bocagrande</name>
+   <tag></tag>
+   <elementGuidId>12756a68-d907-4353-90cb-90a3f80e9c4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.rcbHovered > label > input.rcbCheckBox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>60691490-4d73-4112-aef7-19e2906b3b93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>c98af259-5756-4ab2-9d20-1a35e03168b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rcbCheckBox</value>
+      <webElementGuid>0ea3e4bd-37e7-4dcc-907a-d0a4d91c723e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_cPHPri_TabContainer_tabContainerGrupo_tabContainerRelacionGrupos_tabContainerGrupoXEnte_CombosJerarquia3_ddlNiveloficinas1_DropDown&quot;)/div[@class=&quot;rcbScroll rcbWidth&quot;]/ul[@class=&quot;rcbList&quot;]/li[@class=&quot;rcbHovered&quot;]/label[1]/input[@class=&quot;rcbCheckBox&quot;]</value>
+      <webElementGuid>47135b8f-65c8-43cf-821c-5256048be290</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[4]</value>
+      <webElementGuid>f58c858a-adf7-48c0-a402-9cdd0c585e8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_cPHPri_TabContainer_tabContainerGrupo_tabContainerRelacionGrupos_tabContainerGrupoXEnte_CombosJerarquia3_ddlNiveloficinas1_DropDown']/div/ul/li[3]/label/input</value>
+      <webElementGuid>ccb0f75c-5b84-4120-9fab-7952a492009f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/label/input</value>
+      <webElementGuid>6e0f8f6b-fc96-4018-846d-d9c362ae13d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>383b8c42-7122-4be2-9751-3bc05d6863aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

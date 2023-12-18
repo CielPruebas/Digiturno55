@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_5 ARL Medellin - Laureles</name>
+   <tag></tag>
+   <elementGuidId>5dae65a0-df8b-4c57-b66d-79e8b6799f5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_ctl00_TabAdministradorRecursosLocales_ListaAdministradorRecursosLocales_GridView']/tbody/tr[5]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ce616aeb-b13d-496f-a636-5c4ae8141ad0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>left</value>
+      <webElementGuid>276ab5e2-cb07-48a4-a0f5-1e1640486f22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ARL Medellin - Laureles</value>
+      <webElementGuid>768d6864-0530-44d6-8510-ef69936ca0f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl00_TabAdministradorRecursosLocales_ListaAdministradorRecursosLocales_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[2]</value>
+      <webElementGuid>bba6df15-4d49-4a61-854d-2197b70bbbab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_ctl00_TabAdministradorRecursosLocales_ListaAdministradorRecursosLocales_GridView']/tbody/tr[5]/td[2]</value>
+      <webElementGuid>75ba6cd8-4806-49d6-99ca-c2a42dc51160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[5]/following::td[1]</value>
+      <webElementGuid>a260e9ef-baeb-4197-b72d-8ea5a06f6d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL Manizales - Manizales'])[2]/following::td[2]</value>
+      <webElementGuid>aa8ae3db-d6d9-462d-891f-e2d7d208c937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL Medellin - Laureles'])[2]/preceding::td[1]</value>
+      <webElementGuid>bb9d346d-a60b-4747-bf73-c525870e6d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[6]/preceding::td[2]</value>
+      <webElementGuid>b573923c-b645-4b53-a317-707192cec814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ARL Medellin - Laureles']/parent::*</value>
+      <webElementGuid>18e43ffb-fb76-4b35-ab12-571bee95fb27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]</value>
+      <webElementGuid>b462f8cd-fbf6-4e45-b49e-42fa3bed67f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'ARL Medellin - Laureles' or . = 'ARL Medellin - Laureles')]</value>
+      <webElementGuid>8d12c96d-912e-41b5-86c7-c822296d438b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

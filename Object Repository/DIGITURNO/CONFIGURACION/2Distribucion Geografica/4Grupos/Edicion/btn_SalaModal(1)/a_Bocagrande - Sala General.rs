@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bocagrande - Sala General</name>
+   <tag></tag>
+   <elementGuidId>2a58f05c-51f5-45fd-81ca-7979c943bf12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='cPHPri_DistribucionGeograficaEdicion_tVt5']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_DistribucionGeograficaEdicion_tVt5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ee855026-f8c2-4d4f-ae71-a0f7725f2963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$cPHPri$DistribucionGeograficaEdicion$tV','sOficina@@@3\\Sala@@@3')</value>
+      <webElementGuid>a5a5aff1-a1fe-464f-9a3b-1d59f0d77e5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>TreeView_SelectNode(cPHPri_DistribucionGeograficaEdicion_tV_Data, this,'cPHPri_DistribucionGeograficaEdicion_tVt5');</value>
+      <webElementGuid>3c7ed904-cea4-4764-8eed-70a3988bd6ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Bocagrande - Sala General</value>
+      <webElementGuid>23b2a4f9-edfd-4ec7-a916-cf950432b91c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cPHPri_DistribucionGeograficaEdicion_tVt5</value>
+      <webElementGuid>f5560e0e-fd3c-479c-b437-8a7d7cd367dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bocagrande - Sala General</value>
+      <webElementGuid>699c4471-9523-44c1-a98c-425e6a6494cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_DistribucionGeograficaEdicion_tVt5&quot;)</value>
+      <webElementGuid>69f05817-5415-46e6-b5d8-2501270f7356</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='cPHPri_DistribucionGeograficaEdicion_tVt5']</value>
+      <webElementGuid>4e59d6bd-e9b6-4970-a464-e040b6500796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_DistribucionGeograficaEdicion_tVn4Nodes']/table/tbody/tr/td[4]/a</value>
+      <webElementGuid>eb3bde16-cf71-467c-8e72-856eff64f462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Bocagrande - Sala General')])[2]</value>
+      <webElementGuid>f989d899-161e-4d31-b3bd-4e423023dc6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cartagena - Bocagrande'])[3]/following::a[2]</value>
+      <webElementGuid>13c18400-fbda-4694-94f4-210ff9670429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chipichape - Sala General'])[2]/following::a[3]</value>
+      <webElementGuid>364babb7-9e0f-45a9-bb14-74f678d55867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manizales - Manizales'])[3]/preceding::a[2]</value>
+      <webElementGuid>d05b5632-c5c3-4ef9-97bb-b96d6f7c44cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manizales - Sala General'])[2]/preceding::a[3]</value>
+      <webElementGuid>9ecac555-79e9-4bb8-b418-0e12bde33738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, &quot;javascript:__doPostBack('ctl00$cPHPri$DistribucionGeograficaEdicion$tV','sOficina@@@3\\Sala@@@3')&quot;)])[2]</value>
+      <webElementGuid>4a4d3c77-4235-4ed9-94b5-f8477ec3ecfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/div[3]/table/tbody/tr/td[4]/a</value>
+      <webElementGuid>a4a22f05-05d1-470e-9dcd-e7d7e7940aa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$cPHPri$DistribucionGeograficaEdicion$tV&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;sOficina@@@3\\Sala@@@3&quot; , &quot;'&quot; , &quot;)&quot;) and @title = 'Bocagrande - Sala General' and @id = 'cPHPri_DistribucionGeograficaEdicion_tVt5' and (text() = 'Bocagrande - Sala General' or . = 'Bocagrande - Sala General')]</value>
+      <webElementGuid>094ac07c-8b1c-436b-a22f-79b112728cab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

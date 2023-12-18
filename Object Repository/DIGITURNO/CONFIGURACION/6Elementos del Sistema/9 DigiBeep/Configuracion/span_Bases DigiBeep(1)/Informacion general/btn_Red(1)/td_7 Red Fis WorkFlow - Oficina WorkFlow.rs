@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_7 Red Fis WorkFlow - Oficina WorkFlow</name>
+   <tag></tag>
+   <elementGuidId>175be198-b260-4894-8e45-b499437284b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_TabContainer1_TabEdicion_ListaRedes_GridView']/tbody/tr[7]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>2cafdd78-2597-46e9-ad7c-b67a0f8f4894</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Red Fis WorkFlow - Oficina WorkFlow</value>
+      <webElementGuid>c149bd4a-e137-4a47-b188-8715c431519f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_TabContainer1_TabEdicion_ListaRedes_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>e9277952-d77c-42c6-acca-5f8d6712b255</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_TabContainer1_TabEdicion_ListaRedes_GridView']/tbody/tr[7]/td[3]</value>
+      <webElementGuid>0f382080-7a6c-45e8-a013-f306d00ebbb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[21]/following::td[2]</value>
+      <webElementGuid>8cd5e9cf-c624-451e-aa5d-666d80e83119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL Virtual - Oficina Virtual'])[1]/following::td[3]</value>
+      <webElementGuid>d70c30e6-c77f-46fd-93e2-9611359d875b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Red TCP/IP'])[7]/preceding::td[1]</value>
+      <webElementGuid>dbfe7564-3c0b-43da-bb9d-96051c4dc538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL WorkFlow - Oficina WorkFlow'])[1]/preceding::td[3]</value>
+      <webElementGuid>97f790fa-16ae-4055-bb18-20dbd113abe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Red Fis WorkFlow - Oficina WorkFlow']/parent::*</value>
+      <webElementGuid>d9dd2c4d-1a12-4388-a4b2-aea31de016b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/table/tbody/tr[7]/td[3]</value>
+      <webElementGuid>92583e20-2ee2-475d-9fd1-730bfecfaa95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Red Fis WorkFlow - Oficina WorkFlow' or . = 'Red Fis WorkFlow - Oficina WorkFlow')]</value>
+      <webElementGuid>0543c446-4783-4c97-b5fc-76d9e6fa956d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

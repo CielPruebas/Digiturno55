@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Generar turno con impresion</name>
+   <tag></tag>
+   <elementGuidId>759c7aee-339f-453a-b692-3fdf45e1b734</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_ctl04_TabAcciones_upAcciones']/div/div[3]/div[3]/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>28d0d8b2-2aa1-4251-bedf-05c3ec41b167</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_ctl04_TabAcciones_CheckConImpresion</value>
+      <webElementGuid>f4fcab14-321c-4c4e-9ed8-0d83368e5159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Generar turno con impresión</value>
+      <webElementGuid>76793e46-49ab-429d-aca1-12e4662621ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl04_TabAcciones_upAcciones&quot;)/div[@class=&quot;cajaSoloContenido&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4&quot;]/span[1]/label[1]</value>
+      <webElementGuid>e4b47e6f-6846-419f-9056-29a94e51d8c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_ctl04_TabAcciones_upAcciones']/div/div[3]/div[3]/span/label</value>
+      <webElementGuid>570650f5-8973-4a3c-9d90-266fbba41c96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultar información Adicional Colas'])[1]/following::label[1]</value>
+      <webElementGuid>2f47a291-0d69-4d88-9778-dbe65f7abb02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generar Turno sin impresion'])[1]/following::label[2]</value>
+      <webElementGuid>521f047d-dc52-4ef3-8517-6bd9bf71c7e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permitir cancelar un turno al selector'])[1]/preceding::label[1]</value>
+      <webElementGuid>8e08c6dd-48d7-48f8-a3f2-cd0e385f3a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver promedios de las salas asociados al selector'])[1]/preceding::label[2]</value>
+      <webElementGuid>5175ba0a-dc17-4c43-910d-a085b4b53f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Generar turno con impresión']/parent::*</value>
+      <webElementGuid>b4cc4316-7b6e-4095-a22b-983755345833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/span/label</value>
+      <webElementGuid>6b6ceb1c-6a6a-4184-a189-bff114d02ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Generar turno con impresión' or . = 'Generar turno con impresión')]</value>
+      <webElementGuid>f0c74a68-95ec-43c5-90f0-0e224b355294</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

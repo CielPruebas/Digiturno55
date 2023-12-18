@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cambiar Clave</name>
+   <tag></tag>
+   <elementGuidId>f783f942-6c4a-4750-a0bb-3ea40fe0d8c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='hlkCambiarClave']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#hlkCambiarClave</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f39405fc-1130-49cc-9816-d45d7d2ced7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>hlkCambiarClave</value>
+      <webElementGuid>7fa0d8d0-7924-494c-85fe-159b0075424c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Paginas/Configuracion/Seguridad/Usuario/CambiarClave.aspx</value>
+      <webElementGuid>50f54c96-b1f5-43a8-a35d-9448656c8f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cambiar Clave</value>
+      <webElementGuid>505cd4ab-beae-4c24-a1a9-97fac91f88d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hlkCambiarClave&quot;)</value>
+      <webElementGuid>861fcbc9-f6a3-4c82-ac64-eb4f3bb4a487</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='hlkCambiarClave']</value>
+      <webElementGuid>eda691e8-9f7c-4a21-b1c6-dfdda9fe5b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form1']/div[8]/div/div/div/div[2]/div[2]/div/div[2]/a[2]</value>
+      <webElementGuid>22d3a236-63c3-42a3-b498-9b8c711e4877</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cambiar Clave')]</value>
+      <webElementGuid>6b0115e1-bb87-4638-acc2-746f2cdfaafa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerrar sesión'])[1]/following::a[1]</value>
+      <webElementGuid>96d6c6d8-db7c-4ac7-a733-af8a87941c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CIEL'])[1]/following::a[2]</value>
+      <webElementGuid>993ebfba-e16d-430c-b1fc-d8c0f1cd6a18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicio'])[1]/preceding::a[3]</value>
+      <webElementGuid>f3d70d30-fc9a-49a1-bf4b-6be08e518e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operación'])[1]/preceding::a[4]</value>
+      <webElementGuid>fbb9fb0f-0f8f-4e44-87b4-a374e9fc13ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cambiar Clave']/parent::*</value>
+      <webElementGuid>21a88e75-1eca-40b0-a4fa-7245243413ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Paginas/Configuracion/Seguridad/Usuario/CambiarClave.aspx')]</value>
+      <webElementGuid>704ca68e-c5a6-41c6-b560-c33a563de839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>855822c2-9a1c-4498-99f4-63186195ed52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'hlkCambiarClave' and @href = 'Paginas/Configuracion/Seguridad/Usuario/CambiarClave.aspx' and (text() = 'Cambiar Clave' or . = 'Cambiar Clave')]</value>
+      <webElementGuid>f0d12f53-bb1f-4ade-a74b-8dd78e36de6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

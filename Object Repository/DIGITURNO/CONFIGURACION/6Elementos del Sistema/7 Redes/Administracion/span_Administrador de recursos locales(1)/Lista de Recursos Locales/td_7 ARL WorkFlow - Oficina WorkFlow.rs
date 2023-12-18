@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_7 ARL WorkFlow - Oficina WorkFlow</name>
+   <tag></tag>
+   <elementGuidId>b0cd8a38-5e4c-4384-bfba-b2a57f0a3af4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_ctl00_TabAdministradorRecursosLocales_ListaAdministradorRecursosLocales_GridView']/tbody/tr[7]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c93dccc3-bce2-49d1-a592-c286c50f5f34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>left</value>
+      <webElementGuid>dabdfb64-b984-4a6b-856b-f0e56ec24ab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ARL WorkFlow - Oficina WorkFlow</value>
+      <webElementGuid>f9a2f4bc-5003-4d60-916f-cfee80b2d695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl00_TabAdministradorRecursosLocales_ListaAdministradorRecursosLocales_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[2]</value>
+      <webElementGuid>9962bd08-5a7a-4e0f-b5e4-10696584a1cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_ctl00_TabAdministradorRecursosLocales_ListaAdministradorRecursosLocales_GridView']/tbody/tr[7]/td[2]</value>
+      <webElementGuid>e170dfe2-3eba-400d-afa4-8d8ce397e2e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[7]/following::td[1]</value>
+      <webElementGuid>bd0f0dee-df64-45b7-bd43-6a8c741aa714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL Virtual - Oficina Virtual'])[2]/following::td[2]</value>
+      <webElementGuid>6b399a1e-0fb2-43c3-9b35-2d65ee8efc87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL WorkFlow - Oficina WorkFlow'])[2]/preceding::td[1]</value>
+      <webElementGuid>b32b1013-ee1f-4ed9-8982-507318d3e2d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clientes ARL conectados'])[1]/preceding::td[2]</value>
+      <webElementGuid>ba067a42-3f55-4411-9730-7d4c7729ab44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ARL WorkFlow - Oficina WorkFlow']/parent::*</value>
+      <webElementGuid>9be764e3-c9ee-46a2-a76f-814629fcabc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[2]</value>
+      <webElementGuid>0798f36b-2787-48d8-ba3a-630f90d427b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'ARL WorkFlow - Oficina WorkFlow' or . = 'ARL WorkFlow - Oficina WorkFlow')]</value>
+      <webElementGuid>d41756b2-eb5b-4731-ba86-32f9d3d04e72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_1CIEL - Sala General</name>
+   <tag></tag>
+   <elementGuidId>bd11ac85-f182-45a6-b175-fd6652c537d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_ctl04_TabEdicion_Salas1_GridView']/tbody/tr[2]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d16f7c22-6ccb-4c88-a11e-6b876c2b0a04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CIEL - Sala General</value>
+      <webElementGuid>40905298-91e7-486b-acbd-639e96607364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl04_TabEdicion_Salas1_GridView&quot;)/tbody[1]/tr[2]/td[2]</value>
+      <webElementGuid>9a760e77-aeff-4d61-b212-59679848c721</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_ctl04_TabEdicion_Salas1_GridView']/tbody/tr[2]/td[2]</value>
+      <webElementGuid>10a8986a-72a2-4d11-8d8a-0148775a8f06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terminales'])[4]/following::td[2]</value>
+      <webElementGuid>7bea697b-795c-4702-b359-a0ec9c5ba53f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grupos'])[3]/following::td[2]</value>
+      <webElementGuid>339af723-17e2-488a-bf06-297fe425c437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CIEL - Sala General'])[2]/preceding::td[1]</value>
+      <webElementGuid>f5976050-26fc-4dc4-8545-3c6d8af05e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bogota - CIEL'])[4]/preceding::td[2]</value>
+      <webElementGuid>858d4bc6-8835-4d07-a751-8ccd4b4436c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CIEL - Sala General']/parent::*</value>
+      <webElementGuid>56ca6dad-cb1c-46d4-8038-b638da033dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>784af62d-8b3d-442e-8257-39b359df6cc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'CIEL - Sala General' or . = 'CIEL - Sala General')]</value>
+      <webElementGuid>a638b62e-d21c-43e1-91e3-078d1f9c0371</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

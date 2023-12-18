@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Campos adicionales</name>
+   <tag></tag>
+   <elementGuidId>2f184a0f-51a0-4a72-a18a-beaf364abbc0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_ctl04_TabAcciones_upAcciones']/div/div[2]/div[3]/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>da1b66a9-4983-4305-95a3-88fddffb7c78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_ctl04_TabAcciones_checkCamposAdicionales</value>
+      <webElementGuid>3cb623d9-5aa6-426b-b211-73aa8e7a5188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Campos adicionales</value>
+      <webElementGuid>d2ad9569-5f57-4909-9218-07085c4b8d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl04_TabAcciones_upAcciones&quot;)/div[@class=&quot;cajaSoloContenido&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4&quot;]/span[1]/label[1]</value>
+      <webElementGuid>b0897aeb-1c24-48b4-b7d9-32bed292103f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_ctl04_TabAcciones_upAcciones']/div/div[2]/div[3]/span/label</value>
+      <webElementGuid>023e016f-add8-46e3-a33e-0d60363bea32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generar Conteo'])[1]/following::label[1]</value>
+      <webElementGuid>d0c15a8c-d510-428f-b0b9-17d17d665f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultar datos del cliente'])[1]/following::label[2]</value>
+      <webElementGuid>e9358515-1e74-4d75-a79a-e7519c8e52a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generar Turno sin impresion'])[1]/preceding::label[1]</value>
+      <webElementGuid>a7f0af38-a572-4a73-91f1-92887be83554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultar información Adicional Colas'])[1]/preceding::label[2]</value>
+      <webElementGuid>0e68a9b3-7034-4ee4-898e-d1ddb7ea618d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/label</value>
+      <webElementGuid>1514fa7b-8ba1-49d5-9513-bd0a8e942595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Campos adicionales' or . = 'Campos adicionales')]</value>
+      <webElementGuid>1084facd-3d78-4658-8ce3-9765b978af90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

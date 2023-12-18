@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Contraer y Expandir(2)</name>
+   <tag></tag>
+   <elementGuidId>e18c9366-592c-4aaa-b48e-82861c395463</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_pnDisGeoTrans']/div[3]/div[2]/table/tbody/tr/td/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.busquedaTreeviewExpandir</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fbe5916e-c98f-4ca4-ace9-ace3eac84ae0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>busquedaTreeviewExpandir</value>
+      <webElementGuid>cc487269-3ffa-4dc2-8e65-8ca095535869</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Expandir / contraer</value>
+      <webElementGuid>3696274e-1e3b-467d-bf4a-30635ed8de50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>2840162b-6255-4b9a-8e51-7a599fd1245f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_pnDisGeoTrans&quot;)/div[3]/div[@class=&quot;treeViewEnvoltura&quot;]/table[1]/tbody[1]/tr[1]/td[1]/span[@class=&quot;busquedaTreeviewExpandir&quot;]</value>
+      <webElementGuid>395aaf94-8f58-4fc6-9210-08356e999750</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_pnDisGeoTrans']/div[3]/div[2]/table/tbody/tr/td/span</value>
+      <webElementGuid>1afa3a56-2271-4838-a55e-6c6021d2de5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuario:'])[2]/following::span[1]</value>
+      <webElementGuid>b0b92bcf-d49f-4bba-bc54-c7229588bae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cardiología'])[1]/following::span[2]</value>
+      <webElementGuid>d6b14278-ebeb-4ee2-a1e3-62141eec81fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bogota - CIEL'])[1]/preceding::span[2]</value>
+      <webElementGuid>e1b81c85-2d25-4f40-b080-f253848b0953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CIEL - Sala General'])[2]/preceding::span[3]</value>
+      <webElementGuid>6b14a962-fc92-4e8c-beaf-2dd69e8f6694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td/span</value>
+      <webElementGuid>8c18765e-134b-4649-8400-869ee7ee3e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Expandir / contraer' and (text() = ' ' or . = ' ')]</value>
+      <webElementGuid>f00e8f53-24b3-4030-8c76-3c0953d880a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

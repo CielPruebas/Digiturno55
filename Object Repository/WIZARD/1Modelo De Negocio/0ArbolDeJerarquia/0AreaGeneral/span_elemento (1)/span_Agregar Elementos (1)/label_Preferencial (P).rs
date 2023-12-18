@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Preferencial (P)</name>
+   <tag></tag>
+   <elementGuidId>6fa3069b-ccb7-4610-93b8-b40b92eab8e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ContentPlaceHolder1_ArbolJerarquiaNegocio_chlElementosAAgregar']/tbody/tr[2]/td/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>aaf2d33a-63fe-478e-be0d-ba00e5285d2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ContentPlaceHolder1_ArbolJerarquiaNegocio_chlElementosAAgregar_1</value>
+      <webElementGuid>05c9221b-7aca-461d-a978-a3fa49d21cad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Preferencial (P)</value>
+      <webElementGuid>a342188d-4d2c-4479-8b65-8aeb99361182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContentPlaceHolder1_ArbolJerarquiaNegocio_chlElementosAAgregar&quot;)/tbody[1]/tr[2]/td[1]/span[1]/label[1]</value>
+      <webElementGuid>cb35e38e-40cd-4a16-a301-bfe7bd48d252</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ContentPlaceHolder1_ArbolJerarquiaNegocio_chlElementosAAgregar']/tbody/tr[2]/td/span/label</value>
+      <webElementGuid>c044dec8-ed90-43bb-8786-5b1672cfa8e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General (G)'])[1]/following::label[1]</value>
+      <webElementGuid>fe627bc3-9a4f-4f61-8580-9c5472411b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccione los elementos a agregar'])[1]/following::label[2]</value>
+      <webElementGuid>60893fc1-bd99-484c-a375-5d5dda1dcdcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::label[1]</value>
+      <webElementGuid>4fb1f86a-ee32-414e-89d7-b891fb630de6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::label[1]</value>
+      <webElementGuid>b54dce48-156f-4a88-bc72-95fe34023578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Preferencial (P)']/parent::*</value>
+      <webElementGuid>621038e9-ad36-42bf-8ee7-b46e557ca87d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/span/label</value>
+      <webElementGuid>194a59fc-73d4-4f82-b5a3-267c457256f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Preferencial (P)' or . = 'Preferencial (P)')]</value>
+      <webElementGuid>65655507-7fa7-4152-962c-50c5881f7870</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

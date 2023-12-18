@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Grupos</name>
+   <tag></tag>
+   <elementGuidId>ee681188-f3ce-40d2-a954-50a7b4c62e00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='cPHPri_MenuEdicionSeleccionEntes_lnkGrupos']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_MenuEdicionSeleccionEntes_lnkGrupos > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5b7da566-fceb-42ae-9908-d865e1210500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../../img/Iconos/Secciones/grupo2.svg</value>
+      <webElementGuid>a7e44f6e-440f-4e25-99f0-3f68ba423fc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_MenuEdicionSeleccionEntes_lnkGrupos&quot;)/img[1]</value>
+      <webElementGuid>dadd1111-2a70-4a3f-b20d-c0b7333b61c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='cPHPri_MenuEdicionSeleccionEntes_lnkGrupos']/img</value>
+      <webElementGuid>7f4e8a15-757f-4435-a75f-3194677c8943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/a[3]/img</value>
+      <webElementGuid>8122d8b5-d869-4d00-a391-870be442a676</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../../img/Iconos/Secciones/grupo2.svg']</value>
+      <webElementGuid>91a6191e-0672-4c44-96e2-83060d67534e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

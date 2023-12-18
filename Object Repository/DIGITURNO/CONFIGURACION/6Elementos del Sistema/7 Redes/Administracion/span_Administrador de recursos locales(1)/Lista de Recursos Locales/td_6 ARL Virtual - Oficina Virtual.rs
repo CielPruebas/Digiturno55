@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_6 ARL Virtual - Oficina Virtual</name>
+   <tag></tag>
+   <elementGuidId>893dacde-d60b-46cf-9440-7f8816540ef6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_ctl00_TabAdministradorRecursosLocales_ListaAdministradorRecursosLocales_GridView']/tbody/tr[6]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>94bfd7b6-96fb-4599-8882-503732e1862b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>left</value>
+      <webElementGuid>675e52e9-8ed6-430c-98ce-6452f79b45be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ARL Virtual - Oficina Virtual</value>
+      <webElementGuid>9cf17e68-f03b-4013-b259-60dce942cd90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl00_TabAdministradorRecursosLocales_ListaAdministradorRecursosLocales_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[2]</value>
+      <webElementGuid>7efc9bc9-a4c4-4e88-adf1-98794bff1e14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_ctl00_TabAdministradorRecursosLocales_ListaAdministradorRecursosLocales_GridView']/tbody/tr[6]/td[2]</value>
+      <webElementGuid>3531bcfd-6768-489a-b600-5973e3ed3418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[6]/following::td[1]</value>
+      <webElementGuid>c729eecf-fdbb-4b60-a272-9503dd211f54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL Medellin - Laureles'])[2]/following::td[2]</value>
+      <webElementGuid>0619be8b-1ea8-43d2-9c86-082f8c3e30bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARL Virtual - Oficina Virtual'])[2]/preceding::td[1]</value>
+      <webElementGuid>a2259154-d307-4036-ad13-86242652b01b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[7]/preceding::td[2]</value>
+      <webElementGuid>30463e0f-d27e-4079-b7ad-86d5190c4667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ARL Virtual - Oficina Virtual']/parent::*</value>
+      <webElementGuid>970b662a-0bc7-4dd8-9fe6-5b782a2480ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]</value>
+      <webElementGuid>db0b4a1a-b5e5-49f3-8a16-6f5cf43ff8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'ARL Virtual - Oficina Virtual' or . = 'ARL Virtual - Oficina Virtual')]</value>
+      <webElementGuid>a62bdefb-49f0-403c-b393-bc2679b02ac4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

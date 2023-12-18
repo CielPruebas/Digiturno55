@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Oficinas</name>
+   <tag></tag>
+   <elementGuidId>7f29e864-ce00-4343-b5e9-ce3851b1d925</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='cPHPri_MenuEdicionSeleccionOficinas_lnkOficinas']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_MenuEdicionSeleccionOficinas_lnkOficinas > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2672f7f6-a35f-4a1b-acf8-974d366a4306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../../img/Iconos/Secciones/oficina2.svg</value>
+      <webElementGuid>ae9a862b-f7bc-494c-8d40-ad7ef89f8013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_MenuEdicionSeleccionOficinas_lnkOficinas&quot;)/img[1]</value>
+      <webElementGuid>7b0afc13-a61d-4653-8a4f-de10054fae72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='cPHPri_MenuEdicionSeleccionOficinas_lnkOficinas']/img</value>
+      <webElementGuid>ff6cbaf1-1726-457d-9a8d-e7a5153f8c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a/img</value>
+      <webElementGuid>a17e7c43-4a60-4ec7-8819-38ee68738207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../../img/Iconos/Secciones/oficina2.svg']</value>
+      <webElementGuid>121b7a0e-d0b6-462a-90d0-24d8e0c260b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

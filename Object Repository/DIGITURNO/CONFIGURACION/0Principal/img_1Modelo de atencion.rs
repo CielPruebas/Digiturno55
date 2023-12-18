@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1Modelo de atencion</name>
+   <tag></tag>
+   <elementGuidId>8888e37d-3da7-4631-8b56-cd82bf2c114b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@src = '/img/iconos/Secciones/ModeloAtencion.svg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.menuIconos > div > a > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0e748f81-7af6-479c-90e7-23dc44f69c38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/img/iconos/Secciones/ModeloAtencion.svg</value>
+      <webElementGuid>a3070219-e5ee-4a96-ab03-68e407eba508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divContenidoPrincipal&quot;)/div[@class=&quot;d-flex&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;contenedorMenuIconos&quot;]/div[@class=&quot;menuIconos&quot;]/div[1]/a[1]/img[1]</value>
+      <webElementGuid>b12877d2-f6d7-4f5b-92a2-ed51a5fa696e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divContenidoPrincipal']/div[2]/div/div/div/div/a/img</value>
+      <webElementGuid>b3be8230-0c2d-4cf5-aa08-c8b99a6a8e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/a/img</value>
+      <webElementGuid>cd4f5746-949e-4c6d-bd9d-ca4c0468a60d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/img/iconos/Secciones/ModeloAtencion.svg']</value>
+      <webElementGuid>36ca0f32-b8dd-4656-8512-ba034857c54a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,38 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.1 Crear Oficina Medellin,Chrome 115.0.0.0,,,2023-08-14 10:50:06,2023-08-14 10:51:10,"1m - 4,205s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/1Oficinas/5.1 Crear Oficina Medellin,Chrome 115.0.0.0,,,2023-08-14 10:50:06,2023-08-14 10:51:10,"1m - 3,957s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 10:50:07,2023-08-14 10:50:18,"11,090s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 115.0.0.0,,,2023-08-14 10:50:18,2023-08-14 10:50:23,"4,790s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 10:50:23,2023-08-14 10:50:26,"3,003s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Oficinas""))",Chrome 115.0.0.0,,,2023-08-14 10:50:26,2023-08-14 10:50:28,"2,092s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 10:50:28,2023-08-14 10:50:31,"3,015s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Pais""), ""Colombia"", false)",Chrome 115.0.0.0,,,2023-08-14 10:50:31,2023-08-14 10:50:32,"0,877s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 10:50:32,2023-08-14 10:50:34,"2,010s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Departamento""), ""Antioquia"", false)",Chrome 115.0.0.0,,,2023-08-14 10:50:34,2023-08-14 10:50:34,"0,795s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 10:50:34,2023-08-14 10:50:36,"2,016s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Ciudad""), ""Medellin"", false)",Chrome 115.0.0.0,,,2023-08-14 10:50:36,2023-08-14 10:50:37,"0,848s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 10:50:37,2023-08-14 10:50:39,"2,012s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_Nombre""), ""Medellin - Laureles"")",Chrome 115.0.0.0,Oficina Medellin - Laureles,,2023-08-14 10:50:39,2023-08-14 10:50:40,"0,906s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Nivel de Pregunta""), ""Ninguno"", false)",Chrome 115.0.0.0,,,2023-08-14 10:50:40,2023-08-14 10:50:41,"0,686s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 10:50:41,2023-08-14 10:50:44,"3,014s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_MaximoTurnosXCliente""), ""2"")",Chrome 115.0.0.0,,,2023-08-14 10:50:44,2023-08-14 10:50:45,"0,775s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_Nivel de servicio de espera""), ""0"")",Chrome 115.0.0.0,,,2023-08-14 10:50:45,2023-08-14 10:50:45,"0,787s",PASSED
+"scrollToPosition(100, 800)",Chrome 115.0.0.0,,,2023-08-14 10:50:45,2023-08-14 10:50:45,"0,041s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 10:50:45,2023-08-14 10:50:48,"3,017s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Nombre a mostrar""), ""Medellin - Laureles"")",Chrome 115.0.0.0,,,2023-08-14 10:50:48,2023-08-14 10:50:49,"0,794s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Direccion""), ""Calle 10 No 24-3"")",Chrome 115.0.0.0,,,2023-08-14 10:50:49,2023-08-14 10:50:50,"0,750s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Numero de telefono""), ""3279000"")",Chrome 115.0.0.0,,,2023-08-14 10:50:50,2023-08-14 10:50:51,"0,764s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Distancia minima creacion turnos (m)""), ""100"")",Chrome 115.0.0.0,,,2023-08-14 10:50:51,2023-08-14 10:50:52,"0,784s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Cantidad de turnos para prellamado""), ""2"")",Chrome 115.0.0.0,,,2023-08-14 10:50:52,2023-08-14 10:50:52,"0,751s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 10:50:52,2023-08-14 10:50:55,"3,009s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Longitud""), ""0.0000000000"")",Chrome 115.0.0.0,,,2023-08-14 10:50:55,2023-08-14 10:50:56,"0,851s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Latitud""), ""0.0000000000"")",Chrome 115.0.0.0,,,2023-08-14 10:50:56,2023-08-14 10:50:57,"0,773s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 10:50:57,2023-08-14 10:51:00,"3,010s",PASSED
+"scrollToPosition(0, 0)",Chrome 115.0.0.0,,,2023-08-14 10:51:00,2023-08-14 10:51:00,"0,025s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 10:51:00,2023-08-14 10:51:03,"3,014s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 10:51:03,2023-08-14 10:51:03,"0,459s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 10:51:03,2023-08-14 10:51:06,"3,013s",PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2023-08-14 10:51:06,2023-08-14 10:51:07,"0,859s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 10:51:07,2023-08-14 10:51:10,"3,011s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-08-14 10:51:10,2023-08-14 10:51:10,"0,000s",PASSED

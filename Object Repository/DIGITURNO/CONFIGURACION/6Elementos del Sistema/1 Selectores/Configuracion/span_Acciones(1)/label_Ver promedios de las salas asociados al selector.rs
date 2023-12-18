@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Ver promedios de las salas asociados al selector</name>
+   <tag></tag>
+   <elementGuidId>79e9fdc3-a145-401c-afc9-85cb706f09d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_ctl04_TabAcciones_upAcciones']/div/div[4]/div[2]/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>605f0eac-53a0-4211-8262-2d6093414680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_ctl04_TabAcciones_CheckDistribucionEntes</value>
+      <webElementGuid>f6ce5772-8c4a-4c9b-bef1-83e0d15dbe7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ver promedios de las salas asociados al selector</value>
+      <webElementGuid>f188ca23-fcb2-4b91-a1f8-39edbbe4a3bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl04_TabAcciones_upAcciones&quot;)/div[@class=&quot;cajaSoloContenido&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4&quot;]/span[1]/label[1]</value>
+      <webElementGuid>9906a995-eabf-4796-bd2d-e5991e47cf5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_ctl04_TabAcciones_upAcciones']/div/div[4]/div[2]/span/label</value>
+      <webElementGuid>84b7148b-b2b4-4284-aa66-699565ec09cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permitir cancelar un turno al selector'])[1]/following::label[1]</value>
+      <webElementGuid>cac12f80-6fda-4033-a9e8-292698553032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generar turno con impresión'])[1]/following::label[2]</value>
+      <webElementGuid>7a5f1dad-d0df-424a-9ce3-2014932e7d4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promedio Colas'])[1]/preceding::label[1]</value>
+      <webElementGuid>cbdb24ce-bc98-40df-a874-fd33a5921c83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/preceding::label[2]</value>
+      <webElementGuid>d8389113-8ac9-4f14-b5d0-1b4ec4862510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ver promedios de las salas asociados al selector']/parent::*</value>
+      <webElementGuid>8d3f62df-3e1a-43ea-aab6-59f935ed6f82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/span/label</value>
+      <webElementGuid>aa33543c-7294-41d2-8bba-e4cf4c23a75a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Ver promedios de las salas asociados al selector' or . = 'Ver promedios de las salas asociados al selector')]</value>
+      <webElementGuid>f2b5958c-da62-4b57-af87-610341c188d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

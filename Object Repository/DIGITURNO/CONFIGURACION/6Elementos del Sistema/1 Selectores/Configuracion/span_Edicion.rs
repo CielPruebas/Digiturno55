@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Edicion</name>
+   <tag></tag>
+   <elementGuidId>f4e8110d-2dac-4dca-81b8-020de07f9237</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='__tab_cPHPri_ctl04_TabEdicion']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__tab_cPHPri_ctl04_TabEdicion > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4768495a-499b-4ec2-8a2d-cc44dec1c3c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edición</value>
+      <webElementGuid>a598a83b-0a4e-4811-858f-27db5b6a255f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tab_cPHPri_ctl04_TabEdicion&quot;)/span[1]</value>
+      <webElementGuid>febbe373-bc87-4f00-ae4e-96076a036913</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='__tab_cPHPri_ctl04_TabEdicion']/span</value>
+      <webElementGuid>d01936bc-05c5-4fdd-ab2e-3bbc5d03d9e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuración'])[3]/following::span[4]</value>
+      <webElementGuid>fc27a683-459f-4617-b403-69b853cf9777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bogota - CIEL'])[2]/following::span[6]</value>
+      <webElementGuid>c99f2a46-9821-4f0b-826e-d80cc671b7ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jornadas y Colas'])[1]/preceding::span[1]</value>
+      <webElementGuid>4088fd9c-089d-45a8-8654-c56fac128728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Impresoras'])[2]/preceding::span[5]</value>
+      <webElementGuid>3fd60c44-ebc7-4900-a6f0-50a460439dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/span</value>
+      <webElementGuid>25325686-ee12-4bbd-b253-c41dbc6bda38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Edición' or . = 'Edición')]</value>
+      <webElementGuid>edaca9ca-610e-4c2d-9586-5d43741eaa04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

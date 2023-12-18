@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Expandir Contraer</name>
+   <tag></tag>
+   <elementGuidId>1980286e-3872-4004-b410-53a025015887</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.busquedaTreeviewExpandir</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_pnDisGeoTrans']/div[2]/div[2]/table/tbody/tr/td/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;cPHPri_pnDisGeoTrans&quot;)/div[2]/div[@class=&quot;treeViewEnvoltura&quot;]/table[1]/tbody[1]/tr[1]/td[1]/span[@class=&quot;busquedaTreeviewExpandir&quot;][count(. | //*[@class = 'busquedaTreeviewExpandir' and @title = 'Expandir / contraer' and (text() = ' ' or . = ' ')]) = count(//*[@class = 'busquedaTreeviewExpandir' and @title = 'Expandir / contraer' and (text() = ' ' or . = ' ')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4f704f25-f941-4eae-8874-4d6a4fb86753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>busquedaTreeviewExpandir</value>
+      <webElementGuid>9be4d120-eb61-4a7c-b747-826a3ea2b939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Expandir / contraer</value>
+      <webElementGuid>6225a1dc-f839-4b1c-8b41-c51da0af44d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>c6d30e63-45da-46ee-80da-49f02128898d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_pnDisGeoTrans&quot;)/div[2]/div[@class=&quot;treeViewEnvoltura&quot;]/table[1]/tbody[1]/tr[1]/td[1]/span[@class=&quot;busquedaTreeviewExpandir&quot;]</value>
+      <webElementGuid>681e9973-0acc-48aa-85ce-ad277cffdff4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_pnDisGeoTrans']/div[2]/div[2]/table/tbody/tr/td/span</value>
+      <webElementGuid>dcf7a24c-7e45-4deb-bfa3-0732e489c8d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[10]/following::span[1]</value>
+      <webElementGuid>0d904ce0-7af4-4a67-b79d-be0a4c623f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Destino de transferencia'])[1]/following::span[2]</value>
+      <webElementGuid>aab727dd-cb82-4bc5-83c0-a581be0300d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bogota - CIEL'])[1]/preceding::span[2]</value>
+      <webElementGuid>d910fe0d-a384-4a3f-a525-957aef8526ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CIEL - Sala General'])[2]/preceding::span[3]</value>
+      <webElementGuid>8fbb3436-201e-4e79-b661-883fcee14cfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td/span</value>
+      <webElementGuid>33700da7-ba9b-45c0-a8b5-f443867acbc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Expandir / contraer' and (text() = ' ' or . = ' ')]</value>
+      <webElementGuid>578d1779-09c1-44ec-ab78-ed6d883d12e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

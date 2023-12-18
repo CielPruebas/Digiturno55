@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Editable en terminal</name>
+   <tag></tag>
+   <elementGuidId>c7023193-4b7d-46c5-9543-8761ea76a4ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_TabContainer_TabContainer8']/div/div/div/table/tbody/tr[14]/td[3]/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9255a6e3-0722-4396-a34a-eadca211936f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_TabContainer_TabContainer8_chkEditableTerminal</value>
+      <webElementGuid>f9177955-781b-4ea9-9cb4-9284ccd42537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Editable en terminal</value>
+      <webElementGuid>629050d2-f37e-43fa-9cce-3fe835994d4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_TabContainer_TabContainer8&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-6 col-lg-5 col-xxl-4 order-1&quot;]/div[@class=&quot;cajaSoloContenido&quot;]/table[1]/tbody[1]/tr[14]/td[3]/span[1]/label[1]</value>
+      <webElementGuid>6d4be7ed-b430-48b4-bb0c-72676bfff513</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_TabContainer_TabContainer8']/div/div/div/table/tbody/tr[14]/td[3]/span/label</value>
+      <webElementGuid>896ef121-91d7-4565-8fdd-5ff50093de66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Requerido en terminal'])[1]/following::label[1]</value>
+      <webElementGuid>bf3bafba-ef77-4368-9328-1aac9e3a4570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activo en terminal'])[1]/following::label[2]</value>
+      <webElementGuid>8c21f6c0-fcf7-4d77-a8f7-6fca8ddd9c34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activo en selector'])[1]/preceding::label[1]</value>
+      <webElementGuid>7cd78b27-1c3c-4dce-bc82-8d94f5d975cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Requerido en selector'])[1]/preceding::label[2]</value>
+      <webElementGuid>db90cd97-63ac-46c5-95ca-9019b433c5e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Editable en terminal']/parent::*</value>
+      <webElementGuid>edb07e2c-642b-4ec3-9d04-c235b1f024ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/span/label</value>
+      <webElementGuid>07deb09e-9efd-43a3-828c-3a4943b50476</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Editable en terminal' or . = 'Editable en terminal')]</value>
+      <webElementGuid>e0120ae8-fe57-4e88-b5d2-08f870ef441c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Tipo Impresora</name>
+   <tag></tag>
+   <elementGuidId>031fa740-607f-462c-a834-f3e9927376bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='cPHPri_ContenidoTabs_TabCreacion_dllTipoImpresora']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_ContenidoTabs_TabCreacion_dllTipoImpresora</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8ed9fa90-a336-425d-9e07-94d3a126416b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$cPHPri$ContenidoTabs$TabCreacion$dllTipoImpresora</value>
+      <webElementGuid>730bbcec-9b3b-4954-b3e0-c5265a6cb1a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:setTimeout('__doPostBack(\'ctl00$cPHPri$ContenidoTabs$TabCreacion$dllTipoImpresora\',\'\')', 0)</value>
+      <webElementGuid>e78f757e-4e37-4588-8e4f-78d178f37762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cPHPri_ContenidoTabs_TabCreacion_dllTipoImpresora</value>
+      <webElementGuid>cdba061e-a5f3-4666-9724-ee4cfb14ed32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					Epson_TMT88
+					Epson_T332
+					Epson_TMT81
+					Star_TUP542
+					Axiohm_RMDG1034
+					Citizen_CTS310II
+					Generica
+					Sewoo_LKTL200
+					OnePos1_POS_805
+					Epson_T432
+					Advance_TP260
+					Citizen_PMU2300
+					- Seleccione... -
+
+				</value>
+      <webElementGuid>c0406255-6289-4218-bb46-9ba058b9f749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ContenidoTabs_TabCreacion_dllTipoImpresora&quot;)</value>
+      <webElementGuid>9f27035e-6266-4d20-958e-7b3493dd453d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='cPHPri_ContenidoTabs_TabCreacion_dllTipoImpresora']</value>
+      <webElementGuid>4d5cd7d9-df0e-4c3d-a9de-45d0808d1e0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_ContenidoTabs_TabCreacion_upEdicion']/table/tbody/tr[2]/td[2]/select</value>
+      <webElementGuid>2385016c-a6d2-4e41-9b2a-dbec3b71f95c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo Impresora'])[2]/following::select[1]</value>
+      <webElementGuid>ca37f8d8-96f7-479c-b1d1-84c6ffdf8279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Id Impresora'])[1]/following::select[1]</value>
+      <webElementGuid>c26b346e-4cd3-4d44-ad86-436a4b41018a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre Impresora'])[1]/preceding::select[1]</value>
+      <webElementGuid>e26b57cc-2d22-4eb0-83e5-484b71859efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::select[1]</value>
+      <webElementGuid>83e25819-8430-41ec-ac51-03f4f844d146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>e583198f-9b7b-47fc-82ab-30ca56c2a395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$cPHPri$ContenidoTabs$TabCreacion$dllTipoImpresora' and @id = 'cPHPri_ContenidoTabs_TabCreacion_dllTipoImpresora' and (text() = '
+					Epson_TMT88
+					Epson_T332
+					Epson_TMT81
+					Star_TUP542
+					Axiohm_RMDG1034
+					Citizen_CTS310II
+					Generica
+					Sewoo_LKTL200
+					OnePos1_POS_805
+					Epson_T432
+					Advance_TP260
+					Citizen_PMU2300
+					- Seleccione... -
+
+				' or . = '
+					Epson_TMT88
+					Epson_T332
+					Epson_TMT81
+					Star_TUP542
+					Axiohm_RMDG1034
+					Citizen_CTS310II
+					Generica
+					Sewoo_LKTL200
+					OnePos1_POS_805
+					Epson_T432
+					Advance_TP260
+					Citizen_PMU2300
+					- Seleccione... -
+
+				')]</value>
+      <webElementGuid>9e0f049d-e348-42b4-ba34-e05fa79cc564</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Valor-down</name>
+   <tag></tag>
+   <elementGuidId>a97d6dbb-1cee-42ef-9504-91929a7e8b13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[2]/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-icon.k-i-arrow-60-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a06f6538-7d19-4efb-8cd3-a60ba729d97b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>0da2b8f0-3e97-49a2-8d35-0d18a33512c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-arrow-60-down</value>
+      <webElementGuid>9c51fde2-61f4-420f-bcff-029308661606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;k-webkit k-webkit100&quot;]/body[1]/div[@class=&quot;k-widget k-window k-state-focused&quot;]/div[@class=&quot;k-popup-edit-form k-window-content k-content&quot;]/div[@class=&quot;k-edit-form-container&quot;]/div[@class=&quot;k-edit-field&quot;]/span[@class=&quot;k-widget k-numerictextbox k-textbox&quot;]/span[@class=&quot;k-numeric-wrap k-state-default k-state-hover&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-link k-link-decrease&quot;]/span[@class=&quot;k-icon k-i-arrow-60-down&quot;]</value>
+      <webElementGuid>c9069e38-686f-4ee9-a4c7-3e42bdf06ad4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span[2]/span</value>
+      <webElementGuid>35f222fa-1898-43b7-91b6-11a5e032d688</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

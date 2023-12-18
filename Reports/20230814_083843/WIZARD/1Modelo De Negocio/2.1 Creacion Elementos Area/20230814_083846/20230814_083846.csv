@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+2.1 Creacion Elementos Area,Chrome 115.0.0.0,,,2023-08-14 08:40:35,2023-08-14 08:41:23,"47,687s",PASSED
+,,,,,,,
+Test Cases/WIZARD/1Modelo De Negocio/2.1 Creacion Elementos Area,Chrome 115.0.0.0,,,2023-08-14 08:40:35,2023-08-14 08:41:23,"47,451s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 08:40:36,2023-08-14 08:40:47,"11,153s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_ModeloDeNegocioMAX""))",Chrome 115.0.0.0,,,2023-08-14 08:40:47,2023-08-14 08:40:48,"0,656s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 08:40:48,2023-08-14 08:40:51,"3,001s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/00Menu/span_Elementos""))",Chrome 115.0.0.0,,,2023-08-14 08:40:51,2023-08-14 08:40:51,"0,595s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 08:40:51,2023-08-14 08:40:54,"3,016s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Nivel/option_1Area""))",Chrome 115.0.0.0,,,2023-08-14 08:40:54,2023-08-14 08:40:55,"0,496s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 08:40:55,2023-08-14 08:40:58,"3,008s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Nivel/Area/td_AG1""))",Chrome 115.0.0.0,,,2023-08-14 08:40:58,2023-08-14 08:40:58,"0,462s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 08:40:58,2023-08-14 08:41:01,"3,013s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento""), ""Area General"")",Chrome 115.0.0.0,,,2023-08-14 08:41:01,2023-08-14 08:41:02,"0,768s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento""), ""Area General"")",Chrome 115.0.0.0,,,2023-08-14 08:41:02,2023-08-14 08:41:03,"0,787s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()"", [])",Chrome 115.0.0.0,,,2023-08-14 08:41:03,2023-08-14 08:41:03,"0,072s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 08:41:03,2023-08-14 08:41:06,"3,009s",PASSED
+"clearText(findTestObject(""WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/input_Minutos""))",Chrome 115.0.0.0,,,2023-08-14 08:41:06,2023-08-14 08:41:06,"0,420s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 08:41:06,2023-08-14 08:41:08,"2,006s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10"", [])",Chrome 115.0.0.0,,,2023-08-14 08:41:08,2023-08-14 08:41:08,"0,043s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar""))",Chrome 115.0.0.0,,,2023-08-14 08:41:08,2023-08-14 08:41:09,"0,448s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 08:41:09,2023-08-14 08:41:12,"3,013s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()"", [])",Chrome 115.0.0.0,,,2023-08-14 08:41:12,2023-08-14 08:41:12,"0,035s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 08:41:12,2023-08-14 08:41:15,"3,015s",PASSED
+"clearText(findTestObject(""WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/input_Minutos""))",Chrome 115.0.0.0,,,2023-08-14 08:41:15,2023-08-14 08:41:15,"0,448s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/input_Minutos""), ""5"")",Chrome 115.0.0.0,,,2023-08-14 08:41:15,2023-08-14 08:41:16,"0,786s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar""))",Chrome 115.0.0.0,,,2023-08-14 08:41:16,2023-08-14 08:41:16,"0,409s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 08:41:16,2023-08-14 08:41:19,"3,020s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar""))",Chrome 115.0.0.0,,,2023-08-14 08:41:19,2023-08-14 08:41:20,"0,450s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 08:41:20,2023-08-14 08:41:23,"3,003s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-08-14 08:41:23,2023-08-14 08:41:23,"0,000s",PASSED

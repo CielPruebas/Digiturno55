@@ -1,0 +1,39 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+3 Atencion Turno en la Terminal,Chrome 116.0.0.0,,,2023-08-30 17:13:46,2023-08-30 17:15:03,"1m - 16,758s",FAILED
+,,,,,,,
+Test Cases/VIDEO ATENCION/3 Atencion Turno en la Terminal,Chrome 116.0.0.0,,,2023-08-30 17:13:46,2023-08-30 17:15:03,"1m - 16,527s",FAILED
+openBrowser(UrlDigiturno),Chrome 116.0.0.0,,,2023-08-30 17:13:46,2023-08-30 17:13:49,"2,781s",PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-08-30 17:13:49,2023-08-30 17:13:49,"0,161s",PASSED
+delay(3),Chrome 116.0.0.0,,,2023-08-30 17:13:49,2023-08-30 17:13:52,"3,034s",PASSED
+"setText(findTestObject(""0Inicio Sesion/input_Usuario""), ""ciel"")",Chrome 116.0.0.0,,,2023-08-30 17:13:52,2023-08-30 17:13:53,"0,715s",PASSED
+"setText(findTestObject(""0Inicio Sesion/input_Clave""), ""digiturno"")",Chrome 116.0.0.0,,,2023-08-30 17:13:53,2023-08-30 17:13:54,"0,674s",PASSED
+"click(findTestObject(""0Inicio Sesion/btn_IniciarSesion""))",Chrome 116.0.0.0,,,2023-08-30 17:13:54,2023-08-30 17:13:54,"0,403s",PASSED
+delay(3),Chrome 116.0.0.0,,,2023-08-30 17:13:54,2023-08-30 17:13:57,"3,005s",PASSED
+"click(findTestObject(""DIGITURNO/1Principal/img_Operacion(1)""))",Chrome 116.0.0.0,,,2023-08-30 17:13:57,2023-08-30 17:13:58,"0,799s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/0Principal/Elementos del Sistema/img_Terminales""))",Chrome 116.0.0.0,,,2023-08-30 17:13:58,2023-08-30 17:13:59,"1,062s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/0Oficinas/td_2Cali - Chipichape""))",Chrome 116.0.0.0,,,2023-08-30 17:13:59,2023-08-30 17:14:00,"0,510s",PASSED
+delay(2),Chrome 116.0.0.0,,,2023-08-30 17:14:00,2023-08-30 17:14:02,"2,007s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/0Terminales (Menos WorkFlow)/td_1 - Terminal - Informacion""))",Chrome 116.0.0.0,,,2023-08-30 17:14:02,2023-08-30 17:14:02,"0,406s",PASSED
+delay(3),Chrome 116.0.0.0,,,2023-08-30 17:14:02,2023-08-30 17:14:05,"3,013s",PASSED
+navigateToUrl(UrlVideoAtencion),Chrome 116.0.0.0,Valor ventana Video Atencion = 0  y valor ventana terminal = 1,,2023-08-30 17:14:05,2023-08-30 17:14:06,"0,993s",PASSED
+"waitForElementClickable(findTestObject(""VIDEO ATENCION/Cliente/0btn_Solicitar Video Atencion""), 5)",Chrome 116.0.0.0,,,2023-08-30 17:14:06,2023-08-30 17:14:10,"4,445s",PASSED
+"click(findTestObject(""VIDEO ATENCION/Cliente/0btn_Solicitar Video Atencion""))",Chrome 116.0.0.0,,,2023-08-30 17:14:10,2023-08-30 17:14:11,"0,404s",PASSED
+delay(3),Chrome 116.0.0.0,,,2023-08-30 17:14:11,2023-08-30 17:14:14,"3,007s",PASSED
+"selectOptionByIndex(findTestObject(""VIDEO ATENCION/Cliente/select_Tipo Identificacion""), 1)",Chrome 116.0.0.0,,,2023-08-30 17:14:14,2023-08-30 17:14:15,"1,493s",PASSED
+"setText(findTestObject(""VIDEO ATENCION/Cliente/input_Identificacion""), ""636711"")",Chrome 116.0.0.0,,,2023-08-30 17:14:15,2023-08-30 17:14:16,"0,987s",PASSED
+"setText(findTestObject(""VIDEO ATENCION/Cliente/input_NombreCompleto""), ""Jaime Enrique Davila Zuazo"")",Chrome 116.0.0.0,,,2023-08-30 17:14:16,2023-08-30 17:14:17,"0,756s",PASSED
+"setText(findTestObject(""VIDEO ATENCION/Cliente/input_Primer Nombre""), ""Jaime"")",Chrome 116.0.0.0,,,2023-08-30 17:14:17,2023-08-30 17:14:18,"0,700s",PASSED
+"setText(findTestObject(""VIDEO ATENCION/Cliente/input_Segundo Nombre""), ""Enrique"")",Chrome 116.0.0.0,,,2023-08-30 17:14:18,2023-08-30 17:14:18,"0,684s",PASSED
+"setText(findTestObject(""VIDEO ATENCION/Cliente/input_Primer Apellido""), ""Davila"")",Chrome 116.0.0.0,,,2023-08-30 17:14:18,2023-08-30 17:14:19,"0,723s",PASSED
+"setText(findTestObject(""VIDEO ATENCION/Cliente/input_Segundo Apellido""), ""Zuazo"")",Chrome 116.0.0.0,,,2023-08-30 17:14:19,2023-08-30 17:14:20,"0,675s",PASSED
+"setText(findTestObject(""VIDEO ATENCION/Cliente/input_Celular""), ""3194159302"")",Chrome 116.0.0.0,,,2023-08-30 17:14:20,2023-08-30 17:14:21,"0,698s",PASSED
+"setText(findTestObject(""VIDEO ATENCION/Cliente/input_Correo""), ""edavilaz@gmail.com"")",Chrome 116.0.0.0,,,2023-08-30 17:14:21,2023-08-30 17:14:21,"0,750s",PASSED
+"setText(findTestObject(""VIDEO ATENCION/Cliente/input_Confirme Correo""), ""edavilaz@gmail.com"")",Chrome 116.0.0.0,,,2023-08-30 17:14:21,2023-08-30 17:14:22,"0,715s",PASSED
+takeFullPageScreenshot(),Chrome 116.0.0.0,,,2023-08-30 17:14:22,2023-08-30 17:14:23,"0,896s",PASSED
+"scrollToElement(findTestObject(""VIDEO ATENCION/Cliente/img_Continuar (Guarda Cliente)""), 2)",Chrome 116.0.0.0,,,2023-08-30 17:14:23,2023-08-30 17:14:23,"0,403s",PASSED
+"click(findTestObject(""VIDEO ATENCION/Cliente/img_Continuar (Guarda Cliente)""))",Chrome 116.0.0.0,,,2023-08-30 17:14:23,2023-08-30 17:14:24,"0,380s",PASSED
+delay(3),Chrome 116.0.0.0,,,2023-08-30 17:14:24,2023-08-30 17:14:27,"3,017s",PASSED
+takeFullPageScreenshot(),Chrome 116.0.0.0,,,2023-08-30 17:14:27,2023-08-30 17:14:27,"0,499s",PASSED
+delay(3),Chrome 116.0.0.0,,,2023-08-30 17:14:27,2023-08-30 17:14:30,"3,000s",PASSED
+switchToWindowIndex(1),Chrome 116.0.0.0,Cambio a ventana Terminal para llamar el Turno,,2023-08-30 17:14:30,2023-08-30 17:15:03,"32,395s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 116.0.0.0,,,2023-08-30 17:15:03,2023-08-30 17:15:03,"0,004s",PASSED

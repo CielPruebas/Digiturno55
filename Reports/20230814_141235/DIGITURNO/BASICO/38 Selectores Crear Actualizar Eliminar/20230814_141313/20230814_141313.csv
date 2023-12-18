@@ -1,0 +1,39 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+38 Selectores Crear Actualizar Eliminar,Chrome 115.0.0.0,,,2023-08-14 14:41:34,2023-08-14 14:45:01,"3m - 26,753s",FAILED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/38 Selectores Crear,Chrome 115.0.0.0,,,2023-08-14 14:41:34,2023-08-14 14:42:48,"1m - 13,458s",FAILED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 14:41:34,2023-08-14 14:42:01,"26,578s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_1Selectores""))",Chrome 115.0.0.0,,,2023-08-14 14:42:01,2023-08-14 14:42:08,"6,882s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/0Oficina Modal/td_1Bogota - CIEL""))",Chrome 115.0.0.0,,,2023-08-14 14:42:08,2023-08-14 14:42:09,"0,572s",PASSED
+"scrollToElement(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/btn_SelecccionarOficina""), 2)",Chrome 115.0.0.0,,,2023-08-14 14:42:09,2023-08-14 14:42:10,"1,455s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/btn_SelecccionarOficina""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 14:42:10,2023-08-14 14:42:11,"0,548s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/btn_SeleccionarOficina(1)/td_Bogota - CIEL""))",Chrome 115.0.0.0,,,2023-08-14 14:42:11,2023-08-14 14:42:11,"0,676s",PASSED
+"scrollToElement(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/input_Nombre""), 2)",Chrome 115.0.0.0,,,2023-08-14 14:42:11,2023-08-14 14:42:12,"0,877s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/input_Nombre""), ""Prueba"")",Chrome 115.0.0.0,,,2023-08-14 14:42:12,2023-08-14 14:42:13,"0,769s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/textarea_Descripcion""), ""Prueba"")",Chrome 115.0.0.0,,,2023-08-14 14:42:13,2023-08-14 14:42:14,"0,799s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/label_Habilitado""))",Chrome 115.0.0.0,,,2023-08-14 14:42:14,2023-08-14 14:42:14,"0,455s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/label_Balanceo entre salas""))",Chrome 115.0.0.0,,,2023-08-14 14:42:14,2023-08-14 14:42:14,"0,397s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 14:42:14,2023-08-14 14:42:48,"33,103s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-08-14 14:42:48,2023-08-14 14:42:48,"0,015s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/38 Selectores Actualizar,Chrome 115.0.0.0,,,2023-08-14 14:42:48,2023-08-14 14:43:55,"1m - 7,311s",FAILED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 14:42:48,2023-08-14 14:43:14,"26,228s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_1Selectores""))",Chrome 115.0.0.0,,,2023-08-14 14:43:14,2023-08-14 14:43:15,"0,872s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:43:15,2023-08-14 14:43:18,"3,007s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/0Oficina Modal/td_1Bogota - CIEL""))",Chrome 115.0.0.0,,,2023-08-14 14:43:18,2023-08-14 14:43:19,"0,483s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 14:43:19,2023-08-14 14:43:21,"2,003s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/input_TextoABuscar""), ""Prueba"")",Chrome 115.0.0.0,,,2023-08-14 14:43:21,2023-08-14 14:43:22,"1,000s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 14:43:22,2023-08-14 14:43:24,"2,005s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda""))",Chrome 115.0.0.0,,,2023-08-14 14:43:24,2023-08-14 14:43:55,"31,351s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-08-14 14:43:55,2023-08-14 14:43:55,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/38 Selector Eliminar,Chrome 115.0.0.0,,,2023-08-14 14:43:55,2023-08-14 14:45:01,"1m - 5,720s",FAILED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 14:43:55,2023-08-14 14:44:20,"25,040s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_1Selectores""))",Chrome 115.0.0.0,,,2023-08-14 14:44:20,2023-08-14 14:44:21,"0,660s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:44:21,2023-08-14 14:44:24,"3,003s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/0Oficina Modal/td_1Bogota - CIEL""))",Chrome 115.0.0.0,,,2023-08-14 14:44:24,2023-08-14 14:44:24,"0,463s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 14:44:24,2023-08-14 14:44:26,"2,003s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/input_TextoABuscar""), ""Prueba"")",Chrome 115.0.0.0,,,2023-08-14 14:44:26,2023-08-14 14:44:27,"0,794s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 14:44:27,2023-08-14 14:44:29,"2,007s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda""))",Chrome 115.0.0.0,,,2023-08-14 14:44:29,2023-08-14 14:45:01,"31,427s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-08-14 14:45:01,2023-08-14 14:45:01,"0,000s",PASSED

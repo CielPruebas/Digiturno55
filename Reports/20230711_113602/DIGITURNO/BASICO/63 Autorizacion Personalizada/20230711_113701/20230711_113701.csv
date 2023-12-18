@@ -1,0 +1,40 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+63 Autorizacion Personalizada,Chrome 114.0.0.0,,,2023-07-11 12:22:55,2023-07-11 12:24:21,"1m - 26,094s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/63 Autorizacion Personalizada Restringir,Chrome 114.0.0.0,,,2023-07-11 12:22:55,2023-07-11 12:23:39,"43,580s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/30 Sistema""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 12:22:56,2023-07-11 12:23:18,"22,102s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/0Principal/img_3 Autorizacion Personalizada""))",Chrome 114.0.0.0,,,2023-07-11 12:23:18,2023-07-11 12:23:19,"0,866s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/3 Autorizacion Personalizada/1 Paginas/input_TextoABuscar""), ""15"")",Chrome 114.0.0.0,,,2023-07-11 12:23:19,2023-07-11 12:23:19,"0,862s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:23:19,2023-07-11 12:23:21,"2,012s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/3 Autorizacion Personalizada/1 Paginas/td_1Seleccion""))",Chrome 114.0.0.0,,,2023-07-11 12:23:21,2023-07-11 12:23:22,"0,458s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:23:22,2023-07-11 12:23:24,"2,010s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/3 Autorizacion Personalizada/2 Perfiles/input_TextoABuscar""), ""admin"")",Chrome 114.0.0.0,,,2023-07-11 12:23:24,2023-07-11 12:23:25,"0,807s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:23:25,2023-07-11 12:23:27,"2,005s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/3 Autorizacion Personalizada/2 Perfiles/td_1 Administrador""))",Chrome 114.0.0.0,,,2023-07-11 12:23:27,2023-07-11 12:23:27,"0,478s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:23:27,2023-07-11 12:23:29,"2,011s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/3 Autorizacion Personalizada/3 Botones aplicacion/a_SeleccionarTodo""))",Chrome 114.0.0.0,,,2023-07-11 12:23:29,2023-07-11 12:23:30,"0,437s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:23:30,2023-07-11 12:23:32,"2,009s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/3 Autorizacion Personalizada/3 Botones aplicacion/img_Restringir""))",Chrome 114.0.0.0,,,2023-07-11 12:23:32,2023-07-11 12:23:32,"0,445s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:23:32,2023-07-11 12:23:35,"3,012s",PASSED
+takeFullPageScreenshot(),Chrome 114.0.0.0,,,2023-07-11 12:23:35,2023-07-11 12:23:36,"0,732s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:23:36,2023-07-11 12:23:39,"3,016s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 114.0.0.0,,,2023-07-11 12:23:39,2023-07-11 12:23:39,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/63 Autorizacion Personalizada Liberar,Chrome 114.0.0.0,,,2023-07-11 12:23:39,2023-07-11 12:24:21,"42,257s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/30 Sistema""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 12:23:39,2023-07-11 12:24:00,"20,985s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/0Principal/img_3 Autorizacion Personalizada""))",Chrome 114.0.0.0,,,2023-07-11 12:24:00,2023-07-11 12:24:01,"0,632s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/3 Autorizacion Personalizada/1 Paginas/input_TextoABuscar""), ""15"")",Chrome 114.0.0.0,,,2023-07-11 12:24:01,2023-07-11 12:24:02,"0,892s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:24:02,2023-07-11 12:24:04,"2,014s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/3 Autorizacion Personalizada/1 Paginas/td_1Seleccion""))",Chrome 114.0.0.0,,,2023-07-11 12:24:04,2023-07-11 12:24:04,"0,478s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:24:04,2023-07-11 12:24:06,"2,004s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/3 Autorizacion Personalizada/2 Perfiles/input_TextoABuscar""), ""admin"")",Chrome 114.0.0.0,,,2023-07-11 12:24:06,2023-07-11 12:24:07,"0,802s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:24:07,2023-07-11 12:24:09,"2,014s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/3 Autorizacion Personalizada/2 Perfiles/td_1 Administrador""))",Chrome 114.0.0.0,,,2023-07-11 12:24:09,2023-07-11 12:24:09,"0,448s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:24:09,2023-07-11 12:24:11,"2,011s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/3 Autorizacion Personalizada/4 Botones con restriccion/a_SeleccionarTodo""))",Chrome 114.0.0.0,,,2023-07-11 12:24:11,2023-07-11 12:24:12,"0,455s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:24:12,2023-07-11 12:24:14,"2,014s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/3 Autorizacion Personalizada/4 Botones con restriccion/img_Liberar""))",Chrome 114.0.0.0,,,2023-07-11 12:24:14,2023-07-11 12:24:14,"0,434s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:24:14,2023-07-11 12:24:17,"3,011s",PASSED
+takeFullPageScreenshot(),Chrome 114.0.0.0,,,2023-07-11 12:24:17,2023-07-11 12:24:18,"0,734s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:24:18,2023-07-11 12:24:21,"3,015s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 114.0.0.0,,,2023-07-11 12:24:21,2023-07-11 12:24:21,"0,000s",PASSED

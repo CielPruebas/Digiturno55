@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Tipo de transmision</name>
+   <tag></tag>
+   <elementGuidId>b7ec69dc-2e55-41d1-b13f-745b9e84d1d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='cPHPri_TabContainer1_TabEdicion_ddlTipoTransmision']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_TabContainer1_TabEdicion_ddlTipoTransmision</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f387e856-693e-4b1f-8ee3-1bbbdf07feb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$cPHPri$TabContainer1$TabEdicion$ddlTipoTransmision</value>
+      <webElementGuid>b49fe394-fed5-4628-be7c-cdcf2453394e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cPHPri_TabContainer1_TabEdicion_ddlTipoTransmision</value>
+      <webElementGuid>9ff5729f-24da-4dd7-af94-65464f7298d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					Seleccione
+					Alpha
+					Numérico
+
+				</value>
+      <webElementGuid>37aff2b5-46c0-4655-b57e-6b8577762e4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_TabContainer1_TabEdicion_ddlTipoTransmision&quot;)</value>
+      <webElementGuid>5891a495-c95a-41fc-980f-50a04eb6a92d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='cPHPri_TabContainer1_TabEdicion_ddlTipoTransmision']</value>
+      <webElementGuid>b106897a-4deb-4649-9f91-e3e46441cc1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_TabContainer1_TabEdicion_upEdicion']/div/table/tbody[2]/tr[3]/td[2]/select</value>
+      <webElementGuid>36dd64fc-a06a-4dc4-a769-974630e6ffdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de transmisión'])[1]/following::select[1]</value>
+      <webElementGuid>9be6f972-f6f0-4c65-8064-ab75270d5bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[1]</value>
+      <webElementGuid>4a6bbe47-63db-4755-9179-78766a1aa72f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/preceding::select[1]</value>
+      <webElementGuid>b17cc59f-1f97-46eb-885a-7482c2069baa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terminales DigiBeep'])[2]/preceding::select[1]</value>
+      <webElementGuid>e767e0f9-87e5-4f2a-aeb4-a9d476f2c66b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/select</value>
+      <webElementGuid>df261879-f063-46fd-bfcf-12f62327aa28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$cPHPri$TabContainer1$TabEdicion$ddlTipoTransmision' and @id = 'cPHPri_TabContainer1_TabEdicion_ddlTipoTransmision' and (text() = '
+					Seleccione
+					Alpha
+					Numérico
+
+				' or . = '
+					Seleccione
+					Alpha
+					Numérico
+
+				')]</value>
+      <webElementGuid>3caf14b7-2c71-4f0a-8ef3-c8cee12fc7c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

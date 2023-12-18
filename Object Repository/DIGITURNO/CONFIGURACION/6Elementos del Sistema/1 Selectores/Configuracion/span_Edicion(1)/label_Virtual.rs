@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Virtual</name>
+   <tag></tag>
+   <elementGuidId>74c7299b-8434-454f-99f3-bf009f0232af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='cPHPri_ctl04_TabEdicion_rblTipoSelector']/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_ctl04_TabEdicion_rblTipoSelector > span > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>135994bc-f680-40bb-90e1-8a1998faf001</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_ctl04_TabEdicion_rblTipoSelector_0</value>
+      <webElementGuid>0acb0443-f615-4939-a7b1-22542e764925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Virtual</value>
+      <webElementGuid>e627e6a0-3697-4dea-bd01-15db1285830e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl04_TabEdicion_rblTipoSelector&quot;)/span[1]/label[1]</value>
+      <webElementGuid>4f1de973-32eb-40eb-a5a5-cc76b91b9d6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='cPHPri_ctl04_TabEdicion_rblTipoSelector']/span/label</value>
+      <webElementGuid>a22e65f7-215a-4aa4-80db-30eb02f0c8cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Selector'])[1]/following::label[1]</value>
+      <webElementGuid>a3a71a6f-b774-4895-a3ee-f5afb038b491</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Habilitado'])[1]/following::label[2]</value>
+      <webElementGuid>10b95044-ae5f-41e3-ba07-7e185bda5a57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Físico'])[1]/preceding::label[1]</value>
+      <webElementGuid>168cbf22-e7e6-43ad-8464-1eab9d8e62a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Móvil'])[1]/preceding::label[2]</value>
+      <webElementGuid>fdcb9f8a-cc4c-47b3-906c-d0bcaad272c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/label</value>
+      <webElementGuid>2722ccd3-a137-4660-b437-2e35faa00665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Virtual' or . = 'Virtual')]</value>
+      <webElementGuid>e29d8362-f1e5-40b8-a3b8-cbfe1419a800</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

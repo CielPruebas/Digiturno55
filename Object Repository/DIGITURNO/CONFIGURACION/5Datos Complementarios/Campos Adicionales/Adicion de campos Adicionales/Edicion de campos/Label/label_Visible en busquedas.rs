@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Visible en busquedas</name>
+   <tag></tag>
+   <elementGuidId>21683c32-72ae-4407-a1af-6c56c61cf8c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_TabContainer_TabContainer8']/div/div/div/table/tbody/tr[13]/td[2]/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>88f7c0e7-67d4-4cd6-bd88-28a2c240b25f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_TabContainer_TabContainer8_chkVisibleBusqueda</value>
+      <webElementGuid>ee32426e-01b8-49f3-b04a-cced2f1ec50b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_TabContainer_TabContainer8&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-6 col-lg-5 col-xxl-4 order-1&quot;]/div[@class=&quot;cajaSoloContenido&quot;]/table[1]/tbody[1]/tr[13]/td[2]/span[1]/label[1]</value>
+      <webElementGuid>03076f44-bc30-4918-a67c-d96cfcf86a3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_TabContainer_TabContainer8']/div/div/div/table/tbody/tr[13]/td[2]/span/label</value>
+      <webElementGuid>443f608e-1b47-4473-8038-749e66a07bc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[13]/td[2]/span/label</value>
+      <webElementGuid>2cd53d8a-a2ee-4286-9a60-7e29932f003a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Consultar datos del cliente</name>
+   <tag></tag>
+   <elementGuidId>7823fadb-3536-41c2-adec-e457cacf0990</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_ctl04_TabAcciones_upAcciones']/div/div[2]/div/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-4 > span > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f0a8b2b7-a017-4aeb-8554-40538f25b52a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_ctl04_TabAcciones_checkCamposUsuario</value>
+      <webElementGuid>d9b9ab4a-c58a-45fc-aae0-a3a5450def73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Consultar datos del cliente</value>
+      <webElementGuid>bf937e8e-52d9-4bc9-9c55-42218b8c0c30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl04_TabAcciones_upAcciones&quot;)/div[@class=&quot;cajaSoloContenido&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4&quot;]/span[1]/label[1]</value>
+      <webElementGuid>697888c9-28e7-4174-b664-1beaa33a02de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_ctl04_TabAcciones_upAcciones']/div/div[2]/div/span/label</value>
+      <webElementGuid>9369ff38-f249-496f-b86c-9d7d66cf19c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actualizar'])[2]/following::label[1]</value>
+      <webElementGuid>e0a10a77-9c33-4779-8a4f-4978939b2633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acciones que puede ejercer el selector'])[1]/following::label[1]</value>
+      <webElementGuid>63ce54f8-5ad3-4ea0-a581-f6839d59875b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generar Conteo'])[1]/preceding::label[1]</value>
+      <webElementGuid>18e34b55-74b3-48bd-9184-1f32e6ce89f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campos adicionales'])[2]/preceding::label[2]</value>
+      <webElementGuid>0017299b-5c0e-4d85-820d-cbf65a6c6fc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Consultar datos del cliente']/parent::*</value>
+      <webElementGuid>45991ebb-e390-4b84-aeed-4db544be9354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/label</value>
+      <webElementGuid>432497a5-b3c0-4134-bb54-202582aea5cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Consultar datos del cliente' or . = 'Consultar datos del cliente')]</value>
+      <webElementGuid>6ff8cf75-04dd-4c58-967b-0315a1b49d5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

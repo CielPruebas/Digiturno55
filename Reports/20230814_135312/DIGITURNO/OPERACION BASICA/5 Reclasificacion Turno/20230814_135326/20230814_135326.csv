@@ -1,0 +1,34 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5 Reclasificacion Turno,Chrome 115.0.0.0,,,2023-08-14 14:01:14,2023-08-14 14:02:18,"1m - 4,008s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/OPERACION BASICA/5 Reclasificación Turno,Chrome 115.0.0.0,,,2023-08-14 14:01:14,2023-08-14 14:02:18,"1m - 3,742s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 14:01:15,2023-08-14 14:01:26,"11,579s",PASSED
+"click(findTestObject(""DIGITURNO/1Principal/img_Operacion(1)""))",Chrome 115.0.0.0,,,2023-08-14 14:01:26,2023-08-14 14:01:27,"0,581s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:01:27,2023-08-14 14:01:30,"3,014s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/0Principal/Elementos del Sistema/img_Terminales""))",Chrome 115.0.0.0,,,2023-08-14 14:01:30,2023-08-14 14:01:30,"0,580s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:01:30,2023-08-14 14:01:33,"3,010s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/0Oficinas/td_1Bogota - CIEL""))",Chrome 115.0.0.0,Escogemos oficina,,2023-08-14 14:01:33,2023-08-14 14:01:34,"0,441s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:01:34,2023-08-14 14:01:37,"3,003s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/0Terminales (Menos WorkFlow)/td_1 - Terminal - Informacion""))",Chrome 115.0.0.0,Abrimos Terminal,,2023-08-14 14:01:37,2023-08-14 14:01:37,"0,487s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:01:37,2023-08-14 14:01:40,"3,005s",PASSED
+switchToWindowIndex(1),Chrome 115.0.0.0,,,2023-08-14 14:01:40,2023-08-14 14:01:40,"0,049s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 14:01:40,2023-08-14 14:01:42,"2,009s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Llamar""))",Chrome 115.0.0.0,,,2023-08-14 14:01:42,2023-08-14 14:01:43,"0,458s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:01:43,2023-08-14 14:01:46,"3,012s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Ocupado""))",Chrome 115.0.0.0,,,2023-08-14 14:01:46,2023-08-14 14:01:47,"1,081s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:01:47,2023-08-14 14:01:50,"3,005s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Ocupado(1)/a_1Actualizacion de Datos""))",Chrome 115.0.0.0,,,2023-08-14 14:01:50,2023-08-14 14:01:51,"1,076s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:01:51,2023-08-14 14:01:54,"3,006s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Reclasificar""))",Chrome 115.0.0.0,,,2023-08-14 14:01:54,2023-08-14 14:01:55,"0,900s",PASSED
+delay(3),Chrome 115.0.0.0,Reclasificar el turno,,2023-08-14 14:01:55,2023-08-14 14:01:58,"3,003s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Reclasificar(1)/a_2PQRS - General""))",Chrome 115.0.0.0,,,2023-08-14 14:01:58,2023-08-14 14:01:59,"1,120s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:01:59,2023-08-14 14:02:02,"3,019s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Reclasificar(2)/a_2Facturacion""))",Chrome 115.0.0.0,,,2023-08-14 14:02:02,2023-08-14 14:02:03,"0,932s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:02:03,2023-08-14 14:02:06,"3,019s",PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2023-08-14 14:02:06,2023-08-14 14:02:07,"0,751s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:02:07,2023-08-14 14:02:10,"3,016s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar""))",Chrome 115.0.0.0,,,2023-08-14 14:02:10,2023-08-14 14:02:11,"1,238s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:02:11,2023-08-14 14:02:14,"3,007s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar(1)/btn_4FindeJornada_8""))",Chrome 115.0.0.0,,,2023-08-14 14:02:14,2023-08-14 14:02:15,"0,980s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 14:02:15,2023-08-14 14:02:18,"3,014s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-08-14 14:02:18,2023-08-14 14:02:18,"0,003s",PASSED

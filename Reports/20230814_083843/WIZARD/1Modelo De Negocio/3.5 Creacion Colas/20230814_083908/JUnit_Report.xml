@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="3.5 Creacion Colas" time="84.144" tests="1" failures="0" errors="0">
+   <testsuite name="3.5 Creacion Colas" tests="1" failures="0" errors="0" time="84.144" skipped="0" timestamp="2023-08-14 08:59:55" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/WIZARD/1Modelo De Negocio/3.5 Creacion Colas">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_083843\\WIZARD\\1Modelo De Negocio\\3.5 Creacion Colas\\20230814_083908"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_083843\\WIZARD\\1Modelo De Negocio\\3.5 Creacion Colas\\20230814_083908\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_083843\\WIZARD\\1Modelo De Negocio\\3.5 Creacion Colas\\20230814_083908\\1692021674700.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 115.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.33"/>
+         <property name="sessionId" value="343664e57dfee724cdbe026a1d1782c4"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/WIZARD/1Modelo De Negocio/3.5 Creacion Colas" time="83.791" classname="Test Cases/WIZARD/1Modelo De Negocio/3.5 Creacion Colas" status="PASSED">
+         <system-out><![CDATA[2023-08-14 08:59:56 - [TEST_CASE][PASSED] - Test Cases/WIZARD/1Modelo De Negocio/3.5 Creacion Colas: Test Cases/WIZARD/1Modelo De Negocio/3.5 Creacion Colas
+
+2023-08-14 08:59:56 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2023-08-14 08:59:56 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2023-08-14 08:59:57 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8610'
+
+2023-08-14 08:59:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-08-14 08:59:58 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2023-08-14 08:59:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-08-14 09:00:08 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8610'
+
+2023-08-14 09:00:08 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-08-14 09:00:08 - [MESSAGE][PASSED] - Current window maximized
+
+2023-08-14 09:00:08 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 09:00:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 09:00:11 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2023-08-14 09:00:14 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2023-08-14 09:00:14 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2023-08-14 09:00:16 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2023-08-14 09:00:16 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2023-08-14 09:00:17 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2023-08-14 09:00:17 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 09:00:20 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 09:00:20 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2023-08-14 09:00:20 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/0Principal/img_ModeloDeNegocioMAX")): Object: 'Object Repository/WIZARD/0Principal/img_ModeloDeNegocioMAX' is clicked on
+
+2023-08-14 09:00:29 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/0Principal/img_ModeloDeNegocioMAX' is clicked on
+
+2023-08-14 09:00:29 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 09:00:32 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 09:00:32 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda"), "info"): Text 'info' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda'
+
+2023-08-14 09:00:32 - [MESSAGE][PASSED] - Text 'info' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda'
+
+2023-08-14 09:00:33 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 09:00:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 09:00:36 - [TEST_STEP][PASSED] - rightClick(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_7 Informacion")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_7 Informacion' is right clicked on
+
+2023-08-14 09:00:36 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_7 Informacion' is right clicked on
+
+2023-08-14 09:00:36 - [TEST_STEP][PASSED] - mouseOver(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Cola")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Cola' is hovered
+
+2023-08-14 09:00:37 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Cola' is hovered
+
+2023-08-14 09:00:37 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Cola(1)/span_Crear")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Cola(1)/span_Crear' is clicked on
+
+2023-08-14 09:00:38 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Cola(1)/span_Crear' is clicked on
+
+2023-08-14 09:00:38 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 09:00:41 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 09:00:41 - [TEST_STEP][PASSED] - rightClick(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/9 General Radicaciones/span_9 Radicaciones")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/9 General Radicaciones/span_9 Radicaciones' is right clicked on
+
+2023-08-14 09:00:41 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/9 General Radicaciones/span_9 Radicaciones' is right clicked on
+
+2023-08-14 09:00:41 - [TEST_STEP][PASSED] - mouseOver(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/9 General Radicaciones/span_Cola")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/9 General Radicaciones/span_Cola' is hovered
+
+2023-08-14 09:00:42 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/9 General Radicaciones/span_Cola' is hovered
+
+2023-08-14 09:00:42 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/9 General Radicaciones/span_Cola(1)/span_Crear")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/9 General Radicaciones/span_Cola(1)/span_Crear' is clicked on
+
+2023-08-14 09:00:42 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/9 General Radicaciones/span_Cola(1)/span_Crear' is clicked on
+
+2023-08-14 09:00:42 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 09:00:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 09:00:45 - [TEST_STEP][PASSED] - rightClick(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_8 PQRS")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_8 PQRS' is right clicked on
+
+2023-08-14 09:00:46 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_8 PQRS' is right clicked on
+
+2023-08-14 09:00:46 - [TEST_STEP][PASSED] - mouseOver(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Cola")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Cola' is hovered
+
+2023-08-14 09:00:47 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Cola' is hovered
+
+2023-08-14 09:00:47 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Cola(1)/span_Crear")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Cola(1)/span_Crear' is clicked on
+
+2023-08-14 09:00:47 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Cola(1)/span_Crear' is clicked on
+
+2023-08-14 09:00:47 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 09:00:50 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 09:00:50 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda"), "info"): Text 'info' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda'
+
+2023-08-14 09:00:51 - [MESSAGE][PASSED] - Text 'info' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda'
+
+2023-08-14 09:00:51 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 09:00:54 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 09:00:54 - [TEST_STEP][PASSED] - rightClick(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_4 Informacion")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_4 Informacion' is right clicked on
+
+2023-08-14 09:00:59 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_4 Informacion' is right clicked on
+
+2023-08-14 09:00:59 - [TEST_STEP][PASSED] - mouseOver(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_Cola")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_Cola' is hovered
+
+2023-08-14 09:01:01 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_Cola' is hovered
+
+2023-08-14 09:01:01 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_Cola(1)/span_Crear")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_Cola(1)/span_Crear' is clicked on
+
+2023-08-14 09:01:02 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_Cola(1)/span_Crear' is clicked on
+
+2023-08-14 09:01:02 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 09:01:05 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 09:01:05 - [TEST_STEP][PASSED] - rightClick(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/6 Preferencial Radicaciones/span_6 Radicaciones")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/6 Preferencial Radicaciones/span_6 Radicaciones' is right clicked on
+
+2023-08-14 09:01:05 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/6 Preferencial Radicaciones/span_6 Radicaciones' is right clicked on
+
+2023-08-14 09:01:05 - [TEST_STEP][PASSED] - mouseOver(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/6 Preferencial Radicaciones/span_Cola")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/6 Preferencial Radicaciones/span_Cola' is hovered
+
+2023-08-14 09:01:06 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/6 Preferencial Radicaciones/span_Cola' is hovered
+
+2023-08-14 09:01:06 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/6 Preferencial Radicaciones/span_Cola(1)/span_Crear")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/6 Preferencial Radicaciones/span_Cola(1)/span_Crear' is clicked on
+
+2023-08-14 09:01:06 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/6 Preferencial Radicaciones/span_Cola(1)/span_Crear' is clicked on
+
+2023-08-14 09:01:06 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 09:01:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 09:01:09 - [TEST_STEP][PASSED] - rightClick(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_5 PQRS")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_5 PQRS' is right clicked on
+
+2023-08-14 09:01:10 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_5 PQRS' is right clicked on
+
+2023-08-14 09:01:10 - [TEST_STEP][PASSED] - mouseOver(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Cola")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Cola' is hovered
+
+2023-08-14 09:01:11 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Cola' is hovered
+
+2023-08-14 09:01:11 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Cola(1)/span_Crear")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Cola(1)/span_Crear' is clicked on
+
+2023-08-14 09:01:11 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Cola(1)/span_Crear' is clicked on
+
+2023-08-14 09:01:11 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 09:01:14 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 09:01:14 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2023-08-14 09:01:15 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-08-14 09:01:16 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_083843\\WIZARD\\1Modelo De Negocio\\3.5 Creacion Colas\\20230814_083908\\1692021674700.png]]
+
+2023-08-14 09:01:16 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 09:01:19 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 09:01:19 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-08-14 08:59:55 - [TEST_SUITE][PASSED] - 3.5 Creacion Colas: Test Cases/WIZARD/1Modelo De Negocio/3.5 Creacion Colas]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

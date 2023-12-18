@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Usuarios</name>
+   <tag></tag>
+   <elementGuidId>d87a4584-d1a1-4206-9a86-d117cc9d9ac2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabsTiposParametros']/ul/li[7]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.k-item.k-state-default.k-state-hover > span.k-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5f814c9c-6ead-425a-85b5-6abf9a8014f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>f06da10f-b83c-49e9-b879-7aae52d283b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-link</value>
+      <webElementGuid>fb35e29e-7337-4640-b021-318fc358dd95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Usuarios</value>
+      <webElementGuid>cd160163-2bdf-4348-97c5-53b508fb5c0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabsTiposParametros&quot;)/ul[@class=&quot;k-tabstrip-items k-reset&quot;]/li[@class=&quot;k-item k-state-default k-state-hover&quot;]/span[@class=&quot;k-link&quot;]</value>
+      <webElementGuid>5de28451-9e77-428a-97c7-1442d6371792</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabsTiposParametros']/ul/li[7]/span[2]</value>
+      <webElementGuid>15dee067-13b4-48b2-8e9c-6c2ce971053a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reportes'])[1]/following::span[2]</value>
+      <webElementGuid>d74cf920-9fda-4d80-b6c2-3f5fa18361d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Red'])[1]/following::span[4]</value>
+      <webElementGuid>9b633522-5d95-4cd1-9132-c068c203b15d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video atención'])[1]/preceding::span[2]</value>
+      <webElementGuid>3b5102d9-26f9-436d-8e1c-15fc024dcd06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otros'])[1]/preceding::span[4]</value>
+      <webElementGuid>5abb86bd-678f-417b-b7b9-979fe088fd40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/span[2]</value>
+      <webElementGuid>09fc9298-538f-4031-8144-61186ad29956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Usuarios' or . = 'Usuarios')]</value>
+      <webElementGuid>316d2cdd-4bb0-4207-b0de-ad1b06231ed1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Mensual semanal</name>
+   <tag></tag>
+   <elementGuidId>52ac18a9-b980-4c1e-b66b-15f8c644f78a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='cPHPri_Agenda1_rblTipoAgenda']/span[4]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f6c51f81-abba-4324-8444-be93c0b89698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_Agenda1_rblTipoAgenda_3</value>
+      <webElementGuid>2335ff06-79c6-4242-b6f7-73d1cfdc8492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mensual semanal</value>
+      <webElementGuid>2fc9e640-9793-4c72-9427-0e2c894690eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_Agenda1_rblTipoAgenda&quot;)/span[4]/label[1]</value>
+      <webElementGuid>ba95efbd-d2b9-43ac-84a0-2636bbf8e67f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='cPHPri_Agenda1_rblTipoAgenda']/span[4]/label</value>
+      <webElementGuid>7bc3b8b5-9421-44ae-935d-c7069e8cb54f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mensual diaria'])[1]/following::label[1]</value>
+      <webElementGuid>bb75ac50-a8fc-4ecb-ba00-4dd0a62e48f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semanal'])[1]/following::label[2]</value>
+      <webElementGuid>014330fc-6248-4efa-a6f2-bb4857173aad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dias'])[1]/preceding::label[1]</value>
+      <webElementGuid>a40a2c76-0f11-4e5a-986a-d31ef85aa522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='domingo'])[1]/preceding::label[1]</value>
+      <webElementGuid>dfeb81aa-6fd3-43e6-bd11-cdaa787a4a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mensual semanal']/parent::*</value>
+      <webElementGuid>b6cb1ab6-6e9a-490c-be09-416a26dd7751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]/label</value>
+      <webElementGuid>03f88218-0749-43a4-b25c-46978d0b68ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Mensual semanal' or . = 'Mensual semanal')]</value>
+      <webElementGuid>f887419e-9597-4735-9e46-684259cf47fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

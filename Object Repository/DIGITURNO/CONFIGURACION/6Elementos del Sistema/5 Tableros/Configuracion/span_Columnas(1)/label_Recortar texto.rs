@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Recortar texto</name>
+   <tag></tag>
+   <elementGuidId>883d16c3-96f3-438a-8cd2-c7e8aec5d4ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_TabContainer1_tpColumnas_upColumnas']/div/div[2]/div/table/tbody/tr[9]/td[2]/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>efeeb38e-4b54-4209-a5dc-236b7654cd30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_TabContainer1_tpColumnas_chkColumnaRecortarTexto</value>
+      <webElementGuid>b2f5aeb7-cd76-4fec-a60d-fd8a6a017219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_TabContainer1_tpColumnas_upColumnas&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-6&quot;]/div[@class=&quot;cajaSoloContenido&quot;]/table[@class=&quot;tabla2&quot;]/tbody[1]/tr[9]/td[2]/span[1]/label[1]</value>
+      <webElementGuid>14bf00e0-fa59-4812-9890-0fcf91a9218d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_TabContainer1_tpColumnas_upColumnas']/div/div[2]/div/table/tbody/tr[9]/td[2]/span/label</value>
+      <webElementGuid>b9e05999-c0fc-4f7f-b0e5-3a73c8ce4c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[9]/td[2]/span/label</value>
+      <webElementGuid>6b14892f-03cb-4edf-92d8-78b2bb74ed55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

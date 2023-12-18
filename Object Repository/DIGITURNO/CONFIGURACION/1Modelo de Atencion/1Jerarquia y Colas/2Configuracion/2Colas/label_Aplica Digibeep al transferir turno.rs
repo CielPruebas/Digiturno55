@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Aplica Digibeep al transferir turno</name>
+   <tag></tag>
+   <elementGuidId>1f5cf524-4cb7-45d7-9c97-85ad9577fd7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tablaEdicionCola']/tbody/tr[21]/td/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>bd749214-0ce7-40e3-9728-d7cd7a9b5157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_ctl00_ctl01_chkAplicaDigibeepTransferencia</value>
+      <webElementGuid>a49de600-27ad-41c6-a046-20ae1bd536a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¿Aplica Digibeep al transferir turno?</value>
+      <webElementGuid>6d16af7c-2ff9-4fbf-a64e-9c4d45e16675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tablaEdicionCola&quot;)/tbody[1]/tr[21]/td[1]/span[1]/label[1]</value>
+      <webElementGuid>8293bd88-8f63-484f-83d4-146ed91c7609</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tablaEdicionCola']/tbody/tr[21]/td/span/label</value>
+      <webElementGuid>21d70055-4542-49b5-a495-87e30dc2b469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Aplica Digibeep al crear el turno?'])[1]/following::label[1]</value>
+      <webElementGuid>26140a0b-a2db-46e5-9661-00ed24275660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parámetro 1'])[1]/following::label[2]</value>
+      <webElementGuid>cdcaa5f8-8895-4788-a3ca-5d44306647eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/preceding::label[1]</value>
+      <webElementGuid>7be165d4-38d1-4229-9b82-26923a053fa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/preceding::label[1]</value>
+      <webElementGuid>ddd3bc26-cd78-4216-9a08-0c4797cba0c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='¿Aplica Digibeep al transferir turno?']/parent::*</value>
+      <webElementGuid>d9458dc8-b7f5-4c05-aa80-79a723fdb380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[21]/td/span/label</value>
+      <webElementGuid>5c0550b4-465b-4a26-a33a-e6d7f29d3352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '¿Aplica Digibeep al transferir turno?' or . = '¿Aplica Digibeep al transferir turno?')]</value>
+      <webElementGuid>51ac2b39-711a-432c-83c3-9502e330c7dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

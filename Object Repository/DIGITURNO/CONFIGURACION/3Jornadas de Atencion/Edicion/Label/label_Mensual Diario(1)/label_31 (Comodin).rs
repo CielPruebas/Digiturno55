@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_31 (Comodin)</name>
+   <tag></tag>
+   <elementGuidId>3c5f379a-c464-4b27-9548-9b3722d11c54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='cPHPri_Agenda1_chkLDiasNumeros']/span[31]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0a5fb54d-e0f7-4eba-94ad-6bb568a3602a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_Agenda1_chkLDiasNumeros_30</value>
+      <webElementGuid>51a60312-ea1e-419c-9755-0f5fc6afdb26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>31 (Comodin)</value>
+      <webElementGuid>efb6567d-376a-48f6-9ea3-bfb237e57283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_Agenda1_chkLDiasNumeros&quot;)/span[31]/label[1]</value>
+      <webElementGuid>8f80b23c-9333-443b-8372-0a422149ef75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='cPHPri_Agenda1_chkLDiasNumeros']/span[31]/label</value>
+      <webElementGuid>b994abe1-b84e-4266-80a4-e7fead6bb9f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dieciséis'])[2]/following::label[15]</value>
+      <webElementGuid>ba8bd9a2-4445-44ab-a8ea-d8cbbbb2cda9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dias'])[1]/following::label[31]</value>
+      <webElementGuid>b01958b7-8a88-43b7-89ee-6256581639a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intersecciones'])[1]/preceding::label[1]</value>
+      <webElementGuid>483d24a3-309a-437a-9c23-e7eaeed50acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opciones'])[1]/preceding::label[1]</value>
+      <webElementGuid>7bc76c59-4879-40f2-a08e-d27997fc2d7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[31]/label</value>
+      <webElementGuid>c220453f-4716-4a92-9b86-7c40d07b1a60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '31 (Comodin)' or . = '31 (Comodin)')]</value>
+      <webElementGuid>9c55d3d3-88d3-4a6d-ac67-e8c04b87b63a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

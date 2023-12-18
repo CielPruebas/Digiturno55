@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Mostrar turnos reciente por cola</name>
+   <tag></tag>
+   <elementGuidId>325d4b8e-5216-426b-ad00-f17216ad90a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_TabContainer1_tpEdicion_upEdicion']/div/div/div/table/tbody/tr[10]/td[2]/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>36106bca-20b7-4f43-86bd-a162e2923452</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_TabContainer1_tpEdicion_chkMostrarTurnosRecientesPorCola</value>
+      <webElementGuid>ad0d874a-4097-48a5-a6fd-b3a4e622cbd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_TabContainer1_tpEdicion_upEdicion&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-6 pb-3&quot;]/div[@class=&quot;cajaSoloContenido&quot;]/table[@class=&quot;tabla2&quot;]/tbody[1]/tr[10]/td[2]/span[1]/label[1]</value>
+      <webElementGuid>d0549a52-5b6c-438e-81ec-8e2548be04eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_TabContainer1_tpEdicion_upEdicion']/div/div/div/table/tbody/tr[10]/td[2]/span/label</value>
+      <webElementGuid>5ce4d132-1523-4875-9086-2372aab47b2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/span/label</value>
+      <webElementGuid>db4d1135-0870-4362-bc8c-1f3b7295d942</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

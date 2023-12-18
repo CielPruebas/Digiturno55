@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_6Numerador Virtual - Oficina Virtual</name>
+   <tag></tag>
+   <elementGuidId>16862daf-d7e5-4fab-9529-a13d33d20c82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_tabCon_tabNum_Numeradores1_GridView']/tbody/tr[6]/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e999dfb1-4fca-4d5d-ad8e-a6c2132119c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Numerador Virtual - Oficina Virtual</value>
+      <webElementGuid>7b25630c-8c72-44a6-89af-883184feddb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_tabCon_tabNum_Numeradores1_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>751a7cd9-0a4e-4556-90ac-7321e3e43ba8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_tabCon_tabNum_Numeradores1_GridView']/tbody/tr[6]/td[3]</value>
+      <webElementGuid>d6c69ef7-0837-49b6-bb19-0d669153b89f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[14]/following::td[2]</value>
+      <webElementGuid>be78058e-495f-4798-909f-c454a4fe14c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WIZ'])[12]/following::td[6]</value>
+      <webElementGuid>cba3b40d-6767-4e9f-aeba-4edaa68e9b0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WIZ'])[13]/preceding::td[1]</value>
+      <webElementGuid>93c9ebc6-edbc-4e17-9cbb-1805559b464d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[15]/preceding::td[5]</value>
+      <webElementGuid>90033bf2-325a-4c07-8038-881c3b616180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Numerador Virtual - Oficina Virtual']/parent::*</value>
+      <webElementGuid>a81db389-7816-4f0e-9aa7-4002f5b740e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/table/tbody/tr[6]/td[3]</value>
+      <webElementGuid>75fd3c4f-f424-4d15-9105-7e0b7acbe596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Numerador Virtual - Oficina Virtual' or . = 'Numerador Virtual - Oficina Virtual')]</value>
+      <webElementGuid>2277c366-1352-4c35-beaa-5e0b7af8e432</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

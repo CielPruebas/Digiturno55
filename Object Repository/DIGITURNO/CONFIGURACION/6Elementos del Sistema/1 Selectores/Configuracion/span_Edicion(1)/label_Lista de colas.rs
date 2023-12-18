@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Lista de colas</name>
+   <tag></tag>
+   <elementGuidId>2214e07f-1223-4310-b68b-acb783e2ded7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='cPHPri_ctl04_TabEdicion_rbtlModoTrabajo']/span[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e152bf31-0081-44ad-b3d2-f54c15cc6a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_ctl04_TabEdicion_rbtlModoTrabajo_1</value>
+      <webElementGuid>91502e27-fc0b-4473-9a05-ac7f30f3f137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lista de colas</value>
+      <webElementGuid>366e7664-def1-45e3-8cce-2ae032a910f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl04_TabEdicion_rbtlModoTrabajo&quot;)/span[2]/label[1]</value>
+      <webElementGuid>99940499-e632-4c2e-b396-31b60087e411</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='cPHPri_ctl04_TabEdicion_rbtlModoTrabajo']/span[2]/label</value>
+      <webElementGuid>d8358ae5-7c21-46ac-b6b9-799a2d9b07e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jerarquía'])[1]/following::label[1]</value>
+      <webElementGuid>9f21f632-ee6a-4171-b698-e8dcbc3ca5c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modo trabajo'])[1]/following::label[2]</value>
+      <webElementGuid>01ab2e18-6fd0-4729-9e88-bdb9640034a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Destino del turno'])[1]/preceding::label[1]</value>
+      <webElementGuid>8e0d192e-a350-40e9-95b0-76fff6bc2cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sala'])[1]/preceding::label[1]</value>
+      <webElementGuid>bbe87a8e-a732-49f5-8508-6962c7ad8ec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lista de colas']/parent::*</value>
+      <webElementGuid>4809b4f5-ba28-48e9-b515-c5a605e40d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td[2]/span/span[2]/label</value>
+      <webElementGuid>6d7b5ea9-3c3e-4969-a91b-afaa1b8ec4a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Lista de colas' or . = 'Lista de colas')]</value>
+      <webElementGuid>903f2ce4-f0c0-4886-b321-aa89043fa32f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

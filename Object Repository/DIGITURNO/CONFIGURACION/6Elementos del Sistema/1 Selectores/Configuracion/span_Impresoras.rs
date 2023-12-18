@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Impresoras</name>
+   <tag></tag>
+   <elementGuidId>e0a19c32-01f1-4a12-b4d5-82d29a8149d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='__tab_cPHPri_ctl04_TabImpresorasAdicionales']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__tab_cPHPri_ctl04_TabImpresorasAdicionales > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2d01fcd1-4c89-4308-88ec-b3087bce0de1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Impresoras</value>
+      <webElementGuid>dd0c39fa-4f22-4fef-85d0-ffb86f967ca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tab_cPHPri_ctl04_TabImpresorasAdicionales&quot;)/span[1]</value>
+      <webElementGuid>ee542f12-f283-4f10-93b0-e3a42a383a70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='__tab_cPHPri_ctl04_TabImpresorasAdicionales']/span</value>
+      <webElementGuid>d7427257-a434-4c5e-8ada-737fbf8991b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jornadas y Colas'])[1]/following::span[4]</value>
+      <webElementGuid>e1d3b48f-a80a-40d5-b65f-6f3e19f1f866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edición'])[2]/following::span[8]</value>
+      <webElementGuid>5bea3131-0930-483a-b65b-869ea08c7b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acciones'])[1]/preceding::span[1]</value>
+      <webElementGuid>0a3892a9-16a7-460f-9c28-34b09172f9ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Información General'])[1]/preceding::span[5]</value>
+      <webElementGuid>384c6f58-65b4-4f18-90f7-42000fbff841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/span/span/a/span</value>
+      <webElementGuid>45176b9d-5650-493a-aef7-931214c4d0ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Impresoras' or . = 'Impresoras')]</value>
+      <webElementGuid>51ed508b-5b73-4ef2-a9a1-314913119ada</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

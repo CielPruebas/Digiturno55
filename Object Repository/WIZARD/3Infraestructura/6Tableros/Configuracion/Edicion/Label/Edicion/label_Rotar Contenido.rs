@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Rotar Contenido</name>
+   <tag></tag>
+   <elementGuidId>b181223c-e69b-48e5-8108-1c886b7ebe1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>table.tablaLimpia > tbody > tr > td > span > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ContentPlaceHolder1_TabContainer1_tpEdicion_upEdicion']/div/table/tbody/tr[9]/td[2]/table/tbody/tr/td/span/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b1f8592b-76a3-4dc3-aca3-753bfb01c359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ContentPlaceHolder1_TabContainer1_tpEdicion_chkRotacionActiva</value>
+      <webElementGuid>0098b044-2af0-4f80-9058-394f46215165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContentPlaceHolder1_TabContainer1_tpEdicion_upEdicion&quot;)/div[@class=&quot;grilla960_12_5&quot;]/table[@class=&quot;tabla2&quot;]/tbody[1]/tr[9]/td[2]/table[@class=&quot;tablaLimpia&quot;]/tbody[1]/tr[1]/td[1]/span[1]/label[1]</value>
+      <webElementGuid>29013023-7af9-4e11-82f5-20443ca433d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContentPlaceHolder1_TabContainer1_tpEdicion_upEdicion']/div/table/tbody/tr[9]/td[2]/table/tbody/tr/td/span/label</value>
+      <webElementGuid>24ff4df6-3f8d-447a-b371-255a72a4bea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[9]/td[2]/table/tbody/tr/td/span/label</value>
+      <webElementGuid>80c3ece5-a532-4fac-a3ef-f2d3ba71c523</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

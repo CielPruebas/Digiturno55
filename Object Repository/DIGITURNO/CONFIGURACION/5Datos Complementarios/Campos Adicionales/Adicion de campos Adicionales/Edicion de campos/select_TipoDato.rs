@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_TipoDato</name>
+   <tag></tag>
+   <elementGuidId>e9e5153b-df02-4958-b642-5a856fa9a240</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='cPHPri_TabContainer_TabContainer8_dllTipoDato']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_TabContainer_TabContainer8_dllTipoDato</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>56385341-824b-499b-8490-6bced542091f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$cPHPri$TabContainer$TabContainer8$dllTipoDato</value>
+      <webElementGuid>90bfdc3b-9631-4817-8f8e-c9cfc1b37d44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:setTimeout('__doPostBack(\'ctl00$cPHPri$TabContainer$TabContainer8$dllTipoDato\',\'\')', 0)</value>
+      <webElementGuid>9921fec0-d964-4abb-a234-e6874f1323cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cPHPri_TabContainer_TabContainer8_dllTipoDato</value>
+      <webElementGuid>8a231075-8069-4f5d-aaa4-fc0a8cc515a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				Fecha
+				Fecha y hora
+				Hora
+				Número
+				Texto
+
+			</value>
+      <webElementGuid>5a3c2835-623f-46bd-8d53-cf4b23a3b6bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_TabContainer_TabContainer8_dllTipoDato&quot;)</value>
+      <webElementGuid>7a93f911-fad1-4d9b-ac67-7e38ac024d53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='cPHPri_TabContainer_TabContainer8_dllTipoDato']</value>
+      <webElementGuid>7553ae25-bdfa-40f3-9141-35be65f207f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_TabContainer_TabContainer8']/div/div/div/table/tbody/tr[4]/td[2]/select</value>
+      <webElementGuid>88498091-ad6e-48e0-a208-bc652a3e5b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Dato:'])[1]/following::select[1]</value>
+      <webElementGuid>2e5fea3c-02c8-4d70-9585-26241c712f89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo Control:'])[1]/following::select[2]</value>
+      <webElementGuid>b655658b-03f8-4fcd-8619-3f4b669af82a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multilínea'])[1]/preceding::select[1]</value>
+      <webElementGuid>dfe75c9b-5168-4a55-882a-5f82d38c00e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Longitud:'])[1]/preceding::select[1]</value>
+      <webElementGuid>c65225dc-e64c-4d13-9f47-eb310a2f1af3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]/select</value>
+      <webElementGuid>baeeb719-1f01-4bda-82ff-26fa6ff6e51f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$cPHPri$TabContainer$TabContainer8$dllTipoDato' and @id = 'cPHPri_TabContainer_TabContainer8_dllTipoDato' and (text() = '
+				Fecha
+				Fecha y hora
+				Hora
+				Número
+				Texto
+
+			' or . = '
+				Fecha
+				Fecha y hora
+				Hora
+				Número
+				Texto
+
+			')]</value>
+      <webElementGuid>84c29233-16e0-47b7-82eb-351628e7c3c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

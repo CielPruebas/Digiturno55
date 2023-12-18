@@ -1,0 +1,33 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+6 Nueva Transaccion Turno,Chrome 114.0.0.0,,,2023-07-11 12:54:30,2023-07-11 12:55:32,"1m - 1,512s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/OPERACION BASICA/6 Nueva Transaccion Turno,Chrome 114.0.0.0,,,2023-07-11 12:54:30,2023-07-11 12:55:32,"1m - 1,276s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 12:54:31,2023-07-11 12:54:42,"11,454s",PASSED
+"click(findTestObject(""DIGITURNO/1Principal/img_Operacion(1)""))",Chrome 114.0.0.0,,,2023-07-11 12:54:42,2023-07-11 12:54:43,"0,759s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:54:43,2023-07-11 12:54:46,"3,017s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/0Principal/Elementos del Sistema/img_Terminales""))",Chrome 114.0.0.0,,,2023-07-11 12:54:46,2023-07-11 12:54:47,"0,671s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:54:47,2023-07-11 12:54:50,"3,014s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/0Oficinas/td_1Bogota - CIEL""))",Chrome 114.0.0.0,Escogemos oficina,,2023-07-11 12:54:50,2023-07-11 12:54:50,"0,517s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:54:50,2023-07-11 12:54:53,"3,015s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/0Terminales (Menos WorkFlow)/td_1 - Terminal - Informacion""))",Chrome 114.0.0.0,Abrimos Terminal,,2023-07-11 12:54:53,2023-07-11 12:54:54,"0,478s",PASSED
+switchToWindowIndex(1),Chrome 114.0.0.0,,,2023-07-11 12:54:54,2023-07-11 12:54:55,"0,955s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:54:55,2023-07-11 12:54:58,"3,013s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Llamar""))",Chrome 114.0.0.0,,,2023-07-11 12:54:58,2023-07-11 12:54:58,"0,445s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:54:58,2023-07-11 12:55:01,"3,008s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Ocupado""))",Chrome 114.0.0.0,,,2023-07-11 12:55:01,2023-07-11 12:55:03,"1,681s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:55:03,2023-07-11 12:55:06,"3,009s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Ocupado(1)/a_1Actualizacion de Datos""))",Chrome 114.0.0.0,,,2023-07-11 12:55:06,2023-07-11 12:55:07,"0,883s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:55:07,2023-07-11 12:55:10,"3,004s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Nueva Transaccion""))",Chrome 114.0.0.0,,,2023-07-11 12:55:10,2023-07-11 12:55:11,"0,909s",PASSED
+delay(3),Chrome 114.0.0.0,Nueva Transacción,,2023-07-11 12:55:11,2023-07-11 12:55:14,"3,008s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Nueva Transaccion(1)/a_3Radicaciones General""))",Chrome 114.0.0.0,,,2023-07-11 12:55:14,2023-07-11 12:55:14,"0,430s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:55:14,2023-07-11 12:55:17,"3,011s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Nueva Transaccion(1)/img_Nueva Transaccion(2)/a_2""))",Chrome 114.0.0.0,,,2023-07-11 12:55:17,2023-07-11 12:55:18,"0,572s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:55:18,2023-07-11 12:55:21,"3,012s",PASSED
+takeFullPageScreenshot(),Chrome 114.0.0.0,,,2023-07-11 12:55:21,2023-07-11 12:55:21,"0,803s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:55:21,2023-07-11 12:55:24,"3,006s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar""))",Chrome 114.0.0.0,,,2023-07-11 12:55:24,2023-07-11 12:55:25,"0,455s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:55:25,2023-07-11 12:55:28,"3,009s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar(1)/btn_4FindeJornada_8""))",Chrome 114.0.0.0,,,2023-07-11 12:55:28,2023-07-11 12:55:29,"0,784s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:55:29,2023-07-11 12:55:32,"3,019s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 114.0.0.0,,,2023-07-11 12:55:32,2023-07-11 12:55:32,"0,015s",PASSED

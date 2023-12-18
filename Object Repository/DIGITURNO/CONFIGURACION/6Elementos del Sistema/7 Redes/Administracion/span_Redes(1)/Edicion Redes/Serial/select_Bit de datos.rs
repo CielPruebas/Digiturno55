@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Bit de datos</name>
+   <tag></tag>
+   <elementGuidId>581e4f07-7332-433d-86ce-0cedefaff4a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_ctl00_TabRedes_dllBitDatos</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='cPHPri_ctl00_TabRedes_dllBitDatos']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>638a168f-d469-420c-bd27-8907459d8d31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$cPHPri$ctl00$TabRedes$dllBitDatos</value>
+      <webElementGuid>76effc5f-4a0b-4d39-ba29-fbfc43ea7ec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cPHPri_ctl00_TabRedes_dllBitDatos</value>
+      <webElementGuid>37ceba36-ded4-42d7-8918-18251d4ab1de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		5
+		6
+		7
+		8
+
+	</value>
+      <webElementGuid>f90d6656-159b-4473-b389-486a9c5cefbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl00_TabRedes_dllBitDatos&quot;)</value>
+      <webElementGuid>3d93add3-d93f-468b-9cc3-e21a7b71503f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='cPHPri_ctl00_TabRedes_dllBitDatos']</value>
+      <webElementGuid>dc0ca512-3a83-457b-bd5a-1d46e4765bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_ctl00_TabRedes_upRedes']/table/tbody/tr[7]/td[2]/select</value>
+      <webElementGuid>00798e5f-0efe-4744-bb61-26eb4a40054b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bit de datos:'])[1]/following::select[1]</value>
+      <webElementGuid>51d2e2e5-2789-4ada-afdf-488173edbb3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baudios:'])[1]/following::select[2]</value>
+      <webElementGuid>60d016ff-144f-4aa7-a359-999a71265f02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paridad:'])[1]/preceding::select[1]</value>
+      <webElementGuid>190720b6-5e31-42e9-8cc7-ee41f37a1cb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bit de parada:'])[1]/preceding::select[2]</value>
+      <webElementGuid>ab86678c-12fe-456f-8965-0b0fd6d31930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[2]/select</value>
+      <webElementGuid>9956e20f-09ab-4021-b778-f39fe1840747</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$cPHPri$ctl00$TabRedes$dllBitDatos' and @id = 'cPHPri_ctl00_TabRedes_dllBitDatos' and (text() = '
+		5
+		6
+		7
+		8
+
+	' or . = '
+		5
+		6
+		7
+		8
+
+	')]</value>
+      <webElementGuid>90bb2245-590c-49fb-8066-c50df73a7456</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

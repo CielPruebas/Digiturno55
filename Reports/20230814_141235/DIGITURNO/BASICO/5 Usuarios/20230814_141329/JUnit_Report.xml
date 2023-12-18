@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="5 Usuarios" time="22.763" tests="1" failures="0" errors="0">
+   <testsuite name="5 Usuarios" tests="1" failures="0" errors="0" time="22.763" skipped="0" timestamp="2023-08-14 14:51:55" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/DIGITURNO/BASICO/5 Usuarios">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_141235\\DIGITURNO\\BASICO\\5 Usuarios\\20230814_141329"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_141235\\DIGITURNO\\BASICO\\5 Usuarios\\20230814_141329\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_141235\\DIGITURNO\\BASICO\\5 Usuarios\\20230814_141329\\1692042734784.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 115.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.33"/>
+         <property name="sessionId" value="50c519434337567ce482623a8fd87bfd"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/DIGITURNO/BASICO/5 Usuarios" time="22.515" classname="Test Cases/DIGITURNO/BASICO/5 Usuarios" status="PASSED">
+         <system-out><![CDATA[2023-08-14 14:51:55 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/5 Usuarios: Test Cases/DIGITURNO/BASICO/5 Usuarios
+
+2023-08-14 14:51:56 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2023-08-14 14:51:56 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2023-08-14 14:51:56 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8610'
+
+2023-08-14 14:51:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-08-14 14:51:57 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2023-08-14 14:51:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-08-14 14:51:59 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8610'
+
+2023-08-14 14:51:59 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-08-14 14:51:59 - [MESSAGE][PASSED] - Current window maximized
+
+2023-08-14 14:51:59 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:52:02 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:52:02 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2023-08-14 14:52:03 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2023-08-14 14:52:03 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2023-08-14 14:52:04 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2023-08-14 14:52:04 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2023-08-14 14:52:04 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2023-08-14 14:52:04 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:52:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:52:07 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2023-08-14 14:52:07 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2023-08-14 14:52:08 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2023-08-14 14:52:08 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:52:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:52:11 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_4Usuarios")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_4Usuarios' is clicked on
+
+2023-08-14 14:52:11 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_4Usuarios' is clicked on
+
+2023-08-14 14:52:11 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:52:14 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:52:14 - [TEST_STEP][PASSED] - takeFullPageScreenshot(STOP_ON_FAILURE): Taking screenshot successfully
+
+2023-08-14 14:52:15 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-08-14 14:52:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20230814_141235\\DIGITURNO\\BASICO\\5 Usuarios\\20230814_141329\\1692042734784.png]]
+
+2023-08-14 14:52:15 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2023-08-14 14:52:18 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-08-14 14:52:18 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-08-14 14:51:55 - [TEST_SUITE][PASSED] - 5 Usuarios: Test Cases/DIGITURNO/BASICO/5 Usuarios]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

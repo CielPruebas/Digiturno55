@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Cambiar clave</name>
+   <tag></tag>
+   <elementGuidId>b437b287-a796-43ea-9433-dcd0b1f84974</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='cPHPri_MenuEdicion1_lnkCambiarcontrasena']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_MenuEdicion1_lnkCambiarcontrasena > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>cb3c3f76-fa05-45d7-b09f-eaca873c0514</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../../../img/Iconos/Edicion/Actualizar2.svg</value>
+      <webElementGuid>ed9fc3f1-b410-4ee3-abf2-5081e1cdfc17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_MenuEdicion1_lnkCambiarcontrasena&quot;)/img[1]</value>
+      <webElementGuid>23fb9e47-32c4-43d5-abd2-039b60d915c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='cPHPri_MenuEdicion1_lnkCambiarcontrasena']/img</value>
+      <webElementGuid>97da1c5d-7a68-4b75-a7e8-96fc27499499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/img</value>
+      <webElementGuid>e64b66cd-e003-4a13-9e0b-7a1470c8056b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../../../img/Iconos/Edicion/Actualizar2.svg']</value>
+      <webElementGuid>74f52ddf-5d5f-4aa9-9b1a-148ee4869ef6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

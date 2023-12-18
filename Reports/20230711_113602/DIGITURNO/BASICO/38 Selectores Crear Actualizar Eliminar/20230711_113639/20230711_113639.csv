@@ -1,0 +1,44 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+38 Selectores Crear Actualizar Eliminar,Chrome 114.0.0.0,,,2023-07-11 12:04:39,2023-07-11 12:07:02,"2m - 23,771s",FAILED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/38 Selectores Crear,Chrome 114.0.0.0,,,2023-07-11 12:04:39,2023-07-11 12:05:19,"40,378s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 12:04:39,2023-07-11 12:05:05,"26,039s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_1Selectores""))",Chrome 114.0.0.0,,,2023-07-11 12:05:05,2023-07-11 12:05:06,"0,909s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/0Oficina Modal/td_1Bogota - CIEL""))",Chrome 114.0.0.0,,,2023-07-11 12:05:06,2023-07-11 12:05:07,"0,542s",PASSED
+"scrollToElement(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/btn_SelecccionarOficina""), 2)",Chrome 114.0.0.0,,,2023-07-11 12:05:07,2023-07-11 12:05:08,"0,919s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/btn_SelecccionarOficina""), STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 12:05:08,2023-07-11 12:05:08,"0,433s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/btn_SeleccionarOficina(1)/td_Bogota - CIEL""))",Chrome 114.0.0.0,,,2023-07-11 12:05:08,2023-07-11 12:05:09,"0,684s",PASSED
+"scrollToElement(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/input_Nombre""), 2)",Chrome 114.0.0.0,,,2023-07-11 12:05:09,2023-07-11 12:05:10,"0,894s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/input_Nombre""), ""Prueba"")",Chrome 114.0.0.0,,,2023-07-11 12:05:10,2023-07-11 12:05:10,"0,775s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/textarea_Descripcion""), ""Prueba"")",Chrome 114.0.0.0,,,2023-07-11 12:05:10,2023-07-11 12:05:11,"0,758s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/label_Habilitado""))",Chrome 114.0.0.0,,,2023-07-11 12:05:11,2023-07-11 12:05:12,"0,411s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/label_Balanceo entre salas""))",Chrome 114.0.0.0,,,2023-07-11 12:05:12,2023-07-11 12:05:12,"0,406s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/img_Nuevo""))",Chrome 114.0.0.0,,,2023-07-11 12:05:12,2023-07-11 12:05:12,"0,409s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:05:12,2023-07-11 12:05:15,"3,016s",PASSED
+takeFullPageScreenshot(),Chrome 114.0.0.0,,,2023-07-11 12:05:15,2023-07-11 12:05:16,"0,844s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:05:16,2023-07-11 12:05:19,"3,013s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 114.0.0.0,,,2023-07-11 12:05:19,2023-07-11 12:05:19,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/38 Selectores Actualizar,Chrome 114.0.0.0,,,2023-07-11 12:05:19,2023-07-11 12:05:55,"36,064s",FAILED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 12:05:20,2023-07-11 12:05:44,"24,587s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_1Selectores""))",Chrome 114.0.0.0,,,2023-07-11 12:05:44,2023-07-11 12:05:45,"0,631s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:05:45,2023-07-11 12:05:48,"3,002s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/0Oficina Modal/td_1Bogota - CIEL""))",Chrome 114.0.0.0,,,2023-07-11 12:05:48,2023-07-11 12:05:48,"0,445s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:05:48,2023-07-11 12:05:50,"2,010s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/input_TextoABuscar""), ""Prueba"")",Chrome 114.0.0.0,,,2023-07-11 12:05:50,2023-07-11 12:05:51,"0,736s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:05:51,2023-07-11 12:05:53,"2,011s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda""))",Chrome 114.0.0.0,,,2023-07-11 12:05:53,2023-07-11 12:05:53,"0,458s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Destino del turno/a_SeleccionarTodo""))",Chrome 114.0.0.0,,,2023-07-11 12:05:53,2023-07-11 12:05:55,"1,854s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 114.0.0.0,,,2023-07-11 12:05:55,2023-07-11 12:05:55,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/38 Selector Eliminar,Chrome 114.0.0.0,,,2023-07-11 12:05:55,2023-07-11 12:07:02,"1m - 7,055s",FAILED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 12:05:56,2023-07-11 12:06:20,"24,423s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_1Selectores""))",Chrome 114.0.0.0,,,2023-07-11 12:06:20,2023-07-11 12:06:21,"0,599s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:06:21,2023-07-11 12:06:24,"3,002s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/0Oficina Modal/td_1Bogota - CIEL""))",Chrome 114.0.0.0,,,2023-07-11 12:06:24,2023-07-11 12:06:24,"0,408s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:06:24,2023-07-11 12:06:26,"2,009s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/input_TextoABuscar""), ""Prueba"")",Chrome 114.0.0.0,,,2023-07-11 12:06:26,2023-07-11 12:06:27,"0,713s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:06:27,2023-07-11 12:06:29,"2,014s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda""))",Chrome 114.0.0.0,,,2023-07-11 12:06:29,2023-07-11 12:06:29,"0,374s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Destino del turno/a_SeleccionarTodo""))",Chrome 114.0.0.0,,,2023-07-11 12:06:29,2023-07-11 12:07:02,"33,077s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 114.0.0.0,,,2023-07-11 12:07:02,2023-07-11 12:07:02,"0,000s",PASSED

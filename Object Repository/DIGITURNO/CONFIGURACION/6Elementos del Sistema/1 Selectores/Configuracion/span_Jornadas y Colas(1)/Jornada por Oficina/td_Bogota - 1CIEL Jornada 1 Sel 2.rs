@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Bogota - 1CIEL Jornada 1 Sel 2</name>
+   <tag></tag>
+   <elementGuidId>8905ff45-b164-4e7d-b9da-eb51fc48b678</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_ctl04_TabJornada_Jornadas1_GridView']/tbody/tr[2]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>2df48f0a-0d5b-4084-a4bd-98e5120cfe45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bogota - CIEL Jornada 1 Sel 2</value>
+      <webElementGuid>8bc1e91e-c332-4f0d-8417-6777cd7b0ef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ctl04_TabJornada_Jornadas1_GridView&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[3]</value>
+      <webElementGuid>9167fdbf-3aed-4b2d-b3e5-abff4c734ad1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_ctl04_TabJornada_Jornadas1_GridView']/tbody/tr[2]/td[3]</value>
+      <webElementGuid>254a0e67-b853-4b58-8777-231e459b1095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[9]/following::td[2]</value>
+      <webElementGuid>3bfab6ab-373c-40d0-b0fb-6004a9312675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vigente'])[1]/following::td[3]</value>
+      <webElementGuid>1a25683f-49f6-4950-a2c3-4d3021fae318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selector'])[1]/preceding::td[2]</value>
+      <webElementGuid>85f95ca6-26f3-4233-b8e3-34f0b35c68f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bogota - CIEL Jornada 1 Sel 2']/parent::*</value>
+      <webElementGuid>7ac6d9b7-1290-40f1-ae09-477292620837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[3]</value>
+      <webElementGuid>b83b424a-c136-4588-8557-c17b0cfeb546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Bogota - CIEL Jornada 1 Sel 2' or . = 'Bogota - CIEL Jornada 1 Sel 2')]</value>
+      <webElementGuid>f49e0658-3cae-44a3-abde-8c1ec36367df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

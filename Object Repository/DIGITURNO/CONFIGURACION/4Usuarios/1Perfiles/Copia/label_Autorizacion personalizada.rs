@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Autorizacion personalizada</name>
+   <tag></tag>
+   <elementGuidId>979cacfe-7845-4ee2-811e-436ece6f65e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_chlCopiaOpciones']/tbody/tr[2]/td/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>19cf390c-d2b5-4746-aa1f-a6b84825ddfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_chlCopiaOpciones_1</value>
+      <webElementGuid>adf1c2be-1178-4321-807d-412371bb5238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Autorización personalizada</value>
+      <webElementGuid>cd23c9fd-c268-45ce-8382-b7692938eb4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_chlCopiaOpciones&quot;)/tbody[1]/tr[2]/td[1]/span[1]/label[1]</value>
+      <webElementGuid>74e0fbca-15fe-4b37-b111-3d0f0c31434d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_chlCopiaOpciones']/tbody/tr[2]/td/span/label</value>
+      <webElementGuid>1673724b-4121-4320-99ee-63f623cc16da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Páginas'])[2]/following::label[1]</value>
+      <webElementGuid>4d5f84f4-ae52-4848-9702-a103a5d53fc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::label[2]</value>
+      <webElementGuid>77d9d328-8324-4ac0-a988-c490d2b63113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perfiles destino chat'])[1]/preceding::label[1]</value>
+      <webElementGuid>c32687d5-94b8-483d-8eca-96e7df5bce64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/preceding::label[2]</value>
+      <webElementGuid>68d9064f-b76e-41af-88ae-162d761b32ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/span/label</value>
+      <webElementGuid>e664ed86-e6a1-4bcc-8fd1-bb0a1b9a51d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Autorización personalizada' or . = 'Autorización personalizada')]</value>
+      <webElementGuid>1a0afe81-296c-4800-b161-842c23a07b89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

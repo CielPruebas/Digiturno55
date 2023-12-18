@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Motivos por oficinas</name>
+   <tag></tag>
+   <elementGuidId>aa306055-6df2-4ca0-af21-271b69699088</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id = 'ctl00_rtsSecundario_i8_lblTab' and (text() = 'Motivos por oficinas' or . = 'Motivos por oficinas')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_rtsSecundario_i8_lblTab</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e0b08854-9f92-4f2d-8cc8-7bb6482fbba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_rtsSecundario_i8_lblTab</value>
+      <webElementGuid>29141a60-4558-4ea5-82a7-5c40bcfc8096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lblTab</value>
+      <webElementGuid>44880907-ed36-43d3-99f5-36157916def8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Motivos por oficinas</value>
+      <webElementGuid>5baae95b-d3a0-46cc-b148-09d5714447d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_rtsSecundario_i8_lblTab&quot;)</value>
+      <webElementGuid>66221480-6009-4ffb-9050-5b04f7bb3d1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='ctl00_rtsSecundario_i8_lblTab']</value>
+      <webElementGuid>e1ad0311-df78-43de-a17b-4f3389b25a5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_rtsSecundario']/div/ul/li[9]/div/div/div/div/span</value>
+      <webElementGuid>59311695-ad6f-4b94-8cd4-21fd5045ea64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No se ha creado ningún motivo.'])[2]/following::span[1]</value>
+      <webElementGuid>04e8acd9-e9a0-40ae-b8dd-4fb24fac5b6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Motivos'])[1]/following::span[1]</value>
+      <webElementGuid>deed290c-b916-4dad-b13f-45c8831c15e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No se ha relacionado ningún motivo por oficina.'])[2]/preceding::span[1]</value>
+      <webElementGuid>544fd18d-8894-4c5b-ab28-02056eb45084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Licencia'])[1]/preceding::span[1]</value>
+      <webElementGuid>504b9d88-51ed-457a-86bf-bd3c40aa30fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Motivos por oficinas']/parent::*</value>
+      <webElementGuid>b1e08f8e-e6b5-4d22-908f-c909c8bae638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/div/div/div/div/span</value>
+      <webElementGuid>0ce1d01c-f98b-430a-a4f4-68b093e37a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'ctl00_rtsSecundario_i8_lblTab' and (text() = 'Motivos por oficinas' or . = 'Motivos por oficinas')]</value>
+      <webElementGuid>3a768ce5-67b6-47bd-98cd-43e116d1db17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

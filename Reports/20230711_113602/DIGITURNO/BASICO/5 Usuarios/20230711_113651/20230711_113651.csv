@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5 Usuarios,Chrome 114.0.0.0,,,2023-07-11 12:13:42,2023-07-11 12:14:05,"22,548s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/5 Usuarios,Chrome 114.0.0.0,,,2023-07-11 12:13:42,2023-07-11 12:14:05,"22,311s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 12:13:43,2023-07-11 12:13:54,"11,142s",PASSED
+"click(findTestObject(""DIGITURNO/1Principal/img_Configuracion(1)""))",Chrome 114.0.0.0,,,2023-07-11 12:13:54,2023-07-11 12:13:55,"0,578s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:13:55,2023-07-11 12:13:58,"3,016s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/0Principal/img_4Usuarios""))",Chrome 114.0.0.0,,,2023-07-11 12:13:58,2023-07-11 12:13:58,"0,536s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:13:58,2023-07-11 12:14:01,"3,011s",PASSED
+takeFullPageScreenshot(STOP_ON_FAILURE),Chrome 114.0.0.0,,,2023-07-11 12:14:01,2023-07-11 12:14:02,"0,722s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:14:02,2023-07-11 12:14:05,"3,010s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 114.0.0.0,,,2023-07-11 12:14:05,2023-07-11 12:14:05,"0,000s",PASSED

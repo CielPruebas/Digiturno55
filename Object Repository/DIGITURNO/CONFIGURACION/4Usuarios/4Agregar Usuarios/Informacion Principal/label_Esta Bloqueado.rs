@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Esta Bloqueado</name>
+   <tag></tag>
+   <elementGuidId>b0642f81-13e7-4826-b87c-c185eeb6bbcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cPHPri_UpdatePanel1']/div/div/div/div[2]/table/tbody/tr[6]/td[2]/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4112ba2d-a20d-44f0-b2ed-bcb581c5f8ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_chkEstaBloqueado</value>
+      <webElementGuid>4479cb18-77ec-49a6-8884-1c3d090b4d5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_UpdatePanel1&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5 col-md-6 col-sm-12 col-xxl-5&quot;]/div[@class=&quot;caja&quot;]/div[@class=&quot;cajaContenido&quot;]/table[@class=&quot;tabla2 table table-responsive&quot;]/tbody[1]/tr[6]/td[2]/span[1]/label[1]</value>
+      <webElementGuid>aff644c1-4411-4100-9724-ea4f6c0bfd86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cPHPri_UpdatePanel1']/div/div/div/div[2]/table/tbody/tr[6]/td[2]/span/label</value>
+      <webElementGuid>a873c775-1754-4726-b7c9-3f563d47afcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>e04a26fe-0571-4a0d-a783-8f5ab8326495</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

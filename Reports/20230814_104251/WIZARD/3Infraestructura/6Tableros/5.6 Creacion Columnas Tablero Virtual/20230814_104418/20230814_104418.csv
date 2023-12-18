@@ -1,0 +1,46 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.6 Creacion Columnas Tablero Virtual,Chrome 115.0.0.0,,,2023-08-14 11:47:39,2023-08-14 11:48:43,"1m - 3,991s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/6Tableros/5.6 Creacion Columnas Tablero Virtual,Chrome 115.0.0.0,,,2023-08-14 11:47:39,2023-08-14 11:48:43,"1m - 3,752s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 11:47:39,2023-08-14 11:47:51,"11,226s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 115.0.0.0,,,2023-08-14 11:47:51,2023-08-14 11:47:52,"1,723s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:47:52,2023-08-14 11:47:55,"3,004s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Tableros""))",Chrome 115.0.0.0,Virtual,,2023-08-14 11:47:55,2023-08-14 11:47:56,"1,017s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:47:56,2023-08-14 11:47:59,"3,006s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/0OficinaModal/td_Virtual - Oficina Virtual""))",Chrome 115.0.0.0,,,2023-08-14 11:47:59,2023-08-14 11:48:00,"0,488s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:48:00,2023-08-14 11:48:03,"3,014s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Lista de Tableros/td_Tablero - 1""))",Chrome 115.0.0.0,,,2023-08-14 11:48:03,2023-08-14 11:48:03,"0,487s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:48:03,2023-08-14 11:48:06,"3,003s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/span_Columnas""))",Chrome 115.0.0.0,,,2023-08-14 11:48:06,2023-08-14 11:48:07,"0,457s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:48:07,2023-08-14 11:48:09,"2,010s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Nombre""), ""Turno"")",Chrome 115.0.0.0,Creacion Turno,,2023-08-14 11:48:09,2023-08-14 11:48:10,"0,831s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/textarea_Descripcion""), ""Turno"")",Chrome 115.0.0.0,,,2023-08-14 11:48:10,2023-08-14 11:48:10,"0,785s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Titulo""), ""Turno"")",Chrome 115.0.0.0,,,2023-08-14 11:48:10,2023-08-14 11:48:11,"0,792s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos""), 2)",Chrome 115.0.0.0,,,2023-08-14 11:48:11,2023-08-14 11:48:12,"0,363s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/Label/Columnas/label_Habilitada""))",Chrome 115.0.0.0,,,2023-08-14 11:48:12,2023-08-14 11:48:12,"0,445s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos""))",Chrome 115.0.0.0,,,2023-08-14 11:48:12,2023-08-14 11:48:12,"0,412s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:48:12,2023-08-14 11:48:15,"3,014s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos (1)/a_Turno.Numero""))",Chrome 115.0.0.0,,,2023-08-14 11:48:15,2023-08-14 11:48:16,"0,412s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:48:16,2023-08-14 11:48:18,"2,002s",PASSED
+"scrollToPosition(0, 0)",Chrome 115.0.0.0,,,2023-08-14 11:48:18,2023-08-14 11:48:18,"0,039s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:48:18,2023-08-14 11:48:20,"2,007s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:48:20,2023-08-14 11:48:20,"0,460s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:48:20,2023-08-14 11:48:23,"3,018s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Nombre""), 2)",Chrome 115.0.0.0,,,2023-08-14 11:48:23,2023-08-14 11:48:24,"0,379s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Nombre""), ""Modulo"")",Chrome 115.0.0.0,Creacion Modulo,,2023-08-14 11:48:24,2023-08-14 11:48:25,"0,793s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/textarea_Descripcion""), ""Modulo"")",Chrome 115.0.0.0,,,2023-08-14 11:48:25,2023-08-14 11:48:25,"0,797s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Titulo""), ""Modulo"")",Chrome 115.0.0.0,,,2023-08-14 11:48:25,2023-08-14 11:48:26,"0,782s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos""), 2)",Chrome 115.0.0.0,,,2023-08-14 11:48:26,2023-08-14 11:48:27,"0,625s",PASSED
+"clearText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Elementos""))",Chrome 115.0.0.0,,,2023-08-14 11:48:27,2023-08-14 11:48:27,"0,456s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos""))",Chrome 115.0.0.0,,,2023-08-14 11:48:27,2023-08-14 11:48:28,"0,409s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:48:28,2023-08-14 11:48:31,"3,011s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos (1)/a_Terminal.Modulo""))",Chrome 115.0.0.0,,,2023-08-14 11:48:31,2023-08-14 11:48:31,"0,418s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:48:31,2023-08-14 11:48:33,"2,014s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Orden UP""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-14 11:48:33,2023-08-14 11:48:34,"0,418s",PASSED
+"scrollToPosition(0, 0)",Chrome 115.0.0.0,,,2023-08-14 11:48:34,2023-08-14 11:48:34,"0,017s",PASSED
+delay(2),Chrome 115.0.0.0,,,2023-08-14 11:48:34,2023-08-14 11:48:36,"2,014s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/img_Nuevo""))",Chrome 115.0.0.0,,,2023-08-14 11:48:36,2023-08-14 11:48:36,"0,420s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:48:36,2023-08-14 11:48:39,"3,016s",PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2023-08-14 11:48:39,2023-08-14 11:48:40,"0,818s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-14 11:48:40,2023-08-14 11:48:43,"3,016s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-08-14 11:48:43,2023-08-14 11:48:43,"0,000s",PASSED

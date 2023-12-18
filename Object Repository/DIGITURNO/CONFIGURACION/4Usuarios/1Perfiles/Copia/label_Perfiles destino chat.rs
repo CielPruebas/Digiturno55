@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Perfiles destino chat</name>
+   <tag></tag>
+   <elementGuidId>2c1eaa05-9544-492a-a3e4-72b031e177e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_chlCopiaOpciones']/tbody/tr[3]/td/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>97524bc6-dc0e-4561-8ee0-ce4e3568b79b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_chlCopiaOpciones_2</value>
+      <webElementGuid>c8b896dc-6dab-4ddd-addb-6b91ef4f8e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Perfiles destino chat</value>
+      <webElementGuid>18fc6af2-018b-4bdc-ad52-8e66f714ab6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_chlCopiaOpciones&quot;)/tbody[1]/tr[3]/td[1]/span[1]/label[1]</value>
+      <webElementGuid>13011dfc-46e7-4a98-a1c0-2b13e0d6e77a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_chlCopiaOpciones']/tbody/tr[3]/td/span/label</value>
+      <webElementGuid>c4710ba8-0293-4b77-a6c8-2b7b3993face</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autorización personalizada'])[2]/following::label[1]</value>
+      <webElementGuid>a8a73ce9-cde3-4dc7-af84-cab27a3e4257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Páginas'])[2]/following::label[2]</value>
+      <webElementGuid>14c32d9a-7cce-4832-8792-cc9f0cb29ba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/preceding::label[1]</value>
+      <webElementGuid>333225a5-0a0d-4668-b8ac-0730d26d2b6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='X'])[1]/preceding::label[1]</value>
+      <webElementGuid>4fcf2958-588b-4b5b-aade-4083084cd740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Perfiles destino chat']/parent::*</value>
+      <webElementGuid>e8615a03-69bf-4bb4-9738-4800eb56c26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/span/label</value>
+      <webElementGuid>b68a9d9a-ed14-4800-8596-9c64629466a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Perfiles destino chat' or . = 'Perfiles destino chat')]</value>
+      <webElementGuid>3b269427-b81c-4ebc-9c1f-ec23bee380bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

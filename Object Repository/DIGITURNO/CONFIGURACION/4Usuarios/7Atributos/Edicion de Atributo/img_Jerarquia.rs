@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Jerarquia</name>
+   <tag></tag>
+   <elementGuidId>e27919eb-4550-45e0-b0c6-9cc5ec070caf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='cPHPri_ucMenuEdicionAtributos_lnkJerarquia']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_ucMenuEdicionAtributos_lnkJerarquia > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4488cdd1-bdc2-46ca-a5c5-4ac17551ce57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../../../img/Iconos/Secciones/JerarquiaDiagrama.svg</value>
+      <webElementGuid>ad5d1c68-1ce8-4212-86ec-50c2e4060842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ucMenuEdicionAtributos_lnkJerarquia&quot;)/img[1]</value>
+      <webElementGuid>d22f42aa-2cae-4122-b017-4e3544422108</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='cPHPri_ucMenuEdicionAtributos_lnkJerarquia']/img</value>
+      <webElementGuid>779e67d1-8ad4-475f-8112-6ff57f80e7c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div/a[2]/img</value>
+      <webElementGuid>8881bac9-d44e-4d03-bfc0-a005a5c8226e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../../../img/Iconos/Secciones/JerarquiaDiagrama.svg']</value>
+      <webElementGuid>4ca145fa-7ae0-48d4-a571-8bdc9245d331</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

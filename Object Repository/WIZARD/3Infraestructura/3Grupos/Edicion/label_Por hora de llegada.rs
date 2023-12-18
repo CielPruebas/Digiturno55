@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Por hora de llegada</name>
+   <tag></tag>
+   <elementGuidId>be3a7094-afb5-4b62-9956-efdd2826767a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='cPHPri_chklPrioridadesTransferencia']/span[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d08f30b6-4d4d-4442-a6d0-937fe043882a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cPHPri_chklPrioridadesTransferencia_1</value>
+      <webElementGuid>83073886-f08b-4828-942b-fca757f87213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Por hora de llegada</value>
+      <webElementGuid>bf5d6365-ea3a-4e10-af56-6a9aabad5daa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_chklPrioridadesTransferencia&quot;)/span[2]/label[1]</value>
+      <webElementGuid>0da654cd-9d49-4369-a231-6017a957d066</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='cPHPri_chklPrioridadesTransferencia']/span[2]/label</value>
+      <webElementGuid>e6c337d7-c9a2-4af8-880a-f8a4408c8e58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='De primero'])[1]/following::label[1]</value>
+      <webElementGuid>430e2dc0-fefd-4a07-a8a6-c1378c6d9adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prioridades disponibles'])[1]/following::label[2]</value>
+      <webElementGuid>310701a1-d9a8-448f-972d-5eb4eab09fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hora de transferencia'])[1]/preceding::label[1]</value>
+      <webElementGuid>c86c37a4-e70b-4846-a815-3747a0f865fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visualización de destinos:'])[1]/preceding::label[2]</value>
+      <webElementGuid>78b82860-f331-43f8-b12c-d77ed9e53c97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Por hora de llegada']/parent::*</value>
+      <webElementGuid>1903f175-0af3-42b0-b7cb-726df4cca93e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/label</value>
+      <webElementGuid>d33a6bc8-87ce-4454-b2a0-4c4d29318f5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Por hora de llegada' or . = 'Por hora de llegada')]</value>
+      <webElementGuid>c1ae6857-98c8-4841-a5ec-4381bbd64d28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

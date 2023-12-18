@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_1 Cierre</name>
+   <tag></tag>
+   <elementGuidId>2032bdcf-6b2f-4cbc-a48c-b168a6d67cf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cPHPri_TabContainer1_TabPanelTiposMotivo_AdministracionTiposMotivo_GridViewTipos']/tbody/tr/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>301a35eb-819e-4e35-9268-3cfca3407cbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cierre</value>
+      <webElementGuid>875b5d6a-d7c2-44e3-891e-aff39150e0d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_TabContainer1_TabPanelTiposMotivo_AdministracionTiposMotivo_GridViewTipos&quot;)/tbody[1]/tr[@class=&quot;seleccionada trClick&quot;]/td[3]</value>
+      <webElementGuid>7cc6d29c-8ff8-4ed1-933b-4363f883602d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cPHPri_TabContainer1_TabPanelTiposMotivo_AdministracionTiposMotivo_GridViewTipos']/tbody/tr/td[3]</value>
+      <webElementGuid>dd0ce7ee-bbea-41a1-95b7-7d10415f12ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[1]/following::td[2]</value>
+      <webElementGuid>db91926c-f8fe-44a9-9b2f-fe3cea6c820e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplica tiempo Ocio'])[1]/following::td[3]</value>
+      <webElementGuid>6ccc37c3-3132-4e9c-b206-2a52b75621e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir'])[2]/preceding::td[2]</value>
+      <webElementGuid>c9ea4c02-81b3-4826-825c-d46b94417458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suspensión'])[1]/preceding::td[4]</value>
+      <webElementGuid>35ef8f55-ca4b-437e-877a-e7f29f2317ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>03a9c9b6-e9d8-4ecf-a829-0f5b8aa77170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Cierre' or . = 'Cierre')]</value>
+      <webElementGuid>673e6617-e3f1-42ae-bb97-5e6fab133b08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

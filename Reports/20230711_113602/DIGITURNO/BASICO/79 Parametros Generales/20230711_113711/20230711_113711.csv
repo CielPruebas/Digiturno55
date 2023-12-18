@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+79 Parametros Generales,Chrome 114.0.0.0,,,2023-07-11 12:30:07,2023-07-11 12:30:47,"39,637s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/79 Parametros Generales,Chrome 114.0.0.0,,,2023-07-11 12:30:08,2023-07-11 12:30:47,"39,408s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/30 Sistema""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-11 12:30:08,2023-07-11 12:30:30,"22,195s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/0Principal/img_1 Parametros Generales""))",Chrome 114.0.0.0,,,2023-07-11 12:30:30,2023-07-11 12:30:31,"1,109s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:30:31,2023-07-11 12:30:34,"3,007s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/1 Parametros Generales/input_Busqueda""), ""idiom"")",Chrome 114.0.0.0,,,2023-07-11 12:30:34,2023-07-11 12:30:35,"0,836s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/1 Parametros Generales/img_Filtrar""))",Chrome 114.0.0.0,,,2023-07-11 12:30:35,2023-07-11 12:30:36,"0,436s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:30:36,2023-07-11 12:30:38,"2,013s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/1 Parametros Generales/Lista Botones Editar/btn_Editar 1""))",Chrome 114.0.0.0,,,2023-07-11 12:30:38,2023-07-11 12:30:38,"0,471s",PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-11 12:30:38,2023-07-11 12:30:40,"2,013s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/1 Parametros Generales/Pestanas/Cambiar Parametros/Texto/a_Guardar""))",Chrome 114.0.0.0,,,2023-07-11 12:30:40,2023-07-11 12:30:41,"0,481s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:30:41,2023-07-11 12:30:44,"3,008s",PASSED
+takeFullPageScreenshot(),Chrome 114.0.0.0,,,2023-07-11 12:30:44,2023-07-11 12:30:44,"0,518s",PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-11 12:30:44,2023-07-11 12:30:47,"3,015s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 114.0.0.0,,,2023-07-11 12:30:47,2023-07-11 12:30:47,"0,000s",PASSED

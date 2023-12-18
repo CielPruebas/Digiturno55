@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_0 Actualizacion de Datos</name>
+   <tag></tag>
+   <elementGuidId>d852cd42-8ae8-4061-8b66-317b522d4db3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ContentPlaceHolder1_ArbolJerarquiaNegocio_chlElementosAAgregar']/tbody/tr/td/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c8b10948-2c1b-471e-9dc8-46fc0c798761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ContentPlaceHolder1_ArbolJerarquiaNegocio_chlElementosAAgregar_0</value>
+      <webElementGuid>e62b2cab-5198-4248-a544-df0794a61493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Actualización de Datos</value>
+      <webElementGuid>b2129f17-23be-4f43-a40f-9d2854244915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContentPlaceHolder1_ArbolJerarquiaNegocio_chlElementosAAgregar&quot;)/tbody[1]/tr[1]/td[1]/span[1]/label[1]</value>
+      <webElementGuid>d9c0794e-8911-4bb1-8669-bed452eae66e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ContentPlaceHolder1_ArbolJerarquiaNegocio_chlElementosAAgregar']/tbody/tr/td/span/label</value>
+      <webElementGuid>fe3c1ea0-bd74-4483-b261-cd254f20b478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccione los elementos a agregar'])[1]/following::label[1]</value>
+      <webElementGuid>cf6ffddc-8003-4109-ba94-97141cd6dc43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agregar Elementos'])[3]/following::label[1]</value>
+      <webElementGuid>7ab097e2-cbf6-4ea7-9771-fa0f0035f309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autorizaciones'])[1]/preceding::label[1]</value>
+      <webElementGuid>b19e68a3-37f2-45a8-bb9d-8a851b4148c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Certificado'])[1]/preceding::label[2]</value>
+      <webElementGuid>31ab83b7-779c-44bc-a548-ee742af4554c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Actualización de Datos']/parent::*</value>
+      <webElementGuid>30970b94-6028-4b46-9d38-25eb6773ffe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>f2da9b37-f5bf-473e-83cd-cbb7f8b8aa0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Actualización de Datos' or . = 'Actualización de Datos')]</value>
+      <webElementGuid>83870b91-d227-499a-af70-1f5ac79c2808</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
