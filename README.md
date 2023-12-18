@@ -1,5 +1,5 @@
 # **Automatización Digiturno plus 5.5.0.0 en adelante**
-![Digiturno](digiturno.png)
+![Digiturno](Digiturno.png)
 
 ## Descripción del Proyecto
 
