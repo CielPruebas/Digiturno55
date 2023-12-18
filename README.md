@@ -17,6 +17,7 @@ Cabe señalar, que esta es una automatización de creación Tomando en cuenta tr
 Para poder automatizar necesitan descargar Katalon Studio del siguiente enlace:
 
 ![Katalon Studio](katalon-logo.png)
+
 [https://katalon.com/download](https://katalon.com/download)
 
 **Para poder usarlo se necesita crear una cuenta, que es gratuita, mediante correo y contraseña.**
