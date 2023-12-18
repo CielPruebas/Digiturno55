@@ -1,5 +1,5 @@
 # **Automatización Digiturno plus 5.5.0.0 en adelante**
-![Digiturno](digiturno.png)
+![Digiturno](Digiturno.png)
 
 ## Descripción del Proyecto
 
@@ -7,9 +7,10 @@ En el presente proyecto, se realiza la automatización para la aplicación Digit
 
 Cabe señalar, que esta es una automatización de creación Tomando en cuenta tres aspectos:
 
-1. Wizard de Creación 
-2. Actualizaciones y
+1. Wizard de Creación. 
+2. Actualizaciones.
 3. Operaciones Básicas en Terminal.
+4. Video Atención.
 
 
 ## Que necesitan para poder automatizar
@@ -17,6 +18,7 @@ Cabe señalar, que esta es una automatización de creación Tomando en cuenta tr
 Para poder automatizar necesitan descargar Katalon Studio del siguiente enlace:
 
 ![Katalon Studio](katalon-logo.png)
+
 [https://katalon.com/download](https://katalon.com/download)
 
 **Para poder usarlo se necesita crear una cuenta, que es gratuita, mediante correo y contraseña.**
@@ -116,6 +118,25 @@ Para poder automatizar necesitan descargar Katalon Studio del siguiente enlace:
 | 9  | Nueva Transacción Turno | Abrir Terminal atender y realizar nueva transacción    |
 | 10 | Transferencia Turno     | Abrir Terminal, llamar y transferir el turno.          |
 
+## Funcionalidades Video Atención
+
+| Id | Proceso                             | Descripción                                                                              |
+|----|-------------------------------------|------------------------------------------------------------------------------------------|
+| 1  | Abrir Video Atención                | Abrir Video Atención Cliente                                                             |
+| 2  | Abrir Terminal para Video Atención  | Abrir Terminal debe mostar el mensaje Video Atención habilitado                          |
+| 3  | Atención Turno en la Terminal       | Mostrar Video en la terminal                                                             |
+| 4  | Atención en Cliente                 | Mostrar Video en el navegador del Cliente                                                |
+| 5  | Cliente deshabilitar Video          | En el navegador del cliente Deshabilitar el video                                        |
+| 6  | Cliente deshabilitar audio          | En el navegador del cliente deshabilitar el micrófono                                    |
+| 7  | Cliente deshabilitar Audio y Video  | En el navegador del cliente deshabilitar el micrófono y el video                         |
+| 8  | Terminal deshabilitar video         | En la terminal deshabilitar video                                                        |
+| 9  | Terminal deshabilitar audio         | En la terminal deshabilitar el micrófono                                                 |
+| 10 | Terminal deshabilitar Audio y Video | En la terminal deshabilitar el micrófono y el video                                      |
+| 11 | Cliente Transferir Archivos         | Enviare un archivo del cliente y verificar su recepción en la terminal (TXT, PDF y PNG)  |
+| 12 | Terminal Transferir Archivos        | Enviar un archivo de la terminal y verificar su recepción en el cliente (TXT, PDF y PNG) |
+| 13 | Cliente Reenviar Archivo            | Hacer click en el botón reenviar                                                         |
+| 14 | Cliente Eliminar Archivo            | Eliminar el archivo enviado                                                              |
+| 15 | Cliente Ver archivo                 | Hacer click en el botón Ver                                                              |
 
 
 ## Autor del proyecto
