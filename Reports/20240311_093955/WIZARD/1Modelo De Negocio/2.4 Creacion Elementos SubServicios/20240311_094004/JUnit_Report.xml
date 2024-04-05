@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="2.4 Creacion Elementos SubServicios" time="310.382" tests="1" failures="0" errors="0">
+   <testsuite name="2.4 Creacion Elementos SubServicios" tests="1" failures="0" errors="0" time="310.382" skipped="0" timestamp="2024-03-11 09:47:21" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/WIZARD/1Modelo De Negocio/2.4 Creacion Elementos SubServicios">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240311_093955\\WIZARD\\1Modelo De Negocio\\2.4 Creacion Elementos SubServicios\\20240311_094004"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240311_093955\\WIZARD\\1Modelo De Negocio\\2.4 Creacion Elementos SubServicios\\20240311_094004\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240311_093955\\WIZARD\\1Modelo De Negocio\\2.4 Creacion Elementos SubServicios\\20240311_094004\\1710168748282.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 122.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.14"/>
+         <property name="sessionId" value="607a25141b35712dab28938f55d6c150"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/WIZARD/1Modelo De Negocio/2.4 Creacion Elementos SubServicios" time="310.141" classname="Test Cases/WIZARD/1Modelo De Negocio/2.4 Creacion Elementos SubServicios" status="PASSED">
+         <system-out><![CDATA[2024-03-11 09:47:22 - [TEST_CASE][PASSED] - Test Cases/WIZARD/1Modelo De Negocio/2.4 Creacion Elementos SubServicios: Test Cases/WIZARD/1Modelo De Negocio/2.4 Creacion Elementos SubServicios
+
+2024-03-11 09:47:22 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-03-11 09:47:22 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-03-11 09:47:22 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-03-11 09:47:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-03-11 09:47:23 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-03-11 09:47:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-03-11 09:47:26 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-03-11 09:47:26 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-03-11 09:47:26 - [MESSAGE][PASSED] - Current window maximized
+
+2024-03-11 09:47:26 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:47:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:47:29 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-03-11 09:47:30 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-03-11 09:47:30 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-03-11 09:47:31 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-03-11 09:47:31 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-03-11 09:47:31 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-03-11 09:47:31 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:47:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:47:34 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-03-11 09:47:34 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/0Principal/img_ModeloDeNegocioMAX")): Object: 'Object Repository/WIZARD/0Principal/img_ModeloDeNegocioMAX' is clicked on
+
+2024-03-11 09:47:35 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/0Principal/img_ModeloDeNegocioMAX' is clicked on
+
+2024-03-11 09:47:35 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:47:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:47:38 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/00Menu/span_Elementos")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/00Menu/span_Elementos' is clicked on
+
+2024-03-11 09:47:39 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/00Menu/span_Elementos' is clicked on
+
+2024-03-11 09:47:39 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:47:42 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:47:42 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Nivel/option_4Subservicio")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/option_4Subservicio' is clicked on
+
+2024-03-11 09:47:42 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/option_4Subservicio' is clicked on
+
+2024-03-11 09:47:42 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:47:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:47:45 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB1")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB1' is clicked on
+
+2024-03-11 09:47:46 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB1' is clicked on
+
+2024-03-11 09:47:46 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:47:49 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:47:49 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento"), "Actualización de Datos"): Text 'Actualización de Datos' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:47:49 - [MESSAGE][PASSED] - Text 'Actualización de Datos' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:47:49 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento"), "Actualización de Datos"): Text 'Actualización de Datos' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:47:50 - [MESSAGE][PASSED] - Text 'Actualización de Datos' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:47:50 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:47:50 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:47:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:47:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:47:52 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:47:52 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:47:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:47:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:47:54 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:47:55 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:47:55 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:47:58 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:47:58 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:47:58 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:47:58 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:48:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:48:00 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:48:00 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:48:00 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:48:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:48:02 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:48:02 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:48:02 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:48:05 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:48:05 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:48:06 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:48:06 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:48:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:48:09 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB2")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB2' is clicked on
+
+2024-03-11 09:48:09 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB2' is clicked on
+
+2024-03-11 09:48:09 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:48:12 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:48:12 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento"), "Inscripciones"): Text 'Inscripciones' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:48:13 - [MESSAGE][PASSED] - Text 'Inscripciones' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:48:13 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento"), "Inscripciones"): Text 'Inscripciones' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:48:14 - [MESSAGE][PASSED] - Text 'Inscripciones' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:48:14 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:48:14 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:48:14 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:48:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:48:16 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:48:16 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:48:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:48:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:48:18 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:48:18 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:48:18 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:48:21 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:48:21 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:48:21 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:48:21 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:48:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:48:23 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:48:23 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:48:23 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:48:25 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:48:25 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:48:26 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:48:26 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:48:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:48:29 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:48:29 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:48:29 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:48:32 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:48:32 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB3")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB3' is clicked on
+
+2024-03-11 09:48:33 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB3' is clicked on
+
+2024-03-11 09:48:33 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:48:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:48:36 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento"), "Facturación"): Text 'Facturación' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:48:37 - [MESSAGE][PASSED] - Text 'Facturación' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:48:37 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento"), "Facturación"): Text 'Facturación' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:48:37 - [MESSAGE][PASSED] - Text 'Facturación' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:48:37 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:48:37 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:48:37 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:48:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:48:39 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:48:39 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:48:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:48:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:48:41 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:48:42 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:48:42 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:48:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:48:45 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:48:45 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:48:45 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:48:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:48:47 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:48:47 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:48:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:48:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:48:49 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:48:49 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:48:49 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:48:52 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:48:52 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:48:53 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:48:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:48:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:48:56 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB4")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB4' is clicked on
+
+2024-03-11 09:48:56 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB4' is clicked on
+
+2024-03-11 09:48:56 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:48:59 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:48:59 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento"), "Renovaciones"): Text 'Renovaciones' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:49:00 - [MESSAGE][PASSED] - Text 'Renovaciones' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:49:00 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento"), "Renovaciones"): Text 'Renovaciones' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:49:01 - [MESSAGE][PASSED] - Text 'Renovaciones' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:49:01 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:49:01 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:49:01 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:49:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:49:03 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:49:03 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:49:03 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:49:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:49:05 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:49:05 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:49:05 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:49:08 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:49:08 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:49:08 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:49:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:49:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:49:10 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:49:10 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:49:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:49:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:49:12 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:49:13 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:49:13 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:49:16 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:49:16 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:49:16 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:49:16 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:49:19 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:49:19 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB5")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB5' is clicked on
+
+2024-03-11 09:49:20 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB5' is clicked on
+
+2024-03-11 09:49:20 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:49:23 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:49:23 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento"), "Autorizaciones"): Text 'Autorizaciones' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:49:24 - [MESSAGE][PASSED] - Text 'Autorizaciones' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:49:24 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento"), "Autorizaciones"): Text 'Autorizaciones' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:49:24 - [MESSAGE][PASSED] - Text 'Autorizaciones' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:49:24 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:49:24 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:49:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:49:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:49:26 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:49:27 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:49:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:49:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:49:29 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:49:29 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:49:29 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:49:32 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:49:32 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:49:32 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:49:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:49:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:49:34 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:49:34 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:49:34 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:49:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:49:36 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:49:37 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:49:37 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:49:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:49:40 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:49:40 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:49:40 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:49:43 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:49:43 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB6")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB6' is clicked on
+
+2024-03-11 09:49:43 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB6' is clicked on
+
+2024-03-11 09:49:43 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:49:46 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:49:46 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento"), "Certificado"): Text 'Certificado' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:49:47 - [MESSAGE][PASSED] - Text 'Certificado' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:49:47 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento"), "Certificado"): Text 'Certificado' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:49:48 - [MESSAGE][PASSED] - Text 'Certificado' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:49:48 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:49:48 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:49:48 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:49:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:49:50 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:49:50 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:49:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:49:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:49:52 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:49:52 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:49:52 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:49:55 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:49:55 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:49:55 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:49:55 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:49:57 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:49:57 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:49:57 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:49:57 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:49:59 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:49:59 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:50:00 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:50:00 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:50:03 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:50:03 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:50:03 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:50:03 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:50:06 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:50:06 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB7")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB7' is clicked on
+
+2024-03-11 09:50:07 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB7' is clicked on
+
+2024-03-11 09:50:07 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:50:10 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:50:10 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento"), "Facturas"): Text 'Facturas' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:50:11 - [MESSAGE][PASSED] - Text 'Facturas' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:50:11 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento"), "Facturas"): Text 'Facturas' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:50:11 - [MESSAGE][PASSED] - Text 'Facturas' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:50:11 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:50:11 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:50:11 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:50:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:50:13 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:50:13 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:50:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:50:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:50:15 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:50:16 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:50:16 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:50:19 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:50:19 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:50:19 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:50:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:50:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:50:21 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:50:21 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:50:21 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:50:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:50:23 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:50:23 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:50:23 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:50:26 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:50:26 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:50:27 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:50:27 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:50:30 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:50:30 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB8")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB8' is clicked on
+
+2024-03-11 09:50:30 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB8' is clicked on
+
+2024-03-11 09:50:30 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:50:33 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:50:33 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento"), "Remisión"): Text 'Remisión' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:50:34 - [MESSAGE][PASSED] - Text 'Remisión' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:50:34 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento"), "Remisión"): Text 'Remisión' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:50:35 - [MESSAGE][PASSED] - Text 'Remisión' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:50:35 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:50:35 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:50:35 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:50:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:50:37 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:50:37 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:50:37 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:50:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:50:39 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:50:39 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:50:39 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:50:42 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:50:42 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:50:42 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:50:42 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:50:45 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:50:45 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:50:45 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:50:45 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:50:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:50:47 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:50:47 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:50:47 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:50:50 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:50:50 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:50:50 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:50:50 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:50:53 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:50:53 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB9")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB9' is clicked on
+
+2024-03-11 09:50:54 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB9' is clicked on
+
+2024-03-11 09:50:54 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:50:57 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:50:57 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento"), "Petición"): Text 'Petición' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:50:58 - [MESSAGE][PASSED] - Text 'Petición' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:50:58 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento"), "Petición"): Text 'Petición' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:50:58 - [MESSAGE][PASSED] - Text 'Petición' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:50:58 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:50:58 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:50:58 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:51:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:51:00 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:51:01 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:51:01 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:51:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:51:03 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:51:03 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:51:03 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:51:06 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:51:06 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:51:06 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:51:06 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:51:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:51:08 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:51:08 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:51:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:51:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:51:10 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:51:10 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:51:10 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:51:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:51:13 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:51:14 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:51:14 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:51:17 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:51:17 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB10"), 2): Scroll to object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB10' successfully
+
+2024-03-11 09:51:17 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB10' successfully
+
+2024-03-11 09:51:17 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB10")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB10' is clicked on
+
+2024-03-11 09:51:18 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB10' is clicked on
+
+2024-03-11 09:51:18 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:51:21 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:51:21 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento"), "Queja"): Text 'Queja' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:51:21 - [MESSAGE][PASSED] - Text 'Queja' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:51:21 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento"), "Queja"): Text 'Queja' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:51:22 - [MESSAGE][PASSED] - Text 'Queja' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:51:22 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:51:22 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:51:22 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:51:24 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:51:24 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:51:24 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:51:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:51:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:51:26 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:51:27 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:51:27 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:51:30 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:51:30 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:51:30 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:51:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:51:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:51:32 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:51:32 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:51:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:51:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:51:34 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:51:34 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:51:34 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:51:37 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:51:37 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:51:38 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:51:38 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:51:41 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:51:41 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB11")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB11' is clicked on
+
+2024-03-11 09:51:41 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB11' is clicked on
+
+2024-03-11 09:51:41 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:51:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:51:44 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento"), "Reclamo"): Text 'Reclamo' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:51:45 - [MESSAGE][PASSED] - Text 'Reclamo' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:51:45 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento"), "Reclamo"): Text 'Reclamo' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:51:46 - [MESSAGE][PASSED] - Text 'Reclamo' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:51:46 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:51:46 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:51:46 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:51:48 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:51:48 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:51:48 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:51:48 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:51:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:51:50 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:51:50 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:51:50 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:51:53 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:51:53 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:51:53 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:51:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:51:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:51:55 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:51:55 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:51:55 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:51:57 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:51:57 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:51:58 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:51:58 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:52:01 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:52:01 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:52:01 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:52:01 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:52:04 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:52:04 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB12")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB12' is clicked on
+
+2024-03-11 09:52:05 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Nivel/SubServicio/td_SUB12' is clicked on
+
+2024-03-11 09:52:05 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:52:08 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:52:08 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento"), "Solicitud"): Text 'Solicitud' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:52:09 - [MESSAGE][PASSED] - Text 'Solicitud' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento'
+
+2024-03-11 09:52:09 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento"), "Solicitud"): Text 'Solicitud' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:52:09 - [MESSAGE][PASSED] - Text 'Solicitud' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento'
+
+2024-03-11 09:52:09 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:52:09 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()' successfully
+
+2024-03-11 09:52:09 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:52:11 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:52:11 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:52:11 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10' successfully
+
+2024-03-11 09:52:11 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:52:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:52:13 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:52:14 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:52:14 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:52:17 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:52:17 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:52:17 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()' successfully
+
+2024-03-11 09:52:17 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:52:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:52:19 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5", []): Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:52:19 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5' successfully
+
+2024-03-11 09:52:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 09:52:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 09:52:21 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:52:21 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar' is clicked on
+
+2024-03-11 09:52:21 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:52:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:52:24 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:52:25 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar' is clicked on
+
+2024-03-11 09:52:25 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:52:28 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:52:28 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-03-11 09:52:29 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-03-11 09:52:29 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240311_093955\\WIZARD\\1Modelo De Negocio\\2.4 Creacion Elementos SubServicios\\20240311_094004\\1710168748282.png]]
+
+2024-03-11 09:52:29 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 09:52:32 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 09:52:32 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-03-11 09:47:21 - [TEST_SUITE][PASSED] - 2.4 Creacion Elementos SubServicios: Test Cases/WIZARD/1Modelo De Negocio/2.4 Creacion Elementos SubServicios]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

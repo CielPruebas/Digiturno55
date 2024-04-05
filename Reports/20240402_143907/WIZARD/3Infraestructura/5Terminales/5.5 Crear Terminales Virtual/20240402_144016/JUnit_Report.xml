@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="5.5 Crear Terminales Virtual" time="90.589" tests="1" failures="0" errors="0">
+   <testsuite name="5.5 Crear Terminales Virtual" tests="1" failures="0" errors="0" time="90.589" skipped="0" timestamp="2024-04-02 15:25:44" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/WIZARD/3Infraestructura/5Terminales/5.5 Crear Terminales Virtual">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\5Terminales\\5.5 Crear Terminales Virtual\\20240402_144016"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\5Terminales\\5.5 Crear Terminales Virtual\\20240402_144016\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\5Terminales\\5.5 Crear Terminales Virtual\\20240402_144016\\1712089631941.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.18"/>
+         <property name="sessionId" value="486293ae2574b91ae82bae0233f6d0bb"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/WIZARD/3Infraestructura/5Terminales/5.5 Crear Terminales Virtual" time="90.343" classname="Test Cases/WIZARD/3Infraestructura/5Terminales/5.5 Crear Terminales Virtual" status="PASSED">
+         <system-out><![CDATA[2024-04-02 15:25:44 - [TEST_CASE][PASSED] - Test Cases/WIZARD/3Infraestructura/5Terminales/5.5 Crear Terminales Virtual: Test Cases/WIZARD/3Infraestructura/5Terminales/5.5 Crear Terminales Virtual
+
+2024-04-02 15:25:44 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-02 15:25:44 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-04-02 15:25:45 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-02 15:25:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-04-02 15:25:45 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-04-02 15:25:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-04-02 15:25:48 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-02 15:25:48 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-04-02 15:25:48 - [MESSAGE][PASSED] - Current window maximized
+
+2024-04-02 15:25:48 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:25:51 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:25:51 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-02 15:25:52 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-02 15:25:52 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-02 15:25:53 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-02 15:25:53 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-02 15:25:53 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-02 15:25:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:25:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:25:56 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-02 15:25:56 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/0Principal/img_InfraestructuraMAX")): Object: 'Object Repository/WIZARD/0Principal/img_InfraestructuraMAX' is clicked on
+
+2024-04-02 15:25:57 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/0Principal/img_InfraestructuraMAX' is clicked on
+
+2024-04-02 15:25:57 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:26:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:26:00 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Terminales")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Terminales' is clicked on
+
+2024-04-02 15:26:01 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Terminales' is clicked on
+
+2024-04-02 15:26:01 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:26:04 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:26:04 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_6Virtual - Oficina Virtual")): Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_6Virtual - Oficina Virtual' is clicked on
+
+2024-04-02 15:26:04 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_6Virtual - Oficina Virtual' is clicked on
+
+2024-04-02 15:26:04 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:26:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:26:07 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo")): Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo' is clicked on
+
+2024-04-02 15:26:08 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo' is clicked on
+
+2024-04-02 15:26:08 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:26:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:26:11 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo General")): Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo General' is clicked on
+
+2024-04-02 15:26:11 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo General' is clicked on
+
+2024-04-02 15:26:11 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:26:14 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:26:14 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre"), "A01"): Text 'A01' is set on object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre'
+
+2024-04-02 15:26:15 - [MESSAGE][PASSED] - Text 'A01' is set on object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre'
+
+2024-04-02 15:26:15 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion"), "Virtual - Terminal - Informacion"): Text 'Virtual - Terminal - Informacion' is set on object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion'
+
+2024-04-02 15:26:16 - [MESSAGE][PASSED] - Text 'Virtual - Terminal - Informacion' is set on object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion'
+
+2024-04-02 15:26:16 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente' successfully
+
+2024-04-02 15:26:16 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente' successfully
+
+2024-04-02 15:26:16 - [TEST_STEP][PASSED] - check(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente")): Object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente' is checked
+
+2024-04-02 15:26:17 - [MESSAGE][PASSED] - Object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente' is checked
+
+2024-04-02 15:26:17 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:26:17 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:26:17 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 15:26:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 15:26:19 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo")): Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo' is clicked on
+
+2024-04-02 15:26:19 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo' is clicked on
+
+2024-04-02 15:26:19 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:26:22 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:26:22 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Terminales")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Terminales' is clicked on
+
+2024-04-02 15:26:23 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Terminales' is clicked on
+
+2024-04-02 15:26:23 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:26:26 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:26:26 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_6Virtual - Oficina Virtual")): Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_6Virtual - Oficina Virtual' is clicked on
+
+2024-04-02 15:26:26 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_6Virtual - Oficina Virtual' is clicked on
+
+2024-04-02 15:26:26 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:26:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:26:29 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo")): Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo' is clicked on
+
+2024-04-02 15:26:30 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo' is clicked on
+
+2024-04-02 15:26:30 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:26:33 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:26:33 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo PQRS")): Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo PQRS' is clicked on
+
+2024-04-02 15:26:33 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo PQRS' is clicked on
+
+2024-04-02 15:26:33 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:26:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:26:36 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre' successfully
+
+2024-04-02 15:26:37 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre' successfully
+
+2024-04-02 15:26:37 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre"), "A02"): Text 'A02' is set on object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre'
+
+2024-04-02 15:26:37 - [MESSAGE][PASSED] - Text 'A02' is set on object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre'
+
+2024-04-02 15:26:37 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion"), "Virtual - Terminal - PQRS"): Text 'Virtual - Terminal - PQRS' is set on object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion'
+
+2024-04-02 15:26:38 - [MESSAGE][PASSED] - Text 'Virtual - Terminal - PQRS' is set on object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion'
+
+2024-04-02 15:26:38 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente' successfully
+
+2024-04-02 15:26:39 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente' successfully
+
+2024-04-02 15:26:39 - [TEST_STEP][PASSED] - clearText(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala")): Text of object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala' is cleared
+
+2024-04-02 15:26:39 - [MESSAGE][PASSED] - Text of object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala' is cleared
+
+2024-04-02 15:26:39 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala"), "2"): Text '2' is set on object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala'
+
+2024-04-02 15:26:40 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala'
+
+2024-04-02 15:26:40 - [TEST_STEP][PASSED] - check(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente")): Object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente' is checked
+
+2024-04-02 15:26:40 - [MESSAGE][PASSED] - Object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente' is checked
+
+2024-04-02 15:26:40 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:26:40 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:26:40 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 15:26:42 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 15:26:42 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo")): Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo' is clicked on
+
+2024-04-02 15:26:43 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo' is clicked on
+
+2024-04-02 15:26:43 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:26:46 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:26:46 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Terminales")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Terminales' is clicked on
+
+2024-04-02 15:26:46 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Terminales' is clicked on
+
+2024-04-02 15:26:46 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:26:49 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:26:49 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_6Virtual - Oficina Virtual")): Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_6Virtual - Oficina Virtual' is clicked on
+
+2024-04-02 15:26:50 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_6Virtual - Oficina Virtual' is clicked on
+
+2024-04-02 15:26:50 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:26:53 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:26:53 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo")): Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo' is clicked on
+
+2024-04-02 15:26:53 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo' is clicked on
+
+2024-04-02 15:26:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:26:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:26:56 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo Radicaciones")): Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo Radicaciones' is clicked on
+
+2024-04-02 15:26:57 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo Radicaciones' is clicked on
+
+2024-04-02 15:26:57 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:27:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:27:00 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre' successfully
+
+2024-04-02 15:27:00 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre' successfully
+
+2024-04-02 15:27:00 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre"), "A03"): Text 'A03' is set on object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre'
+
+2024-04-02 15:27:01 - [MESSAGE][PASSED] - Text 'A03' is set on object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre'
+
+2024-04-02 15:27:01 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion"), "Virtual - Terminal - Radicaciones"): Text 'Virtual - Terminal - Radicaciones' is set on object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion'
+
+2024-04-02 15:27:02 - [MESSAGE][PASSED] - Text 'Virtual - Terminal - Radicaciones' is set on object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion'
+
+2024-04-02 15:27:02 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente' successfully
+
+2024-04-02 15:27:02 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente' successfully
+
+2024-04-02 15:27:02 - [TEST_STEP][PASSED] - clearText(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala")): Text of object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala' is cleared
+
+2024-04-02 15:27:03 - [MESSAGE][PASSED] - Text of object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala' is cleared
+
+2024-04-02 15:27:03 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala"), "3"): Text '3' is set on object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala'
+
+2024-04-02 15:27:03 - [MESSAGE][PASSED] - Text '3' is set on object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala'
+
+2024-04-02 15:27:03 - [TEST_STEP][PASSED] - check(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente")): Object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente' is checked
+
+2024-04-02 15:27:04 - [MESSAGE][PASSED] - Object 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente' is checked
+
+2024-04-02 15:27:04 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:27:04 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:27:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 15:27:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 15:27:06 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo")): Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo' is clicked on
+
+2024-04-02 15:27:06 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo' is clicked on
+
+2024-04-02 15:27:06 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:27:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:27:09 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:27:09 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:27:09 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 15:27:11 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 15:27:11 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-02 15:27:12 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-02 15:27:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\5Terminales\\5.5 Crear Terminales Virtual\\20240402_144016\\1712089631941.png]]
+
+2024-04-02 15:27:12 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 15:27:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 15:27:14 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-04-02 15:25:44 - [TEST_SUITE][PASSED] - 5.5 Crear Terminales Virtual: Test Cases/WIZARD/3Infraestructura/5Terminales/5.5 Crear Terminales Virtual]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

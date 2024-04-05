@@ -1,0 +1,151 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+6 Configuracion Terminales y Selectores,Chrome 120.0.0.0,,,2024-01-15 10:51:29,2024-01-15 10:55:49,"4m - 20,449s",PASSED
+,,,,,,,
+Test Cases/WIZARD/4Configuracion Terminales y Selectores/6 Configuracion de Terminales y Selectores,Chrome 120.0.0.0,,,2024-01-15 10:51:29,2024-01-15 10:55:49,"4m - 20,186s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2024-01-15 10:51:29,2024-01-15 10:51:41,"11,474s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/a_1lnkLogo""))",Chrome 120.0.0.0,,,2024-01-15 10:51:41,2024-01-15 10:51:41,"0,601s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:51:41,2024-01-15 10:51:45,"3,009s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/img_2Configuracion""))",Chrome 120.0.0.0,,,2024-01-15 10:51:45,2024-01-15 10:51:56,"11,370s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:51:56,2024-01-15 10:51:59,"3,020s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/img_3Usuarios""))",Chrome 120.0.0.0,,,2024-01-15 10:51:59,2024-01-15 10:52:10,"11,585s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:52:10,2024-01-15 10:52:13,"3,005s",PASSED
+"comment(""Oficina Bogota"")",Chrome 120.0.0.0,,,2024-01-15 10:52:13,2024-01-15 10:52:13,"0,016s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales""))",Chrome 120.0.0.0,,,2024-01-15 10:52:13,2024-01-15 10:52:14,"0,660s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:52:14,2024-01-15 10:52:17,"3,006s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td1_Bogota - CIEL""))",Chrome 120.0.0.0,,,2024-01-15 10:52:17,2024-01-15 10:52:18,"0,480s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:52:18,2024-01-15 10:52:21,"3,014s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL""))",Chrome 120.0.0.0,,,2024-01-15 10:52:21,2024-01-15 10:52:21,"0,454s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:52:21,2024-01-15 10:52:24,"3,004s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo""))",Chrome 120.0.0.0,Agregar todos los selectores,,2024-01-15 10:52:24,2024-01-15 10:52:25,"0,396s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:52:25,2024-01-15 10:52:28,"3,007s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores""))",Chrome 120.0.0.0,,,2024-01-15 10:52:28,2024-01-15 10:52:28,"0,425s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:52:28,2024-01-15 10:52:31,"3,005s",PASSED
+"scrollToElement(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales""), 2)",Chrome 120.0.0.0,Agregar todas las Terminales,,2024-01-15 10:52:31,2024-01-15 10:52:31,"0,415s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo""))",Chrome 120.0.0.0,,,2024-01-15 10:52:31,2024-01-15 10:52:32,"0,415s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:52:32,2024-01-15 10:52:35,"3,012s",PASSED
+"executeJavaScript(""return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()"", [])",Chrome 120.0.0.0,,,2024-01-15 10:52:35,2024-01-15 10:52:35,"0,084s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:52:35,2024-01-15 10:52:38,"3,013s",PASSED
+takeFullPageScreenshot(),Chrome 120.0.0.0,,,2024-01-15 10:52:38,2024-01-15 10:52:39,"0,924s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:52:39,2024-01-15 10:52:42,"3,012s",PASSED
+back(),Chrome 120.0.0.0,,,2024-01-15 10:52:42,2024-01-15 10:52:42,"0,188s",PASSED
+"comment(""Oficina Cali"")",Chrome 120.0.0.0,,,2024-01-15 10:52:42,2024-01-15 10:52:42,"0,006s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:52:42,2024-01-15 10:52:45,"3,011s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales""))",Chrome 120.0.0.0,,,2024-01-15 10:52:45,2024-01-15 10:52:46,"0,615s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:52:46,2024-01-15 10:52:49,"3,000s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td2_Cali - Chipichape""))",Chrome 120.0.0.0,,,2024-01-15 10:52:49,2024-01-15 10:52:49,"0,444s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:52:49,2024-01-15 10:52:52,"3,003s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL""))",Chrome 120.0.0.0,,,2024-01-15 10:52:52,2024-01-15 10:52:53,"0,460s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:52:53,2024-01-15 10:52:56,"3,002s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo""))",Chrome 120.0.0.0,Agregar todos los selectores,,2024-01-15 10:52:56,2024-01-15 10:52:56,"0,451s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:52:56,2024-01-15 10:52:59,"3,010s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores""))",Chrome 120.0.0.0,,,2024-01-15 10:52:59,2024-01-15 10:52:59,"0,418s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:52:59,2024-01-15 10:53:02,"3,017s",PASSED
+"scrollToElement(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales""), 2)",Chrome 120.0.0.0,Agregar todas las Terminales,,2024-01-15 10:53:02,2024-01-15 10:53:03,"0,421s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo""))",Chrome 120.0.0.0,,,2024-01-15 10:53:03,2024-01-15 10:53:03,"0,431s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:03,2024-01-15 10:53:06,"3,009s",PASSED
+"executeJavaScript(""return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()"", [])",Chrome 120.0.0.0,,,2024-01-15 10:53:06,2024-01-15 10:53:06,"0,036s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:06,2024-01-15 10:53:09,"3,003s",PASSED
+takeFullPageScreenshot(),Chrome 120.0.0.0,,,2024-01-15 10:53:09,2024-01-15 10:53:10,"0,839s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:10,2024-01-15 10:53:13,"3,007s",PASSED
+back(),Chrome 120.0.0.0,,,2024-01-15 10:53:13,2024-01-15 10:53:13,"0,152s",PASSED
+"comment(""Oficina Cartagena"")",Chrome 120.0.0.0,,,2024-01-15 10:53:13,2024-01-15 10:53:13,"0,000s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:13,2024-01-15 10:53:16,"3,005s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales""))",Chrome 120.0.0.0,,,2024-01-15 10:53:16,2024-01-15 10:53:17,"0,585s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:17,2024-01-15 10:53:20,"3,014s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td3_Cartagena - Bocagrande""))",Chrome 120.0.0.0,,,2024-01-15 10:53:20,2024-01-15 10:53:20,"0,432s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:20,2024-01-15 10:53:23,"3,002s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL""))",Chrome 120.0.0.0,,,2024-01-15 10:53:23,2024-01-15 10:53:24,"0,467s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:24,2024-01-15 10:53:27,"3,009s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo""))",Chrome 120.0.0.0,Agregar todos los selectores,,2024-01-15 10:53:27,2024-01-15 10:53:27,"0,419s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:27,2024-01-15 10:53:30,"3,005s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores""))",Chrome 120.0.0.0,,,2024-01-15 10:53:30,2024-01-15 10:53:31,"0,398s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:31,2024-01-15 10:53:34,"3,011s",PASSED
+"scrollToElement(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales""), 2)",Chrome 120.0.0.0,Agregar todas las Terminales,,2024-01-15 10:53:34,2024-01-15 10:53:34,"0,336s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo""))",Chrome 120.0.0.0,,,2024-01-15 10:53:34,2024-01-15 10:53:34,"0,398s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:34,2024-01-15 10:53:37,"3,005s",PASSED
+"executeJavaScript(""return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()"", [])",Chrome 120.0.0.0,,,2024-01-15 10:53:37,2024-01-15 10:53:37,"0,033s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:37,2024-01-15 10:53:40,"3,014s",PASSED
+takeFullPageScreenshot(),Chrome 120.0.0.0,,,2024-01-15 10:53:40,2024-01-15 10:53:41,"0,698s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:41,2024-01-15 10:53:44,"3,006s",PASSED
+back(),Chrome 120.0.0.0,,,2024-01-15 10:53:44,2024-01-15 10:53:44,"0,144s",PASSED
+"comment(""Oficina Manizales"")",Chrome 120.0.0.0,,,2024-01-15 10:53:44,2024-01-15 10:53:44,"0,001s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:44,2024-01-15 10:53:47,"3,003s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales""))",Chrome 120.0.0.0,,,2024-01-15 10:53:47,2024-01-15 10:53:48,"0,540s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:48,2024-01-15 10:53:51,"3,008s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td4_Manizales - Manizales""))",Chrome 120.0.0.0,,,2024-01-15 10:53:51,2024-01-15 10:53:51,"0,458s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:51,2024-01-15 10:53:54,"3,015s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL""))",Chrome 120.0.0.0,,,2024-01-15 10:53:54,2024-01-15 10:53:55,"0,483s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:55,2024-01-15 10:53:58,"3,002s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo""))",Chrome 120.0.0.0,Agregar todos los selectores,,2024-01-15 10:53:58,2024-01-15 10:53:58,"0,461s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:53:58,2024-01-15 10:54:01,"3,016s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores""))",Chrome 120.0.0.0,,,2024-01-15 10:54:01,2024-01-15 10:54:02,"0,427s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:02,2024-01-15 10:54:05,"3,010s",PASSED
+"scrollToElement(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales""), 2)",Chrome 120.0.0.0,Agregar todas las Terminales,,2024-01-15 10:54:05,2024-01-15 10:54:05,"0,423s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo""))",Chrome 120.0.0.0,,,2024-01-15 10:54:05,2024-01-15 10:54:06,"0,391s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:06,2024-01-15 10:54:09,"3,016s",PASSED
+"executeJavaScript(""return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()"", [])",Chrome 120.0.0.0,,,2024-01-15 10:54:09,2024-01-15 10:54:09,"0,111s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:09,2024-01-15 10:54:12,"3,009s",PASSED
+takeFullPageScreenshot(),Chrome 120.0.0.0,,,2024-01-15 10:54:12,2024-01-15 10:54:12,"0,741s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:12,2024-01-15 10:54:15,"3,010s",PASSED
+back(),Chrome 120.0.0.0,,,2024-01-15 10:54:15,2024-01-15 10:54:16,"0,144s",PASSED
+"comment(""Oficina Medellin"")",Chrome 120.0.0.0,,,2024-01-15 10:54:16,2024-01-15 10:54:16,"0,002s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:16,2024-01-15 10:54:19,"3,006s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales""))",Chrome 120.0.0.0,,,2024-01-15 10:54:19,2024-01-15 10:54:19,"0,534s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:19,2024-01-15 10:54:22,"3,008s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td5_Medellin - Laureles""))",Chrome 120.0.0.0,,,2024-01-15 10:54:22,2024-01-15 10:54:23,"0,451s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:23,2024-01-15 10:54:26,"3,013s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL""))",Chrome 120.0.0.0,,,2024-01-15 10:54:26,2024-01-15 10:54:26,"0,451s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:26,2024-01-15 10:54:29,"3,017s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo""))",Chrome 120.0.0.0,Agregar todos los selectores,,2024-01-15 10:54:29,2024-01-15 10:54:30,"0,423s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:30,2024-01-15 10:54:33,"3,006s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores""))",Chrome 120.0.0.0,,,2024-01-15 10:54:33,2024-01-15 10:54:33,"0,429s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:33,2024-01-15 10:54:36,"3,005s",PASSED
+"scrollToElement(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales""), 2)",Chrome 120.0.0.0,Agregar todas las Terminales,,2024-01-15 10:54:36,2024-01-15 10:54:36,"0,351s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo""))",Chrome 120.0.0.0,,,2024-01-15 10:54:36,2024-01-15 10:54:37,"0,401s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:37,2024-01-15 10:54:40,"3,004s",PASSED
+"executeJavaScript(""return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()"", [])",Chrome 120.0.0.0,,,2024-01-15 10:54:40,2024-01-15 10:54:40,"0,034s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:40,2024-01-15 10:54:43,"3,013s",PASSED
+takeFullPageScreenshot(),Chrome 120.0.0.0,,,2024-01-15 10:54:43,2024-01-15 10:54:44,"0,873s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:44,2024-01-15 10:54:47,"3,004s",PASSED
+back(),Chrome 120.0.0.0,,,2024-01-15 10:54:47,2024-01-15 10:54:47,"0,155s",PASSED
+"comment(""Oficina Virtual"")",Chrome 120.0.0.0,,,2024-01-15 10:54:47,2024-01-15 10:54:47,"0,004s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:47,2024-01-15 10:54:50,"3,014s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales""))",Chrome 120.0.0.0,,,2024-01-15 10:54:50,2024-01-15 10:54:50,"0,556s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:50,2024-01-15 10:54:53,"3,012s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td6_Virtual - Oficina Virtual""))",Chrome 120.0.0.0,,,2024-01-15 10:54:53,2024-01-15 10:54:54,"0,395s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:54,2024-01-15 10:54:57,"3,014s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL""))",Chrome 120.0.0.0,,,2024-01-15 10:54:57,2024-01-15 10:54:57,"0,465s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:54:57,2024-01-15 10:55:00,"3,014s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo""))",Chrome 120.0.0.0,Agregar todos los selectores,,2024-01-15 10:55:00,2024-01-15 10:55:01,"0,467s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:55:01,2024-01-15 10:55:04,"3,012s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores""))",Chrome 120.0.0.0,,,2024-01-15 10:55:04,2024-01-15 10:55:04,"0,442s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:55:04,2024-01-15 10:55:07,"3,009s",PASSED
+"scrollToElement(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales""), 2)",Chrome 120.0.0.0,Agregar todas las Terminales,,2024-01-15 10:55:07,2024-01-15 10:55:08,"0,385s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo""))",Chrome 120.0.0.0,,,2024-01-15 10:55:08,2024-01-15 10:55:08,"0,404s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:55:08,2024-01-15 10:55:11,"3,010s",PASSED
+"executeJavaScript(""return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()"", [])",Chrome 120.0.0.0,,,2024-01-15 10:55:11,2024-01-15 10:55:11,"0,033s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:55:11,2024-01-15 10:55:14,"3,005s",PASSED
+takeFullPageScreenshot(),Chrome 120.0.0.0,,,2024-01-15 10:55:14,2024-01-15 10:55:15,"0,746s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:55:15,2024-01-15 10:55:18,"3,002s",PASSED
+back(),Chrome 120.0.0.0,,,2024-01-15 10:55:18,2024-01-15 10:55:18,"0,157s",PASSED
+"comment(""Oficina WorkFlow"")",Chrome 120.0.0.0,,,2024-01-15 10:55:18,2024-01-15 10:55:18,"0,004s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:55:18,2024-01-15 10:55:21,"3,008s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales""))",Chrome 120.0.0.0,,,2024-01-15 10:55:21,2024-01-15 10:55:22,"0,600s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:55:22,2024-01-15 10:55:25,"3,002s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td7_WorkFlow - Oficina WorkFlow""))",Chrome 120.0.0.0,,,2024-01-15 10:55:25,2024-01-15 10:55:25,"0,489s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:55:25,2024-01-15 10:55:28,"3,004s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL""))",Chrome 120.0.0.0,,,2024-01-15 10:55:28,2024-01-15 10:55:28,"0,437s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:55:28,2024-01-15 10:55:32,"3,011s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo""))",Chrome 120.0.0.0,Agregar todos los selectores,,2024-01-15 10:55:32,2024-01-15 10:55:32,"0,443s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:55:32,2024-01-15 10:55:35,"3,016s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores""))",Chrome 120.0.0.0,,,2024-01-15 10:55:35,2024-01-15 10:55:35,"0,431s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:55:35,2024-01-15 10:55:38,"3,006s",PASSED
+"scrollToElement(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales""), 2)",Chrome 120.0.0.0,Agregar todas las Terminales,,2024-01-15 10:55:38,2024-01-15 10:55:39,"0,420s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo""))",Chrome 120.0.0.0,,,2024-01-15 10:55:39,2024-01-15 10:55:39,"0,386s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:55:39,2024-01-15 10:55:42,"3,011s",PASSED
+"executeJavaScript(""return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()"", [])",Chrome 120.0.0.0,,,2024-01-15 10:55:42,2024-01-15 10:55:42,"0,034s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:55:42,2024-01-15 10:55:45,"3,002s",PASSED
+takeFullPageScreenshot(),Chrome 120.0.0.0,,,2024-01-15 10:55:45,2024-01-15 10:55:46,"0,778s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:55:46,2024-01-15 10:55:49,"3,018s",PASSED
+back(),Chrome 120.0.0.0,,,2024-01-15 10:55:49,2024-01-15 10:55:49,"0,152s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,2024-01-15 10:55:49,2024-01-15 10:55:49,"0,008s",PASSED

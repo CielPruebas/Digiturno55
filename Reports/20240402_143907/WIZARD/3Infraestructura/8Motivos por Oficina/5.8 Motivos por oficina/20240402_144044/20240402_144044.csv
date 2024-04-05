@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.8 Motivos por oficina,Chrome 123.0.0.0,,,2024-04-02 15:46:06,2024-04-02 15:46:42,"35,952s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/8Motivos por Oficina/5.8 Motivos por oficina,Chrome 123.0.0.0,,,2024-04-02 15:46:06,2024-04-02 15:46:42,"35,700s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-02 15:46:06,2024-04-02 15:46:18,"12,047s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 123.0.0.0,,,2024-04-02 15:46:18,2024-04-02 15:46:19,"0,713s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:46:19,2024-04-02 15:46:22,"3,005s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Motivos por oficinas""))",Chrome 123.0.0.0,,,2024-04-02 15:46:22,2024-04-02 15:46:23,"1,010s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:46:23,2024-04-02 15:46:26,"3,017s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/8Motivos por Oficina/Motivos por Oficina/a_clickOficinas""))",Chrome 123.0.0.0,,,2024-04-02 15:46:26,2024-04-02 15:46:26,"0,507s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/8Motivos por Oficina/Motivos por Oficina/Label/label_Seleccionar todas las oficinas""))",Chrome 123.0.0.0,Seleccionamos todas las oficinas,,2024-04-02 15:46:26,2024-04-02 15:46:27,"0,560s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/8Motivos por Oficina/Motivos por Oficina/a_clickOficinas""))",Chrome 123.0.0.0,,,2024-04-02 15:46:27,2024-04-02 15:46:28,"0,542s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:46:28,2024-04-02 15:46:31,"3,020s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/8Motivos por Oficina/Motivos por Oficina/a_SeleccionarTodo""))",Chrome 123.0.0.0,,,2024-04-02 15:46:31,2024-04-02 15:46:31,"0,576s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/8Motivos por Oficina/Motivos por Oficina/a_SeleccionarTodo""))",Chrome 123.0.0.0,,,2024-04-02 15:46:31,2024-04-02 15:46:32,"0,699s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 15:46:32,2024-04-02 15:46:34,"2,003s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/8Motivos por Oficina/Motivos por Oficina/btn_Relacionar oficinas""))",Chrome 123.0.0.0,,,2024-04-02 15:46:34,2024-04-02 15:46:35,"0,715s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:46:35,2024-04-02 15:46:38,"3,012s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-02 15:46:38,2024-04-02 15:46:39,"0,943s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:46:39,2024-04-02 15:46:42,"3,013s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-02 15:46:42,2024-04-02 15:46:42,"0,000s",PASSED

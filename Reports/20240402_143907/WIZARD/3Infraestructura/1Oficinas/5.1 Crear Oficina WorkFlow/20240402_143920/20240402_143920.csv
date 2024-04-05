@@ -1,0 +1,38 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.1 Crear Oficina WorkFlow,Chrome 123.0.0.0,,,2024-04-02 14:48:18,2024-04-02 14:49:18,"1m - 0,049s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/1Oficinas/5.1 Crear Oficina WorkFlow,Chrome 123.0.0.0,,,2024-04-02 14:48:18,2024-04-02 14:49:18,"59,795s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-02 14:48:18,2024-04-02 14:48:30,"12,005s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 123.0.0.0,,,2024-04-02 14:48:30,2024-04-02 14:48:31,"0,647s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:48:31,2024-04-02 14:48:34,"3,014s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Oficinas""))",Chrome 123.0.0.0,,,2024-04-02 14:48:34,2024-04-02 14:48:35,"0,905s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:48:35,2024-04-02 14:48:38,"3,013s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Pais""), ""Colombia"", false)",Chrome 123.0.0.0,,,2024-04-02 14:48:38,2024-04-02 14:48:39,"0,792s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 14:48:39,2024-04-02 14:48:41,"2,017s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Departamento""), ""Dpto WorkFlow"", false)",Chrome 123.0.0.0,,,2024-04-02 14:48:41,2024-04-02 14:48:41,"0,802s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 14:48:41,2024-04-02 14:48:43,"2,010s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Ciudad""), ""WorkFlow"", false)",Chrome 123.0.0.0,,,2024-04-02 14:48:43,2024-04-02 14:48:44,"0,836s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 14:48:44,2024-04-02 14:48:46,"2,012s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_Nombre""), ""WorkFlow - Oficina WorkFlow"")",Chrome 123.0.0.0,Oficina WorkFlow - Oficina WorkFlow,,2024-04-02 14:48:46,2024-04-02 14:48:47,"0,900s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Nivel de Pregunta""), ""Ninguno"", false)",Chrome 123.0.0.0,,,2024-04-02 14:48:47,2024-04-02 14:48:48,"0,756s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:48:48,2024-04-02 14:48:51,"3,010s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_MaximoTurnosXCliente""), ""2"")",Chrome 123.0.0.0,,,2024-04-02 14:48:51,2024-04-02 14:48:52,"0,791s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_Nivel de servicio de espera""), ""0"")",Chrome 123.0.0.0,,,2024-04-02 14:48:52,2024-04-02 14:48:52,"0,780s",PASSED
+"scrollToPosition(100, 800)",Chrome 123.0.0.0,,,2024-04-02 14:48:52,2024-04-02 14:48:52,"0,042s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:48:52,2024-04-02 14:48:55,"3,015s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Nombre a mostrar""), ""WorkFlow - Oficina WorkFlow"")",Chrome 123.0.0.0,,,2024-04-02 14:48:55,2024-04-02 14:48:56,"0,917s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Direccion""), ""Calle 24 No 21-33"")",Chrome 123.0.0.0,,,2024-04-02 14:48:56,2024-04-02 14:48:57,"0,828s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Numero de telefono""), ""3279000"")",Chrome 123.0.0.0,,,2024-04-02 14:48:57,2024-04-02 14:48:58,"0,796s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Distancia minima creacion turnos (m)""), ""100"")",Chrome 123.0.0.0,,,2024-04-02 14:48:58,2024-04-02 14:48:59,"0,797s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Cantidad de turnos para prellamado""), ""2"")",Chrome 123.0.0.0,,,2024-04-02 14:48:59,2024-04-02 14:49:00,"0,794s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:49:00,2024-04-02 14:49:03,"3,003s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Longitud""), ""0.0000000000"")",Chrome 123.0.0.0,,,2024-04-02 14:49:03,2024-04-02 14:49:03,"0,818s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Latitud""), ""0.0000000000"")",Chrome 123.0.0.0,,,2024-04-02 14:49:03,2024-04-02 14:49:04,"0,787s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:49:04,2024-04-02 14:49:07,"3,010s",PASSED
+"scrollToPosition(0, 0)",Chrome 123.0.0.0,,,2024-04-02 14:49:07,2024-04-02 14:49:07,"0,029s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:49:07,2024-04-02 14:49:10,"3,011s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/img_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 14:49:10,2024-04-02 14:49:11,"0,479s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:49:11,2024-04-02 14:49:14,"3,013s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-02 14:49:14,2024-04-02 14:49:15,"0,845s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:49:15,2024-04-02 14:49:18,"3,002s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-02 14:49:18,2024-04-02 14:49:18,"0,000s",PASSED

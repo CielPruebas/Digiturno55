@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="4 Crear Niveles Geograficos" time="45.965" tests="1" failures="0" errors="0">
+   <testsuite name="4 Crear Niveles Geograficos" tests="1" failures="0" errors="0" time="45.965" skipped="0" timestamp="2024-01-15 09:37:25" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/WIZARD/2Estructura Geografica/4 Crear Niveles Geograficos">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_093711\\WIZARD\\2Estructura Geografica\\4 Crear Niveles Geograficos\\20240115_093712"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_093711\\WIZARD\\2Estructura Geografica\\4 Crear Niveles Geograficos\\20240115_093712\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_093711\\WIZARD\\2Estructura Geografica\\4 Crear Niveles Geograficos\\20240115_093712\\1705329487352.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.9"/>
+         <property name="sessionId" value="291ba14a623b6600578de63d204898bb"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/WIZARD/2Estructura Geografica/4 Crear Niveles Geograficos" time="45.712" classname="Test Cases/WIZARD/2Estructura Geografica/4 Crear Niveles Geograficos" status="PASSED">
+         <system-out><![CDATA[2024-01-15 09:37:25 - [TEST_CASE][PASSED] - Test Cases/WIZARD/2Estructura Geografica/4 Crear Niveles Geograficos: Test Cases/WIZARD/2Estructura Geografica/4 Crear Niveles Geograficos
+
+2024-01-15 09:37:25 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-01-15 09:37:25 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-01-15 09:37:26 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8610'
+
+2024-01-15 09:37:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-01-15 09:37:26 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-01-15 09:37:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-01-15 09:37:29 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8610'
+
+2024-01-15 09:37:29 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-01-15 09:37:29 - [MESSAGE][PASSED] - Current window maximized
+
+2024-01-15 09:37:29 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:37:32 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:37:32 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-01-15 09:37:33 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-01-15 09:37:33 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-01-15 09:37:33 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-01-15 09:37:33 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-01-15 09:37:34 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-01-15 09:37:34 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:37:37 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:37:37 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-01-15 09:37:37 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/0Principal/img_EstructuraGeograficaMAX")): Object: 'Object Repository/WIZARD/0Principal/img_EstructuraGeograficaMAX' is clicked on
+
+2024-01-15 09:37:47 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/0Principal/img_EstructuraGeograficaMAX' is clicked on
+
+2024-01-15 09:37:47 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:37:51 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:37:51 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/2Estructura Geografica/0Arbol Geografico/span_Niveles geograficos")): Object: 'Object Repository/WIZARD/2Estructura Geografica/0Arbol Geografico/span_Niveles geograficos' is clicked on
+
+2024-01-15 09:37:51 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/2Estructura Geografica/0Arbol Geografico/span_Niveles geograficos' is clicked on
+
+2024-01-15 09:37:51 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:37:54 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:37:54 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/input_Nombre"), "Pais"): Text 'Pais' is set on object 'Object Repository/WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/input_Nombre'
+
+2024-01-15 09:37:55 - [MESSAGE][PASSED] - Text 'Pais' is set on object 'Object Repository/WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/input_Nombre'
+
+2024-01-15 09:37:55 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/btn_Crear")): Object: 'Object Repository/WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/btn_Crear' is clicked on
+
+2024-01-15 09:37:55 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/btn_Crear' is clicked on
+
+2024-01-15 09:37:55 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:37:58 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:37:58 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/input_Nombre"), "Departamento"): Text 'Departamento' is set on object 'Object Repository/WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/input_Nombre'
+
+2024-01-15 09:37:59 - [MESSAGE][PASSED] - Text 'Departamento' is set on object 'Object Repository/WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/input_Nombre'
+
+2024-01-15 09:37:59 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/btn_Crear")): Object: 'Object Repository/WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/btn_Crear' is clicked on
+
+2024-01-15 09:37:59 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/btn_Crear' is clicked on
+
+2024-01-15 09:37:59 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:38:02 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:38:02 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/input_Nombre"), "Ciudad"): Text 'Ciudad' is set on object 'Object Repository/WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/input_Nombre'
+
+2024-01-15 09:38:03 - [MESSAGE][PASSED] - Text 'Ciudad' is set on object 'Object Repository/WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/input_Nombre'
+
+2024-01-15 09:38:03 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/btn_Crear")): Object: 'Object Repository/WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/btn_Crear' is clicked on
+
+2024-01-15 09:38:04 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/btn_Crear' is clicked on
+
+2024-01-15 09:38:04 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:38:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:38:07 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-01-15 09:38:08 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-01-15 09:38:08 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_093711\\WIZARD\\2Estructura Geografica\\4 Crear Niveles Geograficos\\20240115_093712\\1705329487352.png]]
+
+2024-01-15 09:38:08 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:38:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:38:11 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-01-15 09:37:25 - [TEST_SUITE][PASSED] - 4 Crear Niveles Geograficos: Test Cases/WIZARD/2Estructura Geografica/4 Crear Niveles Geograficos]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+2 Suspender Turno,Chrome 123.0.0.0,,,2024-04-05 15:11:59,2024-04-05 15:12:29,"30,228s",FAILED
+,,,,,,,
+Test Cases/DIGITURNO/OPERACION BASICA/2 Suspender Turno,Chrome 123.0.0.0,,,2024-04-05 15:11:59,2024-04-05 15:12:29,"29,969s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-05 15:11:59,2024-04-05 15:12:11,"11,887s",PASSED
+"click(findTestObject(""DIGITURNO/1Principal/img_Operacion(1)""))",Chrome 123.0.0.0,,,2024-04-05 15:12:11,2024-04-05 15:12:12,"0,681s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-05 15:12:12,2024-04-05 15:12:15,"3,013s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/0Principal/Elementos del Sistema/img_Terminales""))",Chrome 123.0.0.0,,,2024-04-05 15:12:15,2024-04-05 15:12:15,"0,607s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-05 15:12:15,2024-04-05 15:12:18,"3,004s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/0Oficinas/td_1Bogota - CIEL""))",Chrome 123.0.0.0,Escogemos oficina,,2024-04-05 15:12:18,2024-04-05 15:12:19,"0,467s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-05 15:12:19,2024-04-05 15:12:22,"3,017s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/0Terminales (Menos WorkFlow)/td_1 - Terminal - Informacion""))",Chrome 123.0.0.0,Abrimos Terminal,,2024-04-05 15:12:22,2024-04-05 15:12:22,"0,433s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-05 15:12:22,2024-04-05 15:12:25,"3,005s",PASSED
+switchToWindowIndex(1),Chrome 123.0.0.0,,,2024-04-05 15:12:25,2024-04-05 15:12:26,"1,234s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-05 15:12:26,2024-04-05 15:12:28,"2,009s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Llamar""))",Chrome 123.0.0.0,,,2024-04-05 15:12:28,2024-04-05 15:12:29,"0,251s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-05 15:12:29,2024-04-05 15:12:29,"0,017s",PASSED

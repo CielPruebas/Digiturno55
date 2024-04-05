@@ -1,0 +1,35 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.2 Crear Sala Virtual,Chrome 123.0.0.0,,,2024-04-02 14:54:44,2024-04-02 14:55:35,"51,085s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/2Salas/5.2 Crear Sala Virtual,Chrome 123.0.0.0,,,2024-04-02 14:54:45,2024-04-02 14:55:35,"50,797s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-02 14:54:45,2024-04-02 14:54:57,"11,989s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 123.0.0.0,,,2024-04-02 14:54:57,2024-04-02 14:54:58,"0,664s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:54:58,2024-04-02 14:55:01,"3,012s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Salas""))",Chrome 123.0.0.0,,,2024-04-02 14:55:01,2024-04-02 14:55:01,"0,790s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:55:01,2024-04-02 14:55:04,"3,008s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/2Salas/2Edicion/btn_SeleccionarOficina""))",Chrome 123.0.0.0,Se escoge oficina Virtual para crear Virtual - Sala General ,,2024-04-02 14:55:04,2024-04-02 14:55:05,"0,495s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 14:55:05,2024-04-02 14:55:07,"2,006s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/2Salas/2Edicion/btn_Seleccionar Oficina(1)/a_Virtual - Oficina Virtual""))",Chrome 123.0.0.0,,,2024-04-02 14:55:07,2024-04-02 14:55:07,"0,455s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 14:55:07,2024-04-02 14:55:09,"2,008s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/2Salas/2Edicion/input_Nombre""), ""Virtual - Sala General"")",Chrome 123.0.0.0,,,2024-04-02 14:55:09,2024-04-02 14:55:10,"0,914s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/2Salas/2Edicion/textarea_Descripcion""), ""Virtual - Sala General"")",Chrome 123.0.0.0,,,2024-04-02 14:55:10,2024-04-02 14:55:11,"0,817s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/2Salas/2Edicion/input_MaximoOcupacion""), ""100"")",Chrome 123.0.0.0,,,2024-04-02 14:55:11,2024-04-02 14:55:12,"0,801s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/2Salas/2Edicion/input_Tiempo de Abandono HH""), ""4"")",Chrome 123.0.0.0,,,2024-04-02 14:55:12,2024-04-02 14:55:13,"0,800s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Habilitar Agendamiento""), 3)",Chrome 123.0.0.0,,,2024-04-02 14:55:13,2024-04-02 14:55:13,"0,404s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:55:13,2024-04-02 14:55:16,"3,014s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/2Salas/2Edicion/Promesa de Espera/input_Minutos promesa de espera""), ""10"")",Chrome 123.0.0.0,Promesa de espera,,2024-04-02 14:55:16,2024-04-02 14:55:17,"0,832s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/2Salas/2Edicion/Promesa de atencion/input_Minutos Promesa Atencion""), ""5"")",Chrome 123.0.0.0,Promesa de atencion,,2024-04-02 14:55:17,2024-04-02 14:55:18,"0,823s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Habilitar Agendamiento""))",Chrome 123.0.0.0,,,2024-04-02 14:55:18,2024-04-02 14:55:18,"0,446s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:55:18,2024-04-02 14:55:21,"3,003s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/2Salas/2Edicion/AgendamientoLlamado/Intervalo creacion/input_Minutos Intervalo Creacion""), ""2"")",Chrome 123.0.0.0,Intervalo creacion,,2024-04-02 14:55:21,2024-04-02 14:55:22,"0,844s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/2Salas/2Edicion/AgendamientoLlamado/Tiempo Limite Creacion/input_Minutos Tiempo Limite Creacion""), ""2"")",Chrome 123.0.0.0,Tiempo limite creacion,,2024-04-02 14:55:22,2024-04-02 14:55:23,"0,826s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Paso a distraido""))",Chrome 123.0.0.0,,,2024-04-02 14:55:23,2024-04-02 14:55:23,"0,419s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:55:23,2024-04-02 14:55:26,"3,006s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/2Salas/2Edicion/Distraidos/Tiempo Automatico a distraido/input_Tiempo automatico a distrado MM""), ""1"")",Chrome 123.0.0.0,,,2024-04-02 14:55:26,2024-04-02 14:55:27,"0,866s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/2Salas/2Edicion/Distraidos/Tiempo de Rellamado/input_Tiempo de Rellamado MM""), ""1"")",Chrome 123.0.0.0,,,2024-04-02 14:55:27,2024-04-02 14:55:28,"0,839s",PASSED
+"scrollToPosition(0, 0)",Chrome 123.0.0.0,,,2024-04-02 14:55:28,2024-04-02 14:55:28,"0,022s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/2Salas/2Edicion/img_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 14:55:28,2024-04-02 14:55:29,"0,447s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:55:29,2024-04-02 14:55:32,"3,008s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-02 14:55:32,2024-04-02 14:55:32,"0,909s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:55:32,2024-04-02 14:55:35,"3,017s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-02 14:55:35,2024-04-02 14:55:35,"0,000s",PASSED

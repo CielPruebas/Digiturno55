@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="5.2 Crear Medellin - Sala General" time="53.68" tests="1" failures="0" errors="0">
+   <testsuite name="5.2 Crear Medellin - Sala General" tests="1" failures="0" errors="0" time="53.68" skipped="0" timestamp="2024-01-15 09:56:14" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/WIZARD/3Infraestructura/2Salas/5.2 Crear Medellin - Sala General">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_094157\\WIZARD\\3Infraestructura\\2Salas\\5.2 Crear Medellin - Sala General\\20240115_094221"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_094157\\WIZARD\\3Infraestructura\\2Salas\\5.2 Crear Medellin - Sala General\\20240115_094221\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_094157\\WIZARD\\3Infraestructura\\2Salas\\5.2 Crear Medellin - Sala General\\20240115_094221\\1705330624233.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.9"/>
+         <property name="sessionId" value="94991eeb12fb33bd71f9f945d7f3bee6"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/WIZARD/3Infraestructura/2Salas/5.2 Crear Medellin - Sala General" time="53.439" classname="Test Cases/WIZARD/3Infraestructura/2Salas/5.2 Crear Medellin - Sala General" status="PASSED">
+         <system-out><![CDATA[2024-01-15 09:56:14 - [TEST_CASE][PASSED] - Test Cases/WIZARD/3Infraestructura/2Salas/5.2 Crear Medellin - Sala General: Test Cases/WIZARD/3Infraestructura/2Salas/5.2 Crear Medellin - Sala General
+
+2024-01-15 09:56:14 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-01-15 09:56:15 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-01-15 09:56:15 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8610'
+
+2024-01-15 09:56:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-01-15 09:56:15 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-01-15 09:56:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-01-15 09:56:18 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8610'
+
+2024-01-15 09:56:18 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-01-15 09:56:18 - [MESSAGE][PASSED] - Current window maximized
+
+2024-01-15 09:56:18 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:56:21 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:56:21 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-01-15 09:56:22 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-01-15 09:56:22 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-01-15 09:56:22 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-01-15 09:56:22 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-01-15 09:56:23 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-01-15 09:56:23 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:56:26 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:56:26 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-01-15 09:56:26 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/0Principal/img_InfraestructuraMAX")): Object: 'Object Repository/WIZARD/0Principal/img_InfraestructuraMAX' is clicked on
+
+2024-01-15 09:56:27 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/0Principal/img_InfraestructuraMAX' is clicked on
+
+2024-01-15 09:56:27 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:56:30 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:56:30 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Salas")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Salas' is clicked on
+
+2024-01-15 09:56:31 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Salas' is clicked on
+
+2024-01-15 09:56:31 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:56:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:56:34 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/btn_SeleccionarOficina")): Object: 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/btn_SeleccionarOficina' is clicked on
+
+2024-01-15 09:56:34 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/btn_SeleccionarOficina' is clicked on
+
+2024-01-15 09:56:34 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-01-15 09:56:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-01-15 09:56:36 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/btn_Seleccionar Oficina(1)/a_Medellin - Laureles")): Object: 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/btn_Seleccionar Oficina(1)/a_Medellin - Laureles' is clicked on
+
+2024-01-15 09:56:37 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/btn_Seleccionar Oficina(1)/a_Medellin - Laureles' is clicked on
+
+2024-01-15 09:56:37 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-01-15 09:56:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-01-15 09:56:39 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/input_Nombre"), "Medellin - Sala General"): Text 'Medellin - Sala General' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/input_Nombre'
+
+2024-01-15 09:56:39 - [MESSAGE][PASSED] - Text 'Medellin - Sala General' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/input_Nombre'
+
+2024-01-15 09:56:39 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/textarea_Descripcion"), "Medellin - Sala General"): Text 'Medellin - Sala General' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/textarea_Descripcion'
+
+2024-01-15 09:56:40 - [MESSAGE][PASSED] - Text 'Medellin - Sala General' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/textarea_Descripcion'
+
+2024-01-15 09:56:40 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/input_MaximoOcupacion"), "100"): Text '100' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/input_MaximoOcupacion'
+
+2024-01-15 09:56:41 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/input_MaximoOcupacion'
+
+2024-01-15 09:56:41 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/input_Tiempo de Abandono HH"), "4"): Text '4' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/input_Tiempo de Abandono HH'
+
+2024-01-15 09:56:42 - [MESSAGE][PASSED] - Text '4' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/input_Tiempo de Abandono HH'
+
+2024-01-15 09:56:42 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Habilitar Agendamiento"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Habilitar Agendamiento' successfully
+
+2024-01-15 09:56:42 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Habilitar Agendamiento' successfully
+
+2024-01-15 09:56:42 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:56:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:56:45 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/Promesa de Espera/input_Minutos promesa de espera"), "10"): Text '10' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Promesa de Espera/input_Minutos promesa de espera'
+
+2024-01-15 09:56:46 - [MESSAGE][PASSED] - Text '10' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Promesa de Espera/input_Minutos promesa de espera'
+
+2024-01-15 09:56:46 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/Promesa de atencion/input_Minutos Promesa Atencion"), "5"): Text '5' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Promesa de atencion/input_Minutos Promesa Atencion'
+
+2024-01-15 09:56:47 - [MESSAGE][PASSED] - Text '5' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Promesa de atencion/input_Minutos Promesa Atencion'
+
+2024-01-15 09:56:47 - [TEST_STEP][PASSED] - check(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Habilitar Agendamiento")): Object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Habilitar Agendamiento' is checked
+
+2024-01-15 09:56:47 - [MESSAGE][PASSED] - Object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Habilitar Agendamiento' is checked
+
+2024-01-15 09:56:47 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:56:50 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:56:50 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/AgendamientoLlamado/Intervalo creacion/input_Minutos Intervalo Creacion"), "2"): Text '2' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/AgendamientoLlamado/Intervalo creacion/input_Minutos Intervalo Creacion'
+
+2024-01-15 09:56:51 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/AgendamientoLlamado/Intervalo creacion/input_Minutos Intervalo Creacion'
+
+2024-01-15 09:56:51 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/AgendamientoLlamado/Tiempo Limite Creacion/input_Minutos Tiempo Limite Creacion"), "2"): Text '2' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/AgendamientoLlamado/Tiempo Limite Creacion/input_Minutos Tiempo Limite Creacion'
+
+2024-01-15 09:56:52 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/AgendamientoLlamado/Tiempo Limite Creacion/input_Minutos Tiempo Limite Creacion'
+
+2024-01-15 09:56:52 - [TEST_STEP][PASSED] - check(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Paso a distraido")): Object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Paso a distraido' is checked
+
+2024-01-15 09:56:53 - [MESSAGE][PASSED] - Object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Paso a distraido' is checked
+
+2024-01-15 09:56:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:56:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:56:56 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/Distraidos/Tiempo Automatico a distraido/input_Tiempo automatico a distrado MM"), "1"): Text '1' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Distraidos/Tiempo Automatico a distraido/input_Tiempo automatico a distrado MM'
+
+2024-01-15 09:56:56 - [MESSAGE][PASSED] - Text '1' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Distraidos/Tiempo Automatico a distraido/input_Tiempo automatico a distrado MM'
+
+2024-01-15 09:56:56 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/Distraidos/Tiempo de Rellamado/input_Tiempo de Rellamado MM"), "1"): Text '1' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Distraidos/Tiempo de Rellamado/input_Tiempo de Rellamado MM'
+
+2024-01-15 09:56:57 - [MESSAGE][PASSED] - Text '1' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Distraidos/Tiempo de Rellamado/input_Tiempo de Rellamado MM'
+
+2024-01-15 09:56:57 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-01-15 09:56:57 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-01-15 09:56:57 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:57:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:57:00 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/img_Nuevo")): Object: 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/img_Nuevo' is clicked on
+
+2024-01-15 09:57:01 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/img_Nuevo' is clicked on
+
+2024-01-15 09:57:01 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:57:04 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:57:04 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-01-15 09:57:04 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-01-15 09:57:05 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_094157\\WIZARD\\3Infraestructura\\2Salas\\5.2 Crear Medellin - Sala General\\20240115_094221\\1705330624233.png]]
+
+2024-01-15 09:57:05 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 09:57:08 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 09:57:08 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-01-15 09:56:14 - [TEST_SUITE][PASSED] - 5.2 Crear Medellin - Sala General: Test Cases/WIZARD/3Infraestructura/2Salas/5.2 Crear Medellin - Sala General]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

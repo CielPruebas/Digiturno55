@@ -1,0 +1,48 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+4.3 Crear Elementos Geograficos Ciudades,Chrome 123.0.0.0,,,2024-04-02 14:36:42,2024-04-02 14:37:45,"1m - 3,325s",PASSED
+,,,,,,,
+Test Cases/WIZARD/2Estructura Geografica/4.3 Crear Elementos Geograficos Ciudades,Chrome 123.0.0.0,,,2024-04-02 14:36:42,2024-04-02 14:37:45,"1m - 3,074s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-02 14:36:42,2024-04-02 14:36:54,"12,061s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_EstructuraGeograficaMAX""))",Chrome 123.0.0.0,,,2024-04-02 14:36:54,2024-04-02 14:36:55,"0,530s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:36:55,2024-04-02 14:36:58,"3,013s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/0Arbol Geografico/span_Elementos geograficos""))",Chrome 123.0.0.0,,,2024-04-02 14:36:58,2024-04-02 14:36:58,"0,505s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:36:59,2024-04-02 14:37:02,"3,014s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Niveles Geograficos/option_Departamento""))",Chrome 123.0.0.0,,,2024-04-02 14:37:02,2024-04-02 14:37:02,"0,491s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Niveles Geograficos/option_Ciudad""))",Chrome 123.0.0.0,Para crear la ciudad Bogota,,2024-04-02 14:37:02,2024-04-02 14:37:03,"0,626s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Elementos Geograficos/select_Nombre nivel""), ""Cundinamarca"", false)",Chrome 123.0.0.0,,,2024-04-02 14:37:03,2024-04-02 14:37:03,"0,866s",PASSED
+"setText(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Edicion Elemento Geografico/input_Nombre elemento""), ""Bogota"")",Chrome 123.0.0.0,,,2024-04-02 14:37:03,2024-04-02 14:37:04,"0,804s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Edicion Elemento Geografico/btn_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 14:37:04,2024-04-02 14:37:05,"0,412s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:37:05,2024-04-02 14:37:08,"3,013s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Niveles Geograficos/option_Ciudad""))",Chrome 123.0.0.0,Para crear la ciudad Cali,,2024-04-02 14:37:08,2024-04-02 14:37:08,"0,392s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Elementos Geograficos/select_Nombre nivel""), ""Valle del Cauca"", false)",Chrome 123.0.0.0,,,2024-04-02 14:37:08,2024-04-02 14:37:09,"0,702s",PASSED
+"setText(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Edicion Elemento Geografico/input_Nombre elemento""), ""Cali"")",Chrome 123.0.0.0,,,2024-04-02 14:37:09,2024-04-02 14:37:10,"1,026s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Edicion Elemento Geografico/btn_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 14:37:10,2024-04-02 14:37:10,"0,402s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:37:10,2024-04-02 14:37:13,"3,009s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Niveles Geograficos/option_Ciudad""))",Chrome 123.0.0.0,Para crear la ciudad Cartagena,,2024-04-02 14:37:13,2024-04-02 14:37:14,"0,404s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Elementos Geograficos/select_Nombre nivel""), ""Bolivar"", false)",Chrome 123.0.0.0,,,2024-04-02 14:37:14,2024-04-02 14:37:14,"0,790s",PASSED
+"setText(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Edicion Elemento Geografico/input_Nombre elemento""), ""Cartagena"")",Chrome 123.0.0.0,,,2024-04-02 14:37:14,2024-04-02 14:37:15,"0,958s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Edicion Elemento Geografico/btn_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 14:37:15,2024-04-02 14:37:16,"0,397s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:37:16,2024-04-02 14:37:19,"3,018s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Niveles Geograficos/option_Ciudad""))",Chrome 123.0.0.0,Para crear la ciudad Manizales,,2024-04-02 14:37:19,2024-04-02 14:37:19,"0,376s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Elementos Geograficos/select_Nombre nivel""), ""Caldas"", false)",Chrome 123.0.0.0,,,2024-04-02 14:37:19,2024-04-02 14:37:20,"0,748s",PASSED
+"setText(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Edicion Elemento Geografico/input_Nombre elemento""), ""Manizales"")",Chrome 123.0.0.0,,,2024-04-02 14:37:20,2024-04-02 14:37:21,"1,044s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Edicion Elemento Geografico/btn_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 14:37:21,2024-04-02 14:37:21,"0,423s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:37:21,2024-04-02 14:37:24,"3,008s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Niveles Geograficos/option_Ciudad""))",Chrome 123.0.0.0,Para crear la ciudad Virtual,,2024-04-02 14:37:24,2024-04-02 14:37:25,"0,418s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Elementos Geograficos/select_Nombre nivel""), ""Dpto Virtual"", false)",Chrome 123.0.0.0,,,2024-04-02 14:37:25,2024-04-02 14:37:26,"0,770s",PASSED
+"setText(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Edicion Elemento Geografico/input_Nombre elemento""), ""Virtual"")",Chrome 123.0.0.0,,,2024-04-02 14:37:26,2024-04-02 14:37:27,"1,022s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Edicion Elemento Geografico/btn_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 14:37:27,2024-04-02 14:37:27,"0,432s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:37:27,2024-04-02 14:37:30,"3,010s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Niveles Geograficos/option_Ciudad""))",Chrome 123.0.0.0,Para crear la ciudad WorkFlow,,2024-04-02 14:37:30,2024-04-02 14:37:31,"0,453s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Elementos Geograficos/select_Nombre nivel""), ""Dpto WorkFlow"", false)",Chrome 123.0.0.0,,,2024-04-02 14:37:31,2024-04-02 14:37:31,"0,797s",PASSED
+"setText(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Edicion Elemento Geografico/input_Nombre elemento""), ""WorkFlow"")",Chrome 123.0.0.0,,,2024-04-02 14:37:31,2024-04-02 14:37:32,"1,020s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Edicion Elemento Geografico/btn_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 14:37:32,2024-04-02 14:37:33,"0,433s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:37:33,2024-04-02 14:37:36,"3,012s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Niveles Geograficos/option_Ciudad""))",Chrome 123.0.0.0,Para crear la ciudad Medellin,,2024-04-02 14:37:36,2024-04-02 14:37:36,"0,389s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Elementos Geograficos/select_Nombre nivel""), ""Antioquia"", false)",Chrome 123.0.0.0,,,2024-04-02 14:37:36,2024-04-02 14:37:37,"0,799s",PASSED
+"setText(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Edicion Elemento Geografico/input_Nombre elemento""), ""Medellin"")",Chrome 123.0.0.0,,,2024-04-02 14:37:37,2024-04-02 14:37:38,"0,899s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Edicion Elemento Geografico/btn_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 14:37:38,2024-04-02 14:37:38,"0,407s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:37:38,2024-04-02 14:37:41,"3,018s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-02 14:37:41,2024-04-02 14:37:42,"0,811s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:37:42,2024-04-02 14:37:45,"3,014s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-02 14:37:45,2024-04-02 14:37:45,"0,004s",PASSED

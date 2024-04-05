@@ -1,0 +1,38 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+3.5 Creacion Colas,Chrome 120.0.0.0,,,2024-01-15 09:29:58,2024-01-15 09:30:53,"55,080s",PASSED
+,,,,,,,
+Test Cases/WIZARD/1Modelo De Negocio/3.5 Creacion Colas,Chrome 120.0.0.0,,,2024-01-15 09:29:58,2024-01-15 09:30:53,"54,839s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2024-01-15 09:29:58,2024-01-15 09:30:10,"11,394s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_ModeloDeNegocioMAX""))",Chrome 120.0.0.0,,,2024-01-15 09:30:10,2024-01-15 09:30:11,"0,765s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:30:11,2024-01-15 09:30:14,"3,010s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda""), ""info"")",Chrome 120.0.0.0,Buscamos info para que nos muestre el arbol de los servicios,,2024-01-15 09:30:14,2024-01-15 09:30:14,"0,749s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:30:14,2024-01-15 09:30:17,"3,014s",PASSED
+"rightClick(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_7 Informacion""))",Chrome 120.0.0.0,Cola 1 Informacion General,,2024-01-15 09:30:17,2024-01-15 09:30:18,"0,515s",PASSED
+"mouseOver(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Cola""))",Chrome 120.0.0.0,,,2024-01-15 09:30:18,2024-01-15 09:30:19,"0,808s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Cola(1)/span_Crear""))",Chrome 120.0.0.0,,,2024-01-15 09:30:19,2024-01-15 09:30:19,"0,431s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:30:19,2024-01-15 09:30:22,"3,013s",PASSED
+"rightClick(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/9 General Radicaciones/span_9 Radicaciones""))",Chrome 120.0.0.0,Cola 2 Radicaciones General,,2024-01-15 09:30:22,2024-01-15 09:30:23,"0,543s",PASSED
+"mouseOver(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/9 General Radicaciones/span_Cola""))",Chrome 120.0.0.0,,,2024-01-15 09:30:23,2024-01-15 09:30:23,"0,647s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/9 General Radicaciones/span_Cola(1)/span_Crear""))",Chrome 120.0.0.0,,,2024-01-15 09:30:23,2024-01-15 09:30:24,"0,452s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:30:24,2024-01-15 09:30:27,"3,007s",PASSED
+"rightClick(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_8 PQRS""))",Chrome 120.0.0.0,Cola 3 PQRS General,,2024-01-15 09:30:27,2024-01-15 09:30:27,"0,543s",PASSED
+"mouseOver(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Cola""))",Chrome 120.0.0.0,,,2024-01-15 09:30:27,2024-01-15 09:30:28,"0,648s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Cola(1)/span_Crear""))",Chrome 120.0.0.0,,,2024-01-15 09:30:28,2024-01-15 09:30:28,"0,410s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:30:28,2024-01-15 09:30:31,"3,005s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda""), ""info"")",Chrome 120.0.0.0,Buscamos info para que nos muestre el arbol de los servicios,,2024-01-15 09:30:31,2024-01-15 09:30:32,"0,803s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:30:32,2024-01-15 09:30:35,"3,003s",PASSED
+"rightClick(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_4 Informacion""))",Chrome 120.0.0.0,Cola 1 Informacion Preferencial,,2024-01-15 09:30:35,2024-01-15 09:30:36,"0,542s",PASSED
+"mouseOver(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_Cola""))",Chrome 120.0.0.0,,,2024-01-15 09:30:36,2024-01-15 09:30:36,"0,667s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_Cola(1)/span_Crear""))",Chrome 120.0.0.0,,,2024-01-15 09:30:36,2024-01-15 09:30:37,"0,413s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:30:37,2024-01-15 09:30:40,"3,014s",PASSED
+"rightClick(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/6 Preferencial Radicaciones/span_6 Radicaciones""))",Chrome 120.0.0.0,Cola 2 Radicaciones Preferencial,,2024-01-15 09:30:40,2024-01-15 09:30:40,"0,555s",PASSED
+"mouseOver(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/6 Preferencial Radicaciones/span_Cola""))",Chrome 120.0.0.0,,,2024-01-15 09:30:40,2024-01-15 09:30:41,"0,666s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/6 Preferencial Radicaciones/span_Cola(1)/span_Crear""))",Chrome 120.0.0.0,,,2024-01-15 09:30:41,2024-01-15 09:30:41,"0,388s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:30:41,2024-01-15 09:30:44,"3,020s",PASSED
+"rightClick(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_5 PQRS""))",Chrome 120.0.0.0,Cola 3 PQRS Preferencial,,2024-01-15 09:30:44,2024-01-15 09:30:45,"0,578s",PASSED
+"mouseOver(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Cola""))",Chrome 120.0.0.0,,,2024-01-15 09:30:45,2024-01-15 09:30:46,"0,629s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Cola(1)/span_Crear""))",Chrome 120.0.0.0,,,2024-01-15 09:30:46,2024-01-15 09:30:46,"0,408s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:30:46,2024-01-15 09:30:49,"3,017s",PASSED
+takeFullPageScreenshot(),Chrome 120.0.0.0,,,2024-01-15 09:30:49,2024-01-15 09:30:50,"0,870s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:30:50,2024-01-15 09:30:53,"3,010s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,2024-01-15 09:30:53,2024-01-15 09:30:53,"0,000s",PASSED

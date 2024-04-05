@@ -1,0 +1,58 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.3 Crear Grupos Chipichape,Chrome 120.0.0.0,,,2024-01-15 10:06:44,2024-01-15 10:08:08,"1m - 23,769s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/3Grupos/5.3 Crear Grupos Chipichape,Chrome 120.0.0.0,,,2024-01-15 10:06:44,2024-01-15 10:08:08,"1m - 23,540s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2024-01-15 10:06:45,2024-01-15 10:06:56,"11,265s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 120.0.0.0,,,2024-01-15 10:06:56,2024-01-15 10:06:57,"0,882s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:06:57,2024-01-15 10:07:00,"3,009s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 120.0.0.0,,,2024-01-15 10:07:00,2024-01-15 10:07:00,"0,693s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:07:00,2024-01-15 10:07:03,"3,014s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 120.0.0.0,Se escoge sala Chipichape - Sala General,,2024-01-15 10:07:03,2024-01-15 10:07:04,"0,532s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:07:04,2024-01-15 10:07:07,"3,016s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_2Chipichape - Sala General""))",Chrome 120.0.0.0,,,2024-01-15 10:07:07,2024-01-15 10:07:08,"0,483s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:07:08,2024-01-15 10:07:11,"3,014s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo Información"")",Chrome 120.0.0.0,,,2024-01-15 10:07:11,2024-01-15 10:07:11,"0,838s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""Chipichape - Grupo Información"")",Chrome 120.0.0.0,,,2024-01-15 10:07:11,2024-01-15 10:07:12,"0,834s",PASSED
+"scrollToPosition(0, 800)",Chrome 120.0.0.0,,,2024-01-15 10:07:12,2024-01-15 10:07:12,"0,035s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:07:12,2024-01-15 10:07:13,"0,803s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:07:13,2024-01-15 10:07:15,"2,018s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:07:15,2024-01-15 10:07:16,"0,783s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:07:16,2024-01-15 10:07:18,"2,014s",PASSED
+"scrollToPosition(0, 0)",Chrome 120.0.0.0,,,2024-01-15 10:07:18,2024-01-15 10:07:18,"0,029s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 120.0.0.0,,,2024-01-15 10:07:18,2024-01-15 10:07:18,"0,421s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:07:18,2024-01-15 10:07:21,"3,005s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 120.0.0.0,Para crear Grupo PQRS,,2024-01-15 10:07:21,2024-01-15 10:07:22,"0,634s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:07:22,2024-01-15 10:07:25,"3,008s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 120.0.0.0,Se escoge sala Chipichape - Sala General,,2024-01-15 10:07:25,2024-01-15 10:07:25,"0,467s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:07:25,2024-01-15 10:07:28,"3,010s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_2Chipichape - Sala General""))",Chrome 120.0.0.0,,,2024-01-15 10:07:28,2024-01-15 10:07:29,"0,436s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:07:29,2024-01-15 10:07:32,"3,012s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo PQRS"")",Chrome 120.0.0.0,,,2024-01-15 10:07:32,2024-01-15 10:07:33,"0,777s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""Chipichape - PQRS"")",Chrome 120.0.0.0,,,2024-01-15 10:07:33,2024-01-15 10:07:33,"0,789s",PASSED
+"scrollToPosition(0, 800)",Chrome 120.0.0.0,,,2024-01-15 10:07:33,2024-01-15 10:07:33,"0,016s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:07:33,2024-01-15 10:07:34,"0,694s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:07:34,2024-01-15 10:07:36,"2,012s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:07:36,2024-01-15 10:07:37,"0,823s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:07:37,2024-01-15 10:07:39,"2,008s",PASSED
+"scrollToPosition(0, 0)",Chrome 120.0.0.0,,,2024-01-15 10:07:39,2024-01-15 10:07:39,"0,026s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 120.0.0.0,,,2024-01-15 10:07:39,2024-01-15 10:07:39,"0,438s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:07:39,2024-01-15 10:07:42,"3,012s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 120.0.0.0,Grupo Radicaciones,,2024-01-15 10:07:42,2024-01-15 10:07:43,"0,632s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:07:43,2024-01-15 10:07:46,"3,010s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 120.0.0.0,Se escoge sala Chipichape - Sala General,,2024-01-15 10:07:46,2024-01-15 10:07:47,"0,461s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:07:47,2024-01-15 10:07:50,"3,011s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_2Chipichape - Sala General""))",Chrome 120.0.0.0,,,2024-01-15 10:07:50,2024-01-15 10:07:50,"0,443s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:07:50,2024-01-15 10:07:53,"3,003s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo Radicaciones"")",Chrome 120.0.0.0,,,2024-01-15 10:07:53,2024-01-15 10:07:54,"0,950s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""Chipichape- Radicaciones"")",Chrome 120.0.0.0,,,2024-01-15 10:07:54,2024-01-15 10:07:55,"0,851s",PASSED
+"scrollToPosition(0, 800)",Chrome 120.0.0.0,,,2024-01-15 10:07:55,2024-01-15 10:07:55,"0,015s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:07:55,2024-01-15 10:07:56,"0,772s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:07:56,2024-01-15 10:07:58,"2,006s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:07:58,2024-01-15 10:07:58,"0,737s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:07:58,2024-01-15 10:08:00,"2,008s",PASSED
+"scrollToPosition(0, 0)",Chrome 120.0.0.0,,,2024-01-15 10:08:00,2024-01-15 10:08:00,"0,028s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 120.0.0.0,,,2024-01-15 10:08:00,2024-01-15 10:08:01,"0,442s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:08:01,2024-01-15 10:08:04,"3,007s",PASSED
+takeFullPageScreenshot(),Chrome 120.0.0.0,,,2024-01-15 10:08:04,2024-01-15 10:08:05,"0,995s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:08:05,2024-01-15 10:08:08,"3,008s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,2024-01-15 10:08:08,2024-01-15 10:08:08,"0,000s",PASSED

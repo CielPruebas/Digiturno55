@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="5.6 Creacion Columnas Tablero Cali" time="64.26" tests="1" failures="0" errors="0">
+   <testsuite name="5.6 Creacion Columnas Tablero Cali" tests="1" failures="0" errors="0" time="64.26" skipped="0" timestamp="2024-04-02 15:36:14" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/WIZARD/3Infraestructura/6Tableros/5.6 Creacion Columnas Tablero Cali">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\6Tableros\\5.6 Creacion Columnas Tablero Cali\\20240402_144029"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\6Tableros\\5.6 Creacion Columnas Tablero Cali\\20240402_144029\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\6Tableros\\5.6 Creacion Columnas Tablero Cali\\20240402_144029\\1712090235205.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.18"/>
+         <property name="sessionId" value="49ce9f4345ae72909570b5eaa3af0e06"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/WIZARD/3Infraestructura/6Tableros/5.6 Creacion Columnas Tablero Cali" time="64.003" classname="Test Cases/WIZARD/3Infraestructura/6Tableros/5.6 Creacion Columnas Tablero Cali" status="PASSED">
+         <system-out><![CDATA[2024-04-02 15:36:15 - [TEST_CASE][PASSED] - Test Cases/WIZARD/3Infraestructura/6Tableros/5.6 Creacion Columnas Tablero Cali: Test Cases/WIZARD/3Infraestructura/6Tableros/5.6 Creacion Columnas Tablero Cali
+
+2024-04-02 15:36:15 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-02 15:36:15 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-04-02 15:36:15 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-02 15:36:16 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-04-02 15:36:16 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-04-02 15:36:16 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-04-02 15:36:19 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-02 15:36:19 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-04-02 15:36:19 - [MESSAGE][PASSED] - Current window maximized
+
+2024-04-02 15:36:19 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:36:22 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:36:22 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-02 15:36:23 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-02 15:36:23 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-02 15:36:23 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-02 15:36:23 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-02 15:36:24 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-02 15:36:24 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:36:27 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:36:27 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-02 15:36:27 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/0Principal/img_InfraestructuraMAX")): Object: 'Object Repository/WIZARD/0Principal/img_InfraestructuraMAX' is clicked on
+
+2024-04-02 15:36:28 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/0Principal/img_InfraestructuraMAX' is clicked on
+
+2024-04-02 15:36:28 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:36:31 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:36:31 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Tableros")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Tableros' is clicked on
+
+2024-04-02 15:36:32 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Tableros' is clicked on
+
+2024-04-02 15:36:32 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:36:35 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:36:35 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/6Tableros/0OficinaModal/td_Cali - Chipichape")): Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/0OficinaModal/td_Cali - Chipichape' is clicked on
+
+2024-04-02 15:36:35 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/0OficinaModal/td_Cali - Chipichape' is clicked on
+
+2024-04-02 15:36:35 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:36:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:36:38 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/6Tableros/Lista de Tableros/td_Tablero - 1")): Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Lista de Tableros/td_Tablero - 1' is clicked on
+
+2024-04-02 15:36:39 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Lista de Tableros/td_Tablero - 1' is clicked on
+
+2024-04-02 15:36:39 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:36:42 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:36:42 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/span_Columnas")): Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/span_Columnas' is clicked on
+
+2024-04-02 15:36:42 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/span_Columnas' is clicked on
+
+2024-04-02 15:36:42 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 15:36:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 15:36:44 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Nombre"), "Turno"): Text 'Turno' is set on object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Nombre'
+
+2024-04-02 15:36:45 - [MESSAGE][PASSED] - Text 'Turno' is set on object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Nombre'
+
+2024-04-02 15:36:45 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/textarea_Descripcion"), "Turno"): Text 'Turno' is set on object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/textarea_Descripcion'
+
+2024-04-02 15:36:46 - [MESSAGE][PASSED] - Text 'Turno' is set on object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/textarea_Descripcion'
+
+2024-04-02 15:36:46 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Titulo"), "Turno"): Text 'Turno' is set on object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Titulo'
+
+2024-04-02 15:36:46 - [MESSAGE][PASSED] - Text 'Turno' is set on object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Titulo'
+
+2024-04-02 15:36:46 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos' successfully
+
+2024-04-02 15:36:47 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos' successfully
+
+2024-04-02 15:36:47 - [TEST_STEP][PASSED] - check(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/Label/Columnas/label_Habilitada")): Object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/Label/Columnas/label_Habilitada' is checked
+
+2024-04-02 15:36:47 - [MESSAGE][PASSED] - Object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/Label/Columnas/label_Habilitada' is checked
+
+2024-04-02 15:36:47 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos")): Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos' is clicked on
+
+2024-04-02 15:36:48 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos' is clicked on
+
+2024-04-02 15:36:48 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:36:51 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:36:51 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos (1)/a_Turno.Numero")): Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos (1)/a_Turno.Numero' is clicked on
+
+2024-04-02 15:36:51 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos (1)/a_Turno.Numero' is clicked on
+
+2024-04-02 15:36:51 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 15:36:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 15:36:53 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:36:53 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:36:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 15:36:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 15:36:55 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/img_Nuevo")): Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/img_Nuevo' is clicked on
+
+2024-04-02 15:36:56 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/img_Nuevo' is clicked on
+
+2024-04-02 15:36:56 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:36:59 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:36:59 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Nombre"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Nombre' successfully
+
+2024-04-02 15:36:59 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Nombre' successfully
+
+2024-04-02 15:36:59 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Nombre"), "Modulo"): Text 'Modulo' is set on object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Nombre'
+
+2024-04-02 15:37:00 - [MESSAGE][PASSED] - Text 'Modulo' is set on object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Nombre'
+
+2024-04-02 15:37:00 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/textarea_Descripcion"), "Modulo"): Text 'Modulo' is set on object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/textarea_Descripcion'
+
+2024-04-02 15:37:01 - [MESSAGE][PASSED] - Text 'Modulo' is set on object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/textarea_Descripcion'
+
+2024-04-02 15:37:01 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Titulo"), "Modulo"): Text 'Modulo' is set on object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Titulo'
+
+2024-04-02 15:37:02 - [MESSAGE][PASSED] - Text 'Modulo' is set on object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Titulo'
+
+2024-04-02 15:37:02 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos' successfully
+
+2024-04-02 15:37:02 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos' successfully
+
+2024-04-02 15:37:02 - [TEST_STEP][PASSED] - clearText(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Elementos")): Text of object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Elementos' is cleared
+
+2024-04-02 15:37:03 - [MESSAGE][PASSED] - Text of object 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/input_Elementos' is cleared
+
+2024-04-02 15:37:03 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos")): Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos' is clicked on
+
+2024-04-02 15:37:03 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos' is clicked on
+
+2024-04-02 15:37:03 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:37:06 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:37:06 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos (1)/a_Terminal.Modulo")): Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos (1)/a_Terminal.Modulo' is clicked on
+
+2024-04-02 15:37:07 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Atributos (1)/a_Terminal.Modulo' is clicked on
+
+2024-04-02 15:37:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 15:37:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 15:37:09 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Orden UP"), STOP_ON_FAILURE): Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Orden UP' is clicked on
+
+2024-04-02 15:37:09 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/btn_Orden UP' is clicked on
+
+2024-04-02 15:37:09 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:37:09 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:37:09 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 15:37:11 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 15:37:11 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/img_Nuevo")): Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/img_Nuevo' is clicked on
+
+2024-04-02 15:37:12 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/6Tableros/Configuracion/Columnas/img_Nuevo' is clicked on
+
+2024-04-02 15:37:12 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:37:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:37:15 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-02 15:37:15 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-02 15:37:16 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\6Tableros\\5.6 Creacion Columnas Tablero Cali\\20240402_144029\\1712090235205.png]]
+
+2024-04-02 15:37:16 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:37:19 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:37:19 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-04-02 15:36:14 - [TEST_SUITE][PASSED] - 5.6 Creacion Columnas Tablero Cali: Test Cases/WIZARD/3Infraestructura/6Tableros/5.6 Creacion Columnas Tablero Cali]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,58 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.3 Crear Grupos Medellin,Chrome 120.0.0.0,,,2024-01-15 10:09:51,2024-01-15 10:11:14,"1m - 23,612s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/3Grupos/5.3 Crear Grupos Medellin,Chrome 120.0.0.0,,,2024-01-15 10:09:51,2024-01-15 10:11:14,"1m - 23,392s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2024-01-15 10:09:51,2024-01-15 10:10:02,"11,207s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 120.0.0.0,,,2024-01-15 10:10:02,2024-01-15 10:10:03,"0,881s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:10:03,2024-01-15 10:10:06,"3,011s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 120.0.0.0,,,2024-01-15 10:10:06,2024-01-15 10:10:07,"0,684s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:10:07,2024-01-15 10:10:10,"3,004s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 120.0.0.0,Se escoge sala Medellin - Sala General,,2024-01-15 10:10:10,2024-01-15 10:10:10,"0,491s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:10:10,2024-01-15 10:10:13,"3,007s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_5Medellin - Sala General""))",Chrome 120.0.0.0,,,2024-01-15 10:10:13,2024-01-15 10:10:14,"0,477s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:10:14,2024-01-15 10:10:17,"3,007s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo Información"")",Chrome 120.0.0.0,,,2024-01-15 10:10:17,2024-01-15 10:10:18,"0,885s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""Medellin - Grupo Información"")",Chrome 120.0.0.0,,,2024-01-15 10:10:18,2024-01-15 10:10:19,"0,852s",PASSED
+"scrollToPosition(0, 800)",Chrome 120.0.0.0,,,2024-01-15 10:10:19,2024-01-15 10:10:19,"0,029s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:10:19,2024-01-15 10:10:20,"0,832s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:10:20,2024-01-15 10:10:22,"2,016s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:10:22,2024-01-15 10:10:22,"0,798s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:10:22,2024-01-15 10:10:24,"2,010s",PASSED
+"scrollToPosition(0, 0)",Chrome 120.0.0.0,,,2024-01-15 10:10:24,2024-01-15 10:10:24,"0,030s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 120.0.0.0,,,2024-01-15 10:10:24,2024-01-15 10:10:25,"0,467s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:10:25,2024-01-15 10:10:28,"3,010s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 120.0.0.0,Para crear Grupo PQRS,,2024-01-15 10:10:28,2024-01-15 10:10:28,"0,634s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:10:28,2024-01-15 10:10:31,"3,010s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 120.0.0.0,Se escoge sala Medellin - Sala General,,2024-01-15 10:10:31,2024-01-15 10:10:32,"0,446s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:10:32,2024-01-15 10:10:35,"3,007s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_5Medellin - Sala General""))",Chrome 120.0.0.0,,,2024-01-15 10:10:35,2024-01-15 10:10:35,"0,450s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:10:35,2024-01-15 10:10:38,"3,009s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo PQRS"")",Chrome 120.0.0.0,,,2024-01-15 10:10:38,2024-01-15 10:10:39,"0,896s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""Medellin - PQRS"")",Chrome 120.0.0.0,,,2024-01-15 10:10:39,2024-01-15 10:10:40,"0,756s",PASSED
+"scrollToPosition(0, 800)",Chrome 120.0.0.0,,,2024-01-15 10:10:40,2024-01-15 10:10:40,"0,022s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:10:40,2024-01-15 10:10:41,"0,705s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:10:41,2024-01-15 10:10:43,"2,002s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:10:43,2024-01-15 10:10:43,"0,679s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:10:43,2024-01-15 10:10:45,"2,001s",PASSED
+"scrollToPosition(0, 0)",Chrome 120.0.0.0,,,2024-01-15 10:10:45,2024-01-15 10:10:45,"0,027s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 120.0.0.0,,,2024-01-15 10:10:45,2024-01-15 10:10:46,"0,454s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:10:46,2024-01-15 10:10:49,"3,016s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 120.0.0.0,Grupo Radicaciones,,2024-01-15 10:10:49,2024-01-15 10:10:50,"0,667s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:10:50,2024-01-15 10:10:53,"3,007s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 120.0.0.0,Se escoge sala Medellin - Sala General,,2024-01-15 10:10:53,2024-01-15 10:10:53,"0,430s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:10:53,2024-01-15 10:10:56,"3,007s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_5Medellin - Sala General""))",Chrome 120.0.0.0,,,2024-01-15 10:10:56,2024-01-15 10:10:56,"0,426s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:10:56,2024-01-15 10:11:00,"3,015s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo Radicaciones"")",Chrome 120.0.0.0,,,2024-01-15 10:11:00,2024-01-15 10:11:00,"0,861s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""Medellin - Radicaciones"")",Chrome 120.0.0.0,,,2024-01-15 10:11:00,2024-01-15 10:11:01,"0,830s",PASSED
+"scrollToPosition(0, 800)",Chrome 120.0.0.0,,,2024-01-15 10:11:01,2024-01-15 10:11:01,"0,016s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:11:01,2024-01-15 10:11:02,"0,771s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:11:02,2024-01-15 10:11:04,"2,002s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:11:04,2024-01-15 10:11:05,"0,785s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:11:05,2024-01-15 10:11:07,"2,016s",PASSED
+"scrollToPosition(0, 0)",Chrome 120.0.0.0,,,2024-01-15 10:11:07,2024-01-15 10:11:07,"0,027s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 120.0.0.0,,,2024-01-15 10:11:07,2024-01-15 10:11:07,"0,461s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:11:07,2024-01-15 10:11:10,"3,007s",PASSED
+takeFullPageScreenshot(),Chrome 120.0.0.0,,,2024-01-15 10:11:10,2024-01-15 10:11:11,"0,936s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:11:11,2024-01-15 10:11:14,"3,006s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,2024-01-15 10:11:14,2024-01-15 10:11:14,"0,000s",PASSED

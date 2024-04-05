@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+0 Generar Turno,Chrome 123.0.0.0,,,2024-04-05 15:08:58,2024-04-05 15:11:09,"2m - 10,978s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/OPERACION BASICA/0 Generar Turno,Chrome 123.0.0.0,,,2024-04-05 15:08:59,2024-04-05 15:11:09,"2m - 10,664s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-05 15:08:59,2024-04-05 15:09:11,"11,791s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-05 15:09:11,2024-04-05 15:09:14,"3,013s",PASSED
+"click(findTestObject(""DIGITURNO/1Principal/img_Operacion(1)""))",Chrome 123.0.0.0,,,2024-04-05 15:09:14,2024-04-05 15:09:15,"0,602s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-05 15:09:15,2024-04-05 15:09:18,"3,008s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/0Principal/Elementos del Sistema/img_Selectores""))",Chrome 123.0.0.0,,,2024-04-05 15:09:18,2024-04-05 15:09:18,"0,657s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-05 15:09:18,2024-04-05 15:09:21,"3,003s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/1Selectores/Oficinas/td_1Bogota - CIEL""))",Chrome 123.0.0.0,Escogemos oficina,,2024-04-05 15:09:21,2024-04-05 15:09:22,"0,476s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-05 15:09:22,2024-04-05 15:09:25,"3,007s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/1Selectores/Lista de Selectores/td_Selector 01""))",Chrome 123.0.0.0,Abrimos selector,,2024-04-05 15:09:25,2024-04-05 15:09:25,"0,432s",PASSED
+delay(5),Chrome 123.0.0.0,,,2024-04-05 15:09:25,2024-04-05 15:09:30,"5,002s",PASSED
+switchToWindowIndex(1),Chrome 123.0.0.0,Para ir a la ventana del selector abierto,,2024-04-05 15:09:30,2024-04-05 15:09:30,"0,050s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-05 15:09:30,2024-04-05 15:09:32,"2,014s",PASSED
+"setText(findTestObject(""DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/input_cajaBusqueda""), ""info"")",Chrome 123.0.0.0,Buscar por jerarquia,,2024-04-05 15:09:32,2024-04-05 15:09:33,"1,278s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-05 15:09:33,2024-04-05 15:09:37,"3,011s",PASSED
+for (def index : (1..12)),Chrome 123.0.0.0,,,2024-04-05 15:09:37,2024-04-05 15:11:02,"1m - 25,915s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/1Selectores/Selector/0Informacion de Selector/img_Cerrar""))",Chrome 123.0.0.0,,,2024-04-05 15:11:02,2024-04-05 15:11:03,"0,463s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-05 15:11:03,2024-04-05 15:11:06,"3,004s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/1Selectores/Selector/0Informacion de Selector/img_Cerrar(1)/btn_4FindeJornada_8""))",Chrome 123.0.0.0,,,2024-04-05 15:11:06,2024-04-05 15:11:06,"0,555s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-05 15:11:06,2024-04-05 15:11:09,"3,005s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-05 15:11:09,2024-04-05 15:11:09,"0,000s",PASSED

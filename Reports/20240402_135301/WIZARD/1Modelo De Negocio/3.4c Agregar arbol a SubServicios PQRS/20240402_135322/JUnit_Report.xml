@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="3.4c Agregar arbol a SubServicios PQRS" time="57.762" tests="1" failures="0" errors="0">
+   <testsuite name="3.4c Agregar arbol a SubServicios PQRS" tests="1" failures="0" errors="0" time="57.762" skipped="0" timestamp="2024-04-02 14:10:23" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/WIZARD/1Modelo De Negocio/3.4c Agregar arbol a SubServicios PQRS">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_135301\\WIZARD\\1Modelo De Negocio\\3.4c Agregar arbol a SubServicios PQRS\\20240402_135322"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_135301\\WIZARD\\1Modelo De Negocio\\3.4c Agregar arbol a SubServicios PQRS\\20240402_135322\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_135301\\WIZARD\\1Modelo De Negocio\\3.4c Agregar arbol a SubServicios PQRS\\20240402_135322\\1712085077560.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.18"/>
+         <property name="sessionId" value="bf6c3890db9678d35a3b4ff87befc9f0"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/WIZARD/1Modelo De Negocio/3.4c Agregar arbol a SubServicios PQRS" time="57.522" classname="Test Cases/WIZARD/1Modelo De Negocio/3.4c Agregar arbol a SubServicios PQRS" status="PASSED">
+         <system-out><![CDATA[2024-04-02 14:10:23 - [TEST_CASE][PASSED] - Test Cases/WIZARD/1Modelo De Negocio/3.4c Agregar arbol a SubServicios PQRS: Test Cases/WIZARD/1Modelo De Negocio/3.4c Agregar arbol a SubServicios PQRS
+
+2024-04-02 14:10:24 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-02 14:10:24 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-04-02 14:10:24 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-02 14:10:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-04-02 14:10:25 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-04-02 14:10:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-04-02 14:10:28 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-02 14:10:28 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-04-02 14:10:28 - [MESSAGE][PASSED] - Current window maximized
+
+2024-04-02 14:10:28 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:10:31 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:10:31 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-02 14:10:32 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-02 14:10:32 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-02 14:10:32 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-02 14:10:32 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-02 14:10:33 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-02 14:10:33 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:10:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:10:36 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-02 14:10:36 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/0Principal/img_ModeloDeNegocioMAX")): Object: 'Object Repository/WIZARD/0Principal/img_ModeloDeNegocioMAX' is clicked on
+
+2024-04-02 14:10:37 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/0Principal/img_ModeloDeNegocioMAX' is clicked on
+
+2024-04-02 14:10:37 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:10:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:10:40 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda"), "PQRS"): Text 'PQRS' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda'
+
+2024-04-02 14:10:40 - [MESSAGE][PASSED] - Text 'PQRS' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda'
+
+2024-04-02 14:10:40 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:10:43 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:10:43 - [TEST_STEP][PASSED] - rightClick(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_8 PQRS")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_8 PQRS' is right clicked on
+
+2024-04-02 14:10:44 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_8 PQRS' is right clicked on
+
+2024-04-02 14:10:44 - [TEST_STEP][PASSED] - mouseOver(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento' is hovered
+
+2024-04-02 14:10:45 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento' is hovered
+
+2024-04-02 14:10:45 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 14:10:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 14:10:47 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos' is clicked on
+
+2024-04-02 14:10:47 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos' is clicked on
+
+2024-04-02 14:10:47 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:10:50 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:10:50 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_6 Peticion")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_6 Peticion' is clicked on
+
+2024-04-02 14:10:51 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_6 Peticion' is clicked on
+
+2024-04-02 14:10:51 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_7 Queja")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_7 Queja' is clicked on
+
+2024-04-02 14:10:51 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_7 Queja' is clicked on
+
+2024-04-02 14:10:51 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_8 Reclamo")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_8 Reclamo' is clicked on
+
+2024-04-02 14:10:51 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_8 Reclamo' is clicked on
+
+2024-04-02 14:10:51 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_11 Solicitud")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_11 Solicitud' is clicked on
+
+2024-04-02 14:10:52 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_11 Solicitud' is clicked on
+
+2024-04-02 14:10:52 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:10:55 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:10:55 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos(1)/btn_Agregar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos(1)/btn_Agregar' is clicked on
+
+2024-04-02 14:10:55 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/8 General PQRS/span_Elemento(1)/span_Agregar Elementos(1)/btn_Agregar' is clicked on
+
+2024-04-02 14:10:55 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:10:58 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:10:58 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda"), "PQRS"): Text 'PQRS' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda'
+
+2024-04-02 14:10:59 - [MESSAGE][PASSED] - Text 'PQRS' is set on object 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda'
+
+2024-04-02 14:10:59 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:11:02 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:11:02 - [TEST_STEP][PASSED] - rightClick(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_5 PQRS")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_5 PQRS' is right clicked on
+
+2024-04-02 14:11:03 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_5 PQRS' is right clicked on
+
+2024-04-02 14:11:03 - [TEST_STEP][PASSED] - mouseOver(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento' is hovered
+
+2024-04-02 14:11:03 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento' is hovered
+
+2024-04-02 14:11:03 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 14:11:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 14:11:05 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos' is clicked on
+
+2024-04-02 14:11:06 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos' is clicked on
+
+2024-04-02 14:11:06 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:11:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:11:09 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_6 Peticion")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_6 Peticion' is clicked on
+
+2024-04-02 14:11:09 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_6 Peticion' is clicked on
+
+2024-04-02 14:11:09 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_7 Queja")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_7 Queja' is clicked on
+
+2024-04-02 14:11:10 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_7 Queja' is clicked on
+
+2024-04-02 14:11:10 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_8 Reclamo")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_8 Reclamo' is clicked on
+
+2024-04-02 14:11:10 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_8 Reclamo' is clicked on
+
+2024-04-02 14:11:10 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_11 Solicitud")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_11 Solicitud' is clicked on
+
+2024-04-02 14:11:11 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_11 Solicitud' is clicked on
+
+2024-04-02 14:11:11 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:11:14 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:11:14 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos(1)/btn_Agregar")): Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos(1)/btn_Agregar' is clicked on
+
+2024-04-02 14:11:14 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/5 Preferencial PQRS/span_Elemento(1)/span_Agregar Elementos(1)/btn_Agregar' is clicked on
+
+2024-04-02 14:11:14 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:11:17 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:11:17 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-02 14:11:18 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-02 14:11:18 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_135301\\WIZARD\\1Modelo De Negocio\\3.4c Agregar arbol a SubServicios PQRS\\20240402_135322\\1712085077560.png]]
+
+2024-04-02 14:11:18 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:11:21 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:11:21 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-04-02 14:10:23 - [TEST_SUITE][PASSED] - 3.4c Agregar arbol a SubServicios PQRS: Test Cases/WIZARD/1Modelo De Negocio/3.4c Agregar arbol a SubServicios PQRS]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

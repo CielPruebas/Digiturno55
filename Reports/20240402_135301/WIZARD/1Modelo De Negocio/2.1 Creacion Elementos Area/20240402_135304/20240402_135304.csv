@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+2.1 Creacion Elementos Area,Chrome 123.0.0.0,,,2024-04-02 13:55:07,2024-04-02 13:55:56,"48,845s",PASSED
+,,,,,,,
+Test Cases/WIZARD/1Modelo De Negocio/2.1 Creacion Elementos Area,Chrome 123.0.0.0,,,2024-04-02 13:55:08,2024-04-02 13:55:56,"48,591s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-02 13:55:08,2024-04-02 13:55:20,"12,125s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_ModeloDeNegocioMAX""))",Chrome 123.0.0.0,,,2024-04-02 13:55:20,2024-04-02 13:55:21,"0,523s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 13:55:21,2024-04-02 13:55:24,"3,008s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/00Menu/span_Elementos""))",Chrome 123.0.0.0,,,2024-04-02 13:55:24,2024-04-02 13:55:24,"0,751s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 13:55:24,2024-04-02 13:55:27,"3,006s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Nivel/option_1Area""))",Chrome 123.0.0.0,,,2024-04-02 13:55:27,2024-04-02 13:55:28,"0,404s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 13:55:28,2024-04-02 13:55:31,"3,006s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Nivel/Area/td_AG1""))",Chrome 123.0.0.0,,,2024-04-02 13:55:31,2024-04-02 13:55:31,"0,423s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 13:55:31,2024-04-02 13:55:34,"3,004s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento""), ""Area General"")",Chrome 123.0.0.0,,,2024-04-02 13:55:34,2024-04-02 13:55:35,"0,877s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento""), ""Area General"")",Chrome 123.0.0.0,,,2024-04-02 13:55:35,2024-04-02 13:55:36,"0,824s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()"", [])",Chrome 123.0.0.0,,,2024-04-02 13:55:36,2024-04-02 13:55:36,"0,036s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 13:55:36,2024-04-02 13:55:39,"3,007s",PASSED
+"clearText(findTestObject(""WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/input_Minutos""))",Chrome 123.0.0.0,,,2024-04-02 13:55:39,2024-04-02 13:55:39,"0,486s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 13:55:39,2024-04-02 13:55:41,"2,011s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10"", [])",Chrome 123.0.0.0,,,2024-04-02 13:55:41,2024-04-02 13:55:41,"0,042s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar""))",Chrome 123.0.0.0,,,2024-04-02 13:55:41,2024-04-02 13:55:42,"0,479s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 13:55:42,2024-04-02 13:55:45,"3,014s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()"", [])",Chrome 123.0.0.0,,,2024-04-02 13:55:45,2024-04-02 13:55:45,"0,034s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 13:55:45,2024-04-02 13:55:48,"3,013s",PASSED
+"clearText(findTestObject(""WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/input_Minutos""))",Chrome 123.0.0.0,,,2024-04-02 13:55:48,2024-04-02 13:55:48,"0,457s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/input_Minutos""), ""5"")",Chrome 123.0.0.0,,,2024-04-02 13:55:48,2024-04-02 13:55:49,"0,782s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar""))",Chrome 123.0.0.0,,,2024-04-02 13:55:49,2024-04-02 13:55:50,"0,433s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 13:55:50,2024-04-02 13:55:53,"3,013s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar""))",Chrome 123.0.0.0,,,2024-04-02 13:55:53,2024-04-02 13:55:53,"0,476s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 13:55:53,2024-04-02 13:55:56,"3,011s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-02 13:55:56,2024-04-02 13:55:56,"0,000s",PASSED

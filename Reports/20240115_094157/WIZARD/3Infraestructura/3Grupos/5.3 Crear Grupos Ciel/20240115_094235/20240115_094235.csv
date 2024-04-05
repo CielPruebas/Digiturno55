@@ -1,0 +1,59 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.3 Crear Grupos Ciel,Chrome 120.0.0.0,,,2024-01-15 10:03:33,2024-01-15 10:04:59,"1m - 26,139s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/3Grupos/5.3 Crear Grupos Ciel,Chrome 120.0.0.0,,,2024-01-15 10:03:33,2024-01-15 10:04:59,"1m - 25,911s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2024-01-15 10:03:33,2024-01-15 10:03:45,"11,472s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 120.0.0.0,,,2024-01-15 10:03:45,2024-01-15 10:03:46,"1,005s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:03:46,2024-01-15 10:03:49,"3,019s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 120.0.0.0,,,2024-01-15 10:03:49,2024-01-15 10:03:49,"0,739s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:03:49,2024-01-15 10:03:52,"3,005s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 120.0.0.0,Se escoge sala CIEL - Sala General,,2024-01-15 10:03:52,2024-01-15 10:03:53,"0,490s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:03:53,2024-01-15 10:03:56,"3,007s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_1CIEL - Sala General""))",Chrome 120.0.0.0,,,2024-01-15 10:03:56,2024-01-15 10:03:56,"0,509s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:03:56,2024-01-15 10:03:59,"3,006s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo General"")",Chrome 120.0.0.0,,,2024-01-15 10:03:59,2024-01-15 10:04:00,"0,837s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""CIEL - Grupo General"")",Chrome 120.0.0.0,,,2024-01-15 10:04:00,2024-01-15 10:04:01,"0,817s",PASSED
+"scrollToPosition(0, 1000)",Chrome 120.0.0.0,,,2024-01-15 10:04:01,2024-01-15 10:04:01,"0,032s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:04:01,2024-01-15 10:04:02,"0,852s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:04:02,2024-01-15 10:04:04,"2,004s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:04:04,2024-01-15 10:04:05,"0,807s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:04:05,2024-01-15 10:04:07,"2,017s",PASSED
+"scrollToPosition(0, 0)",Chrome 120.0.0.0,,,2024-01-15 10:04:07,2024-01-15 10:04:07,"0,031s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:04:07,2024-01-15 10:04:09,"2,019s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 120.0.0.0,,,2024-01-15 10:04:09,2024-01-15 10:04:09,"0,453s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:04:09,2024-01-15 10:04:12,"3,008s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 120.0.0.0,Para crear Grupo PQRS,,2024-01-15 10:04:12,2024-01-15 10:04:13,"0,669s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:04:13,2024-01-15 10:04:16,"3,013s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 120.0.0.0,Se escoge sala CIEL - Sala General,,2024-01-15 10:04:16,2024-01-15 10:04:16,"0,396s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:04:16,2024-01-15 10:04:19,"3,015s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_1CIEL - Sala General""))",Chrome 120.0.0.0,,,2024-01-15 10:04:19,2024-01-15 10:04:20,"0,458s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:04:20,2024-01-15 10:04:23,"3,016s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo PQRS"")",Chrome 120.0.0.0,,,2024-01-15 10:04:23,2024-01-15 10:04:24,"0,880s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""CIEL - PQRS"")",Chrome 120.0.0.0,,,2024-01-15 10:04:24,2024-01-15 10:04:25,"0,832s",PASSED
+"scrollToPosition(0, 1000)",Chrome 120.0.0.0,,,2024-01-15 10:04:25,2024-01-15 10:04:25,"0,020s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:04:25,2024-01-15 10:04:25,"0,751s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:04:25,2024-01-15 10:04:27,"2,007s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:04:27,2024-01-15 10:04:28,"0,788s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:04:28,2024-01-15 10:04:30,"2,009s",PASSED
+"scrollToPosition(0, 0)",Chrome 120.0.0.0,,,2024-01-15 10:04:30,2024-01-15 10:04:30,"0,026s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 120.0.0.0,,,2024-01-15 10:04:30,2024-01-15 10:04:31,"0,438s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:04:31,2024-01-15 10:04:34,"3,008s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 120.0.0.0,Ciel GRupo Radicaciones,,2024-01-15 10:04:34,2024-01-15 10:04:34,"0,600s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:04:34,2024-01-15 10:04:37,"3,012s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 120.0.0.0,Se escoge sala CIEL - Sala General,,2024-01-15 10:04:37,2024-01-15 10:04:38,"0,458s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:04:38,2024-01-15 10:04:41,"3,014s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_1CIEL - Sala General""))",Chrome 120.0.0.0,,,2024-01-15 10:04:41,2024-01-15 10:04:41,"0,429s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:04:41,2024-01-15 10:04:44,"3,004s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo Radicaciones"")",Chrome 120.0.0.0,,,2024-01-15 10:04:44,2024-01-15 10:04:45,"0,861s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""CIEL - Radicaciones"")",Chrome 120.0.0.0,,,2024-01-15 10:04:45,2024-01-15 10:04:46,"0,837s",PASSED
+"scrollToPosition(0, 1000)",Chrome 120.0.0.0,,,2024-01-15 10:04:46,2024-01-15 10:04:46,"0,018s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:04:46,2024-01-15 10:04:47,"0,737s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:04:47,2024-01-15 10:04:49,"2,005s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 120.0.0.0,,,2024-01-15 10:04:49,2024-01-15 10:04:49,"0,782s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 10:04:49,2024-01-15 10:04:51,"2,016s",PASSED
+"scrollToPosition(0, 0)",Chrome 120.0.0.0,,,2024-01-15 10:04:51,2024-01-15 10:04:51,"0,033s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 120.0.0.0,,,2024-01-15 10:04:51,2024-01-15 10:04:52,"0,432s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:04:52,2024-01-15 10:04:55,"3,010s",PASSED
+takeFullPageScreenshot(),Chrome 120.0.0.0,,,2024-01-15 10:04:55,2024-01-15 10:04:56,"0,874s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 10:04:56,2024-01-15 10:04:59,"3,005s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,2024-01-15 10:04:59,2024-01-15 10:04:59,"0,000s",PASSED

@@ -1,0 +1,100 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.5 Crear Terminales WorkFlow,Chrome 123.0.0.0,,,2024-04-02 15:27:25,2024-04-02 15:29:38,"2m - 12,715s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/5Terminales/5.5 Crear Terminales WorkFlow,Chrome 123.0.0.0,,,2024-04-02 15:27:25,2024-04-02 15:29:38,"2m - 12,445s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-02 15:27:26,2024-04-02 15:27:38,"12,010s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 123.0.0.0,,,2024-04-02 15:27:38,2024-04-02 15:27:38,"0,654s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:27:38,2024-04-02 15:27:41,"3,026s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Terminales""))",Chrome 123.0.0.0,inicio WorkFlow informacion,,2024-04-02 15:27:41,2024-04-02 15:27:42,"0,712s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:27:42,2024-04-02 15:27:45,"3,007s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_7WorkFlow - Oficina WorkFlow""))",Chrome 123.0.0.0,,,2024-04-02 15:27:45,2024-04-02 15:27:45,"0,475s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:27:45,2024-04-02 15:27:48,"3,000s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo""))",Chrome 123.0.0.0,,,2024-04-02 15:27:48,2024-04-02 15:27:49,"0,400s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:27:49,2024-04-02 15:27:52,"3,012s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(WorkFlow)/a_Grupo General""))",Chrome 123.0.0.0,,,2024-04-02 15:27:52,2024-04-02 15:27:52,"0,475s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:27:52,2024-04-02 15:27:55,"3,008s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), ""A01"")",Chrome 123.0.0.0,,,2024-04-02 15:27:55,2024-04-02 15:27:56,"0,802s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion""), ""WorkFlow - Terminal - General"")",Chrome 123.0.0.0,,,2024-04-02 15:27:56,2024-04-02 15:27:57,"0,874s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""), 2)",Chrome 123.0.0.0,,,2024-04-02 15:27:57,2024-04-02 15:27:57,"0,406s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""))",Chrome 123.0.0.0,,,2024-04-02 15:27:57,2024-04-02 15:27:58,"0,422s",PASSED
+"scrollToPosition(0, 0)",Chrome 123.0.0.0,,,2024-04-02 15:27:58,2024-04-02 15:27:58,"0,029s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 15:27:58,2024-04-02 15:28:00,"2,005s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 15:28:00,2024-04-02 15:28:00,"0,469s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:28:00,2024-04-02 15:28:03,"3,008s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Terminales""))",Chrome 123.0.0.0,inicio WorkFlow Entrega Documentos,,2024-04-02 15:28:03,2024-04-02 15:28:04,"0,580s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:28:04,2024-04-02 15:28:07,"3,018s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_7WorkFlow - Oficina WorkFlow""))",Chrome 123.0.0.0,,,2024-04-02 15:28:07,2024-04-02 15:28:07,"0,472s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:28:07,2024-04-02 15:28:10,"3,015s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo""))",Chrome 123.0.0.0,,,2024-04-02 15:28:10,2024-04-02 15:28:11,"0,428s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:28:11,2024-04-02 15:28:14,"3,004s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(WorkFlow)/a_Grupo Entrega Documentos""))",Chrome 123.0.0.0,,,2024-04-02 15:28:14,2024-04-02 15:28:14,"0,469s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:28:14,2024-04-02 15:28:17,"3,013s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), 2)",Chrome 123.0.0.0,,,2024-04-02 15:28:17,2024-04-02 15:28:18,"0,423s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), ""A02"")",Chrome 123.0.0.0,,,2024-04-02 15:28:18,2024-04-02 15:28:19,"0,832s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion""), ""WorkFlow - Terminal - Entrega Documentos"")",Chrome 123.0.0.0,,,2024-04-02 15:28:19,2024-04-02 15:28:20,"0,865s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""), 2)",Chrome 123.0.0.0,,,2024-04-02 15:28:20,2024-04-02 15:28:20,"0,386s",PASSED
+"clearText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala""))",Chrome 123.0.0.0,Para colocar Direccion en sala 2,,2024-04-02 15:28:20,2024-04-02 15:28:20,"0,459s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala""), ""2"")",Chrome 123.0.0.0,,,2024-04-02 15:28:20,2024-04-02 15:28:21,"0,799s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""))",Chrome 123.0.0.0,,,2024-04-02 15:28:21,2024-04-02 15:28:22,"0,463s",PASSED
+"scrollToPosition(0, 0)",Chrome 123.0.0.0,,,2024-04-02 15:28:22,2024-04-02 15:28:22,"0,017s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 15:28:22,2024-04-02 15:28:24,"2,005s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 15:28:24,2024-04-02 15:28:24,"0,480s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:28:24,2024-04-02 15:28:27,"3,013s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Terminales""))",Chrome 123.0.0.0,inicio WorkFlow Pagos,,2024-04-02 15:28:27,2024-04-02 15:28:28,"0,553s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:28:28,2024-04-02 15:28:31,"3,014s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_7WorkFlow - Oficina WorkFlow""))",Chrome 123.0.0.0,,,2024-04-02 15:28:31,2024-04-02 15:28:31,"0,467s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:28:31,2024-04-02 15:28:34,"3,005s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo""))",Chrome 123.0.0.0,,,2024-04-02 15:28:34,2024-04-02 15:28:35,"0,477s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:28:35,2024-04-02 15:28:38,"3,016s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(WorkFlow)/a_Grupo Pagos""))",Chrome 123.0.0.0,,,2024-04-02 15:28:38,2024-04-02 15:28:38,"0,442s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:28:38,2024-04-02 15:28:41,"3,008s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), 2)",Chrome 123.0.0.0,,,2024-04-02 15:28:41,2024-04-02 15:28:42,"0,437s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), ""A03"")",Chrome 123.0.0.0,,,2024-04-02 15:28:42,2024-04-02 15:28:42,"0,823s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion""), ""WorkFlow - Terminal - Pagos"")",Chrome 123.0.0.0,,,2024-04-02 15:28:42,2024-04-02 15:28:43,"0,853s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""), 2)",Chrome 123.0.0.0,,,2024-04-02 15:28:43,2024-04-02 15:28:44,"0,349s",PASSED
+"clearText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala""))",Chrome 123.0.0.0,Para colocar Direccion en sala 2,,2024-04-02 15:28:44,2024-04-02 15:28:44,"0,434s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala""), ""3"")",Chrome 123.0.0.0,,,2024-04-02 15:28:44,2024-04-02 15:28:45,"0,744s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""))",Chrome 123.0.0.0,,,2024-04-02 15:28:45,2024-04-02 15:28:45,"0,378s",PASSED
+"scrollToPosition(0, 0)",Chrome 123.0.0.0,,,2024-04-02 15:28:45,2024-04-02 15:28:45,"0,012s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 15:28:45,2024-04-02 15:28:47,"2,003s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 15:28:47,2024-04-02 15:28:48,"0,406s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:28:48,2024-04-02 15:28:51,"3,016s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Terminales""))",Chrome 123.0.0.0,inicio WorkFlow Radicaciones,,2024-04-02 15:28:51,2024-04-02 15:28:51,"0,595s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:28:51,2024-04-02 15:28:54,"3,013s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_7WorkFlow - Oficina WorkFlow""))",Chrome 123.0.0.0,,,2024-04-02 15:28:54,2024-04-02 15:28:55,"0,415s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:28:55,2024-04-02 15:28:58,"3,004s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo""))",Chrome 123.0.0.0,,,2024-04-02 15:28:58,2024-04-02 15:28:58,"0,405s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:28:58,2024-04-02 15:29:01,"3,008s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(WorkFlow)/a_Grupo Radicaciones""))",Chrome 123.0.0.0,,,2024-04-02 15:29:01,2024-04-02 15:29:01,"0,452s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:29:01,2024-04-02 15:29:04,"3,011s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), 2)",Chrome 123.0.0.0,,,2024-04-02 15:29:04,2024-04-02 15:29:05,"0,419s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), ""A04"")",Chrome 123.0.0.0,,,2024-04-02 15:29:05,2024-04-02 15:29:06,"0,857s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion""), ""WorkFlow - Terminal - Radicaciones"")",Chrome 123.0.0.0,,,2024-04-02 15:29:06,2024-04-02 15:29:07,"0,900s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""), 2)",Chrome 123.0.0.0,,,2024-04-02 15:29:07,2024-04-02 15:29:07,"0,386s",PASSED
+"clearText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala""))",Chrome 123.0.0.0,Para colocar Direccion en sala 2,,2024-04-02 15:29:07,2024-04-02 15:29:07,"0,444s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala""), ""4"")",Chrome 123.0.0.0,,,2024-04-02 15:29:07,2024-04-02 15:29:08,"0,796s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""))",Chrome 123.0.0.0,,,2024-04-02 15:29:08,2024-04-02 15:29:09,"0,398s",PASSED
+"scrollToPosition(0, 0)",Chrome 123.0.0.0,,,2024-04-02 15:29:09,2024-04-02 15:29:09,"0,020s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 15:29:09,2024-04-02 15:29:11,"2,014s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 15:29:11,2024-04-02 15:29:11,"0,415s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:29:11,2024-04-02 15:29:14,"3,002s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Terminales""))",Chrome 123.0.0.0,inicio WorkFlow Recepciones,,2024-04-02 15:29:14,2024-04-02 15:29:15,"0,605s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:29:15,2024-04-02 15:29:18,"3,006s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_7WorkFlow - Oficina WorkFlow""))",Chrome 123.0.0.0,,,2024-04-02 15:29:18,2024-04-02 15:29:18,"0,485s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:29:18,2024-04-02 15:29:21,"3,014s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo""))",Chrome 123.0.0.0,,,2024-04-02 15:29:21,2024-04-02 15:29:22,"0,441s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:29:22,2024-04-02 15:29:25,"3,012s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(WorkFlow)/a_Grupo Recepciones""))",Chrome 123.0.0.0,,,2024-04-02 15:29:25,2024-04-02 15:29:25,"0,447s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:29:25,2024-04-02 15:29:28,"3,003s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), 2)",Chrome 123.0.0.0,,,2024-04-02 15:29:28,2024-04-02 15:29:29,"0,421s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), ""A05"")",Chrome 123.0.0.0,,,2024-04-02 15:29:29,2024-04-02 15:29:29,"0,800s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion""), ""WorkFlow - Terminal - Recepciones"")",Chrome 123.0.0.0,,,2024-04-02 15:29:29,2024-04-02 15:29:30,"0,816s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""), 2)",Chrome 123.0.0.0,,,2024-04-02 15:29:30,2024-04-02 15:29:31,"0,357s",PASSED
+"clearText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala""))",Chrome 123.0.0.0,Para colocar Direccion en sala 2,,2024-04-02 15:29:31,2024-04-02 15:29:31,"0,419s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala""), ""5"")",Chrome 123.0.0.0,,,2024-04-02 15:29:31,2024-04-02 15:29:32,"0,789s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""))",Chrome 123.0.0.0,,,2024-04-02 15:29:32,2024-04-02 15:29:32,"0,419s",PASSED
+"scrollToPosition(0, 0)",Chrome 123.0.0.0,,,2024-04-02 15:29:32,2024-04-02 15:29:32,"0,029s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 15:29:32,2024-04-02 15:29:34,"2,015s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 15:29:34,2024-04-02 15:29:35,"0,471s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:29:35,2024-04-02 15:29:38,"3,011s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-02 15:29:38,2024-04-02 15:29:38,"0,004s",PASSED

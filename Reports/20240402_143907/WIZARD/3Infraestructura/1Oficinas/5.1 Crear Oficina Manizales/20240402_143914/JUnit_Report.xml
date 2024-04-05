@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="5.1 Crear Oficina Manizales" time="60.231" tests="1" failures="0" errors="0">
+   <testsuite name="5.1 Crear Oficina Manizales" tests="1" failures="0" errors="0" time="60.231" skipped="0" timestamp="2024-04-02 14:44:49" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/WIZARD/3Infraestructura/1Oficinas/5.1 Crear Oficina Manizales">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\1Oficinas\\5.1 Crear Oficina Manizales\\20240402_143914"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\1Oficinas\\5.1 Crear Oficina Manizales\\20240402_143914\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\1Oficinas\\5.1 Crear Oficina Manizales\\20240402_143914\\1712087145811.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.18"/>
+         <property name="sessionId" value="54099490811b17ebc96ee07d10f234fa"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/WIZARD/3Infraestructura/1Oficinas/5.1 Crear Oficina Manizales" time="59.929" classname="Test Cases/WIZARD/3Infraestructura/1Oficinas/5.1 Crear Oficina Manizales" status="PASSED">
+         <system-out><![CDATA[2024-04-02 14:44:49 - [TEST_CASE][PASSED] - Test Cases/WIZARD/3Infraestructura/1Oficinas/5.1 Crear Oficina Manizales: Test Cases/WIZARD/3Infraestructura/1Oficinas/5.1 Crear Oficina Manizales
+
+2024-04-02 14:44:50 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-02 14:44:50 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-04-02 14:44:50 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-02 14:44:51 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-04-02 14:44:51 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-04-02 14:44:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-04-02 14:44:53 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-02 14:44:54 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-04-02 14:44:54 - [MESSAGE][PASSED] - Current window maximized
+
+2024-04-02 14:44:54 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:44:57 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:44:57 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-02 14:44:57 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-02 14:44:57 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-02 14:44:58 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-02 14:44:58 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-02 14:44:59 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-02 14:44:59 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:45:02 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:45:02 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-02 14:45:02 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/0Principal/img_InfraestructuraMAX")): Object: 'Object Repository/WIZARD/0Principal/img_InfraestructuraMAX' is clicked on
+
+2024-04-02 14:45:02 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/0Principal/img_InfraestructuraMAX' is clicked on
+
+2024-04-02 14:45:02 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:45:05 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:45:05 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Oficinas")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Oficinas' is clicked on
+
+2024-04-02 14:45:06 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Oficinas' is clicked on
+
+2024-04-02 14:45:06 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:45:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:45:09 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Pais"), "Colombia", false): All options with label 'Colombia' are selected in object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Pais' 
+
+2024-04-02 14:45:10 - [MESSAGE][PASSED] - All options with label 'Colombia' are selected in object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Pais' 
+
+2024-04-02 14:45:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 14:45:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 14:45:12 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Departamento"), "Caldas", false): All options with label 'Caldas' are selected in object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Departamento' 
+
+2024-04-02 14:45:13 - [MESSAGE][PASSED] - All options with label 'Caldas' are selected in object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Departamento' 
+
+2024-04-02 14:45:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 14:45:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 14:45:15 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Ciudad"), "Manizales", false): All options with label 'Manizales' are selected in object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Ciudad' 
+
+2024-04-02 14:45:16 - [MESSAGE][PASSED] - All options with label 'Manizales' are selected in object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Ciudad' 
+
+2024-04-02 14:45:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 14:45:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 14:45:18 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_Nombre"), "Manizales - Manizales"): Text 'Manizales - Manizales' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_Nombre'
+
+2024-04-02 14:45:19 - [MESSAGE][PASSED] - Text 'Manizales - Manizales' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_Nombre'
+
+2024-04-02 14:45:19 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Nivel de Pregunta"), "Ninguno", false): All options with label 'Ninguno' are selected in object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Nivel de Pregunta' 
+
+2024-04-02 14:45:19 - [MESSAGE][PASSED] - All options with label 'Ninguno' are selected in object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Nivel de Pregunta' 
+
+2024-04-02 14:45:19 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:45:22 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:45:22 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_MaximoTurnosXCliente"), "2"): Text '2' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_MaximoTurnosXCliente'
+
+2024-04-02 14:45:23 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_MaximoTurnosXCliente'
+
+2024-04-02 14:45:23 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_Nivel de servicio de espera"), "0"): Text '0' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_Nivel de servicio de espera'
+
+2024-04-02 14:45:24 - [MESSAGE][PASSED] - Text '0' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_Nivel de servicio de espera'
+
+2024-04-02 14:45:24 - [TEST_STEP][PASSED] - scrollToPosition(100, 800): Browser is scrolled to position x = 100, y = 800
+
+2024-04-02 14:45:24 - [MESSAGE][PASSED] - Browser is scrolled to position x = 100, y = 800
+
+2024-04-02 14:45:24 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:45:27 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:45:27 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Nombre a mostrar"), "Manizales - Manizales"): Text 'Manizales - Manizales' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Nombre a mostrar'
+
+2024-04-02 14:45:28 - [MESSAGE][PASSED] - Text 'Manizales - Manizales' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Nombre a mostrar'
+
+2024-04-02 14:45:28 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Direccion"), "Calle 11 No 24-38"): Text 'Calle 11 No 24-38' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Direccion'
+
+2024-04-02 14:45:29 - [MESSAGE][PASSED] - Text 'Calle 11 No 24-38' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Direccion'
+
+2024-04-02 14:45:29 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Numero de telefono"), "3279000"): Text '3279000' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Numero de telefono'
+
+2024-04-02 14:45:29 - [MESSAGE][PASSED] - Text '3279000' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Numero de telefono'
+
+2024-04-02 14:45:29 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Distancia minima creacion turnos (m)"), "100"): Text '100' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Distancia minima creacion turnos (m)'
+
+2024-04-02 14:45:30 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Distancia minima creacion turnos (m)'
+
+2024-04-02 14:45:30 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Cantidad de turnos para prellamado"), "2"): Text '2' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Cantidad de turnos para prellamado'
+
+2024-04-02 14:45:31 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Cantidad de turnos para prellamado'
+
+2024-04-02 14:45:31 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:45:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:45:34 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Longitud"), "0.0000000000"): Text '0.0000000000' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Longitud'
+
+2024-04-02 14:45:35 - [MESSAGE][PASSED] - Text '0.0000000000' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Longitud'
+
+2024-04-02 14:45:35 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Latitud"), "0.0000000000"): Text '0.0000000000' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Latitud'
+
+2024-04-02 14:45:36 - [MESSAGE][PASSED] - Text '0.0000000000' is set on object 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Latitud'
+
+2024-04-02 14:45:36 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:45:39 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:45:39 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 14:45:39 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 14:45:39 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:45:42 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:45:42 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/img_Nuevo")): Object: 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/img_Nuevo' is clicked on
+
+2024-04-02 14:45:42 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/img_Nuevo' is clicked on
+
+2024-04-02 14:45:42 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:45:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:45:45 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-02 14:45:46 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-02 14:45:46 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\1Oficinas\\5.1 Crear Oficina Manizales\\20240402_143914\\1712087145811.png]]
+
+2024-04-02 14:45:46 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:45:49 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:45:49 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-04-02 14:44:49 - [TEST_SUITE][PASSED] - 5.1 Crear Oficina Manizales: Test Cases/WIZARD/3Infraestructura/1Oficinas/5.1 Crear Oficina Manizales]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

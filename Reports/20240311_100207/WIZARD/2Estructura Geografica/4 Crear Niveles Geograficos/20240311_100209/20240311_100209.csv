@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+4 Crear Niveles Geograficos,Chrome 122.0.0.0,,,2024-03-11 10:02:22,2024-03-11 10:03:09,"46,852s",PASSED
+,,,,,,,
+Test Cases/WIZARD/2Estructura Geografica/4 Crear Niveles Geograficos,Chrome 122.0.0.0,,,2024-03-11 10:02:23,2024-03-11 10:03:09,"46,575s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 122.0.0.0,,,2024-03-11 10:02:23,2024-03-11 10:02:35,"11,957s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_EstructuraGeograficaMAX""))",Chrome 122.0.0.0,,,2024-03-11 10:02:35,2024-03-11 10:02:46,"11,020s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:02:46,2024-03-11 10:02:49,"3,015s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/0Arbol Geografico/span_Niveles geograficos""))",Chrome 122.0.0.0,,,2024-03-11 10:02:49,2024-03-11 10:02:50,"0,610s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:02:50,2024-03-11 10:02:53,"3,018s",PASSED
+"setText(findTestObject(""WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/input_Nombre""), ""Pais"")",Chrome 122.0.0.0,Ingresamos Pais,,2024-03-11 10:02:53,2024-03-11 10:02:53,"0,845s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/btn_Crear""))",Chrome 122.0.0.0,,,2024-03-11 10:02:53,2024-03-11 10:02:54,"0,425s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:02:54,2024-03-11 10:02:57,"3,020s",PASSED
+"setText(findTestObject(""WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/input_Nombre""), ""Departamento"")",Chrome 122.0.0.0,Ingresamos Departamento,,2024-03-11 10:02:57,2024-03-11 10:02:58,"0,866s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/btn_Crear""))",Chrome 122.0.0.0,,,2024-03-11 10:02:58,2024-03-11 10:02:58,"0,437s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:02:58,2024-03-11 10:03:01,"3,014s",PASSED
+"setText(findTestObject(""WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/input_Nombre""), ""Ciudad"")",Chrome 122.0.0.0,Ingresamos Ciudad,,2024-03-11 10:03:01,2024-03-11 10:03:02,"0,734s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/1Niveles Geograficos/Edicion de niveles geograficos/btn_Crear""))",Chrome 122.0.0.0,,,2024-03-11 10:03:02,2024-03-11 10:03:02,"0,421s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:03:02,2024-03-11 10:03:05,"3,009s",PASSED
+takeFullPageScreenshot(),Chrome 122.0.0.0,,,2024-03-11 10:03:05,2024-03-11 10:03:06,"0,833s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:03:06,2024-03-11 10:03:09,"3,010s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 122.0.0.0,,,2024-03-11 10:03:09,2024-03-11 10:03:09,"0,009s",PASSED

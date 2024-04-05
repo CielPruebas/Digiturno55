@@ -1,0 +1,63 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.5 Crear Terminales Cartagena,Chrome 122.0.0.0,,,2024-03-11 10:53:00,2024-03-11 10:54:26,"1m - 25,509s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/5Terminales/5.5 Crear Terminales Cartagena,Chrome 122.0.0.0,,,2024-03-11 10:53:01,2024-03-11 10:54:26,"1m - 25,266s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 122.0.0.0,,,2024-03-11 10:53:01,2024-03-11 10:53:13,"11,881s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 122.0.0.0,,,2024-03-11 10:53:13,2024-03-11 10:53:14,"0,634s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:53:14,2024-03-11 10:53:17,"3,007s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Terminales""))",Chrome 122.0.0.0,inicio Cartagena informacion,,2024-03-11 10:53:17,2024-03-11 10:53:17,"0,597s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:53:17,2024-03-11 10:53:20,"3,007s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_3Cartagena - Bocagrande""))",Chrome 122.0.0.0,,,2024-03-11 10:53:20,2024-03-11 10:53:21,"0,395s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:53:21,2024-03-11 10:53:24,"3,006s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo""))",Chrome 122.0.0.0,,,2024-03-11 10:53:24,2024-03-11 10:53:24,"0,455s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:53:24,2024-03-11 10:53:27,"3,009s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo General""))",Chrome 122.0.0.0,,,2024-03-11 10:53:27,2024-03-11 10:53:27,"0,472s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:53:27,2024-03-11 10:53:30,"3,002s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), 2)",Chrome 122.0.0.0,,,2024-03-11 10:53:30,2024-03-11 10:53:31,"0,450s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), ""A01"")",Chrome 122.0.0.0,,,2024-03-11 10:53:31,2024-03-11 10:53:32,"0,811s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion""), ""Cartagena - Terminal - Informacion"")",Chrome 122.0.0.0,,,2024-03-11 10:53:32,2024-03-11 10:53:33,"0,805s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""), 2)",Chrome 122.0.0.0,,,2024-03-11 10:53:33,2024-03-11 10:53:33,"0,362s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""))",Chrome 122.0.0.0,,,2024-03-11 10:53:33,2024-03-11 10:53:33,"0,419s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 10:53:33,2024-03-11 10:53:33,"0,035s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 10:53:33,2024-03-11 10:53:35,"2,007s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo""))",Chrome 122.0.0.0,,,2024-03-11 10:53:35,2024-03-11 10:53:36,"0,420s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:53:36,2024-03-11 10:53:39,"3,014s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Terminales""))",Chrome 122.0.0.0,inicio Cartagena PQRS,,2024-03-11 10:53:39,2024-03-11 10:53:39,"0,551s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:53:39,2024-03-11 10:53:42,"3,009s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_3Cartagena - Bocagrande""))",Chrome 122.0.0.0,,,2024-03-11 10:53:42,2024-03-11 10:53:43,"0,442s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:53:43,2024-03-11 10:53:46,"3,007s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo""))",Chrome 122.0.0.0,,,2024-03-11 10:53:46,2024-03-11 10:53:46,"0,438s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:53:46,2024-03-11 10:53:49,"3,016s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo PQRS""))",Chrome 122.0.0.0,,,2024-03-11 10:53:49,2024-03-11 10:53:50,"0,414s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:53:50,2024-03-11 10:53:53,"3,008s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), 2)",Chrome 122.0.0.0,,,2024-03-11 10:53:53,2024-03-11 10:53:53,"0,433s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), ""A02"")",Chrome 122.0.0.0,,,2024-03-11 10:53:53,2024-03-11 10:53:54,"0,801s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion""), ""Cartagena - Terminal - PQRS"")",Chrome 122.0.0.0,,,2024-03-11 10:53:54,2024-03-11 10:53:55,"0,873s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""), 2)",Chrome 122.0.0.0,,,2024-03-11 10:53:55,2024-03-11 10:53:55,"0,357s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala""), ""2"")",Chrome 122.0.0.0,,,2024-03-11 10:53:55,2024-03-11 10:53:56,"0,830s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""))",Chrome 122.0.0.0,,,2024-03-11 10:53:56,2024-03-11 10:53:56,"0,415s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 10:53:56,2024-03-11 10:53:56,"0,022s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 10:53:56,2024-03-11 10:53:58,"2,005s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo""))",Chrome 122.0.0.0,,,2024-03-11 10:53:58,2024-03-11 10:53:59,"0,459s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:53:59,2024-03-11 10:54:02,"3,006s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Terminales""))",Chrome 122.0.0.0,inicio Cartagena Radicaciones,,2024-03-11 10:54:02,2024-03-11 10:54:03,"0,590s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:54:03,2024-03-11 10:54:06,"3,020s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_3Cartagena - Bocagrande""))",Chrome 122.0.0.0,,,2024-03-11 10:54:06,2024-03-11 10:54:06,"0,416s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:54:06,2024-03-11 10:54:09,"3,017s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo""))",Chrome 122.0.0.0,,,2024-03-11 10:54:09,2024-03-11 10:54:09,"0,458s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:54:09,2024-03-11 10:54:12,"3,008s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo Radicaciones""))",Chrome 122.0.0.0,,,2024-03-11 10:54:12,2024-03-11 10:54:13,"0,455s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:54:13,2024-03-11 10:54:16,"3,005s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), 2)",Chrome 122.0.0.0,,,2024-03-11 10:54:16,2024-03-11 10:54:16,"0,432s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), ""A03"")",Chrome 122.0.0.0,,,2024-03-11 10:54:16,2024-03-11 10:54:17,"0,778s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion""), ""Cartagena - Terminal - Radicaciones"")",Chrome 122.0.0.0,,,2024-03-11 10:54:17,2024-03-11 10:54:18,"0,829s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""), 2)",Chrome 122.0.0.0,,,2024-03-11 10:54:18,2024-03-11 10:54:18,"0,373s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala""), ""3"")",Chrome 122.0.0.0,,,2024-03-11 10:54:18,2024-03-11 10:54:19,"0,797s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""))",Chrome 122.0.0.0,,,2024-03-11 10:54:19,2024-03-11 10:54:19,"0,404s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 10:54:19,2024-03-11 10:54:20,"0,018s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 10:54:20,2024-03-11 10:54:22,"2,017s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo""))",Chrome 122.0.0.0,,,2024-03-11 10:54:22,2024-03-11 10:54:22,"0,448s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 10:54:22,2024-03-11 10:54:22,"0,033s",PASSED
+takeFullPageScreenshot(),Chrome 122.0.0.0,,,2024-03-11 10:54:22,2024-03-11 10:54:23,"0,959s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:54:23,2024-03-11 10:54:26,"3,012s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 122.0.0.0,,,2024-03-11 10:54:26,2024-03-11 10:54:26,"0,007s",PASSED

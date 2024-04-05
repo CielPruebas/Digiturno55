@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="6 Configuracion Terminales y Selectores" time="260.449" tests="1" failures="0" errors="0">
+   <testsuite name="6 Configuracion Terminales y Selectores" tests="1" failures="0" errors="0" time="260.449" skipped="0" timestamp="2024-01-15 10:51:29" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/WIZARD/4Configuracion Terminales y Selectores/6 Configuracion Terminales y Selectores">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_105120\\WIZARD\\4Configuracion Terminales y Selectores\\6 Configuracion Terminales y Selectores\\20240115_105121"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_105120\\WIZARD\\4Configuracion Terminales y Selectores\\6 Configuracion Terminales y Selectores\\20240115_105121\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_105120\\WIZARD\\4Configuracion Terminales y Selectores\\6 Configuracion Terminales y Selectores\\20240115_105121\\1705333958421.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_105120\\WIZARD\\4Configuracion Terminales y Selectores\\6 Configuracion Terminales y Selectores\\20240115_105121\\1705333989852.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_105120\\WIZARD\\4Configuracion Terminales y Selectores\\6 Configuracion Terminales y Selectores\\20240115_105121\\1705334020999.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_105120\\WIZARD\\4Configuracion Terminales y Selectores\\6 Configuracion Terminales y Selectores\\20240115_105121\\1705334052222.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_105120\\WIZARD\\4Configuracion Terminales y Selectores\\6 Configuracion Terminales y Selectores\\20240115_105121\\1705334083269.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_105120\\WIZARD\\4Configuracion Terminales y Selectores\\6 Configuracion Terminales y Selectores\\20240115_105121\\1705334114547.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_105120\\WIZARD\\4Configuracion Terminales y Selectores\\6 Configuracion Terminales y Selectores\\20240115_105121\\1705334145757.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.9"/>
+         <property name="sessionId" value="ca833f21779001f0f42164224e6fc774"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/WIZARD/4Configuracion Terminales y Selectores/6 Configuracion de Terminales y Selectores" time="260.186" classname="Test Cases/WIZARD/4Configuracion Terminales y Selectores/6 Configuracion de Terminales y Selectores" status="PASSED">
+         <system-out><![CDATA[2024-01-15 10:51:29 - [TEST_CASE][PASSED] - Test Cases/WIZARD/4Configuracion Terminales y Selectores/6 Configuracion de Terminales y Selectores: Test Cases/WIZARD/4Configuracion Terminales y Selectores/6 Configuracion de Terminales y Selectores
+
+2024-01-15 10:51:29 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-01-15 10:51:30 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-01-15 10:51:30 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8610'
+
+2024-01-15 10:51:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-01-15 10:51:30 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-01-15 10:51:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-01-15 10:51:33 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8610'
+
+2024-01-15 10:51:33 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-01-15 10:51:33 - [MESSAGE][PASSED] - Current window maximized
+
+2024-01-15 10:51:33 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:51:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:51:36 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-01-15 10:51:37 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-01-15 10:51:37 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-01-15 10:51:37 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-01-15 10:51:37 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-01-15 10:51:38 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-01-15 10:51:38 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:51:41 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:51:41 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-01-15 10:51:41 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/a_1lnkLogo")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/a_1lnkLogo' is clicked on
+
+2024-01-15 10:51:41 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/a_1lnkLogo' is clicked on
+
+2024-01-15 10:51:41 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:51:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:51:45 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/img_2Configuracion")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_2Configuracion' is clicked on
+
+2024-01-15 10:51:56 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_2Configuracion' is clicked on
+
+2024-01-15 10:51:56 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:51:59 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:51:59 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/img_3Usuarios")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_3Usuarios' is clicked on
+
+2024-01-15 10:52:10 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_3Usuarios' is clicked on
+
+2024-01-15 10:52:10 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:52:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:52:13 - [TEST_STEP][PASSED] - comment("Oficina Bogota"): Oficina Bogota
+
+2024-01-15 10:52:13 - [MESSAGE][INFO] - Oficina Bogota
+
+2024-01-15 10:52:13 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales' is clicked on
+
+2024-01-15 10:52:14 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales' is clicked on
+
+2024-01-15 10:52:14 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:52:17 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:52:17 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td1_Bogota - CIEL")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td1_Bogota - CIEL' is clicked on
+
+2024-01-15 10:52:18 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td1_Bogota - CIEL' is clicked on
+
+2024-01-15 10:52:18 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:52:21 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:52:21 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL' is clicked on
+
+2024-01-15 10:52:21 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL' is clicked on
+
+2024-01-15 10:52:21 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:52:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:52:24 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:52:25 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:52:25 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:52:28 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:52:28 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores' is clicked on
+
+2024-01-15 10:52:28 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores' is clicked on
+
+2024-01-15 10:52:28 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:52:31 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:52:31 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales"), 2): Scroll to object 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales' successfully
+
+2024-01-15 10:52:31 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales' successfully
+
+2024-01-15 10:52:31 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:52:32 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:52:32 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:52:35 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:52:35 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()", []): Execute JavaScript 'return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()' successfully
+
+2024-01-15 10:52:35 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()' successfully
+
+2024-01-15 10:52:35 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:52:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:52:38 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-01-15 10:52:39 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-01-15 10:52:39 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_105120\\WIZARD\\4Configuracion Terminales y Selectores\\6 Configuracion Terminales y Selectores\\20240115_105121\\1705333958421.png]]
+
+2024-01-15 10:52:39 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:52:42 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:52:42 - [TEST_STEP][PASSED] - back(): Navigate back successfully
+
+2024-01-15 10:52:42 - [MESSAGE][PASSED] - Navigate back successfully
+
+2024-01-15 10:52:42 - [TEST_STEP][PASSED] - comment("Oficina Cali"): Oficina Cali
+
+2024-01-15 10:52:42 - [MESSAGE][INFO] - Oficina Cali
+
+2024-01-15 10:52:42 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:52:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:52:45 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales' is clicked on
+
+2024-01-15 10:52:46 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales' is clicked on
+
+2024-01-15 10:52:46 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:52:49 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:52:49 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td2_Cali - Chipichape")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td2_Cali - Chipichape' is clicked on
+
+2024-01-15 10:52:49 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td2_Cali - Chipichape' is clicked on
+
+2024-01-15 10:52:49 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:52:52 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:52:52 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL' is clicked on
+
+2024-01-15 10:52:53 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL' is clicked on
+
+2024-01-15 10:52:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:52:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:52:56 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:52:56 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:52:56 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:52:59 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:52:59 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores' is clicked on
+
+2024-01-15 10:52:59 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores' is clicked on
+
+2024-01-15 10:52:59 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:02 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:02 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales"), 2): Scroll to object 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales' successfully
+
+2024-01-15 10:53:03 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales' successfully
+
+2024-01-15 10:53:03 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:53:03 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:53:03 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:06 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:06 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()", []): Execute JavaScript 'return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()' successfully
+
+2024-01-15 10:53:06 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()' successfully
+
+2024-01-15 10:53:06 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:09 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-01-15 10:53:10 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-01-15 10:53:10 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_105120\\WIZARD\\4Configuracion Terminales y Selectores\\6 Configuracion Terminales y Selectores\\20240115_105121\\1705333989852.png]]
+
+2024-01-15 10:53:10 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:13 - [TEST_STEP][PASSED] - back(): Navigate back successfully
+
+2024-01-15 10:53:13 - [MESSAGE][PASSED] - Navigate back successfully
+
+2024-01-15 10:53:13 - [TEST_STEP][PASSED] - comment("Oficina Cartagena"): Oficina Cartagena
+
+2024-01-15 10:53:13 - [MESSAGE][INFO] - Oficina Cartagena
+
+2024-01-15 10:53:13 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:16 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:16 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales' is clicked on
+
+2024-01-15 10:53:17 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales' is clicked on
+
+2024-01-15 10:53:17 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:20 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:20 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td3_Cartagena - Bocagrande")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td3_Cartagena - Bocagrande' is clicked on
+
+2024-01-15 10:53:20 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td3_Cartagena - Bocagrande' is clicked on
+
+2024-01-15 10:53:20 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:23 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:23 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL' is clicked on
+
+2024-01-15 10:53:24 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL' is clicked on
+
+2024-01-15 10:53:24 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:27 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:27 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:53:27 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:53:27 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:30 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:30 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores' is clicked on
+
+2024-01-15 10:53:31 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores' is clicked on
+
+2024-01-15 10:53:31 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:34 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales"), 2): Scroll to object 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales' successfully
+
+2024-01-15 10:53:34 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales' successfully
+
+2024-01-15 10:53:34 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:53:34 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:53:34 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:37 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:37 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()", []): Execute JavaScript 'return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()' successfully
+
+2024-01-15 10:53:37 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()' successfully
+
+2024-01-15 10:53:37 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:40 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-01-15 10:53:41 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-01-15 10:53:41 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_105120\\WIZARD\\4Configuracion Terminales y Selectores\\6 Configuracion Terminales y Selectores\\20240115_105121\\1705334020999.png]]
+
+2024-01-15 10:53:41 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:44 - [TEST_STEP][PASSED] - back(): Navigate back successfully
+
+2024-01-15 10:53:44 - [MESSAGE][PASSED] - Navigate back successfully
+
+2024-01-15 10:53:44 - [TEST_STEP][PASSED] - comment("Oficina Manizales"): Oficina Manizales
+
+2024-01-15 10:53:44 - [MESSAGE][INFO] - Oficina Manizales
+
+2024-01-15 10:53:44 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:47 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:47 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales' is clicked on
+
+2024-01-15 10:53:48 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales' is clicked on
+
+2024-01-15 10:53:48 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:51 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:51 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td4_Manizales - Manizales")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td4_Manizales - Manizales' is clicked on
+
+2024-01-15 10:53:51 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td4_Manizales - Manizales' is clicked on
+
+2024-01-15 10:53:51 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:54 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:54 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL' is clicked on
+
+2024-01-15 10:53:55 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL' is clicked on
+
+2024-01-15 10:53:55 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:53:58 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:53:58 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:53:58 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:53:58 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:01 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:01 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores' is clicked on
+
+2024-01-15 10:54:02 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores' is clicked on
+
+2024-01-15 10:54:02 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:05 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:05 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales"), 2): Scroll to object 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales' successfully
+
+2024-01-15 10:54:05 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales' successfully
+
+2024-01-15 10:54:05 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:54:06 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:54:06 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:09 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()", []): Execute JavaScript 'return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()' successfully
+
+2024-01-15 10:54:09 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()' successfully
+
+2024-01-15 10:54:09 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:12 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:12 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-01-15 10:54:12 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-01-15 10:54:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_105120\\WIZARD\\4Configuracion Terminales y Selectores\\6 Configuracion Terminales y Selectores\\20240115_105121\\1705334052222.png]]
+
+2024-01-15 10:54:12 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:15 - [TEST_STEP][PASSED] - back(): Navigate back successfully
+
+2024-01-15 10:54:16 - [MESSAGE][PASSED] - Navigate back successfully
+
+2024-01-15 10:54:16 - [TEST_STEP][PASSED] - comment("Oficina Medellin"): Oficina Medellin
+
+2024-01-15 10:54:16 - [MESSAGE][INFO] - Oficina Medellin
+
+2024-01-15 10:54:16 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:19 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:19 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales' is clicked on
+
+2024-01-15 10:54:19 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales' is clicked on
+
+2024-01-15 10:54:19 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:22 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:22 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td5_Medellin - Laureles")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td5_Medellin - Laureles' is clicked on
+
+2024-01-15 10:54:23 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td5_Medellin - Laureles' is clicked on
+
+2024-01-15 10:54:23 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:26 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:26 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL' is clicked on
+
+2024-01-15 10:54:26 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL' is clicked on
+
+2024-01-15 10:54:26 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:29 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:54:30 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:54:30 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:33 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:33 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores' is clicked on
+
+2024-01-15 10:54:33 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores' is clicked on
+
+2024-01-15 10:54:33 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:36 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales"), 2): Scroll to object 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales' successfully
+
+2024-01-15 10:54:36 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales' successfully
+
+2024-01-15 10:54:36 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:54:37 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:54:37 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:40 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()", []): Execute JavaScript 'return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()' successfully
+
+2024-01-15 10:54:40 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()' successfully
+
+2024-01-15 10:54:40 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:43 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:43 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-01-15 10:54:43 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-01-15 10:54:44 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_105120\\WIZARD\\4Configuracion Terminales y Selectores\\6 Configuracion Terminales y Selectores\\20240115_105121\\1705334083269.png]]
+
+2024-01-15 10:54:44 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:47 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:47 - [TEST_STEP][PASSED] - back(): Navigate back successfully
+
+2024-01-15 10:54:47 - [MESSAGE][PASSED] - Navigate back successfully
+
+2024-01-15 10:54:47 - [TEST_STEP][PASSED] - comment("Oficina Virtual"): Oficina Virtual
+
+2024-01-15 10:54:47 - [MESSAGE][INFO] - Oficina Virtual
+
+2024-01-15 10:54:47 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:50 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:50 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales' is clicked on
+
+2024-01-15 10:54:50 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales' is clicked on
+
+2024-01-15 10:54:50 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:53 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:53 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td6_Virtual - Oficina Virtual")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td6_Virtual - Oficina Virtual' is clicked on
+
+2024-01-15 10:54:54 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td6_Virtual - Oficina Virtual' is clicked on
+
+2024-01-15 10:54:54 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:54:57 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:54:57 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL' is clicked on
+
+2024-01-15 10:54:57 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL' is clicked on
+
+2024-01-15 10:54:57 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:55:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:55:00 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:55:01 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:55:01 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:55:04 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:55:04 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores' is clicked on
+
+2024-01-15 10:55:04 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores' is clicked on
+
+2024-01-15 10:55:04 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:55:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:55:07 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales"), 2): Scroll to object 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales' successfully
+
+2024-01-15 10:55:08 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales' successfully
+
+2024-01-15 10:55:08 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:55:08 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:55:08 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:55:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:55:11 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()", []): Execute JavaScript 'return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()' successfully
+
+2024-01-15 10:55:11 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()' successfully
+
+2024-01-15 10:55:11 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:55:14 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:55:14 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-01-15 10:55:15 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-01-15 10:55:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_105120\\WIZARD\\4Configuracion Terminales y Selectores\\6 Configuracion Terminales y Selectores\\20240115_105121\\1705334114547.png]]
+
+2024-01-15 10:55:15 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:55:18 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:55:18 - [TEST_STEP][PASSED] - back(): Navigate back successfully
+
+2024-01-15 10:55:18 - [MESSAGE][PASSED] - Navigate back successfully
+
+2024-01-15 10:55:18 - [TEST_STEP][PASSED] - comment("Oficina WorkFlow"): Oficina WorkFlow
+
+2024-01-15 10:55:18 - [MESSAGE][INFO] - Oficina WorkFlow
+
+2024-01-15 10:55:18 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:55:21 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:55:21 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales' is clicked on
+
+2024-01-15 10:55:22 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales' is clicked on
+
+2024-01-15 10:55:22 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:55:25 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:55:25 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td7_WorkFlow - Oficina WorkFlow")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td7_WorkFlow - Oficina WorkFlow' is clicked on
+
+2024-01-15 10:55:25 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td7_WorkFlow - Oficina WorkFlow' is clicked on
+
+2024-01-15 10:55:25 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:55:28 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:55:28 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL' is clicked on
+
+2024-01-15 10:55:28 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL' is clicked on
+
+2024-01-15 10:55:28 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:55:32 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:55:32 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:55:32 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:55:32 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:55:35 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:55:35 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores' is clicked on
+
+2024-01-15 10:55:35 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/img_Agregar selectores' is clicked on
+
+2024-01-15 10:55:35 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:55:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:55:38 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales"), 2): Scroll to object 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales' successfully
+
+2024-01-15 10:55:39 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/img_AgregarTerminales' successfully
+
+2024-01-15 10:55:39 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:55:39 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Terminales Disponibles/a_SeleccionarTodo' is clicked on
+
+2024-01-15 10:55:39 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:55:42 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:55:42 - [TEST_STEP][PASSED] - executeJavaScript("return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()", []): Execute JavaScript 'return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()' successfully
+
+2024-01-15 10:55:42 - [MESSAGE][PASSED] - Execute JavaScript 'return document.getElementById('cPHPri_menuEdicionAgregarTerminales_imgActualizar').click()' successfully
+
+2024-01-15 10:55:42 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:55:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:55:45 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-01-15 10:55:46 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-01-15 10:55:46 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240115_105120\\WIZARD\\4Configuracion Terminales y Selectores\\6 Configuracion Terminales y Selectores\\20240115_105121\\1705334145757.png]]
+
+2024-01-15 10:55:46 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-15 10:55:49 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-15 10:55:49 - [TEST_STEP][PASSED] - back(): Navigate back successfully
+
+2024-01-15 10:55:49 - [MESSAGE][PASSED] - Navigate back successfully
+
+2024-01-15 10:55:49 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-01-15 10:51:29 - [TEST_SUITE][PASSED] - 6 Configuracion Terminales y Selectores: Test Cases/WIZARD/4Configuracion Terminales y Selectores/6 Configuracion de Terminales y Selectores]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

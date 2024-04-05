@@ -1,0 +1,114 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.6 Crear Tableros,Chrome 122.0.0.0,,,2024-03-11 11:02:05,2024-03-11 11:04:56,"2m - 51,083s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/6Tableros/5.6 Crear Tableros,Chrome 122.0.0.0,,,2024-03-11 11:02:05,2024-03-11 11:04:56,"2m - 50,853s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 122.0.0.0,,,2024-03-11 11:02:05,2024-03-11 11:02:17,"12,021s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 122.0.0.0,,,2024-03-11 11:02:17,2024-03-11 11:02:18,"0,676s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:02:18,2024-03-11 11:02:21,"3,012s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Tableros""))",Chrome 122.0.0.0,Inicio Proceso Bogota,,2024-03-11 11:02:21,2024-03-11 11:02:22,"1,208s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:02:22,2024-03-11 11:02:25,"3,005s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/0OficinaModal/a_x(Cerrar)""))",Chrome 122.0.0.0,Inicio Creacion Tablero Bogota,,2024-03-11 11:02:25,2024-03-11 11:02:26,"0,466s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:02:26,2024-03-11 11:02:29,"3,012s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/btn_SeleccionarOficina""))",Chrome 122.0.0.0,Inicio Creacion Tablero Bogota,,2024-03-11 11:02:29,2024-03-11 11:02:29,"0,483s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:02:29,2024-03-11 11:02:32,"3,018s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/btn_Seleccionar Oficina(1)/td_1Bogota - CIEL""))",Chrome 122.0.0.0,Inicio Creacion Tablero Bogota,,2024-03-11 11:02:32,2024-03-11 11:02:33,"0,448s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:02:33,2024-03-11 11:02:36,"3,015s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/input_Nombre""), ""Bogota - Tablero - 1 "")",Chrome 122.0.0.0,,,2024-03-11 11:02:36,2024-03-11 11:02:36,"0,832s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/textarea_Descripcion""), ""Bogota - Tablero - 1"")",Chrome 122.0.0.0,,,2024-03-11 11:02:36,2024-03-11 11:02:37,"0,841s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 11:02:37,2024-03-11 11:02:37,"0,042s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 11:02:37,2024-03-11 11:02:39,"2,011s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/img_Nuevo""))",Chrome 122.0.0.0,,,2024-03-11 11:02:39,2024-03-11 11:02:40,"0,485s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:02:40,2024-03-11 11:02:43,"3,017s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Tableros""))",Chrome 122.0.0.0,Inicio Proceso Cali,,2024-03-11 11:02:43,2024-03-11 11:02:43,"0,571s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:02:43,2024-03-11 11:02:46,"3,012s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/0OficinaModal/a_x(Cerrar)""))",Chrome 122.0.0.0,,,2024-03-11 11:02:46,2024-03-11 11:02:47,"0,931s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:02:47,2024-03-11 11:02:50,"3,010s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/btn_SeleccionarOficina""))",Chrome 122.0.0.0,,,2024-03-11 11:02:50,2024-03-11 11:02:51,"0,459s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:02:51,2024-03-11 11:02:54,"3,015s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/btn_Seleccionar Oficina(1)/td_2Cali - Chipichape""))",Chrome 122.0.0.0,,,2024-03-11 11:02:54,2024-03-11 11:02:54,"0,460s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:02:54,2024-03-11 11:02:57,"3,015s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/input_Nombre""), 2)",Chrome 122.0.0.0,,,2024-03-11 11:02:57,2024-03-11 11:02:58,"0,433s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/input_Nombre""), ""Cali - Tablero - 1 "")",Chrome 122.0.0.0,,,2024-03-11 11:02:58,2024-03-11 11:02:59,"0,837s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/textarea_Descripcion""), ""Cali - Tablero - 1"")",Chrome 122.0.0.0,,,2024-03-11 11:02:59,2024-03-11 11:02:59,"0,804s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 11:02:59,2024-03-11 11:02:59,"0,018s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 11:02:59,2024-03-11 11:03:01,"2,011s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/img_Nuevo""))",Chrome 122.0.0.0,,,2024-03-11 11:03:01,2024-03-11 11:03:02,"0,420s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:03:02,2024-03-11 11:03:05,"3,017s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Tableros""))",Chrome 122.0.0.0,Inicio Proceso Cartagena,,2024-03-11 11:03:05,2024-03-11 11:03:06,"0,597s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:03:06,2024-03-11 11:03:09,"3,019s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/0OficinaModal/a_x(Cerrar)""))",Chrome 122.0.0.0,,,2024-03-11 11:03:09,2024-03-11 11:03:09,"0,398s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:03:09,2024-03-11 11:03:12,"3,005s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/btn_SeleccionarOficina""))",Chrome 122.0.0.0,,,2024-03-11 11:03:12,2024-03-11 11:03:12,"0,427s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:03:12,2024-03-11 11:03:15,"3,009s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/btn_Seleccionar Oficina(1)/td_3Cartagena - Bocagrande""))",Chrome 122.0.0.0,,,2024-03-11 11:03:15,2024-03-11 11:03:16,"0,456s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:03:16,2024-03-11 11:03:19,"3,006s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/input_Nombre""), 2)",Chrome 122.0.0.0,,,2024-03-11 11:03:19,2024-03-11 11:03:19,"0,416s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/input_Nombre""), ""Cartagena - Tablero - 1 "")",Chrome 122.0.0.0,,,2024-03-11 11:03:19,2024-03-11 11:03:20,"0,866s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/textarea_Descripcion""), ""Cartagena - Tablero - 1"")",Chrome 122.0.0.0,,,2024-03-11 11:03:20,2024-03-11 11:03:21,"0,795s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 11:03:21,2024-03-11 11:03:21,"0,012s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 11:03:21,2024-03-11 11:03:23,"2,008s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/img_Nuevo""))",Chrome 122.0.0.0,,,2024-03-11 11:03:23,2024-03-11 11:03:23,"0,411s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:03:23,2024-03-11 11:03:26,"3,017s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Tableros""))",Chrome 122.0.0.0,Inicio Proceso Manizales,,2024-03-11 11:03:26,2024-03-11 11:03:27,"0,549s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:03:27,2024-03-11 11:03:30,"3,019s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/0OficinaModal/a_x(Cerrar)""))",Chrome 122.0.0.0,,,2024-03-11 11:03:30,2024-03-11 11:03:30,"0,402s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:03:30,2024-03-11 11:03:33,"3,008s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/btn_SeleccionarOficina""))",Chrome 122.0.0.0,,,2024-03-11 11:03:33,2024-03-11 11:03:34,"0,458s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:03:34,2024-03-11 11:03:37,"3,012s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/btn_Seleccionar Oficina(1)/td_4Manizales - Manizales""))",Chrome 122.0.0.0,,,2024-03-11 11:03:37,2024-03-11 11:03:37,"0,422s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:03:37,2024-03-11 11:03:40,"3,017s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/input_Nombre""), 2)",Chrome 122.0.0.0,,,2024-03-11 11:03:40,2024-03-11 11:03:41,"0,390s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/input_Nombre""), ""Manizales - Tablero - 1 "")",Chrome 122.0.0.0,,,2024-03-11 11:03:41,2024-03-11 11:03:41,"0,813s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/textarea_Descripcion""), ""Manizales - Tablero - 1"")",Chrome 122.0.0.0,,,2024-03-11 11:03:41,2024-03-11 11:03:42,"0,847s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 11:03:42,2024-03-11 11:03:42,"0,015s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 11:03:42,2024-03-11 11:03:44,"2,013s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/img_Nuevo""))",Chrome 122.0.0.0,,,2024-03-11 11:03:44,2024-03-11 11:03:45,"0,442s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:03:45,2024-03-11 11:03:48,"3,008s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Tableros""))",Chrome 122.0.0.0,Inicio Proceso Medellin,,2024-03-11 11:03:48,2024-03-11 11:03:48,"0,555s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:03:48,2024-03-11 11:03:51,"3,015s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/0OficinaModal/a_x(Cerrar)""))",Chrome 122.0.0.0,,,2024-03-11 11:03:51,2024-03-11 11:03:52,"0,429s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:03:52,2024-03-11 11:03:55,"3,011s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/btn_SeleccionarOficina""))",Chrome 122.0.0.0,,,2024-03-11 11:03:55,2024-03-11 11:03:55,"0,432s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:03:55,2024-03-11 11:03:58,"3,011s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/btn_Seleccionar Oficina(1)/td_5Medellin - Laureles""))",Chrome 122.0.0.0,,,2024-03-11 11:03:58,2024-03-11 11:03:59,"0,465s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:03:59,2024-03-11 11:04:02,"3,011s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/input_Nombre""), 2)",Chrome 122.0.0.0,,,2024-03-11 11:04:02,2024-03-11 11:04:02,"0,402s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/input_Nombre""), ""Medellin - Tablero - 1 "")",Chrome 122.0.0.0,,,2024-03-11 11:04:02,2024-03-11 11:04:03,"0,783s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/textarea_Descripcion""), ""Medellin - Tablero - 1"")",Chrome 122.0.0.0,,,2024-03-11 11:04:03,2024-03-11 11:04:04,"0,757s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 11:04:04,2024-03-11 11:04:04,"0,015s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 11:04:04,2024-03-11 11:04:06,"2,011s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/img_Nuevo""))",Chrome 122.0.0.0,,,2024-03-11 11:04:06,2024-03-11 11:04:06,"0,436s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:04:06,2024-03-11 11:04:09,"3,011s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Tableros""))",Chrome 122.0.0.0,Inicio Proceso Virtual,,2024-03-11 11:04:09,2024-03-11 11:04:10,"0,584s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:04:10,2024-03-11 11:04:13,"3,010s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/0OficinaModal/a_x(Cerrar)""))",Chrome 122.0.0.0,,,2024-03-11 11:04:13,2024-03-11 11:04:13,"0,436s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:04:13,2024-03-11 11:04:16,"3,016s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/btn_SeleccionarOficina""))",Chrome 122.0.0.0,,,2024-03-11 11:04:16,2024-03-11 11:04:17,"0,406s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:04:17,2024-03-11 11:04:20,"3,017s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/btn_Seleccionar Oficina(1)/td_6Virtual - Oficina Virtual""))",Chrome 122.0.0.0,,,2024-03-11 11:04:20,2024-03-11 11:04:20,"0,386s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:04:20,2024-03-11 11:04:23,"3,001s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/input_Nombre""), 2)",Chrome 122.0.0.0,,,2024-03-11 11:04:23,2024-03-11 11:04:23,"0,390s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/input_Nombre""), ""Virtual - Tablero - 1 "")",Chrome 122.0.0.0,,,2024-03-11 11:04:23,2024-03-11 11:04:24,"0,743s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/textarea_Descripcion""), ""Virtual - Tablero - 1"")",Chrome 122.0.0.0,,,2024-03-11 11:04:24,2024-03-11 11:04:25,"0,777s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 11:04:25,2024-03-11 11:04:25,"0,024s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 11:04:25,2024-03-11 11:04:27,"2,016s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/img_Nuevo""))",Chrome 122.0.0.0,,,2024-03-11 11:04:27,2024-03-11 11:04:27,"0,446s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:04:27,2024-03-11 11:04:30,"3,011s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Tableros""))",Chrome 122.0.0.0,Inicio Proceso WorkFlow,,2024-03-11 11:04:30,2024-03-11 11:04:31,"0,598s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:04:31,2024-03-11 11:04:34,"3,012s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/0OficinaModal/a_x(Cerrar)""))",Chrome 122.0.0.0,,,2024-03-11 11:04:34,2024-03-11 11:04:34,"0,414s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:04:34,2024-03-11 11:04:37,"3,011s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/btn_SeleccionarOficina""))",Chrome 122.0.0.0,,,2024-03-11 11:04:37,2024-03-11 11:04:38,"0,457s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:04:38,2024-03-11 11:04:41,"3,013s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/btn_Seleccionar Oficina(1)/td_7WorkFlow - Oficina WorkFlow""))",Chrome 122.0.0.0,,,2024-03-11 11:04:41,2024-03-11 11:04:41,"0,443s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:04:41,2024-03-11 11:04:44,"3,010s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/input_Nombre""), 2)",Chrome 122.0.0.0,,,2024-03-11 11:04:44,2024-03-11 11:04:45,"0,418s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/input_Nombre""), ""WorkFlow - Tablero - 1 "")",Chrome 122.0.0.0,,,2024-03-11 11:04:45,2024-03-11 11:04:46,"0,782s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/textarea_Descripcion""), ""WorkFlow - Tablero - 1"")",Chrome 122.0.0.0,,,2024-03-11 11:04:46,2024-03-11 11:04:46,"0,779s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 11:04:46,2024-03-11 11:04:46,"0,016s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 11:04:46,2024-03-11 11:04:48,"2,018s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/6Tableros/Configuracion/Edicion/img_Nuevo""))",Chrome 122.0.0.0,,,2024-03-11 11:04:48,2024-03-11 11:04:49,"0,420s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:04:49,2024-03-11 11:04:52,"3,016s",PASSED
+takeFullPageScreenshot(),Chrome 122.0.0.0,,,2024-03-11 11:04:52,2024-03-11 11:04:53,"0,957s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:04:53,2024-03-11 11:04:56,"3,005s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 122.0.0.0,,,2024-03-11 11:04:56,2024-03-11 11:04:56,"0,007s",PASSED

@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+4.1 Crear Elemento Geografico Pais,Chrome 123.0.0.0,,,2024-04-02 14:34:35,2024-04-02 14:35:06,"31,358s",PASSED
+,,,,,,,
+Test Cases/WIZARD/2Estructura Geografica/4.1 Crear Elemento Geografico Pais,Chrome 123.0.0.0,,,2024-04-02 14:34:35,2024-04-02 14:35:06,"31,117s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-02 14:34:35,2024-04-02 14:34:47,"12,113s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_EstructuraGeograficaMAX""))",Chrome 123.0.0.0,,,2024-04-02 14:34:47,2024-04-02 14:34:48,"0,529s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:34:48,2024-04-02 14:34:51,"3,011s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/0Arbol Geografico/span_Elementos geograficos""))",Chrome 123.0.0.0,,,2024-04-02 14:34:51,2024-04-02 14:34:51,"0,625s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:34:51,2024-04-02 14:34:54,"3,004s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Niveles Geograficos/option_Pais""))",Chrome 123.0.0.0,,,2024-04-02 14:34:54,2024-04-02 14:34:55,"0,399s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:34:55,2024-04-02 14:34:58,"3,024s",PASSED
+"setText(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Edicion Elemento Geografico/input_Nombre elemento""), ""Colombia"")",Chrome 123.0.0.0,Ingresamos Colombia,,2024-04-02 14:34:58,2024-04-02 14:34:59,"0,802s",PASSED
+"click(findTestObject(""WIZARD/2Estructura Geografica/2Elementos Geograficos/Edicion Elemento Geografico/btn_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 14:34:59,2024-04-02 14:34:59,"0,426s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:34:59,2024-04-02 14:35:02,"3,008s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-02 14:35:02,2024-04-02 14:35:03,"0,874s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:35:03,2024-04-02 14:35:06,"3,001s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-02 14:35:06,2024-04-02 14:35:06,"0,000s",PASSED

@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+3.2 Agregar al arbol Tipo Cliente,Chrome 123.0.0.0,,,2024-04-02 14:06:14,2024-04-02 14:06:53,"38,014s",PASSED
+,,,,,,,
+Test Cases/WIZARD/1Modelo De Negocio/3.2 Agregar al arbol Tipo Cliente,Chrome 123.0.0.0,,,2024-04-02 14:06:15,2024-04-02 14:06:53,"37,759s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-02 14:06:15,2024-04-02 14:06:27,"11,996s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_ModeloDeNegocioMAX""))",Chrome 123.0.0.0,,,2024-04-02 14:06:27,2024-04-02 14:06:28,"0,535s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:06:28,2024-04-02 14:06:31,"3,008s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda""), ""Area"")",Chrome 123.0.0.0,Buscamos el área principal creada,,2024-04-02 14:06:31,2024-04-02 14:06:31,"0,821s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:06:31,2024-04-02 14:06:34,"3,012s",PASSED
+"rightClick(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/0AreaGeneral/span_1 Area General""))",Chrome 123.0.0.0,,,2024-04-02 14:06:34,2024-04-02 14:06:35,"0,590s",PASSED
+"mouseOver(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/0AreaGeneral/span_Elemento""))",Chrome 123.0.0.0,,,2024-04-02 14:06:35,2024-04-02 14:06:36,"0,804s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 14:06:36,2024-04-02 14:06:38,"2,006s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/0AreaGeneral/span_elemento (1)/span_Agregar Elementos""))",Chrome 123.0.0.0,,,2024-04-02 14:06:38,2024-04-02 14:06:38,"0,491s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:06:38,2024-04-02 14:06:41,"3,011s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/0AreaGeneral/span_elemento (1)/span_Agregar Elementos (1)/label_General (G)""))",Chrome 123.0.0.0,,,2024-04-02 14:06:41,2024-04-02 14:06:42,"0,415s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/0AreaGeneral/span_elemento (1)/span_Agregar Elementos (1)/label_Preferencial (P)""))",Chrome 123.0.0.0,,,2024-04-02 14:06:42,2024-04-02 14:06:42,"0,420s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:06:42,2024-04-02 14:06:45,"3,007s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/0AreaGeneral/span_elemento (1)/span_Agregar Elementos (1)/btn_Agregar""))",Chrome 123.0.0.0,,,2024-04-02 14:06:45,2024-04-02 14:06:46,"0,445s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:06:46,2024-04-02 14:06:49,"3,004s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-02 14:06:49,2024-04-02 14:06:49,"0,844s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 14:06:49,2024-04-02 14:06:52,"3,001s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-02 14:06:53,2024-04-02 14:06:53,"0,000s",PASSED

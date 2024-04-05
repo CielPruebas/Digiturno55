@@ -1,0 +1,38 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.1 Crear Oficina Manizales,Chrome 120.0.0.0,,,2024-01-15 09:47:24,2024-01-15 09:48:24,"59,460s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/1Oficinas/5.1 Crear Oficina Manizales,Chrome 120.0.0.0,,,2024-01-15 09:47:25,2024-01-15 09:48:24,"59,219s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2024-01-15 09:47:25,2024-01-15 09:47:36,"11,325s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 120.0.0.0,,,2024-01-15 09:47:36,2024-01-15 09:47:37,"0,889s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:47:37,2024-01-15 09:47:40,"3,004s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Oficinas""))",Chrome 120.0.0.0,,,2024-01-15 09:47:40,2024-01-15 09:47:41,"0,865s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:47:41,2024-01-15 09:47:44,"3,017s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Pais""), ""Colombia"", false)",Chrome 120.0.0.0,,,2024-01-15 09:47:44,2024-01-15 09:47:45,"0,770s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 09:47:45,2024-01-15 09:47:47,"2,016s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Departamento""), ""Caldas"", false)",Chrome 120.0.0.0,,,2024-01-15 09:47:47,2024-01-15 09:47:48,"0,729s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 09:47:48,2024-01-15 09:47:50,"2,009s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Ciudad""), ""Manizales"", false)",Chrome 120.0.0.0,,,2024-01-15 09:47:50,2024-01-15 09:47:50,"0,729s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 09:47:50,2024-01-15 09:47:52,"2,014s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_Nombre""), ""Manizales - Manizales"")",Chrome 120.0.0.0,Oficina Manizales - Manizales,,2024-01-15 09:47:52,2024-01-15 09:47:53,"0,871s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Nivel de Pregunta""), ""Ninguno"", false)",Chrome 120.0.0.0,,,2024-01-15 09:47:53,2024-01-15 09:47:54,"0,747s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:47:54,2024-01-15 09:47:57,"3,011s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_MaximoTurnosXCliente""), ""2"")",Chrome 120.0.0.0,,,2024-01-15 09:47:57,2024-01-15 09:47:58,"0,818s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_Nivel de servicio de espera""), ""0"")",Chrome 120.0.0.0,,,2024-01-15 09:47:58,2024-01-15 09:47:59,"0,816s",PASSED
+"scrollToPosition(100, 800)",Chrome 120.0.0.0,,,2024-01-15 09:47:59,2024-01-15 09:47:59,"0,042s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:47:59,2024-01-15 09:48:02,"3,005s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Nombre a mostrar""), ""Manizales - Manizales"")",Chrome 120.0.0.0,,,2024-01-15 09:48:02,2024-01-15 09:48:02,"0,811s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Direccion""), ""Calle 11 No 24-38"")",Chrome 120.0.0.0,,,2024-01-15 09:48:02,2024-01-15 09:48:03,"0,849s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Numero de telefono""), ""3279000"")",Chrome 120.0.0.0,,,2024-01-15 09:48:03,2024-01-15 09:48:04,"0,825s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Distancia minima creacion turnos (m)""), ""100"")",Chrome 120.0.0.0,,,2024-01-15 09:48:04,2024-01-15 09:48:05,"0,853s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Cantidad de turnos para prellamado""), ""2"")",Chrome 120.0.0.0,,,2024-01-15 09:48:05,2024-01-15 09:48:06,"0,784s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:48:06,2024-01-15 09:48:09,"3,009s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Longitud""), ""0.0000000000"")",Chrome 120.0.0.0,,,2024-01-15 09:48:09,2024-01-15 09:48:09,"0,790s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Latitud""), ""0.0000000000"")",Chrome 120.0.0.0,,,2024-01-15 09:48:09,2024-01-15 09:48:10,"0,846s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:48:10,2024-01-15 09:48:13,"3,011s",PASSED
+"scrollToPosition(0, 0)",Chrome 120.0.0.0,,,2024-01-15 09:48:13,2024-01-15 09:48:13,"0,033s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:48:13,2024-01-15 09:48:16,"3,008s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/img_Nuevo""))",Chrome 120.0.0.0,,,2024-01-15 09:48:16,2024-01-15 09:48:17,"0,473s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:48:17,2024-01-15 09:48:20,"3,016s",PASSED
+takeFullPageScreenshot(),Chrome 120.0.0.0,,,2024-01-15 09:48:20,2024-01-15 09:48:21,"0,901s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:48:21,2024-01-15 09:48:24,"3,013s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,2024-01-15 09:48:24,2024-01-15 09:48:24,"0,000s",PASSED

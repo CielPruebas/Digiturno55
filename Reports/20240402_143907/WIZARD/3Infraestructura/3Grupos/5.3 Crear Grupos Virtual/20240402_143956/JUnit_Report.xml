@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="5.3 Crear Grupos Virtual" time="84.055" tests="1" failures="0" errors="0">
+   <testsuite name="5.3 Crear Grupos Virtual" tests="1" failures="0" errors="0" time="84.055" skipped="0" timestamp="2024-04-02 15:09:00" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/WIZARD/3Infraestructura/3Grupos/5.3 Crear Grupos Virtual">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\3Grupos\\5.3 Crear Grupos Virtual\\20240402_143956"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\3Grupos\\5.3 Crear Grupos Virtual\\20240402_143956\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\3Grupos\\5.3 Crear Grupos Virtual\\20240402_143956\\1712088620444.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.18"/>
+         <property name="sessionId" value="cffafbc74f9a365bcc9952a351a605cc"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/WIZARD/3Infraestructura/3Grupos/5.3 Crear Grupos Virtual" time="83.774" classname="Test Cases/WIZARD/3Infraestructura/3Grupos/5.3 Crear Grupos Virtual" status="PASSED">
+         <system-out><![CDATA[2024-04-02 15:09:00 - [TEST_CASE][PASSED] - Test Cases/WIZARD/3Infraestructura/3Grupos/5.3 Crear Grupos Virtual: Test Cases/WIZARD/3Infraestructura/3Grupos/5.3 Crear Grupos Virtual
+
+2024-04-02 15:09:01 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-02 15:09:01 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-04-02 15:09:01 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-02 15:09:01 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-04-02 15:09:01 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-04-02 15:09:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-04-02 15:09:04 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-02 15:09:04 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-04-02 15:09:04 - [MESSAGE][PASSED] - Current window maximized
+
+2024-04-02 15:09:05 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:09:08 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:09:08 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-02 15:09:08 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-02 15:09:08 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-02 15:09:09 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-02 15:09:09 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-02 15:09:09 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-02 15:09:09 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:09:12 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:09:12 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-02 15:09:12 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/0Principal/img_InfraestructuraMAX")): Object: 'Object Repository/WIZARD/0Principal/img_InfraestructuraMAX' is clicked on
+
+2024-04-02 15:09:13 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/0Principal/img_InfraestructuraMAX' is clicked on
+
+2024-04-02 15:09:13 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:09:16 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:09:16 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Grupos")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Grupos' is clicked on
+
+2024-04-02 15:09:17 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Grupos' is clicked on
+
+2024-04-02 15:09:17 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:09:20 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:09:20 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala")): Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala' is clicked on
+
+2024-04-02 15:09:20 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala' is clicked on
+
+2024-04-02 15:09:20 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:09:23 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:09:23 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_6Virtual - Sala General")): Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_6Virtual - Sala General' is clicked on
+
+2024-04-02 15:09:24 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_6Virtual - Sala General' is clicked on
+
+2024-04-02 15:09:24 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:09:27 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:09:27 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre"), "Grupo Información"): Text 'Grupo Información' is set on object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre'
+
+2024-04-02 15:09:28 - [MESSAGE][PASSED] - Text 'Grupo Información' is set on object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre'
+
+2024-04-02 15:09:28 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion"), "Virtual - Grupo Información"): Text 'Virtual - Grupo Información' is set on object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion'
+
+2024-04-02 15:09:28 - [MESSAGE][PASSED] - Text 'Virtual - Grupo Información' is set on object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion'
+
+2024-04-02 15:09:28 - [TEST_STEP][PASSED] - scrollToPosition(0, 800): Browser is scrolled to position x = 0, y = 800
+
+2024-04-02 15:09:28 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 800
+
+2024-04-02 15:09:28 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias"), "Área", false): All options with label 'Área' are selected in object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias' 
+
+2024-04-02 15:09:29 - [MESSAGE][PASSED] - All options with label 'Área' are selected in object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias' 
+
+2024-04-02 15:09:29 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 15:09:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 15:09:31 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio"), "Área", false): All options with label 'Área' are selected in object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio' 
+
+2024-04-02 15:09:32 - [MESSAGE][PASSED] - All options with label 'Área' are selected in object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio' 
+
+2024-04-02 15:09:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 15:09:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 15:09:34 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:09:34 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:09:34 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo")): Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo' is clicked on
+
+2024-04-02 15:09:35 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo' is clicked on
+
+2024-04-02 15:09:35 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:09:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:09:38 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Grupos")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Grupos' is clicked on
+
+2024-04-02 15:09:38 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Grupos' is clicked on
+
+2024-04-02 15:09:38 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:09:41 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:09:41 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala")): Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala' is clicked on
+
+2024-04-02 15:09:42 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala' is clicked on
+
+2024-04-02 15:09:42 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:09:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:09:45 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_6Virtual - Sala General")): Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_6Virtual - Sala General' is clicked on
+
+2024-04-02 15:09:45 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_6Virtual - Sala General' is clicked on
+
+2024-04-02 15:09:45 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:09:48 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:09:48 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre"), "Grupo PQRS"): Text 'Grupo PQRS' is set on object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre'
+
+2024-04-02 15:09:49 - [MESSAGE][PASSED] - Text 'Grupo PQRS' is set on object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre'
+
+2024-04-02 15:09:49 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion"), "Virtual - PQRS"): Text 'Virtual - PQRS' is set on object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion'
+
+2024-04-02 15:09:50 - [MESSAGE][PASSED] - Text 'Virtual - PQRS' is set on object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion'
+
+2024-04-02 15:09:50 - [TEST_STEP][PASSED] - scrollToPosition(0, 800): Browser is scrolled to position x = 0, y = 800
+
+2024-04-02 15:09:50 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 800
+
+2024-04-02 15:09:50 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias"), "Área", false): All options with label 'Área' are selected in object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias' 
+
+2024-04-02 15:09:51 - [MESSAGE][PASSED] - All options with label 'Área' are selected in object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias' 
+
+2024-04-02 15:09:51 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 15:09:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 15:09:53 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio"), "Área", false): All options with label 'Área' are selected in object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio' 
+
+2024-04-02 15:09:53 - [MESSAGE][PASSED] - All options with label 'Área' are selected in object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio' 
+
+2024-04-02 15:09:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 15:09:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 15:09:55 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:09:55 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:09:55 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo")): Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo' is clicked on
+
+2024-04-02 15:09:56 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo' is clicked on
+
+2024-04-02 15:09:56 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:09:59 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:09:59 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Grupos")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Grupos' is clicked on
+
+2024-04-02 15:10:00 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Grupos' is clicked on
+
+2024-04-02 15:10:00 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:10:03 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:10:03 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala")): Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala' is clicked on
+
+2024-04-02 15:10:03 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala' is clicked on
+
+2024-04-02 15:10:03 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:10:06 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:10:06 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_6Virtual - Sala General")): Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_6Virtual - Sala General' is clicked on
+
+2024-04-02 15:10:06 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_6Virtual - Sala General' is clicked on
+
+2024-04-02 15:10:06 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:10:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:10:09 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre"), "Grupo Radicaciones"): Text 'Grupo Radicaciones' is set on object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre'
+
+2024-04-02 15:10:10 - [MESSAGE][PASSED] - Text 'Grupo Radicaciones' is set on object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre'
+
+2024-04-02 15:10:10 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion"), "Virtual - Radicaciones"): Text 'Virtual - Radicaciones' is set on object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion'
+
+2024-04-02 15:10:11 - [MESSAGE][PASSED] - Text 'Virtual - Radicaciones' is set on object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion'
+
+2024-04-02 15:10:11 - [TEST_STEP][PASSED] - scrollToPosition(0, 800): Browser is scrolled to position x = 0, y = 800
+
+2024-04-02 15:10:11 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 800
+
+2024-04-02 15:10:11 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias"), "Área", false): All options with label 'Área' are selected in object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias' 
+
+2024-04-02 15:10:12 - [MESSAGE][PASSED] - All options with label 'Área' are selected in object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias' 
+
+2024-04-02 15:10:12 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 15:10:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 15:10:14 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio"), "Área", false): All options with label 'Área' are selected in object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio' 
+
+2024-04-02 15:10:14 - [MESSAGE][PASSED] - All options with label 'Área' are selected in object 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio' 
+
+2024-04-02 15:10:14 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 15:10:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 15:10:16 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:10:16 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 15:10:16 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo")): Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo' is clicked on
+
+2024-04-02 15:10:17 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo' is clicked on
+
+2024-04-02 15:10:17 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:10:20 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:10:20 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-02 15:10:21 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-02 15:10:21 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\3Grupos\\5.3 Crear Grupos Virtual\\20240402_143956\\1712088620444.png]]
+
+2024-04-02 15:10:21 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 15:10:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 15:10:24 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-04-02 15:09:00 - [TEST_SUITE][PASSED] - 5.3 Crear Grupos Virtual: Test Cases/WIZARD/3Infraestructura/3Grupos/5.3 Crear Grupos Virtual]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

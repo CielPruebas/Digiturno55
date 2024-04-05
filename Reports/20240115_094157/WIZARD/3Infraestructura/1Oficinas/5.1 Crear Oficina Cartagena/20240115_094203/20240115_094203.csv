@@ -1,0 +1,38 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.1 Crear Oficina Cartagena,Chrome 120.0.0.0,,,2024-01-15 09:46:17,2024-01-15 09:47:16,"58,484s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/1Oficinas/5.1 Crear Oficina Cartagena,Chrome 120.0.0.0,,,2024-01-15 09:46:17,2024-01-15 09:47:16,"58,210s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2024-01-15 09:46:18,2024-01-15 09:46:29,"11,367s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 120.0.0.0,,,2024-01-15 09:46:29,2024-01-15 09:46:30,"0,911s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:46:30,2024-01-15 09:46:33,"3,006s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Oficinas""))",Chrome 120.0.0.0,,,2024-01-15 09:46:33,2024-01-15 09:46:34,"0,859s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:46:34,2024-01-15 09:46:37,"3,022s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Pais""), ""Colombia"", false)",Chrome 120.0.0.0,,,2024-01-15 09:46:37,2024-01-15 09:46:38,"0,783s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 09:46:38,2024-01-15 09:46:40,"2,008s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Departamento""), ""Bolivar"", false)",Chrome 120.0.0.0,,,2024-01-15 09:46:40,2024-01-15 09:46:40,"0,780s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 09:46:40,2024-01-15 09:46:42,"2,001s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Ciudad""), ""Cartagena"", false)",Chrome 120.0.0.0,,,2024-01-15 09:46:42,2024-01-15 09:46:43,"0,735s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 09:46:43,2024-01-15 09:46:45,"2,014s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_Nombre""), ""Cartagena - Bocagrande"")",Chrome 120.0.0.0,Oficina Cartagena - Bocagrande,,2024-01-15 09:46:45,2024-01-15 09:46:46,"0,829s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/select_Nivel de Pregunta""), ""Ninguno"", false)",Chrome 120.0.0.0,,,2024-01-15 09:46:46,2024-01-15 09:46:47,"0,691s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:46:47,2024-01-15 09:46:50,"3,027s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_MaximoTurnosXCliente""), ""2"")",Chrome 120.0.0.0,,,2024-01-15 09:46:50,2024-01-15 09:46:51,"0,796s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/input_Nivel de servicio de espera""), ""0"")",Chrome 120.0.0.0,,,2024-01-15 09:46:51,2024-01-15 09:46:51,"0,794s",PASSED
+"scrollToPosition(100, 800)",Chrome 120.0.0.0,,,2024-01-15 09:46:51,2024-01-15 09:46:51,"0,022s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:46:51,2024-01-15 09:46:54,"3,012s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Nombre a mostrar""), ""Cartagena - Bocagrande"")",Chrome 120.0.0.0,,,2024-01-15 09:46:54,2024-01-15 09:46:55,"0,875s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Direccion""), ""Calle 1 No 24-3"")",Chrome 120.0.0.0,,,2024-01-15 09:46:55,2024-01-15 09:46:56,"0,846s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Numero de telefono""), ""3279000"")",Chrome 120.0.0.0,,,2024-01-15 09:46:56,2024-01-15 09:46:57,"0,800s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Distancia minima creacion turnos (m)""), ""100"")",Chrome 120.0.0.0,,,2024-01-15 09:46:57,2024-01-15 09:46:58,"0,854s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Cantidad de turnos para prellamado""), ""2"")",Chrome 120.0.0.0,,,2024-01-15 09:46:58,2024-01-15 09:46:59,"0,815s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:46:59,2024-01-15 09:47:02,"3,009s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Longitud""), ""0.0000000000"")",Chrome 120.0.0.0,,,2024-01-15 09:47:02,2024-01-15 09:47:02,"0,827s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/App/input_Latitud""), ""0.0000000000"")",Chrome 120.0.0.0,,,2024-01-15 09:47:02,2024-01-15 09:47:03,"0,813s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:47:03,2024-01-15 09:47:06,"3,003s",PASSED
+"scrollToPosition(0, 0)",Chrome 120.0.0.0,,,2024-01-15 09:47:06,2024-01-15 09:47:06,"0,026s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 09:47:06,2024-01-15 09:47:08,"2,017s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/1Oficinas/2Edicion/Edicion/img_Nuevo""))",Chrome 120.0.0.0,,,2024-01-15 09:47:08,2024-01-15 09:47:09,"0,477s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:47:09,2024-01-15 09:47:12,"3,005s",PASSED
+takeFullPageScreenshot(),Chrome 120.0.0.0,,,2024-01-15 09:47:12,2024-01-15 09:47:13,"0,847s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:47:13,2024-01-15 09:47:16,"3,005s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,2024-01-15 09:47:16,2024-01-15 09:47:16,"0,012s",PASSED

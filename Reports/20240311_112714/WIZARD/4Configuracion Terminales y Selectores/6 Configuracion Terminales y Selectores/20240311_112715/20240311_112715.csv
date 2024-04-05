@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+6 Configuracion Terminales y Selectores,Chrome 122.0.0.0,,,2024-03-11 11:27:23,2024-03-11 11:28:49,"1m - 26,364s",FAILED
+,,,,,,,
+Test Cases/WIZARD/4Configuracion Terminales y Selectores/6 Configuracion de Terminales y Selectores,Chrome 122.0.0.0,,,2024-03-11 11:27:23,2024-03-11 11:28:49,"1m - 26,074s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 122.0.0.0,,,2024-03-11 11:27:23,2024-03-11 11:27:36,"13,143s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/a_1lnkLogo""))",Chrome 122.0.0.0,,,2024-03-11 11:27:36,2024-03-11 11:27:37,"0,534s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:27:37,2024-03-11 11:27:40,"3,008s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/img_2Configuracion""))",Chrome 122.0.0.0,,,2024-03-11 11:27:40,2024-03-11 11:27:51,"11,385s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:27:51,2024-03-11 11:27:54,"3,009s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/img_3Usuarios""))",Chrome 122.0.0.0,,,2024-03-11 11:27:54,2024-03-11 11:28:07,"13,025s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:28:07,2024-03-11 11:28:10,"3,009s",PASSED
+"comment(""Oficina Bogota"")",Chrome 122.0.0.0,,,2024-03-11 11:28:10,2024-03-11 11:28:10,"0,025s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales""))",Chrome 122.0.0.0,,,2024-03-11 11:28:10,2024-03-11 11:28:11,"0,763s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:28:11,2024-03-11 11:28:14,"3,005s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td1_Bogota - CIEL""))",Chrome 122.0.0.0,,,2024-03-11 11:28:14,2024-03-11 11:28:15,"0,441s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:28:15,2024-03-11 11:28:18,"3,006s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL""))",Chrome 122.0.0.0,,,2024-03-11 11:28:18,2024-03-11 11:28:49,"31,306s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 122.0.0.0,,,2024-03-11 11:28:49,2024-03-11 11:28:49,"0,008s",PASSED

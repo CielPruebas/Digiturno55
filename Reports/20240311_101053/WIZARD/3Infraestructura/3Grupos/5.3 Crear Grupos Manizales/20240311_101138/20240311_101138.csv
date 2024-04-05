@@ -1,0 +1,58 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.3 Crear Grupos Manizales,Chrome 122.0.0.0,,,2024-03-11 10:38:09,2024-03-11 10:39:33,"1m - 23,870s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/3Grupos/5.3 Crear Grupos Manizales,Chrome 122.0.0.0,,,2024-03-11 10:38:10,2024-03-11 10:39:33,"1m - 23,631s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 122.0.0.0,,,2024-03-11 10:38:10,2024-03-11 10:38:22,"12,093s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 122.0.0.0,,,2024-03-11 10:38:22,2024-03-11 10:38:23,"0,579s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:38:23,2024-03-11 10:38:26,"3,008s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 122.0.0.0,,,2024-03-11 10:38:26,2024-03-11 10:38:26,"0,598s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:38:26,2024-03-11 10:38:29,"3,018s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 122.0.0.0,Se escoge sala Manizales - Sala General,,2024-03-11 10:38:29,2024-03-11 10:38:30,"0,460s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:38:30,2024-03-11 10:38:33,"3,015s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_4Manizales - Sala General""))",Chrome 122.0.0.0,,,2024-03-11 10:38:33,2024-03-11 10:38:33,"0,501s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:38:33,2024-03-11 10:38:36,"3,014s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo Información"")",Chrome 122.0.0.0,,,2024-03-11 10:38:36,2024-03-11 10:38:37,"0,802s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""Manizales - Grupo Información"")",Chrome 122.0.0.0,,,2024-03-11 10:38:37,2024-03-11 10:38:38,"0,858s",PASSED
+"scrollToPosition(0, 800)",Chrome 122.0.0.0,,,2024-03-11 10:38:38,2024-03-11 10:38:38,"0,037s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 122.0.0.0,,,2024-03-11 10:38:38,2024-03-11 10:38:39,"0,853s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 10:38:39,2024-03-11 10:38:41,"2,006s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 122.0.0.0,,,2024-03-11 10:38:41,2024-03-11 10:38:42,"0,769s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 10:38:42,2024-03-11 10:38:44,"2,014s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 10:38:44,2024-03-11 10:38:44,"0,029s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 122.0.0.0,,,2024-03-11 10:38:44,2024-03-11 10:38:44,"0,435s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:38:44,2024-03-11 10:38:47,"3,011s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 122.0.0.0,Para crear Grupo PQRS,,2024-03-11 10:38:47,2024-03-11 10:38:48,"0,587s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:38:48,2024-03-11 10:38:51,"3,016s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 122.0.0.0,Se escoge sala Manizales - Sala General,,2024-03-11 10:38:51,2024-03-11 10:38:51,"0,428s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:38:51,2024-03-11 10:38:54,"3,010s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_4Manizales - Sala General""))",Chrome 122.0.0.0,,,2024-03-11 10:38:54,2024-03-11 10:38:55,"0,451s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:38:55,2024-03-11 10:38:58,"3,016s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo PQRS"")",Chrome 122.0.0.0,,,2024-03-11 10:38:58,2024-03-11 10:38:58,"0,854s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""Manizales - PQRS"")",Chrome 122.0.0.0,,,2024-03-11 10:38:58,2024-03-11 10:38:59,"0,747s",PASSED
+"scrollToPosition(0, 800)",Chrome 122.0.0.0,,,2024-03-11 10:38:59,2024-03-11 10:38:59,"0,012s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 122.0.0.0,,,2024-03-11 10:38:59,2024-03-11 10:39:00,"0,731s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 10:39:00,2024-03-11 10:39:02,"2,007s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 122.0.0.0,,,2024-03-11 10:39:02,2024-03-11 10:39:03,"0,701s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 10:39:03,2024-03-11 10:39:05,"2,015s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 10:39:05,2024-03-11 10:39:05,"0,019s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 122.0.0.0,,,2024-03-11 10:39:05,2024-03-11 10:39:05,"0,386s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:39:05,2024-03-11 10:39:08,"3,018s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 122.0.0.0,Grupo Radicaciones,,2024-03-11 10:39:08,2024-03-11 10:39:09,"0,645s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:39:09,2024-03-11 10:39:12,"3,010s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 122.0.0.0,Se escoge sala Manizales - Sala General,,2024-03-11 10:39:12,2024-03-11 10:39:12,"0,433s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:39:12,2024-03-11 10:39:15,"3,016s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_4Manizales - Sala General""))",Chrome 122.0.0.0,,,2024-03-11 10:39:15,2024-03-11 10:39:16,"0,414s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:39:16,2024-03-11 10:39:19,"3,004s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo Radicaciones"")",Chrome 122.0.0.0,,,2024-03-11 10:39:19,2024-03-11 10:39:19,"0,774s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""Manizales - Radicaciones"")",Chrome 122.0.0.0,,,2024-03-11 10:39:19,2024-03-11 10:39:20,"0,782s",PASSED
+"scrollToPosition(0, 800)",Chrome 122.0.0.0,,,2024-03-11 10:39:20,2024-03-11 10:39:20,"0,016s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 122.0.0.0,,,2024-03-11 10:39:20,2024-03-11 10:39:21,"0,807s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 10:39:21,2024-03-11 10:39:23,"2,011s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 122.0.0.0,,,2024-03-11 10:39:23,2024-03-11 10:39:24,"0,762s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 10:39:24,2024-03-11 10:39:26,"2,018s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 10:39:26,2024-03-11 10:39:26,"0,025s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 122.0.0.0,,,2024-03-11 10:39:26,2024-03-11 10:39:26,"0,410s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:39:26,2024-03-11 10:39:29,"3,010s",PASSED
+takeFullPageScreenshot(),Chrome 122.0.0.0,,,2024-03-11 10:39:29,2024-03-11 10:39:30,"1,044s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:39:30,2024-03-11 10:39:33,"3,015s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 122.0.0.0,,,2024-03-11 10:39:33,2024-03-11 10:39:33,"0,006s",PASSED

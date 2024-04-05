@@ -1,0 +1,36 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+3.3 Agregar al arbol Servicios,Chrome 120.0.0.0,,,2024-01-15 09:25:29,2024-01-15 09:26:28,"58,758s",PASSED
+,,,,,,,
+Test Cases/WIZARD/1Modelo De Negocio/3.3 Agregar al arbol Servicios,Chrome 120.0.0.0,,,2024-01-15 09:25:30,2024-01-15 09:26:28,"58,475s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2024-01-15 09:25:30,2024-01-15 09:25:43,"13,042s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_ModeloDeNegocioMAX""))",Chrome 120.0.0.0,,,2024-01-15 09:25:43,2024-01-15 09:25:44,"1,060s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:25:44,2024-01-15 09:25:47,"3,005s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda""), ""Preferencial (P)"")",Chrome 120.0.0.0,Buscamos el Tipo de cliente Preferencial (P),,2024-01-15 09:25:47,2024-01-15 09:25:48,"0,769s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:25:48,2024-01-15 09:25:51,"3,008s",PASSED
+"rightClick(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/span_3 Preferencial (P)""))",Chrome 120.0.0.0,,,2024-01-15 09:25:51,2024-01-15 09:25:52,"0,535s",PASSED
+"mouseOver(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/span_Elemento""))",Chrome 120.0.0.0,,,2024-01-15 09:25:52,2024-01-15 09:25:52,"0,732s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 09:25:52,2024-01-15 09:25:54,"2,018s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/span_Elemento(1)/span_Agregar Elementos""))",Chrome 120.0.0.0,,,2024-01-15 09:25:54,2024-01-15 09:25:55,"0,403s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:25:55,2024-01-15 09:25:58,"3,014s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/span_Elemento(1)/span_Agregar Elementos(1)/label_Informacion""))",Chrome 120.0.0.0,,,2024-01-15 09:25:58,2024-01-15 09:25:58,"0,341s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/span_Elemento(1)/span_Agregar Elementos(1)/label_PQRS""))",Chrome 120.0.0.0,,,2024-01-15 09:25:58,2024-01-15 09:25:58,"0,345s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/span_Elemento(1)/span_Agregar Elementos(1)/label_Radicaciones""))",Chrome 120.0.0.0,,,2024-01-15 09:25:58,2024-01-15 09:25:59,"0,370s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:25:59,2024-01-15 09:26:02,"3,012s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/span_Elemento(1)/span_Agregar Elementos(1)/btn_Agregar""))",Chrome 120.0.0.0,,,2024-01-15 09:26:02,2024-01-15 09:26:02,"0,351s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:26:02,2024-01-15 09:26:05,"3,003s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda""), ""General (G)"")",Chrome 120.0.0.0,Buscamos el Tipo de cliente General (G),,2024-01-15 09:26:05,2024-01-15 09:26:06,"0,676s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:26:06,2024-01-15 09:26:09,"3,014s",PASSED
+"rightClick(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/span_2 General (G)""))",Chrome 120.0.0.0,,,2024-01-15 09:26:09,2024-01-15 09:26:09,"0,447s",PASSED
+"mouseOver(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/span_Elemento""))",Chrome 120.0.0.0,,,2024-01-15 09:26:09,2024-01-15 09:26:10,"0,703s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 09:26:10,2024-01-15 09:26:12,"2,008s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/span_Elemento(1)/span_Agregar Elementos""))",Chrome 120.0.0.0,,,2024-01-15 09:26:12,2024-01-15 09:26:13,"0,745s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:26:13,2024-01-15 09:26:16,"3,012s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/span_Elemento(1)/span_Agregar Elementos(1)/label_Informacion""))",Chrome 120.0.0.0,,,2024-01-15 09:26:16,2024-01-15 09:26:16,"0,592s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/span_Elemento(1)/span_Agregar Elementos(1)/label_PQRS""))",Chrome 120.0.0.0,,,2024-01-15 09:26:16,2024-01-15 09:26:17,"1,057s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/span_Elemento(1)/span_Agregar Elementos(1)/label_Radicaciones""))",Chrome 120.0.0.0,,,2024-01-15 09:26:17,2024-01-15 09:26:18,"0,679s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:26:18,2024-01-15 09:26:21,"3,009s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/span_Elemento(1)/span_Agregar Elementos(1)/btn_Agregar""))",Chrome 120.0.0.0,,,2024-01-15 09:26:21,2024-01-15 09:26:21,"0,347s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:26:21,2024-01-15 09:26:24,"3,014s",PASSED
+takeFullPageScreenshot(),Chrome 120.0.0.0,,,2024-01-15 09:26:24,2024-01-15 09:26:25,"0,703s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:26:25,2024-01-15 09:26:28,"3,014s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,2024-01-15 09:26:28,2024-01-15 09:26:28,"0,004s",PASSED

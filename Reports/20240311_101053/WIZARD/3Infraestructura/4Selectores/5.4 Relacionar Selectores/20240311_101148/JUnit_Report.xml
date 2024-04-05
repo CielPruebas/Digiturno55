@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="5.4 Relacionar Selectores" time="136.204" tests="1" failures="0" errors="0">
+   <testsuite name="5.4 Relacionar Selectores" tests="1" failures="0" errors="0" time="136.204" skipped="0" timestamp="2024-03-11 10:47:18" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/WIZARD/3Infraestructura/4Selectores/5.4 Relacionar Selectores">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240311_101053\\WIZARD\\3Infraestructura\\4Selectores\\5.4 Relacionar Selectores\\20240311_101148"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240311_101053\\WIZARD\\3Infraestructura\\4Selectores\\5.4 Relacionar Selectores\\20240311_101148\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240311_101053\\WIZARD\\3Infraestructura\\4Selectores\\5.4 Relacionar Selectores\\20240311_101148\\1710172170427.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 122.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.14"/>
+         <property name="sessionId" value="76da7ce29b3c3c486d529b65dc181d92"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/WIZARD/3Infraestructura/4Selectores/5.4 Relacionar Selectores" time="135.971" classname="Test Cases/WIZARD/3Infraestructura/4Selectores/5.4 Relacionar Selectores" status="PASSED">
+         <system-out><![CDATA[2024-03-11 10:47:18 - [TEST_CASE][PASSED] - Test Cases/WIZARD/3Infraestructura/4Selectores/5.4 Relacionar Selectores: Test Cases/WIZARD/3Infraestructura/4Selectores/5.4 Relacionar Selectores
+
+2024-03-11 10:47:18 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-03-11 10:47:18 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-03-11 10:47:19 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-03-11 10:47:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-03-11 10:47:19 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-03-11 10:47:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-03-11 10:47:21 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-03-11 10:47:21 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-03-11 10:47:21 - [MESSAGE][PASSED] - Current window maximized
+
+2024-03-11 10:47:21 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:47:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:47:24 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-03-11 10:47:25 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-03-11 10:47:25 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-03-11 10:47:26 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-03-11 10:47:26 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-03-11 10:47:26 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-03-11 10:47:26 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:47:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:47:29 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-03-11 10:47:29 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/0Principal/img_InfraestructuraMAX")): Object: 'Object Repository/WIZARD/0Principal/img_InfraestructuraMAX' is clicked on
+
+2024-03-11 10:47:30 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/0Principal/img_InfraestructuraMAX' is clicked on
+
+2024-03-11 10:47:30 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:47:33 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:47:33 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Selectores")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Selectores' is clicked on
+
+2024-03-11 10:47:34 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Selectores' is clicked on
+
+2024-03-11 10:47:34 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:47:37 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:47:37 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_1Bogota - CIEL")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_1Bogota - CIEL' is clicked on
+
+2024-03-11 10:47:37 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_1Bogota - CIEL' is clicked on
+
+2024-03-11 10:47:37 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:47:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:47:40 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01' is clicked on
+
+2024-03-11 10:47:41 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01' is clicked on
+
+2024-03-11 10:47:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 10:47:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 10:47:43 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' successfully
+
+2024-03-11 10:47:43 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' successfully
+
+2024-03-11 10:47:43 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' is clicked on
+
+2024-03-11 10:47:44 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' is clicked on
+
+2024-03-11 10:47:44 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 10:47:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 10:47:46 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar' is clicked on
+
+2024-03-11 10:47:46 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar' is clicked on
+
+2024-03-11 10:47:46 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:47:49 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:47:49 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Selectores")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Selectores' is clicked on
+
+2024-03-11 10:47:50 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Selectores' is clicked on
+
+2024-03-11 10:47:50 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:47:53 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:47:53 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_2Cali - Chipichape")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_2Cali - Chipichape' is clicked on
+
+2024-03-11 10:47:53 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_2Cali - Chipichape' is clicked on
+
+2024-03-11 10:47:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:47:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:47:56 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01' is clicked on
+
+2024-03-11 10:47:57 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01' is clicked on
+
+2024-03-11 10:47:57 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:48:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:48:00 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' successfully
+
+2024-03-11 10:48:00 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' successfully
+
+2024-03-11 10:48:00 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' is clicked on
+
+2024-03-11 10:48:00 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' is clicked on
+
+2024-03-11 10:48:00 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 10:48:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 10:48:02 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar' is clicked on
+
+2024-03-11 10:48:03 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar' is clicked on
+
+2024-03-11 10:48:03 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:48:06 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:48:06 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Selectores")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Selectores' is clicked on
+
+2024-03-11 10:48:06 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Selectores' is clicked on
+
+2024-03-11 10:48:06 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:48:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:48:09 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_3Cartagena - Bocagrande")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_3Cartagena - Bocagrande' is clicked on
+
+2024-03-11 10:48:10 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_3Cartagena - Bocagrande' is clicked on
+
+2024-03-11 10:48:10 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:48:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:48:13 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01' is clicked on
+
+2024-03-11 10:48:13 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01' is clicked on
+
+2024-03-11 10:48:13 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:48:16 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:48:16 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' successfully
+
+2024-03-11 10:48:17 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' successfully
+
+2024-03-11 10:48:17 - [TEST_STEP][PASSED] - check(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo")): Object 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' is checked
+
+2024-03-11 10:48:17 - [MESSAGE][PASSED] - Object 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' is checked
+
+2024-03-11 10:48:17 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 10:48:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 10:48:19 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar' is clicked on
+
+2024-03-11 10:48:20 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar' is clicked on
+
+2024-03-11 10:48:20 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:48:23 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:48:23 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Selectores")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Selectores' is clicked on
+
+2024-03-11 10:48:23 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Selectores' is clicked on
+
+2024-03-11 10:48:23 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:48:26 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:48:26 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_4Manizales - Manizales")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_4Manizales - Manizales' is clicked on
+
+2024-03-11 10:48:27 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_4Manizales - Manizales' is clicked on
+
+2024-03-11 10:48:27 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:48:30 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:48:30 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01' is clicked on
+
+2024-03-11 10:48:30 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01' is clicked on
+
+2024-03-11 10:48:30 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:48:33 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:48:33 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' successfully
+
+2024-03-11 10:48:33 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' successfully
+
+2024-03-11 10:48:33 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' is clicked on
+
+2024-03-11 10:48:34 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' is clicked on
+
+2024-03-11 10:48:34 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 10:48:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 10:48:36 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar' is clicked on
+
+2024-03-11 10:48:36 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar' is clicked on
+
+2024-03-11 10:48:36 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:48:39 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:48:40 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Selectores")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Selectores' is clicked on
+
+2024-03-11 10:48:40 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Selectores' is clicked on
+
+2024-03-11 10:48:40 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:48:43 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:48:43 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_5Medellin - Laureles")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_5Medellin - Laureles' is clicked on
+
+2024-03-11 10:48:44 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_5Medellin - Laureles' is clicked on
+
+2024-03-11 10:48:44 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:48:47 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:48:47 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01' is clicked on
+
+2024-03-11 10:48:47 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01' is clicked on
+
+2024-03-11 10:48:47 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:48:50 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:48:50 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' successfully
+
+2024-03-11 10:48:50 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' successfully
+
+2024-03-11 10:48:50 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' is clicked on
+
+2024-03-11 10:48:51 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' is clicked on
+
+2024-03-11 10:48:51 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 10:48:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 10:48:53 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar' is clicked on
+
+2024-03-11 10:48:53 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar' is clicked on
+
+2024-03-11 10:48:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:48:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:48:56 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Selectores")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Selectores' is clicked on
+
+2024-03-11 10:48:57 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Selectores' is clicked on
+
+2024-03-11 10:48:57 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:49:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:49:00 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_6Virtual - Oficina Virtual")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_6Virtual - Oficina Virtual' is clicked on
+
+2024-03-11 10:49:00 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_6Virtual - Oficina Virtual' is clicked on
+
+2024-03-11 10:49:00 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:49:03 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:49:03 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01' is clicked on
+
+2024-03-11 10:49:04 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01' is clicked on
+
+2024-03-11 10:49:04 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:49:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:49:07 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' successfully
+
+2024-03-11 10:49:07 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' successfully
+
+2024-03-11 10:49:07 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' is clicked on
+
+2024-03-11 10:49:08 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' is clicked on
+
+2024-03-11 10:49:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 10:49:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 10:49:10 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar' is clicked on
+
+2024-03-11 10:49:10 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar' is clicked on
+
+2024-03-11 10:49:10 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:49:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:49:13 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Selectores")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Selectores' is clicked on
+
+2024-03-11 10:49:14 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Selectores' is clicked on
+
+2024-03-11 10:49:14 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:49:17 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:49:17 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_7WorkFlow - Oficina WorkFlow")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_7WorkFlow - Oficina WorkFlow' is clicked on
+
+2024-03-11 10:49:17 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/btn_Oficinas(2)/td_7WorkFlow - Oficina WorkFlow' is clicked on
+
+2024-03-11 10:49:17 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:49:20 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:49:20 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01' is clicked on
+
+2024-03-11 10:49:21 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Lista de Selectores/td_Selector 01' is clicked on
+
+2024-03-11 10:49:21 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:49:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:49:24 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' successfully
+
+2024-03-11 10:49:24 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' successfully
+
+2024-03-11 10:49:24 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' is clicked on
+
+2024-03-11 10:49:24 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/a_SeleccionarTodo' is clicked on
+
+2024-03-11 10:49:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-03-11 10:49:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-03-11 10:49:26 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar")): Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar' is clicked on
+
+2024-03-11 10:49:27 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/4Selectores/Edicion Selectores/Destino del turno/img_Relacionar' is clicked on
+
+2024-03-11 10:49:27 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:49:30 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:49:30 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-03-11 10:49:31 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-03-11 10:49:31 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240311_101053\\WIZARD\\3Infraestructura\\4Selectores\\5.4 Relacionar Selectores\\20240311_101148\\1710172170427.png]]
+
+2024-03-11 10:49:31 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-03-11 10:49:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-03-11 10:49:34 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-03-11 10:47:18 - [TEST_SUITE][PASSED] - 5.4 Relacionar Selectores: Test Cases/WIZARD/3Infraestructura/4Selectores/5.4 Relacionar Selectores]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

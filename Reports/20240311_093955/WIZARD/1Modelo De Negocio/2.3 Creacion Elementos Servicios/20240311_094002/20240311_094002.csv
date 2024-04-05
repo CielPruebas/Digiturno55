@@ -1,0 +1,68 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+2.3 Creacion Elementos Servicios,Chrome 122.0.0.0,,,2024-03-11 09:44:22,2024-03-11 09:47:10,"2m - 47,700s",PASSED
+,,,,,,,
+Test Cases/WIZARD/1Modelo De Negocio/2.3 Creacion Elementos Servicios,Chrome 122.0.0.0,,,2024-03-11 09:44:23,2024-03-11 09:47:10,"2m - 47,478s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 122.0.0.0,,,2024-03-11 09:44:23,2024-03-11 09:44:36,"12,786s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_ModeloDeNegocioMAX""))",Chrome 122.0.0.0,,,2024-03-11 09:44:36,2024-03-11 09:44:36,"0,467s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 09:44:36,2024-03-11 09:44:39,"3,005s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/00Menu/span_Elementos""))",Chrome 122.0.0.0,,,2024-03-11 09:44:39,2024-03-11 09:44:40,"0,623s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 09:44:40,2024-03-11 09:44:43,"3,020s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Nivel/option_3Servicio""))",Chrome 122.0.0.0,,,2024-03-11 09:44:43,2024-03-11 09:44:43,"0,436s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 09:44:43,2024-03-11 09:44:46,"3,009s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Nivel/Servicio/td_SRVO1""))",Chrome 122.0.0.0,Servicio Información,,2024-03-11 09:44:46,2024-03-11 09:44:47,"0,463s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 09:44:47,2024-03-11 09:44:50,"3,017s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento""), ""Información"")",Chrome 122.0.0.0,,,2024-03-11 09:44:50,2024-03-11 09:44:51,"0,866s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento""), ""Información"")",Chrome 122.0.0.0,,,2024-03-11 09:44:51,2024-03-11 09:44:51,"0,828s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()"", [])",Chrome 122.0.0.0,,,2024-03-11 09:44:51,2024-03-11 09:44:51,"0,029s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 09:44:51,2024-03-11 09:44:53,"2,017s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10"", [])",Chrome 122.0.0.0,,,2024-03-11 09:44:53,2024-03-11 09:44:53,"0,025s",PASSED
+delay(5),Chrome 122.0.0.0,,,2024-03-11 09:44:53,2024-03-11 09:44:58,"5,007s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar""))",Chrome 122.0.0.0,,,2024-03-11 09:44:58,2024-03-11 09:44:59,"0,475s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 09:44:59,2024-03-11 09:45:02,"3,008s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()"", [])",Chrome 122.0.0.0,,,2024-03-11 09:45:02,2024-03-11 09:45:02,"0,028s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 09:45:02,2024-03-11 09:45:04,"2,015s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5"", [])",Chrome 122.0.0.0,,,2024-03-11 09:45:04,2024-03-11 09:45:04,"0,031s",PASSED
+delay(5),Chrome 122.0.0.0,,,2024-03-11 09:45:04,2024-03-11 09:45:09,"5,008s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar""))",Chrome 122.0.0.0,,,2024-03-11 09:45:09,2024-03-11 09:45:09,"0,430s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 09:45:09,2024-03-11 09:45:12,"3,015s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar""))",Chrome 122.0.0.0,,,2024-03-11 09:45:12,2024-03-11 09:45:13,"0,486s",PASSED
+delay(20),Chrome 122.0.0.0,,,2024-03-11 09:45:13,2024-03-11 09:45:33,"20,017s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Nivel/Servicio/td_SRVO2""))",Chrome 122.0.0.0,Servicio Radicaciones,,2024-03-11 09:45:33,2024-03-11 09:45:33,"0,448s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 09:45:33,2024-03-11 09:45:36,"3,011s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento""), ""Radicaciones"")",Chrome 122.0.0.0,,,2024-03-11 09:45:36,2024-03-11 09:45:37,"0,859s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento""), ""Radicaciones"")",Chrome 122.0.0.0,,,2024-03-11 09:45:37,2024-03-11 09:45:38,"0,810s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()"", [])",Chrome 122.0.0.0,,,2024-03-11 09:45:38,2024-03-11 09:45:38,"0,028s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 09:45:38,2024-03-11 09:45:40,"2,007s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10"", [])",Chrome 122.0.0.0,,,2024-03-11 09:45:40,2024-03-11 09:45:40,"0,029s",PASSED
+delay(5),Chrome 122.0.0.0,,,2024-03-11 09:45:40,2024-03-11 09:45:45,"5,005s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar""))",Chrome 122.0.0.0,,,2024-03-11 09:45:45,2024-03-11 09:45:46,"0,420s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 09:45:46,2024-03-11 09:45:49,"3,014s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()"", [])",Chrome 122.0.0.0,,,2024-03-11 09:45:49,2024-03-11 09:45:49,"0,030s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 09:45:49,2024-03-11 09:45:51,"2,020s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5"", [])",Chrome 122.0.0.0,,,2024-03-11 09:45:51,2024-03-11 09:45:51,"0,028s",PASSED
+delay(5),Chrome 122.0.0.0,,,2024-03-11 09:45:51,2024-03-11 09:45:56,"5,015s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar""))",Chrome 122.0.0.0,,,2024-03-11 09:45:56,2024-03-11 09:45:56,"0,442s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 09:45:56,2024-03-11 09:45:59,"3,014s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar""))",Chrome 122.0.0.0,,,2024-03-11 09:45:59,2024-03-11 09:46:00,"0,431s",PASSED
+delay(20),Chrome 122.0.0.0,,,2024-03-11 09:46:00,2024-03-11 09:46:20,"20,014s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Nivel/Servicio/td_SRVO3""))",Chrome 122.0.0.0,Servicio PQRS,,2024-03-11 09:46:20,2024-03-11 09:46:20,"0,422s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 09:46:20,2024-03-11 09:46:23,"3,006s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Nombre Elemento""), ""PQRS"")",Chrome 122.0.0.0,,,2024-03-11 09:46:23,2024-03-11 09:46:24,"0,755s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/input_Descripcion Elemento""), ""PQRS"")",Chrome 122.0.0.0,,,2024-03-11 09:46:24,2024-03-11 09:46:25,"0,704s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_lnkTiempoMaxAtencion').click()"", [])",Chrome 122.0.0.0,,,2024-03-11 09:46:25,2024-03-11 09:46:25,"0,025s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 09:46:25,2024-03-11 09:46:27,"2,009s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_TimeSpanControlMaxTiempo_txtMinuto').value=10"", [])",Chrome 122.0.0.0,,,2024-03-11 09:46:27,2024-03-11 09:46:27,"0,028s",PASSED
+delay(5),Chrome 122.0.0.0,,,2024-03-11 09:46:27,2024-03-11 09:46:32,"5,015s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2ModalTiempoMaxAtencion/btn_Aceptar""))",Chrome 122.0.0.0,,,2024-03-11 09:46:32,2024-03-11 09:46:32,"0,476s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 09:46:32,2024-03-11 09:46:35,"3,018s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_lnkTiempoControaldoAtencion').click()"", [])",Chrome 122.0.0.0,,,2024-03-11 09:46:35,2024-03-11 09:46:35,"0,030s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 09:46:35,2024-03-11 09:46:37,"2,016s",PASSED
+"executeJavaScript(""return document.getElementById('ContentPlaceHolder1_TimeSpanControlTiempoControlado_txtMinuto').value=5"", [])",Chrome 122.0.0.0,,,2024-03-11 09:46:37,2024-03-11 09:46:37,"0,021s",PASSED
+delay(5),Chrome 122.0.0.0,,,2024-03-11 09:46:37,2024-03-11 09:46:42,"5,006s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Modal Tiempo Controlado de atencion/btn_Aceptar""))",Chrome 122.0.0.0,,,2024-03-11 09:46:42,2024-03-11 09:46:43,"0,485s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 09:46:43,2024-03-11 09:46:46,"3,007s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/2Elementos/Edicion de Elementos/btn_Actualizar""))",Chrome 122.0.0.0,,,2024-03-11 09:46:46,2024-03-11 09:46:46,"0,456s",PASSED
+delay(20),Chrome 122.0.0.0,,,2024-03-11 09:46:46,2024-03-11 09:47:06,"20,018s",PASSED
+takeFullPageScreenshot(),Chrome 122.0.0.0,,,2024-03-11 09:47:06,2024-03-11 09:47:07,"0,894s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 09:47:07,2024-03-11 09:47:10,"3,005s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 122.0.0.0,,,2024-03-11 09:47:10,2024-03-11 09:47:10,"0,004s",PASSED

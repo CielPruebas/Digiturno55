@@ -1,0 +1,38 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+3.4a Agregar arbol a Subservicios Informacion,Chrome 120.0.0.0,,,2024-01-15 09:26:38,2024-01-15 09:27:34,"56,638s",PASSED
+,,,,,,,
+Test Cases/WIZARD/1Modelo De Negocio/3.4a Agregar arbol a SubServicios Informacion,Chrome 120.0.0.0,,,2024-01-15 09:26:38,2024-01-15 09:27:34,"56,368s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2024-01-15 09:26:38,2024-01-15 09:26:50,"11,363s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_ModeloDeNegocioMAX""))",Chrome 120.0.0.0,,,2024-01-15 09:26:50,2024-01-15 09:26:51,"0,709s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:26:51,2024-01-15 09:26:54,"3,004s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda""), ""Información"")",Chrome 120.0.0.0,Buscamos el Servicio Información General,,2024-01-15 09:26:54,2024-01-15 09:26:54,"0,708s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:26:54,2024-01-15 09:26:57,"3,007s",PASSED
+"rightClick(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_7 Informacion""))",Chrome 120.0.0.0,,,2024-01-15 09:26:57,2024-01-15 09:26:58,"0,543s",PASSED
+"mouseOver(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Elemento""))",Chrome 120.0.0.0,,,2024-01-15 09:26:58,2024-01-15 09:26:59,"0,726s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 09:26:59,2024-01-15 09:27:01,"2,013s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Elemento(1)/span_Agregar Elementos""))",Chrome 120.0.0.0,,,2024-01-15 09:27:01,2024-01-15 09:27:01,"0,406s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:27:01,2024-01-15 09:27:04,"3,006s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_0 Actualizacion de Datos""))",Chrome 120.0.0.0,,,2024-01-15 09:27:04,2024-01-15 09:27:04,"0,411s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_3 Facturacion""))",Chrome 120.0.0.0,,,2024-01-15 09:27:04,2024-01-15 09:27:05,"0,359s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_5 Inscripciones""))",Chrome 120.0.0.0,,,2024-01-15 09:27:05,2024-01-15 09:27:05,"0,385s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_10 Renovaciones""))",Chrome 120.0.0.0,,,2024-01-15 09:27:05,2024-01-15 09:27:05,"0,369s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:27:05,2024-01-15 09:27:08,"3,004s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1General/7 General Informacion/span_Elemento(1)/span_Agregar Elementos(1)/btn_Agregar""))",Chrome 120.0.0.0,,,2024-01-15 09:27:08,2024-01-15 09:27:09,"0,449s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:27:09,2024-01-15 09:27:12,"3,003s",PASSED
+"setText(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/input_cajaBusqueda""), ""Información"")",Chrome 120.0.0.0,Buscamos el Servicio Información Preferencial,,2024-01-15 09:27:12,2024-01-15 09:27:13,"0,855s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:27:13,2024-01-15 09:27:16,"3,012s",PASSED
+"rightClick(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_4 Informacion""))",Chrome 120.0.0.0,,,2024-01-15 09:27:16,2024-01-15 09:27:16,"0,550s",PASSED
+"mouseOver(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_Elemento""))",Chrome 120.0.0.0,,,2024-01-15 09:27:16,2024-01-15 09:27:17,"0,642s",PASSED
+delay(2),Chrome 120.0.0.0,,,2024-01-15 09:27:17,2024-01-15 09:27:19,"2,008s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_Elemento(1)/span_Agregar Elementos""))",Chrome 120.0.0.0,,,2024-01-15 09:27:19,2024-01-15 09:27:19,"0,503s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:27:19,2024-01-15 09:27:23,"3,017s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_0 Actualizacion de Datos""))",Chrome 120.0.0.0,,,2024-01-15 09:27:23,2024-01-15 09:27:23,"0,480s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_3 Facturacion""))",Chrome 120.0.0.0,,,2024-01-15 09:27:23,2024-01-15 09:27:23,"0,401s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_5 Inscripciones""))",Chrome 120.0.0.0,,,2024-01-15 09:27:23,2024-01-15 09:27:24,"0,421s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_Elemento(1)/span_Agregar Elementos(1)/servicios/label_10 Renovaciones""))",Chrome 120.0.0.0,,,2024-01-15 09:27:24,2024-01-15 09:27:24,"0,377s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:27:24,2024-01-15 09:27:27,"3,011s",PASSED
+"click(findTestObject(""WIZARD/1Modelo De Negocio/0ArbolDeJerarquia/1Preferencial/4 Preferencial Informacion/span_Elemento(1)/span_Agregar Elementos(1)/btn_Agregar""))",Chrome 120.0.0.0,,,2024-01-15 09:27:27,2024-01-15 09:27:28,"0,444s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:27:28,2024-01-15 09:27:31,"3,014s",PASSED
+takeFullPageScreenshot(),Chrome 120.0.0.0,,,2024-01-15 09:27:31,2024-01-15 09:27:31,"0,820s",PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-15 09:27:31,2024-01-15 09:27:34,"3,010s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,2024-01-15 09:27:34,2024-01-15 09:27:34,"0,000s",PASSED

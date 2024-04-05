@@ -1,0 +1,63 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.5 Crear Terminales Cali,Chrome 122.0.0.0,,,2024-03-11 10:51:22,2024-03-11 10:52:49,"1m - 27,640s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/5Terminales/5.5 Crear Terminales Cali,Chrome 122.0.0.0,,,2024-03-11 10:51:22,2024-03-11 10:52:49,"1m - 27,387s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 122.0.0.0,,,2024-03-11 10:51:22,2024-03-11 10:51:36,"13,801s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 122.0.0.0,,,2024-03-11 10:51:36,2024-03-11 10:51:37,"0,570s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:51:37,2024-03-11 10:51:40,"3,008s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Terminales""))",Chrome 122.0.0.0,inicio Cali Informacion,,2024-03-11 10:51:40,2024-03-11 10:51:40,"0,598s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:51:40,2024-03-11 10:51:43,"3,009s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_2Cali - Chipichape""))",Chrome 122.0.0.0,,,2024-03-11 10:51:43,2024-03-11 10:51:44,"0,467s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:51:44,2024-03-11 10:51:47,"3,018s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo""))",Chrome 122.0.0.0,,,2024-03-11 10:51:47,2024-03-11 10:51:47,"0,501s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:51:47,2024-03-11 10:51:50,"3,009s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo General""))",Chrome 122.0.0.0,,,2024-03-11 10:51:50,2024-03-11 10:51:51,"0,475s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), 2)",Chrome 122.0.0.0,,,2024-03-11 10:51:51,2024-03-11 10:51:52,"0,966s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), ""A01"")",Chrome 122.0.0.0,,,2024-03-11 10:51:52,2024-03-11 10:51:52,"0,853s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion""), ""Cali - Terminal - Informacion"")",Chrome 122.0.0.0,,,2024-03-11 10:51:52,2024-03-11 10:51:53,"0,850s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""), 2)",Chrome 122.0.0.0,,,2024-03-11 10:51:53,2024-03-11 10:51:54,"0,408s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""))",Chrome 122.0.0.0,,,2024-03-11 10:51:54,2024-03-11 10:51:54,"0,430s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 10:51:54,2024-03-11 10:51:54,"0,040s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 10:51:54,2024-03-11 10:51:56,"2,015s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo""))",Chrome 122.0.0.0,,,2024-03-11 10:51:56,2024-03-11 10:51:57,"0,452s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:51:57,2024-03-11 10:52:00,"3,004s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Terminales""))",Chrome 122.0.0.0,inicio Cali PQRS,,2024-03-11 10:52:00,2024-03-11 10:52:00,"0,559s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:52:00,2024-03-11 10:52:03,"3,011s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_2Cali - Chipichape""))",Chrome 122.0.0.0,,,2024-03-11 10:52:03,2024-03-11 10:52:04,"0,468s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:52:04,2024-03-11 10:52:07,"3,009s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo""))",Chrome 122.0.0.0,,,2024-03-11 10:52:07,2024-03-11 10:52:07,"0,416s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:52:07,2024-03-11 10:52:10,"3,016s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo PQRS""))",Chrome 122.0.0.0,,,2024-03-11 10:52:10,2024-03-11 10:52:11,"0,479s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:52:11,2024-03-11 10:52:14,"3,014s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), 2)",Chrome 122.0.0.0,,,2024-03-11 10:52:14,2024-03-11 10:52:14,"0,359s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), ""A02"")",Chrome 122.0.0.0,,,2024-03-11 10:52:14,2024-03-11 10:52:15,"0,761s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion""), ""Cali - Terminal - PQRS"")",Chrome 122.0.0.0,,,2024-03-11 10:52:15,2024-03-11 10:52:15,"0,715s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""), 2)",Chrome 122.0.0.0,,,2024-03-11 10:52:15,2024-03-11 10:52:16,"0,360s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala""), ""2"")",Chrome 122.0.0.0,,,2024-03-11 10:52:16,2024-03-11 10:52:16,"0,700s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""))",Chrome 122.0.0.0,,,2024-03-11 10:52:16,2024-03-11 10:52:17,"0,361s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 10:52:17,2024-03-11 10:52:17,"0,027s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 10:52:17,2024-03-11 10:52:19,"2,003s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo""))",Chrome 122.0.0.0,,,2024-03-11 10:52:19,2024-03-11 10:52:19,"0,426s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:52:19,2024-03-11 10:52:22,"3,017s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Terminales""))",Chrome 122.0.0.0,inicio Cali Radicaciones,,2024-03-11 10:52:22,2024-03-11 10:52:23,"0,538s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:52:23,2024-03-11 10:52:26,"3,018s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/0OficinasModal/td_2Cali - Chipichape""))",Chrome 122.0.0.0,,,2024-03-11 10:52:26,2024-03-11 10:52:26,"0,459s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:52:26,2024-03-11 10:52:29,"3,013s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_SeleccionarGrupo""))",Chrome 122.0.0.0,,,2024-03-11 10:52:29,2024-03-11 10:52:30,"0,427s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:52:30,2024-03-11 10:52:33,"3,013s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/btn_Seleccionar Grupo(1)/a_Grupo Radicaciones""))",Chrome 122.0.0.0,,,2024-03-11 10:52:33,2024-03-11 10:52:33,"0,447s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:52:33,2024-03-11 10:52:36,"3,018s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), 2)",Chrome 122.0.0.0,,,2024-03-11 10:52:36,2024-03-11 10:52:37,"0,417s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Nombre""), ""A03"")",Chrome 122.0.0.0,,,2024-03-11 10:52:37,2024-03-11 10:52:37,"0,732s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/textarea_Descripcion""), ""Cali - Terminal - Radicaciones"")",Chrome 122.0.0.0,,,2024-03-11 10:52:37,2024-03-11 10:52:38,"0,811s",PASSED
+"scrollToElement(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""), 2)",Chrome 122.0.0.0,,,2024-03-11 10:52:38,2024-03-11 10:52:39,"0,378s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/input_Direccion en sala""), ""3"")",Chrome 122.0.0.0,,,2024-03-11 10:52:39,2024-03-11 10:52:39,"0,740s",PASSED
+"check(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/Label/label_Mostrar ventana emergente""))",Chrome 122.0.0.0,,,2024-03-11 10:52:39,2024-03-11 10:52:40,"0,428s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 10:52:40,2024-03-11 10:52:40,"0,017s",PASSED
+delay(2),Chrome 122.0.0.0,,,2024-03-11 10:52:40,2024-03-11 10:52:42,"2,018s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/5Terminales/Edicion/img_Nuevo""))",Chrome 122.0.0.0,,,2024-03-11 10:52:42,2024-03-11 10:52:42,"0,438s",PASSED
+"scrollToPosition(0, 0)",Chrome 122.0.0.0,,,2024-03-11 10:52:42,2024-03-11 10:52:42,"0,025s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:52:42,2024-03-11 10:52:45,"3,016s",PASSED
+takeFullPageScreenshot(),Chrome 122.0.0.0,,,2024-03-11 10:52:45,2024-03-11 10:52:46,"0,872s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 10:52:46,2024-03-11 10:52:49,"3,011s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 122.0.0.0,,,2024-03-11 10:52:49,2024-03-11 10:52:49,"0,008s",PASSED

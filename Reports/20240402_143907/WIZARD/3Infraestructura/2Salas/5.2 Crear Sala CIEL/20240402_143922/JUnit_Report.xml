@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="5.2 Crear Sala CIEL" time="54.059" tests="1" failures="0" errors="0">
+   <testsuite name="5.2 Crear Sala CIEL" tests="1" failures="0" errors="0" time="54.059" skipped="0" timestamp="2024-04-02 14:49:28" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/WIZARD/3Infraestructura/2Salas/5.2 Crear Sala CIEL">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\2Salas\\5.2 Crear Sala CIEL\\20240402_143922"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\2Salas\\5.2 Crear Sala CIEL\\20240402_143922\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\2Salas\\5.2 Crear Sala CIEL\\20240402_143922\\1712087418302.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.18"/>
+         <property name="sessionId" value="c2d3b438d96f7599417b5941972dfbaa"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/WIZARD/3Infraestructura/2Salas/5.2 Crear Sala CIEL" time="53.827" classname="Test Cases/WIZARD/3Infraestructura/2Salas/5.2 Crear Sala CIEL" status="PASSED">
+         <system-out><![CDATA[2024-04-02 14:49:28 - [TEST_CASE][PASSED] - Test Cases/WIZARD/3Infraestructura/2Salas/5.2 Crear Sala CIEL: Test Cases/WIZARD/3Infraestructura/2Salas/5.2 Crear Sala CIEL
+
+2024-04-02 14:49:28 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-02 14:49:28 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-04-02 14:49:29 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-02 14:49:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-04-02 14:49:29 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-04-02 14:49:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-04-02 14:49:32 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-02 14:49:32 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-04-02 14:49:32 - [MESSAGE][PASSED] - Current window maximized
+
+2024-04-02 14:49:32 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:49:35 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:49:35 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-02 14:49:36 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-02 14:49:36 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-02 14:49:37 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-02 14:49:37 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-02 14:49:37 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-02 14:49:37 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:49:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:49:40 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-02 14:49:40 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/0Principal/img_InfraestructuraMAX")): Object: 'Object Repository/WIZARD/0Principal/img_InfraestructuraMAX' is clicked on
+
+2024-04-02 14:49:41 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/0Principal/img_InfraestructuraMAX' is clicked on
+
+2024-04-02 14:49:41 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:49:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:49:44 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/0Menu/span_Salas")): Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Salas' is clicked on
+
+2024-04-02 14:49:45 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/0Menu/span_Salas' is clicked on
+
+2024-04-02 14:49:45 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:49:48 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:49:48 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/btn_SeleccionarOficina")): Object: 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/btn_SeleccionarOficina' is clicked on
+
+2024-04-02 14:49:48 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/btn_SeleccionarOficina' is clicked on
+
+2024-04-02 14:49:48 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 14:49:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 14:49:50 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/btn_Seleccionar Oficina(1)/a_Bogota - CIEL")): Object: 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/btn_Seleccionar Oficina(1)/a_Bogota - CIEL' is clicked on
+
+2024-04-02 14:49:51 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/btn_Seleccionar Oficina(1)/a_Bogota - CIEL' is clicked on
+
+2024-04-02 14:49:51 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-02 14:49:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-02 14:49:53 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/input_Nombre"), "CIEL - Sala General"): Text 'CIEL - Sala General' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/input_Nombre'
+
+2024-04-02 14:49:53 - [MESSAGE][PASSED] - Text 'CIEL - Sala General' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/input_Nombre'
+
+2024-04-02 14:49:53 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/textarea_Descripcion"), "CIEL - Sala General"): Text 'CIEL - Sala General' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/textarea_Descripcion'
+
+2024-04-02 14:49:54 - [MESSAGE][PASSED] - Text 'CIEL - Sala General' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/textarea_Descripcion'
+
+2024-04-02 14:49:54 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/input_MaximoOcupacion"), "100"): Text '100' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/input_MaximoOcupacion'
+
+2024-04-02 14:49:55 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/input_MaximoOcupacion'
+
+2024-04-02 14:49:55 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/input_Tiempo de Abandono HH"), "4"): Text '4' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/input_Tiempo de Abandono HH'
+
+2024-04-02 14:49:56 - [MESSAGE][PASSED] - Text '4' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/input_Tiempo de Abandono HH'
+
+2024-04-02 14:49:56 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:49:59 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:49:59 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Habilitar Agendamiento"), 2): Scroll to object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Habilitar Agendamiento' successfully
+
+2024-04-02 14:49:59 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Habilitar Agendamiento' successfully
+
+2024-04-02 14:49:59 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/Promesa de Espera/input_Minutos promesa de espera"), "10"): Text '10' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Promesa de Espera/input_Minutos promesa de espera'
+
+2024-04-02 14:50:00 - [MESSAGE][PASSED] - Text '10' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Promesa de Espera/input_Minutos promesa de espera'
+
+2024-04-02 14:50:00 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/Promesa de atencion/input_Minutos Promesa Atencion"), "5"): Text '5' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Promesa de atencion/input_Minutos Promesa Atencion'
+
+2024-04-02 14:50:01 - [MESSAGE][PASSED] - Text '5' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Promesa de atencion/input_Minutos Promesa Atencion'
+
+2024-04-02 14:50:01 - [TEST_STEP][PASSED] - check(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Habilitar Agendamiento")): Object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Habilitar Agendamiento' is checked
+
+2024-04-02 14:50:02 - [MESSAGE][PASSED] - Object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Habilitar Agendamiento' is checked
+
+2024-04-02 14:50:02 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:50:05 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:50:05 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/AgendamientoLlamado/Intervalo creacion/input_Minutos Intervalo Creacion"), "2"): Text '2' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/AgendamientoLlamado/Intervalo creacion/input_Minutos Intervalo Creacion'
+
+2024-04-02 14:50:05 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/AgendamientoLlamado/Intervalo creacion/input_Minutos Intervalo Creacion'
+
+2024-04-02 14:50:05 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/AgendamientoLlamado/Tiempo Limite Creacion/input_Minutos Tiempo Limite Creacion"), "2"): Text '2' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/AgendamientoLlamado/Tiempo Limite Creacion/input_Minutos Tiempo Limite Creacion'
+
+2024-04-02 14:50:06 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/AgendamientoLlamado/Tiempo Limite Creacion/input_Minutos Tiempo Limite Creacion'
+
+2024-04-02 14:50:06 - [TEST_STEP][PASSED] - check(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Paso a distraido")): Object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Paso a distraido' is checked
+
+2024-04-02 14:50:07 - [MESSAGE][PASSED] - Object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Label/label_Paso a distraido' is checked
+
+2024-04-02 14:50:07 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:50:10 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:50:10 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/Distraidos/Tiempo Automatico a distraido/input_Tiempo automatico a distrado MM"), "1"): Text '1' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Distraidos/Tiempo Automatico a distraido/input_Tiempo automatico a distrado MM'
+
+2024-04-02 14:50:10 - [MESSAGE][PASSED] - Text '1' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Distraidos/Tiempo Automatico a distraido/input_Tiempo automatico a distrado MM'
+
+2024-04-02 14:50:10 - [TEST_STEP][PASSED] - setText(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/Distraidos/Tiempo de Rellamado/input_Tiempo de Rellamado MM"), "1"): Text '1' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Distraidos/Tiempo de Rellamado/input_Tiempo de Rellamado MM'
+
+2024-04-02 14:50:11 - [MESSAGE][PASSED] - Text '1' is set on object 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/Distraidos/Tiempo de Rellamado/input_Tiempo de Rellamado MM'
+
+2024-04-02 14:50:11 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 14:50:11 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-04-02 14:50:11 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:50:14 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:50:14 - [TEST_STEP][PASSED] - click(findTestObject("WIZARD/3Infraestructura/2Salas/2Edicion/img_Nuevo")): Object: 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/img_Nuevo' is clicked on
+
+2024-04-02 14:50:15 - [MESSAGE][PASSED] - Object: 'Object Repository/WIZARD/3Infraestructura/2Salas/2Edicion/img_Nuevo' is clicked on
+
+2024-04-02 14:50:15 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:50:18 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:50:18 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-02 14:50:18 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-02 14:50:19 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240402_143907\\WIZARD\\3Infraestructura\\2Salas\\5.2 Crear Sala CIEL\\20240402_143922\\1712087418302.png]]
+
+2024-04-02 14:50:19 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-02 14:50:22 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-02 14:50:22 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-04-02 14:49:28 - [TEST_SUITE][PASSED] - 5.2 Crear Sala CIEL: Test Cases/WIZARD/3Infraestructura/2Salas/5.2 Crear Sala CIEL]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

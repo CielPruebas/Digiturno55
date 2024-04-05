@@ -1,0 +1,59 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5.3 Crear Grupos Bocagrande,Chrome 123.0.0.0,,,2024-04-02 15:02:40,2024-04-02 15:04:07,"1m - 26,469s",PASSED
+,,,,,,,
+Test Cases/WIZARD/3Infraestructura/3Grupos/5.3 Crear Grupos Bocagrande,Chrome 123.0.0.0,,,2024-04-02 15:02:40,2024-04-02 15:04:07,"1m - 26,204s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-02 15:02:41,2024-04-02 15:02:53,"12,106s",PASSED
+"click(findTestObject(""WIZARD/0Principal/img_InfraestructuraMAX""))",Chrome 123.0.0.0,,,2024-04-02 15:02:53,2024-04-02 15:02:53,"0,642s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:02:53,2024-04-02 15:02:56,"3,013s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 123.0.0.0,,,2024-04-02 15:02:56,2024-04-02 15:02:57,"0,611s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:02:57,2024-04-02 15:03:00,"3,010s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 123.0.0.0,Se escoge sala Bocagrande - Sala General,,2024-04-02 15:03:00,2024-04-02 15:03:01,"0,459s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:03:01,2024-04-02 15:03:04,"3,012s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_3Bocagrande - Sala General""))",Chrome 123.0.0.0,,,2024-04-02 15:03:04,2024-04-02 15:03:04,"0,471s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:03:04,2024-04-02 15:03:07,"3,006s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo Información"")",Chrome 123.0.0.0,,,2024-04-02 15:03:07,2024-04-02 15:03:08,"0,819s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""Bocagrande - Grupo Información"")",Chrome 123.0.0.0,,,2024-04-02 15:03:08,2024-04-02 15:03:09,"0,848s",PASSED
+"scrollToPosition(0, 800)",Chrome 123.0.0.0,,,2024-04-02 15:03:09,2024-04-02 15:03:09,"0,038s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 123.0.0.0,,,2024-04-02 15:03:09,2024-04-02 15:03:10,"0,832s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 15:03:10,2024-04-02 15:03:12,"2,010s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 123.0.0.0,,,2024-04-02 15:03:12,2024-04-02 15:03:12,"0,819s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 15:03:12,2024-04-02 15:03:14,"2,014s",PASSED
+"scrollToPosition(0, 0)",Chrome 123.0.0.0,,,2024-04-02 15:03:14,2024-04-02 15:03:14,"0,031s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 15:03:14,2024-04-02 15:03:15,"0,510s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:03:15,2024-04-02 15:03:18,"3,006s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 123.0.0.0,Para crear Grupo PQRS,,2024-04-02 15:03:18,2024-04-02 15:03:19,"0,586s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:03:19,2024-04-02 15:03:22,"3,008s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 123.0.0.0,Se escoge sala Bocagrande - Sala General,,2024-04-02 15:03:22,2024-04-02 15:03:22,"0,494s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:03:22,2024-04-02 15:03:25,"3,008s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_3Bocagrande - Sala General""))",Chrome 123.0.0.0,,,2024-04-02 15:03:25,2024-04-02 15:03:25,"0,476s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:03:25,2024-04-02 15:03:29,"3,014s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo PQRS"")",Chrome 123.0.0.0,,,2024-04-02 15:03:29,2024-04-02 15:03:29,"0,763s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""Bocagrande - PQRS"")",Chrome 123.0.0.0,,,2024-04-02 15:03:29,2024-04-02 15:03:30,"0,756s",PASSED
+"scrollToPosition(0, 800)",Chrome 123.0.0.0,,,2024-04-02 15:03:30,2024-04-02 15:03:30,"0,010s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 123.0.0.0,,,2024-04-02 15:03:30,2024-04-02 15:03:31,"0,700s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 15:03:31,2024-04-02 15:03:33,"2,010s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 123.0.0.0,,,2024-04-02 15:03:33,2024-04-02 15:03:34,"0,836s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 15:03:34,2024-04-02 15:03:36,"2,004s",PASSED
+"scrollToPosition(0, 0)",Chrome 123.0.0.0,,,2024-04-02 15:03:36,2024-04-02 15:03:36,"0,021s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 15:03:36,2024-04-02 15:03:36,"0,415s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:03:36,2024-04-02 15:03:39,"3,009s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/0Menu/span_Grupos""))",Chrome 123.0.0.0,Grupo Radicaciones,,2024-04-02 15:03:39,2024-04-02 15:03:40,"0,676s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:03:40,2024-04-02 15:03:43,"3,005s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala""))",Chrome 123.0.0.0,Se escoge sala Bocagrande - Sala General,,2024-04-02 15:03:43,2024-04-02 15:03:43,"0,477s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:03:43,2024-04-02 15:03:46,"3,009s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/btn_Sala(1)/a_3Bocagrande - Sala General""))",Chrome 123.0.0.0,,,2024-04-02 15:03:46,2024-04-02 15:03:47,"0,478s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:03:47,2024-04-02 15:03:50,"3,013s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/input_Nombre""), ""Grupo Radicaciones"")",Chrome 123.0.0.0,,,2024-04-02 15:03:50,2024-04-02 15:03:51,"0,876s",PASSED
+"setText(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/textarea_Descripcion""), ""Bocagrande - Radicaciones"")",Chrome 123.0.0.0,,,2024-04-02 15:03:51,2024-04-02 15:03:51,"0,886s",PASSED
+"scrollToPosition(0, 800)",Chrome 123.0.0.0,,,2024-04-02 15:03:51,2024-04-02 15:03:51,"0,011s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Transferencias""), ""Área"", false)",Chrome 123.0.0.0,,,2024-04-02 15:03:51,2024-04-02 15:03:52,"0,723s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 15:03:52,2024-04-02 15:03:54,"2,014s",PASSED
+"selectOptionByLabel(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/select_Nivel de visualizacion en Nuevo Servicio""), ""Área"", false)",Chrome 123.0.0.0,,,2024-04-02 15:03:54,2024-04-02 15:03:55,"0,802s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 15:03:55,2024-04-02 15:03:57,"2,017s",PASSED
+"scrollToPosition(0, 0)",Chrome 123.0.0.0,,,2024-04-02 15:03:57,2024-04-02 15:03:57,"0,030s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-02 15:03:57,2024-04-02 15:03:59,"2,019s",PASSED
+"click(findTestObject(""WIZARD/3Infraestructura/3Grupos/Edicion/img_Nuevo""))",Chrome 123.0.0.0,,,2024-04-02 15:03:59,2024-04-02 15:04:00,"0,499s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:04:00,2024-04-02 15:04:03,"3,008s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-02 15:04:03,2024-04-02 15:04:04,"0,950s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-02 15:04:04,2024-04-02 15:04:07,"3,008s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-02 15:04:07,2024-04-02 15:04:07,"0,000s",PASSED

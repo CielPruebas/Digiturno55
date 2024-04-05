@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+6 Configuracion Terminales y Selectores,Chrome 122.0.0.0,,,2024-03-11 11:29:55,2024-03-11 11:31:26,"1m - 31,451s",FAILED
+,,,,,,,
+Test Cases/WIZARD/4Configuracion Terminales y Selectores/6 Configuracion de Terminales y Selectores,Chrome 122.0.0.0,,,2024-03-11 11:29:55,2024-03-11 11:31:26,"1m - 31,181s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 122.0.0.0,,,2024-03-11 11:29:55,2024-03-11 11:30:08,"12,333s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/a_1lnkLogo""))",Chrome 122.0.0.0,,,2024-03-11 11:30:08,2024-03-11 11:30:08,"0,543s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:30:08,2024-03-11 11:30:11,"3,010s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/img_2Configuracion""))",Chrome 122.0.0.0,,,2024-03-11 11:30:11,2024-03-11 11:30:12,"0,534s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:30:12,2024-03-11 11:30:15,"3,009s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/img_3Usuarios""))",Chrome 122.0.0.0,,,2024-03-11 11:30:15,2024-03-11 11:30:15,"0,537s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:30:15,2024-03-11 11:30:18,"3,010s",PASSED
+"comment(""Oficina Bogota"")",Chrome 122.0.0.0,,,2024-03-11 11:30:18,2024-03-11 11:30:18,"0,024s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/img_4Usuariosen terminales""))",Chrome 122.0.0.0,,,2024-03-11 11:30:18,2024-03-11 11:30:19,"0,516s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:30:19,2024-03-11 11:30:22,"3,007s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Oficinas/td1_Bogota - CIEL""))",Chrome 122.0.0.0,,,2024-03-11 11:30:22,2024-03-11 11:30:22,"0,429s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:30:22,2024-03-11 11:30:25,"3,015s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/td_6CIEL""))",Chrome 122.0.0.0,,,2024-03-11 11:30:25,2024-03-11 11:30:52,"26,473s",PASSED
+delay(3),Chrome 122.0.0.0,,,2024-03-11 11:30:52,2024-03-11 11:30:55,"3,010s",PASSED
+"click(findTestObject(""WIZARD/4Configuracion Terminales Y Selectores/Usuarios en terminales/Selectores Disponibles/a_SeleccionarTodo""))",Chrome 122.0.0.0,Agregar todos los selectores,,2024-03-11 11:30:55,2024-03-11 11:31:26,"31,318s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 122.0.0.0,,,2024-03-11 11:31:26,2024-03-11 11:31:26,"0,006s",PASSED
