@@ -1,0 +1,52 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+11 Paginas Activar y Desactivar,Chrome 123.0.0.0,,,2024-04-08 09:11:11,2024-04-08 09:12:55,"1m - 44,440s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/11 Paginas Activar o Desactivar,Chrome 123.0.0.0,,,2024-04-08 09:11:11,2024-04-08 09:12:12,"1m - 1,304s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:11:11,2024-04-08 09:11:24,"12,840s",PASSED
+"click(findTestObject(""DIGITURNO/1Principal/img_Configuracion(1)""))",Chrome 123.0.0.0,,,2024-04-08 09:11:24,2024-04-08 09:11:25,"1,135s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:11:25,2024-04-08 09:11:28,"3,017s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/0Principal/img_7Sistema""))",Chrome 123.0.0.0,,,2024-04-08 09:11:28,2024-04-08 09:11:44,"15,998s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:11:44,2024-04-08 09:11:47,"3,013s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/0Principal/img_4 Paginas""))",Chrome 123.0.0.0,,,2024-04-08 09:11:47,2024-04-08 09:11:48,"0,963s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:11:48,2024-04-08 09:11:51,"3,003s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/4 Paginas/Lista de Paginas/input_TextoABuscar""), ""31"")",Chrome 123.0.0.0,,,2024-04-08 09:11:51,2024-04-08 09:11:52,"0,897s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:11:52,2024-04-08 09:11:55,"3,021s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/4 Paginas/Lista de Paginas/img_Editar""), STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:11:55,2024-04-08 09:11:56,"0,478s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:11:56,2024-04-08 09:11:59,"3,015s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/4 Paginas/Lista de Paginas/img_Editar(1)/label_Es visible""), STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:11:59,2024-04-08 09:11:59,"0,486s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:11:59,2024-04-08 09:12:02,"3,014s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/4 Paginas/Lista de Paginas/img_Editar(1)/img_icono Actualizar""))",Chrome 123.0.0.0,,,2024-04-08 09:12:02,2024-04-08 09:12:03,"0,491s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:12:03,2024-04-08 09:12:06,"3,011s",PASSED
+back(),Chrome 123.0.0.0,,,2024-04-08 09:12:06,2024-04-08 09:12:06,"0,063s",PASSED
+back(),Chrome 123.0.0.0,,,2024-04-08 09:12:06,2024-04-08 09:12:06,"0,064s",PASSED
+back(),Chrome 123.0.0.0,,,2024-04-08 09:12:06,2024-04-08 09:12:06,"0,138s",PASSED
+"click(findTestObject(""DIGITURNO/1Principal/img_Configuracion(1)""))",Chrome 123.0.0.0,,,2024-04-08 09:12:06,2024-04-08 09:12:07,"0,641s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:12:07,2024-04-08 09:12:09,"2,007s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-08 09:12:09,2024-04-08 09:12:09,"0,671s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:12:09,2024-04-08 09:12:12,"3,020s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-08 09:12:12,2024-04-08 09:12:12,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/11 Paginas Activar o Desactivar,Chrome 123.0.0.0,,,2024-04-08 09:12:12,2024-04-08 09:12:55,"42,875s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:12:12,2024-04-08 09:12:23,"11,095s",PASSED
+"click(findTestObject(""DIGITURNO/1Principal/img_Configuracion(1)""))",Chrome 123.0.0.0,,,2024-04-08 09:12:23,2024-04-08 09:12:24,"0,602s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:12:24,2024-04-08 09:12:27,"3,013s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/0Principal/img_7Sistema""))",Chrome 123.0.0.0,,,2024-04-08 09:12:27,2024-04-08 09:12:28,"0,630s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:12:28,2024-04-08 09:12:31,"3,013s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/0Principal/img_4 Paginas""))",Chrome 123.0.0.0,,,2024-04-08 09:12:31,2024-04-08 09:12:31,"0,733s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:12:31,2024-04-08 09:12:34,"3,015s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/4 Paginas/Lista de Paginas/input_TextoABuscar""), ""31"")",Chrome 123.0.0.0,,,2024-04-08 09:12:34,2024-04-08 09:12:35,"0,814s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:12:35,2024-04-08 09:12:38,"3,008s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/4 Paginas/Lista de Paginas/img_Editar""), STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:12:38,2024-04-08 09:12:39,"0,429s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:12:39,2024-04-08 09:12:42,"3,011s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/4 Paginas/Lista de Paginas/img_Editar(1)/label_Es visible""), STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:12:42,2024-04-08 09:12:42,"0,477s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:12:42,2024-04-08 09:12:45,"3,009s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/7Sistema/4 Paginas/Lista de Paginas/img_Editar(1)/img_icono Actualizar""))",Chrome 123.0.0.0,,,2024-04-08 09:12:45,2024-04-08 09:12:46,"0,470s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:12:46,2024-04-08 09:12:49,"3,013s",PASSED
+back(),Chrome 123.0.0.0,,,2024-04-08 09:12:49,2024-04-08 09:12:49,"0,080s",PASSED
+back(),Chrome 123.0.0.0,,,2024-04-08 09:12:49,2024-04-08 09:12:49,"0,013s",PASSED
+back(),Chrome 123.0.0.0,,,2024-04-08 09:12:49,2024-04-08 09:12:49,"0,074s",PASSED
+"click(findTestObject(""DIGITURNO/1Principal/img_Configuracion(1)""))",Chrome 123.0.0.0,,,2024-04-08 09:12:49,2024-04-08 09:12:50,"0,766s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:12:50,2024-04-08 09:12:52,"2,013s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-08 09:12:52,2024-04-08 09:12:52,"0,569s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:12:52,2024-04-08 09:12:55,"3,005s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-08 09:12:55,2024-04-08 09:12:55,"0,000s",PASSED

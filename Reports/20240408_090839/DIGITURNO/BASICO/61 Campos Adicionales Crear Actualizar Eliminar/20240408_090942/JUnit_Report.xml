@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="61 Campos Adicionales Crear Actualizar Eliminar" time="135.904" tests="3" failures="0" errors="0">
+   <testsuite name="61 Campos Adicionales Crear Actualizar Eliminar" tests="3" failures="0" errors="0" time="135.904" skipped="0" timestamp="2024-04-08 09:53:02" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/DIGITURNO/BASICO/61 Campos Adicionales Crear Actualizar Eliminar">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712587999193.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712588006772.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712588023771.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712588042099.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712588049310.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712588070559.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712588089140.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712588096648.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712588115087.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.6"/>
+         <property name="sessionId" value="ba8bdc4dfaadfc62b6f25d0a266adc9c"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/DIGITURNO/BASICO/61 Campos Adicionales Crear" time="44.372" classname="Test Cases/DIGITURNO/BASICO/61 Campos Adicionales Crear" status="PASSED">
+         <system-out><![CDATA[2024-04-08 09:53:03 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/61 Campos Adicionales Crear: Test Cases/DIGITURNO/BASICO/61 Campos Adicionales Crear
+
+2024-04-08 09:53:03 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/59 Datos Complementarios"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/59 Datos Complementarios' successfully
+
+2024-04-08 09:53:03 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/59 Datos Complementarios: Test Cases/DIGITURNO/BASICO/59 Datos Complementarios
+
+2024-04-08 09:53:03 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/3 Configuracion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-04-08 09:53:03 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/3 Configuracion: Test Cases/DIGITURNO/BASICO/3 Configuracion
+
+2024-04-08 09:53:04 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 09:53:04 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-04-08 09:53:04 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 09:53:04 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-04-08 09:53:04 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-04-08 09:53:04 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-04-08 09:53:07 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 09:53:07 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-04-08 09:53:07 - [MESSAGE][PASSED] - Current window maximized
+
+2024-04-08 09:53:07 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:53:10 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:53:10 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 09:53:11 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 09:53:11 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 09:53:11 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 09:53:11 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 09:53:12 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 09:53:12 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:53:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:53:15 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 09:53:15 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 09:53:16 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 09:53:16 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:53:19 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:53:19 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 09:53:20 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 09:53:20 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712587999193.png]]
+
+2024-04-08 09:53:20 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:53:23 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:53:23 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-04-08 09:53:23 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_5Datos complementarios")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_5Datos complementarios' is clicked on
+
+2024-04-08 09:53:23 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_5Datos complementarios' is clicked on
+
+2024-04-08 09:53:23 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:53:26 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:53:26 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 09:53:27 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 09:53:27 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712588006772.png]]
+
+2024-04-08 09:53:27 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:53:30 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:53:30 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/59 Datos Complementarios' successfully
+
+2024-04-08 09:53:30 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/5Datos Complementarios/0Principal/img_campos adicionales")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/0Principal/img_campos adicionales' is clicked on
+
+2024-04-08 09:53:31 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/0Principal/img_campos adicionales' is clicked on
+
+2024-04-08 09:53:31 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:53:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:53:34 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/input_Nombre"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/input_Nombre'
+
+2024-04-08 09:53:35 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/input_Nombre'
+
+2024-04-08 09:53:35 - [TEST_STEP][PASSED] - selectOptionByIndex(findTestObject("DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/select_TipoDato"), 3): All options with index in [3] are selected on object 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/select_TipoDato'
+
+2024-04-08 09:53:36 - [MESSAGE][PASSED] - All options with index in [3] are selected on object 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/select_TipoDato'
+
+2024-04-08 09:53:36 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:53:39 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:53:39 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/input_Valor por defecto"), "0"): Text '0' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/input_Valor por defecto'
+
+2024-04-08 09:53:40 - [MESSAGE][PASSED] - Text '0' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/input_Valor por defecto'
+
+2024-04-08 09:53:40 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/img_Nuevo")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/img_Nuevo' is clicked on
+
+2024-04-08 09:53:40 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/img_Nuevo' is clicked on
+
+2024-04-08 09:53:40 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:53:43 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:53:43 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 09:53:44 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 09:53:44 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712588023771.png]]
+
+2024-04-08 09:53:44 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:53:47 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:53:47 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DIGITURNO/BASICO/61 Campos Adicionales Actualizar" time="46.74" classname="Test Cases/DIGITURNO/BASICO/61 Campos Adicionales Actualizar" status="PASSED">
+         <system-out><![CDATA[2024-04-08 09:53:47 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/61 Campos Adicionales Actualizar: Test Cases/DIGITURNO/BASICO/61 Campos Adicionales Actualizar
+
+2024-04-08 09:53:47 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/59 Datos Complementarios"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/59 Datos Complementarios' successfully
+
+2024-04-08 09:53:48 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/59 Datos Complementarios: Test Cases/DIGITURNO/BASICO/59 Datos Complementarios
+
+2024-04-08 09:53:48 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/3 Configuracion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-04-08 09:53:48 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/3 Configuracion: Test Cases/DIGITURNO/BASICO/3 Configuracion
+
+2024-04-08 09:53:48 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 09:53:48 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-04-08 09:53:48 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 09:53:48 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-04-08 09:53:48 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-04-08 09:53:48 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-04-08 09:53:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-04-08 09:53:50 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 09:53:50 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-04-08 09:53:50 - [MESSAGE][PASSED] - Current window maximized
+
+2024-04-08 09:53:50 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:53:53 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:53:53 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 09:53:54 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 09:53:54 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 09:53:55 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 09:53:55 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 09:53:55 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 09:53:55 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:53:58 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:53:58 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 09:53:58 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 09:53:59 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 09:53:59 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:54:02 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:54:02 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 09:54:02 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 09:54:02 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712588042099.png]]
+
+2024-04-08 09:54:02 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:54:05 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:54:05 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-04-08 09:54:05 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_5Datos complementarios")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_5Datos complementarios' is clicked on
+
+2024-04-08 09:54:06 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_5Datos complementarios' is clicked on
+
+2024-04-08 09:54:06 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:54:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:54:09 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 09:54:09 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 09:54:09 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712588049310.png]]
+
+2024-04-08 09:54:09 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:54:12 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:54:12 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/59 Datos Complementarios' successfully
+
+2024-04-08 09:54:12 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/5Datos Complementarios/0Principal/img_campos adicionales")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/0Principal/img_campos adicionales' is clicked on
+
+2024-04-08 09:54:13 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/0Principal/img_campos adicionales' is clicked on
+
+2024-04-08 09:54:13 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:54:16 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:54:16 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/0 Lista de campos/input_TextoABuscar"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/0 Lista de campos/input_TextoABuscar'
+
+2024-04-08 09:54:17 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/0 Lista de campos/input_TextoABuscar'
+
+2024-04-08 09:54:17 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:54:20 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:54:20 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/0 Lista de campos/td_1 Seleccion")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/0 Lista de campos/td_1 Seleccion' is clicked on
+
+2024-04-08 09:54:20 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/0 Lista de campos/td_1 Seleccion' is clicked on
+
+2024-04-08 09:54:20 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:54:23 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:54:23 - [TEST_STEP][PASSED] - selectOptionByIndex(findTestObject("DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/select_TipoDato"), 4): All options with index in [4] are selected on object 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/select_TipoDato'
+
+2024-04-08 09:54:25 - [MESSAGE][PASSED] - All options with index in [4] are selected on object 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/select_TipoDato'
+
+2024-04-08 09:54:25 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-08 09:54:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-08 09:54:27 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/img_Actualizar")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/img_Actualizar' is clicked on
+
+2024-04-08 09:54:27 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/img_Actualizar' is clicked on
+
+2024-04-08 09:54:27 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:54:30 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:54:30 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 09:54:31 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 09:54:31 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712588070559.png]]
+
+2024-04-08 09:54:31 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:54:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:54:34 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DIGITURNO/BASICO/61 Campos Adicionales Eliminar" time="44.529" classname="Test Cases/DIGITURNO/BASICO/61 Campos Adicionales Eliminar" status="PASSED">
+         <system-out><![CDATA[2024-04-08 09:54:34 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/61 Campos Adicionales Eliminar: Test Cases/DIGITURNO/BASICO/61 Campos Adicionales Eliminar
+
+2024-04-08 09:54:34 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/59 Datos Complementarios"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/59 Datos Complementarios' successfully
+
+2024-04-08 09:54:34 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/59 Datos Complementarios: Test Cases/DIGITURNO/BASICO/59 Datos Complementarios
+
+2024-04-08 09:54:34 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/3 Configuracion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-04-08 09:54:34 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/3 Configuracion: Test Cases/DIGITURNO/BASICO/3 Configuracion
+
+2024-04-08 09:54:34 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 09:54:34 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-04-08 09:54:34 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 09:54:34 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-04-08 09:54:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-04-08 09:54:35 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-04-08 09:54:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-04-08 09:54:37 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 09:54:37 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-04-08 09:54:37 - [MESSAGE][PASSED] - Current window maximized
+
+2024-04-08 09:54:37 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:54:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:54:40 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 09:54:41 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 09:54:41 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 09:54:41 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 09:54:41 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 09:54:42 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 09:54:42 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:54:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:54:45 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 09:54:45 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 09:54:46 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 09:54:46 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:54:49 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:54:49 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 09:54:49 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 09:54:49 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712588089140.png]]
+
+2024-04-08 09:54:49 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:54:52 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:54:52 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-04-08 09:54:52 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_5Datos complementarios")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_5Datos complementarios' is clicked on
+
+2024-04-08 09:54:53 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_5Datos complementarios' is clicked on
+
+2024-04-08 09:54:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:54:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:54:56 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 09:54:57 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 09:54:57 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712588096648.png]]
+
+2024-04-08 09:54:57 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:55:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:55:00 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/59 Datos Complementarios' successfully
+
+2024-04-08 09:55:00 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/5Datos Complementarios/0Principal/img_campos adicionales")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/0Principal/img_campos adicionales' is clicked on
+
+2024-04-08 09:55:01 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/0Principal/img_campos adicionales' is clicked on
+
+2024-04-08 09:55:01 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:55:04 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:55:04 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/0 Lista de campos/input_TextoABuscar"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/0 Lista de campos/input_TextoABuscar'
+
+2024-04-08 09:55:04 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/0 Lista de campos/input_TextoABuscar'
+
+2024-04-08 09:55:04 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:55:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:55:07 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/0 Lista de campos/td_1 Seleccion")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/0 Lista de campos/td_1 Seleccion' is clicked on
+
+2024-04-08 09:55:08 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/0 Lista de campos/td_1 Seleccion' is clicked on
+
+2024-04-08 09:55:08 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:55:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:55:11 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/img_Eliminar")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/img_Eliminar' is clicked on
+
+2024-04-08 09:55:11 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/img_Eliminar' is clicked on
+
+2024-04-08 09:55:11 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/img_Eliminar")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/img_Eliminar' is clicked on
+
+2024-04-08 09:55:12 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/img_Eliminar' is clicked on
+
+2024-04-08 09:55:12 - [TEST_STEP][PASSED] - acceptAlert(): Alert accepted
+
+2024-04-08 09:55:12 - [MESSAGE][PASSED] - Alert accepted
+
+2024-04-08 09:55:12 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:55:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:55:15 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 09:55:15 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 09:55:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\61 Campos Adicionales Crear Actualizar Eliminar\\20240408_090942\\1712588115087.png]]
+
+2024-04-08 09:55:15 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:55:18 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:55:18 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-04-08 09:53:02 - [TEST_SUITE][PASSED] - 61 Campos Adicionales Crear Actualizar Eliminar: Test Cases/DIGITURNO/BASICO/61 Campos Adicionales Eliminar]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

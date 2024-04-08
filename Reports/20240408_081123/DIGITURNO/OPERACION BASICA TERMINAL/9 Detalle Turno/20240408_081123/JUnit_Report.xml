@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="9 Detalle Turno" time="87.795" tests="1" failures="1" errors="0">
+   <testsuite name="9 Detalle Turno" tests="1" failures="1" errors="0" time="87.795" skipped="0" timestamp="2024-04-08 08:11:29" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/DIGITURNO/OPERACION BASICA TERMINAL/9 Detalle Turno">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_081123\\DIGITURNO\\OPERACION BASICA TERMINAL\\9 Detalle Turno\\20240408_081123"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_081123\\DIGITURNO\\OPERACION BASICA TERMINAL\\9 Detalle Turno\\20240408_081123\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_081123\\DIGITURNO\\OPERACION BASICA TERMINAL\\9 Detalle Turno\\20240408_081123\\1712581900888.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_081123\\DIGITURNO\\OPERACION BASICA TERMINAL\\9 Detalle Turno\\20240408_081123\\1712581936072.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_081123\\DIGITURNO\\OPERACION BASICA TERMINAL\\9 Detalle Turno\\20240408_081123\\1712581976639.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.6"/>
+         <property name="sessionId" value="acb43850d5952f8825d7fbf2018c81a3"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/DIGITURNO/OPERACION BASICA TERMINAL/9 Detalle Turno" time="87.526" classname="Test Cases/DIGITURNO/OPERACION BASICA TERMINAL/9 Detalle Turno" status="FAILED">
+         <failure type="FAILED" message="Test Cases/DIGITURNO/OPERACION BASICA TERMINAL/9 Detalle Turno FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 9 Detalle Turno.run(9 Detalle Turno:68)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712581883876.run(TempTestSuite1712581883876.groovy:35)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;img src=&quot;../../../img/Iconos/Terminal/btnCerrar.svg&quot;> is not clickable at point (438, 93). Other element would receive the click: &lt;div class=&quot;ventanaModal&quot; id=&quot;divVentanaModal&quot; style=&quot;display: flex;&quot;>...&lt;/div>
+  (Session info: chrome=123.0.6312.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52523}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: acb43850d5952f8825d7fbf2018c81a3
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-04-08 08:11:29 - [TEST_CASE][FAILED] - Test Cases/DIGITURNO/OPERACION BASICA TERMINAL/9 Detalle Turno: Test Cases/DIGITURNO/OPERACION BASICA TERMINAL/9 Detalle Turno FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 9 Detalle Turno.run(9 Detalle Turno:68)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712581883876.run(TempTestSuite1712581883876.groovy:35)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <img src="../../../img/Iconos/Terminal/btnCerrar.svg"> is not clickable at point (438, 93). Other element would receive the click: <div class="ventanaModal" id="divVentanaModal" style="display: flex;">...</div>
+  (Session info: chrome=123.0.6312.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52523}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: acb43850d5952f8825d7fbf2018c81a3
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-04-08 08:11:29 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesionOperacionBasica"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesionOperacionBasica' successfully
+
+2024-04-08 08:11:29 - [TEST_CASE][PASSED] - Test Cases/0InicioSesionOperacionBasica: Test Cases/0InicioSesionOperacionBasica
+
+2024-04-08 08:11:30 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 08:11:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-04-08 08:11:30 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-04-08 08:11:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-04-08 08:11:32 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 08:11:32 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-04-08 08:11:32 - [MESSAGE][PASSED] - Current window maximized
+
+2024-04-08 08:11:32 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 08:11:35 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 08:11:35 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 08:11:36 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 08:11:36 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 08:11:37 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 08:11:37 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 08:11:37 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 08:11:37 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 08:11:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 08:11:40 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 08:11:41 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 08:11:41 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_081123\\DIGITURNO\\OPERACION BASICA TERMINAL\\9 Detalle Turno\\20240408_081123\\1712581900888.png]]
+
+2024-04-08 08:11:41 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 08:11:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 08:11:44 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesionOperacionBasica' successfully
+
+2024-04-08 08:11:44 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Operacion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Operacion(1)' is clicked on
+
+2024-04-08 08:11:45 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Operacion(1)' is clicked on
+
+2024-04-08 08:11:45 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 08:11:48 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 08:11:48 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/0Principal/Elementos del Sistema/img_Terminales")): Object: 'Object Repository/DIGITURNO/OPERACION/0Principal/Elementos del Sistema/img_Terminales' is clicked on
+
+2024-04-08 08:11:48 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/0Principal/Elementos del Sistema/img_Terminales' is clicked on
+
+2024-04-08 08:11:48 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 08:11:51 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 08:11:51 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/2Terminales/0Oficinas/td_1Bogota - CIEL")): Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/0Oficinas/td_1Bogota - CIEL' is clicked on
+
+2024-04-08 08:11:52 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/0Oficinas/td_1Bogota - CIEL' is clicked on
+
+2024-04-08 08:11:52 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 08:11:55 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 08:11:55 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/2Terminales/0Terminales (Menos WorkFlow)/td_1 - Terminal - Informacion")): Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/0Terminales (Menos WorkFlow)/td_1 - Terminal - Informacion' is clicked on
+
+2024-04-08 08:11:55 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/0Terminales (Menos WorkFlow)/td_1 - Terminal - Informacion' is clicked on
+
+2024-04-08 08:11:55 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 08:11:58 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 08:11:58 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2024-04-08 08:11:58 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2024-04-08 08:11:58 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 08:12:01 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 08:12:01 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/2Terminales/Terminal/img_Llamar")): Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Llamar' is clicked on
+
+2024-04-08 08:12:02 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Llamar' is clicked on
+
+2024-04-08 08:12:02 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 08:12:05 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 08:12:05 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/2Terminales/Terminal/img_Ocupado")): Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Ocupado' is clicked on
+
+2024-04-08 08:12:06 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Ocupado' is clicked on
+
+2024-04-08 08:12:06 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 08:12:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 08:12:09 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/2Terminales/Terminal/img_Ocupado(1)/a_1Actualizacion de Datos")): Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Ocupado(1)/a_1Actualizacion de Datos' is clicked on
+
+2024-04-08 08:12:10 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Ocupado(1)/a_1Actualizacion de Datos' is clicked on
+
+2024-04-08 08:12:10 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 08:12:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 08:12:13 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/2Terminales/Terminal/img_Detalle")): Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Detalle' is clicked on
+
+2024-04-08 08:12:14 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Detalle' is clicked on
+
+2024-04-08 08:12:14 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-08 08:12:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-08 08:12:16 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 08:12:16 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 08:12:16 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_081123\\DIGITURNO\\OPERACION BASICA TERMINAL\\9 Detalle Turno\\20240408_081123\\1712581936072.png]]
+
+2024-04-08 08:12:16 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 08:12:19 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 08:12:19 - [TEST_STEP][PASSED] - sendKeys(findTestObject(null), Keys.chord(ESCAPE)): Keys 'ESCAPE + ' sent to object: 'tempBody'
+
+2024-04-08 08:12:19 - [MESSAGE][WARNING] - Test object id is null
+
+2024-04-08 08:12:19 - [MESSAGE][WARNING] - Test object with id 'Object Repository/' does not exist
+
+2024-04-08 08:12:20 - [MESSAGE][PASSED] - Keys 'ESCAPE + ' sent to object: 'tempBody'
+
+2024-04-08 08:12:20 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 08:12:23 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 08:12:23 - [TEST_STEP][FAILED] - click(findTestObject("DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar")): Unable to click on object 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 9 Detalle Turno.run(9 Detalle Turno:68)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712581883876.run(TempTestSuite1712581883876.groovy:35)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <img src="../../../img/Iconos/Terminal/btnCerrar.svg"> is not clickable at point (438, 93). Other element would receive the click: <div class="ventanaModal" id="divVentanaModal" style="display: flex;">...</div>
+  (Session info: chrome=123.0.6312.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52523}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: acb43850d5952f8825d7fbf2018c81a3
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1654200211946.run(Script1654200211946.groovy:68)
+	... 13 more
+)
+
+2024-04-08 08:12:56 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 9 Detalle Turno.run(9 Detalle Turno:68)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712581883876.run(TempTestSuite1712581883876.groovy:35)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <img src="../../../img/Iconos/Terminal/btnCerrar.svg"> is not clickable at point (438, 93). Other element would receive the click: <div class="ventanaModal" id="divVentanaModal" style="display: flex;">...</div>
+  (Session info: chrome=123.0.6312.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52523}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: acb43850d5952f8825d7fbf2018c81a3
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1654200211946.run(Script1654200211946.groovy:68)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_081123\\DIGITURNO\\OPERACION BASICA TERMINAL\\9 Detalle Turno\\20240408_081123\\1712581976639.png]]
+
+2024-04-08 08:12:56 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-04-08 08:11:29 - [TEST_CASE][FAILED] - Test Cases/DIGITURNO/OPERACION BASICA TERMINAL/9 Detalle Turno: Test Cases/DIGITURNO/OPERACION BASICA TERMINAL/9 Detalle Turno FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 9 Detalle Turno.run(9 Detalle Turno:68)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712581883876.run(TempTestSuite1712581883876.groovy:35)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <img src="../../../img/Iconos/Terminal/btnCerrar.svg"> is not clickable at point (438, 93). Other element would receive the click: <div class="ventanaModal" id="divVentanaModal" style="display: flex;">...</div>
+  (Session info: chrome=123.0.6312.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52523}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: acb43850d5952f8825d7fbf2018c81a3
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-04-08 08:11:29 - [TEST_SUITE][FAILED] - 9 Detalle Turno: Test Cases/DIGITURNO/OPERACION BASICA TERMINAL/9 Detalle Turno FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 9 Detalle Turno.run(9 Detalle Turno:68)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712581883876.run(TempTestSuite1712581883876.groovy:35)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <img src="../../../img/Iconos/Terminal/btnCerrar.svg"> is not clickable at point (438, 93). Other element would receive the click: <div class="ventanaModal" id="divVentanaModal" style="display: flex;">...</div>
+  (Session info: chrome=123.0.6312.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52523}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: acb43850d5952f8825d7fbf2018c81a3
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2024-04-08 08:11:29 - [TEST_SUITE][FAILED] - 9 Detalle Turno: Test Cases/DIGITURNO/OPERACION BASICA TERMINAL/9 Detalle Turno FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/OPERACION/2Terminales/Terminal/img_Cerrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 9 Detalle Turno.run(9 Detalle Turno:68)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712581883876.run(TempTestSuite1712581883876.groovy:35)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <img src="../../../img/Iconos/Terminal/btnCerrar.svg"> is not clickable at point (438, 93). Other element would receive the click: <div class="ventanaModal" id="divVentanaModal" style="display: flex;">...</div>
+  (Session info: chrome=123.0.6312.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52523}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: acb43850d5952f8825d7fbf2018c81a3
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="79 Parametros Generales" time="41.125" tests="1" failures="0" errors="0">
+   <testsuite name="79 Parametros Generales" tests="1" failures="0" errors="0" time="41.125" skipped="0" timestamp="2024-04-08 10:02:54" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/DIGITURNO/BASICO/79 Parametros Generales">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\79 Parametros Generales\\20240408_090954"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\79 Parametros Generales\\20240408_090954\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\79 Parametros Generales\\20240408_090954\\1712588595068.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\79 Parametros Generales\\20240408_090954\\1712588612128.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.6"/>
+         <property name="sessionId" value="4210d1f5b1ca3c0a2e83be7f31be715b"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/DIGITURNO/BASICO/79 Parametros Generales" time="40.883" classname="Test Cases/DIGITURNO/BASICO/79 Parametros Generales" status="PASSED">
+         <system-out><![CDATA[2024-04-08 10:02:54 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/79 Parametros Generales: Test Cases/DIGITURNO/BASICO/79 Parametros Generales
+
+2024-04-08 10:02:55 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/30 Sistema"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/30 Sistema' successfully
+
+2024-04-08 10:02:55 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/30 Sistema: Test Cases/DIGITURNO/BASICO/30 Sistema
+
+2024-04-08 10:02:55 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 10:02:55 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-04-08 10:02:55 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 10:02:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-04-08 10:02:56 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-04-08 10:02:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-04-08 10:02:59 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 10:02:59 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-04-08 10:02:59 - [MESSAGE][PASSED] - Current window maximized
+
+2024-04-08 10:02:59 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:03:02 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:03:02 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 10:03:03 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 10:03:03 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 10:03:04 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 10:03:04 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 10:03:04 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 10:03:04 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:03:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:03:07 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 10:03:07 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 10:03:08 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 10:03:08 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:03:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:03:11 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_7Sistema")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_7Sistema' is clicked on
+
+2024-04-08 10:03:12 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_7Sistema' is clicked on
+
+2024-04-08 10:03:12 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:03:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:03:15 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 10:03:15 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 10:03:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\79 Parametros Generales\\20240408_090954\\1712588595068.png]]
+
+2024-04-08 10:03:15 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:03:18 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:03:18 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/30 Sistema' successfully
+
+2024-04-08 10:03:18 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/7Sistema/0Principal/img_1 Parametros Generales")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/7Sistema/0Principal/img_1 Parametros Generales' is clicked on
+
+2024-04-08 10:03:19 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/7Sistema/0Principal/img_1 Parametros Generales' is clicked on
+
+2024-04-08 10:03:19 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:03:22 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:03:22 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/7Sistema/1 Parametros Generales/input_Busqueda"), "idiom"): Text 'idiom' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/7Sistema/1 Parametros Generales/input_Busqueda'
+
+2024-04-08 10:03:23 - [MESSAGE][PASSED] - Text 'idiom' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/7Sistema/1 Parametros Generales/input_Busqueda'
+
+2024-04-08 10:03:23 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/7Sistema/1 Parametros Generales/img_Filtrar")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/7Sistema/1 Parametros Generales/img_Filtrar' is clicked on
+
+2024-04-08 10:03:24 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/7Sistema/1 Parametros Generales/img_Filtrar' is clicked on
+
+2024-04-08 10:03:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-08 10:03:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-08 10:03:26 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/7Sistema/1 Parametros Generales/Lista Botones Editar/btn_Editar 1")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/7Sistema/1 Parametros Generales/Lista Botones Editar/btn_Editar 1' is clicked on
+
+2024-04-08 10:03:26 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/7Sistema/1 Parametros Generales/Lista Botones Editar/btn_Editar 1' is clicked on
+
+2024-04-08 10:03:26 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-08 10:03:28 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-08 10:03:28 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/7Sistema/1 Parametros Generales/Pestanas/Cambiar Parametros/Texto/a_Guardar")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/7Sistema/1 Parametros Generales/Pestanas/Cambiar Parametros/Texto/a_Guardar' is clicked on
+
+2024-04-08 10:03:29 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/7Sistema/1 Parametros Generales/Pestanas/Cambiar Parametros/Texto/a_Guardar' is clicked on
+
+2024-04-08 10:03:29 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:03:32 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:03:32 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 10:03:32 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 10:03:32 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\79 Parametros Generales\\20240408_090954\\1712588612128.png]]
+
+2024-04-08 10:03:32 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:03:35 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:03:35 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-04-08 10:02:54 - [TEST_SUITE][PASSED] - 79 Parametros Generales: Test Cases/DIGITURNO/BASICO/79 Parametros Generales]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

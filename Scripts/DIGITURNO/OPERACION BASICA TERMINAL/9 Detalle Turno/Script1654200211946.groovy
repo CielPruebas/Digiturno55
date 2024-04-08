@@ -61,7 +61,7 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.delay(3)
 
-WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.ESCAPE))
+WebUI.click(findTestObject('DIGITURNO/OPERACION/2Terminales/Terminal/img_Detalle(1)/a_cerrar'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3)
 

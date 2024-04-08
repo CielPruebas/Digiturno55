@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="38 Selectores Crear Actualizar Eliminar" time="199.275" tests="3" failures="3" errors="0">
+   <testsuite name="38 Selectores Crear Actualizar Eliminar" tests="3" failures="3" errors="0" time="199.275" skipped="0" timestamp="2024-04-08 09:37:15" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/DIGITURNO/BASICO/38 Selectores Crear Actualizar Eliminar">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587051363.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587058638.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587102134.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587116666.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587123951.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587167596.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587183682.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587190896.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587234552.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.6"/>
+         <property name="sessionId" value="a6de14e1c1ca19e57b56a27edbc7bf88"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/DIGITURNO/BASICO/38 Selectores Crear" time="66.681" classname="Test Cases/DIGITURNO/BASICO/38 Selectores Crear" status="FAILED">
+         <failure type="FAILED" message="Test Cases/DIGITURNO/BASICO/38 Selectores Crear FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/img_Nuevo'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selectores Crear.run(38 Selectores Crear:47)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;img id=&quot;cPHPri_ctl04_TabEdicion_MenuEdicionEditar_imgNuevo&quot; src=&quot;../../../img/Iconos/Edicion/Nuevo2.svg&quot; style=&quot;border-width:0px;&quot;> is not clickable at point (67, 46). Other element would receive the click: &lt;img id=&quot;ImageLogo&quot; src=&quot;../../../App_Themes/Defecto/img/Digiturno5Plus.svg&quot; style=&quot;border-style: none; border-width: 0px; opacity: 1;&quot;>
+  (Session info: chrome=123.0.6312.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51834}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e470b5350fb30305cd3645ca6055b90
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-04-08 09:37:15 - [TEST_CASE][FAILED] - Test Cases/DIGITURNO/BASICO/38 Selectores Crear: Test Cases/DIGITURNO/BASICO/38 Selectores Crear FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/img_Nuevo'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selectores Crear.run(38 Selectores Crear:47)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <img id="cPHPri_ctl04_TabEdicion_MenuEdicionEditar_imgNuevo" src="../../../img/Iconos/Edicion/Nuevo2.svg" style="border-width:0px;"> is not clickable at point (67, 46). Other element would receive the click: <img id="ImageLogo" src="../../../App_Themes/Defecto/img/Digiturno5Plus.svg" style="border-style: none; border-width: 0px; opacity: 1;">
+  (Session info: chrome=123.0.6312.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51834}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e470b5350fb30305cd3645ca6055b90
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-04-08 09:37:15 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/32 Elementos del Sistema"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema' successfully
+
+2024-04-08 09:37:16 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema: Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema
+
+2024-04-08 09:37:16 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/3 Configuracion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-04-08 09:37:16 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/3 Configuracion: Test Cases/DIGITURNO/BASICO/3 Configuracion
+
+2024-04-08 09:37:16 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 09:37:16 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-04-08 09:37:17 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 09:37:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-04-08 09:37:17 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-04-08 09:37:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-04-08 09:37:19 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 09:37:19 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-04-08 09:37:19 - [MESSAGE][PASSED] - Current window maximized
+
+2024-04-08 09:37:19 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:37:22 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:37:22 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 09:37:23 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 09:37:23 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 09:37:24 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 09:37:24 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 09:37:24 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 09:37:24 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:37:27 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:37:27 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 09:37:27 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 09:37:28 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 09:37:28 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:37:31 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:37:31 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 09:37:31 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 09:37:31 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587051363.png]]
+
+2024-04-08 09:37:31 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:37:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:37:34 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-04-08 09:37:34 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema' is clicked on
+
+2024-04-08 09:37:35 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema' is clicked on
+
+2024-04-08 09:37:35 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:37:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:37:38 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 09:37:39 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 09:37:39 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587058638.png]]
+
+2024-04-08 09:37:39 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:37:42 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:37:42 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema' successfully
+
+2024-04-08 09:37:42 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_1Selectores")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_1Selectores' is clicked on
+
+2024-04-08 09:37:43 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_1Selectores' is clicked on
+
+2024-04-08 09:37:43 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/0Oficina Modal/td_1Bogota - CIEL")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/0Oficina Modal/td_1Bogota - CIEL' is clicked on
+
+2024-04-08 09:37:43 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/0Oficina Modal/td_1Bogota - CIEL' is clicked on
+
+2024-04-08 09:37:43 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/btn_SelecccionarOficina"), 2): Scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/btn_SelecccionarOficina' successfully
+
+2024-04-08 09:37:44 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/btn_SelecccionarOficina' successfully
+
+2024-04-08 09:37:44 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/btn_SelecccionarOficina"), STOP_ON_FAILURE): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/btn_SelecccionarOficina' is clicked on
+
+2024-04-08 09:37:45 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/btn_SelecccionarOficina' is clicked on
+
+2024-04-08 09:37:45 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/btn_SeleccionarOficina(1)/td_Bogota - CIEL")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/btn_SeleccionarOficina(1)/td_Bogota - CIEL' is clicked on
+
+2024-04-08 09:37:45 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/btn_SeleccionarOficina(1)/td_Bogota - CIEL' is clicked on
+
+2024-04-08 09:37:45 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/input_Nombre"), 2): Scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/input_Nombre' successfully
+
+2024-04-08 09:37:46 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/input_Nombre' successfully
+
+2024-04-08 09:37:46 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/input_Nombre"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/input_Nombre'
+
+2024-04-08 09:37:47 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/input_Nombre'
+
+2024-04-08 09:37:47 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/textarea_Descripcion"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/textarea_Descripcion'
+
+2024-04-08 09:37:48 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/textarea_Descripcion'
+
+2024-04-08 09:37:48 - [TEST_STEP][PASSED] - check(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/label_Habilitado")): Object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/label_Habilitado' is checked
+
+2024-04-08 09:37:48 - [MESSAGE][PASSED] - Object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/label_Habilitado' is checked
+
+2024-04-08 09:37:48 - [TEST_STEP][PASSED] - check(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/label_Balanceo entre salas")): Object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/label_Balanceo entre salas' is checked
+
+2024-04-08 09:37:49 - [MESSAGE][PASSED] - Object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/label_Balanceo entre salas' is checked
+
+2024-04-08 09:37:49 - [TEST_STEP][FAILED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/img_Nuevo")): Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/img_Nuevo' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/img_Nuevo'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selectores Crear.run(38 Selectores Crear:47)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <img id="cPHPri_ctl04_TabEdicion_MenuEdicionEditar_imgNuevo" src="../../../img/Iconos/Edicion/Nuevo2.svg" style="border-width:0px;"> is not clickable at point (67, 46). Other element would receive the click: <img id="ImageLogo" src="../../../App_Themes/Defecto/img/Digiturno5Plus.svg" style="border-style: none; border-width: 0px; opacity: 1;">
+  (Session info: chrome=123.0.6312.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51834}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e470b5350fb30305cd3645ca6055b90
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1652714729671.run(Script1652714729671.groovy:47)
+	... 13 more
+)
+
+2024-04-08 09:38:22 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/img_Nuevo' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/img_Nuevo'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selectores Crear.run(38 Selectores Crear:47)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <img id="cPHPri_ctl04_TabEdicion_MenuEdicionEditar_imgNuevo" src="../../../img/Iconos/Edicion/Nuevo2.svg" style="border-width:0px;"> is not clickable at point (67, 46). Other element would receive the click: <img id="ImageLogo" src="../../../App_Themes/Defecto/img/Digiturno5Plus.svg" style="border-style: none; border-width: 0px; opacity: 1;">
+  (Session info: chrome=123.0.6312.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51834}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e470b5350fb30305cd3645ca6055b90
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1652714729671.run(Script1652714729671.groovy:47)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587102134.png]]
+
+2024-04-08 09:38:22 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-04-08 09:37:15 - [TEST_CASE][FAILED] - Test Cases/DIGITURNO/BASICO/38 Selectores Crear: Test Cases/DIGITURNO/BASICO/38 Selectores Crear FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/img_Nuevo'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selectores Crear.run(38 Selectores Crear:47)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <img id="cPHPri_ctl04_TabEdicion_MenuEdicionEditar_imgNuevo" src="../../../img/Iconos/Edicion/Nuevo2.svg" style="border-width:0px;"> is not clickable at point (67, 46). Other element would receive the click: <img id="ImageLogo" src="../../../App_Themes/Defecto/img/Digiturno5Plus.svg" style="border-style: none; border-width: 0px; opacity: 1;">
+  (Session info: chrome=123.0.6312.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51834}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e470b5350fb30305cd3645ca6055b90
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DIGITURNO/BASICO/38 Selectores Actualizar" time="65.38" classname="Test Cases/DIGITURNO/BASICO/38 Selectores Actualizar" status="FAILED">
+         <failure type="FAILED" message="Test Cases/DIGITURNO/BASICO/38 Selectores Actualizar FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selectores Actualizar.run(38 Selectores Actualizar:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda' located by '//table[@id='cPHPri_Selectores1_GridView']/tbody/tr/td[3]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-04-08 09:38:22 - [TEST_CASE][FAILED] - Test Cases/DIGITURNO/BASICO/38 Selectores Actualizar: Test Cases/DIGITURNO/BASICO/38 Selectores Actualizar FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selectores Actualizar.run(38 Selectores Actualizar:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda' located by '//table[@id='cPHPri_Selectores1_GridView']/tbody/tr/td[3]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-04-08 09:38:22 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/32 Elementos del Sistema"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema' successfully
+
+2024-04-08 09:38:22 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema: Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema
+
+2024-04-08 09:38:22 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/3 Configuracion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-04-08 09:38:22 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/3 Configuracion: Test Cases/DIGITURNO/BASICO/3 Configuracion
+
+2024-04-08 09:38:22 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 09:38:22 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-04-08 09:38:22 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 09:38:22 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-04-08 09:38:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-04-08 09:38:23 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-04-08 09:38:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-04-08 09:38:25 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 09:38:25 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-04-08 09:38:25 - [MESSAGE][PASSED] - Current window maximized
+
+2024-04-08 09:38:25 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:38:28 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:38:28 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 09:38:28 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 09:38:28 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 09:38:29 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 09:38:29 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 09:38:30 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 09:38:30 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:38:33 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:38:33 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 09:38:33 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 09:38:33 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 09:38:33 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:38:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:38:36 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 09:38:37 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 09:38:37 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587116666.png]]
+
+2024-04-08 09:38:37 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:38:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:38:40 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-04-08 09:38:40 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema' is clicked on
+
+2024-04-08 09:38:40 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema' is clicked on
+
+2024-04-08 09:38:40 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:38:43 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:38:43 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 09:38:44 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 09:38:44 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587123951.png]]
+
+2024-04-08 09:38:44 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:38:47 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:38:47 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema' successfully
+
+2024-04-08 09:38:47 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_1Selectores")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_1Selectores' is clicked on
+
+2024-04-08 09:38:48 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_1Selectores' is clicked on
+
+2024-04-08 09:38:48 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:38:51 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:38:51 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/0Oficina Modal/td_1Bogota - CIEL")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/0Oficina Modal/td_1Bogota - CIEL' is clicked on
+
+2024-04-08 09:38:51 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/0Oficina Modal/td_1Bogota - CIEL' is clicked on
+
+2024-04-08 09:38:51 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-08 09:38:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-08 09:38:53 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/input_TextoABuscar"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/input_TextoABuscar'
+
+2024-04-08 09:38:54 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/input_TextoABuscar'
+
+2024-04-08 09:38:54 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-08 09:38:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-08 09:38:56 - [TEST_STEP][FAILED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda")): Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selectores Actualizar.run(38 Selectores Actualizar:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda' located by '//table[@id='cPHPri_Selectores1_GridView']/tbody/tr/td[3]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1652716175464.run(Script1652716175464.groovy:35)
+	... 13 more
+)
+
+2024-04-08 09:39:27 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //table[@id='cPHPri_Selectores1_GridView']/tbody/tr/td[3]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-04-08 09:39:27 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selectores Actualizar.run(38 Selectores Actualizar:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda' located by '//table[@id='cPHPri_Selectores1_GridView']/tbody/tr/td[3]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1652716175464.run(Script1652716175464.groovy:35)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587167596.png]]
+
+2024-04-08 09:39:27 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-04-08 09:38:22 - [TEST_CASE][FAILED] - Test Cases/DIGITURNO/BASICO/38 Selectores Actualizar: Test Cases/DIGITURNO/BASICO/38 Selectores Actualizar FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selectores Actualizar.run(38 Selectores Actualizar:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda' located by '//table[@id='cPHPri_Selectores1_GridView']/tbody/tr/td[3]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DIGITURNO/BASICO/38 Selector Eliminar" time="66.939" classname="Test Cases/DIGITURNO/BASICO/38 Selector Eliminar" status="FAILED">
+         <failure type="FAILED" message="Test Cases/DIGITURNO/BASICO/38 Selector Eliminar FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selector Eliminar.run(38 Selector Eliminar:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda' located by '//table[@id='cPHPri_Selectores1_GridView']/tbody/tr/td[3]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-04-08 09:39:27 - [TEST_CASE][FAILED] - Test Cases/DIGITURNO/BASICO/38 Selector Eliminar: Test Cases/DIGITURNO/BASICO/38 Selector Eliminar FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selector Eliminar.run(38 Selector Eliminar:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda' located by '//table[@id='cPHPri_Selectores1_GridView']/tbody/tr/td[3]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-04-08 09:39:28 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/32 Elementos del Sistema"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema' successfully
+
+2024-04-08 09:39:28 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema: Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema
+
+2024-04-08 09:39:28 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/3 Configuracion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-04-08 09:39:28 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/3 Configuracion: Test Cases/DIGITURNO/BASICO/3 Configuracion
+
+2024-04-08 09:39:28 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 09:39:28 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-04-08 09:39:28 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 09:39:28 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-04-08 09:39:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-04-08 09:39:29 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-04-08 09:39:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-04-08 09:39:32 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 09:39:32 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-04-08 09:39:32 - [MESSAGE][PASSED] - Current window maximized
+
+2024-04-08 09:39:32 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:39:35 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:39:35 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 09:39:35 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 09:39:35 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 09:39:36 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 09:39:36 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 09:39:37 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 09:39:37 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:39:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:39:40 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 09:39:40 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 09:39:40 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 09:39:40 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:39:43 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:39:43 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 09:39:44 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 09:39:44 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587183682.png]]
+
+2024-04-08 09:39:44 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:39:47 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:39:47 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-04-08 09:39:47 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema' is clicked on
+
+2024-04-08 09:39:47 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema' is clicked on
+
+2024-04-08 09:39:47 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:39:50 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:39:50 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 09:39:51 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 09:39:51 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587190896.png]]
+
+2024-04-08 09:39:51 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:39:54 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:39:54 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema' successfully
+
+2024-04-08 09:39:54 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_1Selectores")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_1Selectores' is clicked on
+
+2024-04-08 09:39:55 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_1Selectores' is clicked on
+
+2024-04-08 09:39:55 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 09:39:58 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 09:39:58 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/0Oficina Modal/td_1Bogota - CIEL")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/0Oficina Modal/td_1Bogota - CIEL' is clicked on
+
+2024-04-08 09:39:58 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/0Oficina Modal/td_1Bogota - CIEL' is clicked on
+
+2024-04-08 09:39:58 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-08 09:40:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-08 09:40:00 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/input_TextoABuscar"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/input_TextoABuscar'
+
+2024-04-08 09:40:01 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/input_TextoABuscar'
+
+2024-04-08 09:40:01 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-08 09:40:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-08 09:40:03 - [TEST_STEP][FAILED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda")): Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selector Eliminar.run(38 Selector Eliminar:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda' located by '//table[@id='cPHPri_Selectores1_GridView']/tbody/tr/td[3]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1652716800685.run(Script1652716800685.groovy:35)
+	... 13 more
+)
+
+2024-04-08 09:40:34 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //table[@id='cPHPri_Selectores1_GridView']/tbody/tr/td[3]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-04-08 09:40:34 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selector Eliminar.run(38 Selector Eliminar:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda' located by '//table[@id='cPHPri_Selectores1_GridView']/tbody/tr/td[3]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1652716800685.run(Script1652716800685.groovy:35)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\38 Selectores Crear Actualizar Eliminar\\20240408_090921\\1712587234552.png]]
+
+2024-04-08 09:40:34 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-04-08 09:39:27 - [TEST_CASE][FAILED] - Test Cases/DIGITURNO/BASICO/38 Selector Eliminar: Test Cases/DIGITURNO/BASICO/38 Selector Eliminar FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selector Eliminar.run(38 Selector Eliminar:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Lista de Selectores/td_1 Seleccion Busqueda' located by '//table[@id='cPHPri_Selectores1_GridView']/tbody/tr/td[3]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-04-08 09:37:15 - [TEST_SUITE][FAILED] - 38 Selectores Crear Actualizar Eliminar: Test Cases/DIGITURNO/BASICO/38 Selectores Crear FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/img_Nuevo'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selectores Crear.run(38 Selectores Crear:47)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <img id="cPHPri_ctl04_TabEdicion_MenuEdicionEditar_imgNuevo" src="../../../img/Iconos/Edicion/Nuevo2.svg" style="border-width:0px;"> is not clickable at point (67, 46). Other element would receive the click: <img id="ImageLogo" src="../../../App_Themes/Defecto/img/Digiturno5Plus.svg" style="border-style: none; border-width: 0px; opacity: 1;">
+  (Session info: chrome=123.0.6312.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51834}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e470b5350fb30305cd3645ca6055b90
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2024-04-08 09:37:15 - [TEST_SUITE][FAILED] - 38 Selectores Crear Actualizar Eliminar: Test Cases/DIGITURNO/BASICO/38 Selectores Crear FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/img_Nuevo'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at 38 Selectores Crear.run(38 Selectores Crear:47)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585361928.run(TempTestSuite1712585361928.groovy:35)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <img id="cPHPri_ctl04_TabEdicion_MenuEdicionEditar_imgNuevo" src="../../../img/Iconos/Edicion/Nuevo2.svg" style="border-width:0px;"> is not clickable at point (67, 46). Other element would receive the click: <img id="ImageLogo" src="../../../App_Themes/Defecto/img/Digiturno5Plus.svg" style="border-style: none; border-width: 0px; opacity: 1;">
+  (Session info: chrome=123.0.6312.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51834}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e470b5350fb30305cd3645ca6055b90
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

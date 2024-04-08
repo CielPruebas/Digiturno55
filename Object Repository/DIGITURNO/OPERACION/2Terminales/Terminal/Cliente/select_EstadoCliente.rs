@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_EstadoCliente</name>
+   <tag></tag>
+   <elementGuidId>6b9ce159-d863-4fe2-8a91-a6774c5785b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_ucCli_dllEstadoCliente</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='cPHPri_ucCli_dllEstadoCliente']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>18ae01cc-4675-48f3-b3ac-7349a51ecbc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$cPHPri$ucCli$dllEstadoCliente</value>
+      <webElementGuid>5ea001cd-340b-4bdb-9bbf-5dc084c0e0c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cPHPri_ucCli_dllEstadoCliente</value>
+      <webElementGuid>1343ac12-d72b-46ae-aed8-475ada4bb07f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		Seleccione
+
+	</value>
+      <webElementGuid>0c3e0989-eb83-4a4c-8e00-7e04cbc91f76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_ucCli_dllEstadoCliente&quot;)</value>
+      <webElementGuid>a13863a9-6791-4f06-9a91-4fd3e19decb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='cPHPri_ucCli_dllEstadoCliente']</value>
+      <webElementGuid>871ff3ed-a3cb-43b4-b397-833684919c78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='cPHPri_ucCli_trEstadoCliente']/td[2]/select</value>
+      <webElementGuid>f84bfd67-4123-4f52-b671-702a5929ed85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado cliente'])[1]/following::select[1]</value>
+      <webElementGuid>4751f756-6cec-4106-b10d-00ea765c17d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Género'])[1]/following::select[2]</value>
+      <webElementGuid>d7c6daa4-b7bc-4bd9-8ad6-ea59020c806d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Código'])[1]/preceding::select[1]</value>
+      <webElementGuid>8071ec8b-50ad-43d2-9277-28638ceedd74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo usuario cliente'])[1]/preceding::select[1]</value>
+      <webElementGuid>bb5242af-ad3d-49fc-b905-42a45d282afe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[18]/td[2]/select</value>
+      <webElementGuid>aaf0976d-8ddf-4618-ad0f-19e74a0ec041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$cPHPri$ucCli$dllEstadoCliente' and @id = 'cPHPri_ucCli_dllEstadoCliente' and (text() = '
+		Seleccione
+
+	' or . = '
+		Seleccione
+
+	')]</value>
+      <webElementGuid>3d0e17b8-63f0-4f84-916a-f096f935ad51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

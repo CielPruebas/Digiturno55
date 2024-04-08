@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Cancelar</name>
+   <tag></tag>
+   <elementGuidId>c870f286-76f2-498a-8623-5a1160dcbd79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='cPHPri_lkbCancelarReclasificacionCola']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cPHPri_lkbCancelarReclasificacionCola > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>deb1838a-6ba0-4982-adc3-37146cce5426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../../img/Iconos/Edicion/Cancelar2.svg</value>
+      <webElementGuid>63e31643-ae64-48fe-9170-f1b9547c8418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cPHPri_lkbCancelarReclasificacionCola&quot;)/img[1]</value>
+      <webElementGuid>3f56c878-2e33-4ba1-9fe5-e0ad204bf8b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='cPHPri_lkbCancelarReclasificacionCola']/img</value>
+      <webElementGuid>6e924dc0-57d5-4d1f-bce6-f7d3dbf9c1dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/a/img</value>
+      <webElementGuid>7b3470f4-9dd2-4705-ae87-e5388a6bd297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../../img/Iconos/Edicion/Cancelar2.svg']</value>
+      <webElementGuid>34f6768e-bae3-4a1d-a516-55a92f389702</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

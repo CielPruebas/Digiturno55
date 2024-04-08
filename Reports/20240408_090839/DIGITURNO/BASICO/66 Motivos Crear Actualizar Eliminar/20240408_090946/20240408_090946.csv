@@ -1,0 +1,53 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+66 Motivos Crear Actualizar Eliminar,Chrome 123.0.0.0,,,2024-04-08 09:57:07,2024-04-08 09:59:20,"2m - 13,272s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/66 Motivos Crear,Chrome 123.0.0.0,,,2024-04-08 09:57:07,2024-04-08 09:57:55,"48,035s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:57:07,2024-04-08 09:57:34,"26,541s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_2Motivos""))",Chrome 123.0.0.0,,,2024-04-08 09:57:34,2024-04-08 09:57:35,"0,865s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:57:35,2024-04-08 09:57:38,"3,005s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos""))",Chrome 123.0.0.0,Se ingresa a la pestaña Motivos para crear un motivo,,2024-04-08 09:57:38,2024-04-08 09:57:38,"0,459s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:57:38,2024-04-08 09:57:40,"2,006s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos(1)/input_Nombre""), ""Prueba"")",Chrome 123.0.0.0,,,2024-04-08 09:57:40,2024-04-08 09:57:41,"0,783s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos(1)/textarea_Descripcion""), ""Motivo Prueba"")",Chrome 123.0.0.0,,,2024-04-08 09:57:41,2024-04-08 09:57:42,"0,761s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos(1)/select_Tipo motivo""), 0)",Chrome 123.0.0.0,Selecciona el tipo de motivo por el index para hacerlo general,,2024-04-08 09:57:42,2024-04-08 09:57:43,"0,973s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:57:43,2024-04-08 09:57:45,"2,007s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos(1)/select_Tipo Ocio""), 0)",Chrome 123.0.0.0,Selecciona el tipo de ocio por el index para tomarlo en general,,2024-04-08 09:57:45,2024-04-08 09:57:46,"1,056s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:57:46,2024-04-08 09:57:48,"2,001s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos(1)/img_Nuevo""))",Chrome 123.0.0.0,,,2024-04-08 09:57:48,2024-04-08 09:57:48,"0,483s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:57:48,2024-04-08 09:57:51,"3,004s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-08 09:57:51,2024-04-08 09:57:52,"0,746s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:57:52,2024-04-08 09:57:55,"3,012s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-08 09:57:55,2024-04-08 09:57:55,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/66 Motivos Actualizar,Chrome 123.0.0.0,,,2024-04-08 09:57:55,2024-04-08 09:58:39,"44,269s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:57:55,2024-04-08 09:58:20,"24,993s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_2Motivos""))",Chrome 123.0.0.0,,,2024-04-08 09:58:20,2024-04-08 09:58:21,"0,656s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:58:21,2024-04-08 09:58:24,"3,016s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos""))",Chrome 123.0.0.0,Se ingresa a la pestaña Motivos para crear un motivo,,2024-04-08 09:58:24,2024-04-08 09:58:24,"0,440s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:58:24,2024-04-08 09:58:26,"2,007s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos(1)/input_TextoABuscar""), ""Prueba"")",Chrome 123.0.0.0,,,2024-04-08 09:58:26,2024-04-08 09:58:27,"0,870s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos(1)/td_1 Actividad Interna""))",Chrome 123.0.0.0,text = Prueba,,2024-04-08 09:58:27,2024-04-08 09:58:28,"0,433s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos(1)/select_Tipo motivo""), 2)",Chrome 123.0.0.0,Selecciona el tipo de motivo por el index para hacerlo general,,2024-04-08 09:58:28,2024-04-08 09:58:29,"1,584s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:58:29,2024-04-08 09:58:31,"2,009s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos(1)/textarea_Descripcion""), ""Prueba Actualizado"")",Chrome 123.0.0.0,,,2024-04-08 09:58:31,2024-04-08 09:58:32,"0,834s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos(1)/img_Actualizar""))",Chrome 123.0.0.0,,,2024-04-08 09:58:32,2024-04-08 09:58:33,"0,440s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:58:33,2024-04-08 09:58:36,"3,012s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-08 09:58:36,2024-04-08 09:58:36,"0,647s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:58:36,2024-04-08 09:58:39,"3,012s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-08 09:58:39,2024-04-08 09:58:39,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/66 Motivos Eliminar,Chrome 123.0.0.0,,,2024-04-08 09:58:39,2024-04-08 09:59:20,"40,698s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:58:40,2024-04-08 09:59:05,"25,560s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_2Motivos""))",Chrome 123.0.0.0,,,2024-04-08 09:59:05,2024-04-08 09:59:06,"0,620s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:59:06,2024-04-08 09:59:09,"3,016s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos""))",Chrome 123.0.0.0,Se ingresa a la pestaña Motivos para crear un motivo,,2024-04-08 09:59:09,2024-04-08 09:59:09,"0,425s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:59:09,2024-04-08 09:59:11,"2,008s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos(1)/input_TextoABuscar""), ""Prueba"")",Chrome 123.0.0.0,,,2024-04-08 09:59:11,2024-04-08 09:59:12,"0,836s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos(1)/td_1 Actividad Interna""))",Chrome 123.0.0.0,text = Prueba,,2024-04-08 09:59:12,2024-04-08 09:59:13,"0,423s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos(1)/img_Eliminar""))",Chrome 123.0.0.0,,,2024-04-08 09:59:13,2024-04-08 09:59:13,"0,676s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/2 Motivos/Edicion/span_Motivos(1)/img_Eliminar""))",Chrome 123.0.0.0,,,2024-04-08 09:59:13,2024-04-08 09:59:13,"0,214s",PASSED
+acceptAlert(),Chrome 123.0.0.0,,,2024-04-08 09:59:13,2024-04-08 09:59:13,"0,026s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:59:13,2024-04-08 09:59:17,"3,015s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-08 09:59:17,2024-04-08 09:59:17,"0,475s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:59:17,2024-04-08 09:59:20,"3,009s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-08 09:59:20,2024-04-08 09:59:20,"0,000s",PASSED

@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+9 Detalle Turno,Chrome 123.0.0.0,,,2024-04-08 08:01:40,2024-04-08 08:02:52,"1m - 12,173s",FAILED
+,,,,,,,
+Test Cases/DIGITURNO/OPERACION BASICA TERMINAL/9 Detalle Turno,Chrome 123.0.0.0,,,2024-04-08 08:01:40,2024-04-08 08:02:52,"1m - 11,910s",FAILED
+"callTestCase(findTestCase(""0InicioSesionOperacionBasica""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 08:01:41,2024-04-08 08:01:56,"15,008s",PASSED
+"click(findTestObject(""DIGITURNO/1Principal/img_Operacion(1)""))",Chrome 123.0.0.0,,,2024-04-08 08:01:56,2024-04-08 08:01:56,"0,669s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 08:01:56,2024-04-08 08:01:59,"3,009s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/0Principal/Elementos del Sistema/img_Terminales""))",Chrome 123.0.0.0,,,2024-04-08 08:01:59,2024-04-08 08:02:00,"0,624s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 08:02:00,2024-04-08 08:02:03,"3,006s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/0Oficinas/td_1Bogota - CIEL""))",Chrome 123.0.0.0,Escogemos oficina,,2024-04-08 08:02:03,2024-04-08 08:02:03,"0,424s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 08:02:03,2024-04-08 08:02:06,"3,003s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/0Terminales (Menos WorkFlow)/td_1 - Terminal - Informacion""))",Chrome 123.0.0.0,Abrimos Terminal,,2024-04-08 08:02:06,2024-04-08 08:02:07,"0,450s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 08:02:07,2024-04-08 08:02:10,"3,016s",PASSED
+switchToWindowIndex(1),Chrome 123.0.0.0,,,2024-04-08 08:02:10,2024-04-08 08:02:10,"0,053s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 08:02:10,2024-04-08 08:02:13,"3,014s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Llamar""))",Chrome 123.0.0.0,,,2024-04-08 08:02:13,2024-04-08 08:02:14,"0,784s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 08:02:14,2024-04-08 08:02:17,"3,012s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Ocupado""))",Chrome 123.0.0.0,,,2024-04-08 08:02:17,2024-04-08 08:02:18,"1,025s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 08:02:18,2024-04-08 08:02:21,"3,005s",PASSED
+"click(findTestObject(""DIGITURNO/OPERACION/2Terminales/Terminal/img_Ocupado(1)/a_1Actualizacion de Datos""))",Chrome 123.0.0.0,,,2024-04-08 08:02:21,2024-04-08 08:02:52,"31,448s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-08 08:02:52,2024-04-08 08:02:52,"0,006s",PASSED

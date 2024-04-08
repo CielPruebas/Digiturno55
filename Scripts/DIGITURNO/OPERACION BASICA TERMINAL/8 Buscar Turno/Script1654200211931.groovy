@@ -46,7 +46,7 @@ WebUI.click(findTestObject('DIGITURNO/OPERACION/2Terminales/Terminal/img_Buscar'
 
 WebUI.delay(3)
 
-WebUI.setText(findTestObject('DIGITURNO/OPERACION/2Terminales/Terminal/img_Buscar Turno(1)/input_Buscar turno'), 'WIZ010')
+WebUI.setText(findTestObject('DIGITURNO/OPERACION/2Terminales/Terminal/img_Buscar Turno(1)/input_Buscar turno'), 'WIZ012')
 
 WebUI.delay(3)
 

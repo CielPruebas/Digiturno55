@@ -1,0 +1,57 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+55 Tableros Crear Actualizar Eliminar,Chrome 123.0.0.0,,,2024-04-08 09:48:09,2024-04-08 09:50:28,"2m - 19,005s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/55 Tableros Crear,Chrome 123.0.0.0,,,2024-04-08 09:48:10,2024-04-08 09:48:58,"47,957s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:48:10,2024-04-08 09:48:36,"26,228s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_5Tableros""))",Chrome 123.0.0.0,,,2024-04-08 09:48:36,2024-04-08 09:48:37,"1,046s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:48:37,2024-04-08 09:48:39,"2,018s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/5 Tableros/0 Oficinas Modal/td_1 Bogota - CIEL""))",Chrome 123.0.0.0,,,2024-04-08 09:48:39,2024-04-08 09:48:40,"0,435s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:48:40,2024-04-08 09:48:42,"2,007s",PASSED
+"scrollToPosition(0, 800)",Chrome 123.0.0.0,,,2024-04-08 09:48:42,2024-04-08 09:48:42,"0,074s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:48:42,2024-04-08 09:48:44,"2,007s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/5 Tableros/Configuracion/span_Edicion(1)/Informacion General/btn_Seleccionar Oficina""))",Chrome 123.0.0.0,,,2024-04-08 09:48:44,2024-04-08 09:48:44,"0,518s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:48:44,2024-04-08 09:48:46,"2,004s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/5 Tableros/Configuracion/span_Edicion(1)/Informacion General/btn_Seleccionar Oficina(1)/td_Bogota - CIEL""))",Chrome 123.0.0.0,,,2024-04-08 09:48:46,2024-04-08 09:48:47,"0,479s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:48:47,2024-04-08 09:48:49,"2,004s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/5 Tableros/Configuracion/span_Edicion(1)/Informacion General/input_Nombre""), ""Prueba"")",Chrome 123.0.0.0,,,2024-04-08 09:48:49,2024-04-08 09:48:50,"0,827s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/5 Tableros/Configuracion/span_Edicion(1)/Informacion General/textarea_Descripcion""), ""Prueba"")",Chrome 123.0.0.0,,,2024-04-08 09:48:50,2024-04-08 09:48:50,"0,771s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/5 Tableros/Configuracion/span_Edicion(1)/Informacion General/img_Nuevo""))",Chrome 123.0.0.0,,,2024-04-08 09:48:50,2024-04-08 09:48:51,"0,429s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:48:51,2024-04-08 09:48:54,"3,009s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-08 09:48:54,2024-04-08 09:48:55,"0,760s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:48:55,2024-04-08 09:48:58,"3,008s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-08 09:48:58,2024-04-08 09:48:58,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/55 Tableros Actualizar,Chrome 123.0.0.0,,,2024-04-08 09:48:58,2024-04-08 09:49:43,"45,097s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:48:58,2024-04-08 09:49:23,"25,213s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_5Tableros""))",Chrome 123.0.0.0,,,2024-04-08 09:49:23,2024-04-08 09:49:24,"0,885s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:49:24,2024-04-08 09:49:26,"2,008s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/5 Tableros/0 Oficinas Modal/td_1 Bogota - CIEL""))",Chrome 123.0.0.0,,,2024-04-08 09:49:26,2024-04-08 09:49:26,"0,411s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:49:26,2024-04-08 09:49:28,"2,015s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/5 Tableros/Lista de Tableros/input_TextoABuscar""), ""Prueba"")",Chrome 123.0.0.0,,,2024-04-08 09:49:28,2024-04-08 09:49:29,"0,776s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:49:29,2024-04-08 09:49:31,"2,009s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/5 Tableros/Lista de Tableros/td_1 Bogota - Tablero - 1""))",Chrome 123.0.0.0,,,2024-04-08 09:49:31,2024-04-08 09:49:32,"0,425s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:49:32,2024-04-08 09:49:35,"3,005s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/5 Tableros/Configuracion/span_Edicion(1)/Informacion General/textarea_Descripcion""), ""Prueba actualizada"")",Chrome 123.0.0.0,,,2024-04-08 09:49:35,2024-04-08 09:49:35,"0,798s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/5 Tableros/Configuracion/span_Edicion(1)/Informacion General/img_Actualizar""))",Chrome 123.0.0.0,,,2024-04-08 09:49:35,2024-04-08 09:49:36,"0,428s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:49:36,2024-04-08 09:49:39,"3,009s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-08 09:49:39,2024-04-08 09:49:40,"0,758s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:49:40,2024-04-08 09:49:43,"3,012s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-08 09:49:43,2024-04-08 09:49:43,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/55 Tableros Eliminar,Chrome 123.0.0.0,,,2024-04-08 09:49:43,2024-04-08 09:50:28,"45,689s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:49:43,2024-04-08 09:50:09,"26,455s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_5Tableros""))",Chrome 123.0.0.0,,,2024-04-08 09:50:09,2024-04-08 09:50:10,"0,715s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:50:10,2024-04-08 09:50:12,"2,012s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/5 Tableros/0 Oficinas Modal/td_1 Bogota - CIEL""))",Chrome 123.0.0.0,,,2024-04-08 09:50:12,2024-04-08 09:50:13,"0,434s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:50:13,2024-04-08 09:50:15,"2,010s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/5 Tableros/Lista de Tableros/input_TextoABuscar""), ""Prueba"")",Chrome 123.0.0.0,,,2024-04-08 09:50:15,2024-04-08 09:50:15,"0,847s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:50:15,2024-04-08 09:50:17,"2,018s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/5 Tableros/Lista de Tableros/td_1 Bogota - Tablero - 1""))",Chrome 123.0.0.0,,,2024-04-08 09:50:17,2024-04-08 09:50:18,"0,441s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:50:18,2024-04-08 09:50:21,"3,005s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/5 Tableros/Configuracion/span_Edicion(1)/Informacion General/img_Eliminar""))",Chrome 123.0.0.0,,,2024-04-08 09:50:21,2024-04-08 09:50:21,"0,449s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/5 Tableros/Configuracion/span_Edicion(1)/Informacion General/img_Eliminar""))",Chrome 123.0.0.0,,,2024-04-08 09:50:21,2024-04-08 09:50:22,"0,201s",PASSED
+acceptAlert(),Chrome 123.0.0.0,,,2024-04-08 09:50:22,2024-04-08 09:50:22,"0,030s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:50:22,2024-04-08 09:50:25,"3,008s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-08 09:50:25,2024-04-08 09:50:25,"0,719s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:50:25,2024-04-08 09:50:28,"3,027s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-08 09:50:28,2024-04-08 09:50:28,"0,000s",PASSED

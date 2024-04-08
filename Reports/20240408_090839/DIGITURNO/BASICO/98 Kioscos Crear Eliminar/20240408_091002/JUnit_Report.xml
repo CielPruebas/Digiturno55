@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="98 Kioscos Crear Eliminar" time="152.328" tests="2" failures="2" errors="0">
+   <testsuite name="98 Kioscos Crear Eliminar" tests="2" failures="2" errors="0" time="152.328" skipped="0" timestamp="2024-04-08 10:05:37" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/DIGITURNO/BASICO/98 Kioscos Crear Eliminar">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\98 Kioscos Crear Eliminar\\20240408_091002"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\98 Kioscos Crear Eliminar\\20240408_091002\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\98 Kioscos Crear Eliminar\\20240408_091002\\1712588754913.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\98 Kioscos Crear Eliminar\\20240408_091002\\1712588762115.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\98 Kioscos Crear Eliminar\\20240408_091002\\1712588820442.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\98 Kioscos Crear Eliminar\\20240408_091002\\1712588835339.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\98 Kioscos Crear Eliminar\\20240408_091002\\1712588842501.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\98 Kioscos Crear Eliminar\\20240408_091002\\1712588889456.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.6"/>
+         <property name="sessionId" value="dfdd2ed59331134bf1b17555be2b2886"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/DIGITURNO/BASICO/98 Kioscos Crear" time="83.074" classname="Test Cases/DIGITURNO/BASICO/98 Kioscos Crear" status="FAILED">
+         <failure type="FAILED" message="Test Cases/DIGITURNO/BASICO/98 Kioscos Crear FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$5.call(Unknown Source)
+	at 98 Kioscos Crear.run(98 Kioscos Crear:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585402202.run(TempTestSuite1712585402202.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar' located by '//input[@id='cPHPri_Jornadas1_TablaHerramientas1_txtTextoABuscar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-04-08 10:05:37 - [TEST_CASE][FAILED] - Test Cases/DIGITURNO/BASICO/98 Kioscos Crear: Test Cases/DIGITURNO/BASICO/98 Kioscos Crear FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$5.call(Unknown Source)
+	at 98 Kioscos Crear.run(98 Kioscos Crear:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585402202.run(TempTestSuite1712585402202.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar' located by '//input[@id='cPHPri_Jornadas1_TablaHerramientas1_txtTextoABuscar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-04-08 10:05:37 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/32 Elementos del Sistema"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema' successfully
+
+2024-04-08 10:05:37 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema: Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema
+
+2024-04-08 10:05:38 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/3 Configuracion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-04-08 10:05:38 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/3 Configuracion: Test Cases/DIGITURNO/BASICO/3 Configuracion
+
+2024-04-08 10:05:38 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 10:05:38 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-04-08 10:05:38 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 10:05:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-04-08 10:05:39 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-04-08 10:05:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-04-08 10:05:42 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 10:05:42 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-04-08 10:05:43 - [MESSAGE][PASSED] - Current window maximized
+
+2024-04-08 10:05:43 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:05:46 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:05:46 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 10:05:46 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 10:05:46 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 10:05:47 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 10:05:47 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 10:05:48 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 10:05:48 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:05:51 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:05:51 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 10:05:51 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 10:05:51 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 10:05:51 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:05:54 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:05:54 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 10:05:55 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 10:05:55 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\98 Kioscos Crear Eliminar\\20240408_091002\\1712588754913.png]]
+
+2024-04-08 10:05:55 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:05:58 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:05:58 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-04-08 10:05:58 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema' is clicked on
+
+2024-04-08 10:05:59 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema' is clicked on
+
+2024-04-08 10:05:59 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:06:02 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:06:02 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 10:06:02 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 10:06:02 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\98 Kioscos Crear Eliminar\\20240408_091002\\1712588762115.png]]
+
+2024-04-08 10:06:02 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:06:05 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:06:05 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema' successfully
+
+2024-04-08 10:06:05 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:06:08 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:06:08 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_6Kioscos")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_6Kioscos' is clicked on
+
+2024-04-08 10:06:09 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_6Kioscos' is clicked on
+
+2024-04-08 10:06:09 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:06:12 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:06:12 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/0 Modal Oficinas/td_1 Bogota - CIEL")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/0 Modal Oficinas/td_1 Bogota - CIEL' is clicked on
+
+2024-04-08 10:06:12 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/0 Modal Oficinas/td_1 Bogota - CIEL' is clicked on
+
+2024-04-08 10:06:12 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-08 10:06:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-08 10:06:15 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/btn_SeleccionarSala")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/btn_SeleccionarSala' is clicked on
+
+2024-04-08 10:06:15 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/btn_SeleccionarSala' is clicked on
+
+2024-04-08 10:06:15 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-08 10:06:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-08 10:06:17 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/btn_SeleccionarSala(1)/a_1 CIEL - Sala General")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/btn_SeleccionarSala(1)/a_1 CIEL - Sala General' is clicked on
+
+2024-04-08 10:06:17 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/btn_SeleccionarSala(1)/a_1 CIEL - Sala General' is clicked on
+
+2024-04-08 10:06:17 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-08 10:06:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-08 10:06:19 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/input_Nombre"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/input_Nombre'
+
+2024-04-08 10:06:20 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/input_Nombre'
+
+2024-04-08 10:06:20 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/input_Direccion Ip"), "190.165.1.1"): Text '190.165.1.1' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/input_Direccion Ip'
+
+2024-04-08 10:06:21 - [MESSAGE][PASSED] - Text '190.165.1.1' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/input_Direccion Ip'
+
+2024-04-08 10:06:21 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/input_Extension"), "143"): Text '143' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/input_Extension'
+
+2024-04-08 10:06:22 - [MESSAGE][PASSED] - Text '143' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/input_Extension'
+
+2024-04-08 10:06:22 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/input_Direccion en sala"), "9"): Text '9' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/input_Direccion en sala'
+
+2024-04-08 10:06:23 - [MESSAGE][PASSED] - Text '9' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/input_Direccion en sala'
+
+2024-04-08 10:06:23 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/img_Nuevo")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/img_Nuevo' is clicked on
+
+2024-04-08 10:06:23 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/img_Nuevo' is clicked on
+
+2024-04-08 10:06:23 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:06:26 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:06:26 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Lista de Kioscos/td_1 Kiosco Bogota"), STOP_ON_FAILURE): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Lista de Kioscos/td_1 Kiosco Bogota' is clicked on
+
+2024-04-08 10:06:27 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Lista de Kioscos/td_1 Kiosco Bogota' is clicked on
+
+2024-04-08 10:06:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-08 10:06:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-08 10:06:29 - [TEST_STEP][FAILED] - scrollToElement(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar"), 2): Unable to scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$5.call(Unknown Source)
+	at 98 Kioscos Crear.run(98 Kioscos Crear:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585402202.run(TempTestSuite1712585402202.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar' located by '//input[@id='cPHPri_Jornadas1_TablaHerramientas1_txtTextoABuscar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$5.call(Unknown Source)
+	at Script1654195649403.run(Script1654195649403.groovy:60)
+	... 13 more
+)
+
+2024-04-08 10:07:00 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='cPHPri_Jornadas1_TablaHerramientas1_txtTextoABuscar']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-04-08 10:07:00 - [MESSAGE][FAILED] - Unable to scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$5.call(Unknown Source)
+	at 98 Kioscos Crear.run(98 Kioscos Crear:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585402202.run(TempTestSuite1712585402202.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar' located by '//input[@id='cPHPri_Jornadas1_TablaHerramientas1_txtTextoABuscar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$5.call(Unknown Source)
+	at Script1654195649403.run(Script1654195649403.groovy:60)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\98 Kioscos Crear Eliminar\\20240408_091002\\1712588820442.png]]
+
+2024-04-08 10:07:00 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-04-08 10:05:37 - [TEST_CASE][FAILED] - Test Cases/DIGITURNO/BASICO/98 Kioscos Crear: Test Cases/DIGITURNO/BASICO/98 Kioscos Crear FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$5.call(Unknown Source)
+	at 98 Kioscos Crear.run(98 Kioscos Crear:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585402202.run(TempTestSuite1712585402202.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar' located by '//input[@id='cPHPri_Jornadas1_TablaHerramientas1_txtTextoABuscar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DIGITURNO/BASICO/98 Kioscos Eliminar" time="68.98" classname="Test Cases/DIGITURNO/BASICO/98 Kioscos Eliminar" status="FAILED">
+         <failure type="FAILED" message="Test Cases/DIGITURNO/BASICO/98 Kioscos Eliminar FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$5.call(Unknown Source)
+	at 98 Kioscos Eliminar.run(98 Kioscos Eliminar:37)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585402202.run(TempTestSuite1712585402202.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar' located by '//input[@id='cPHPri_Jornadas1_TablaHerramientas1_txtTextoABuscar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-04-08 10:07:00 - [TEST_CASE][FAILED] - Test Cases/DIGITURNO/BASICO/98 Kioscos Eliminar: Test Cases/DIGITURNO/BASICO/98 Kioscos Eliminar FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$5.call(Unknown Source)
+	at 98 Kioscos Eliminar.run(98 Kioscos Eliminar:37)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585402202.run(TempTestSuite1712585402202.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar' located by '//input[@id='cPHPri_Jornadas1_TablaHerramientas1_txtTextoABuscar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-04-08 10:07:00 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/32 Elementos del Sistema"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema' successfully
+
+2024-04-08 10:07:00 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema: Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema
+
+2024-04-08 10:07:00 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/3 Configuracion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-04-08 10:07:01 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/3 Configuracion: Test Cases/DIGITURNO/BASICO/3 Configuracion
+
+2024-04-08 10:07:01 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 10:07:01 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-04-08 10:07:01 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 10:07:01 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-04-08 10:07:01 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-04-08 10:07:01 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-04-08 10:07:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-04-08 10:07:03 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-04-08 10:07:03 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-04-08 10:07:03 - [MESSAGE][PASSED] - Current window maximized
+
+2024-04-08 10:07:03 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:07:06 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:07:06 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 10:07:07 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-04-08 10:07:07 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 10:07:08 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-04-08 10:07:08 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 10:07:08 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-04-08 10:07:08 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:07:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:07:11 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-04-08 10:07:11 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 10:07:12 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-04-08 10:07:12 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:07:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:07:15 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 10:07:15 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 10:07:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\98 Kioscos Crear Eliminar\\20240408_091002\\1712588835339.png]]
+
+2024-04-08 10:07:15 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:07:18 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:07:18 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-04-08 10:07:18 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema' is clicked on
+
+2024-04-08 10:07:19 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema' is clicked on
+
+2024-04-08 10:07:19 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:07:22 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:07:22 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-04-08 10:07:22 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-04-08 10:07:23 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\98 Kioscos Crear Eliminar\\20240408_091002\\1712588842501.png]]
+
+2024-04-08 10:07:23 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:07:26 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:07:26 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema' successfully
+
+2024-04-08 10:07:26 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:07:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:07:29 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_6Kioscos")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_6Kioscos' is clicked on
+
+2024-04-08 10:07:30 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_6Kioscos' is clicked on
+
+2024-04-08 10:07:30 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-04-08 10:07:33 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-04-08 10:07:33 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/0 Modal Oficinas/td_1 Bogota - CIEL")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/0 Modal Oficinas/td_1 Bogota - CIEL' is clicked on
+
+2024-04-08 10:07:33 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/0 Modal Oficinas/td_1 Bogota - CIEL' is clicked on
+
+2024-04-08 10:07:33 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-08 10:07:35 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-08 10:07:35 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Lista de Kioscos/td_1 Kiosco Bogota"), STOP_ON_FAILURE): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Lista de Kioscos/td_1 Kiosco Bogota' is clicked on
+
+2024-04-08 10:07:36 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Lista de Kioscos/td_1 Kiosco Bogota' is clicked on
+
+2024-04-08 10:07:36 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-04-08 10:07:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-04-08 10:07:38 - [TEST_STEP][FAILED] - scrollToElement(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar"), 2): Unable to scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$5.call(Unknown Source)
+	at 98 Kioscos Eliminar.run(98 Kioscos Eliminar:37)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585402202.run(TempTestSuite1712585402202.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar' located by '//input[@id='cPHPri_Jornadas1_TablaHerramientas1_txtTextoABuscar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$5.call(Unknown Source)
+	at Script1654198797287.run(Script1654198797287.groovy:37)
+	... 13 more
+)
+
+2024-04-08 10:08:09 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='cPHPri_Jornadas1_TablaHerramientas1_txtTextoABuscar']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-04-08 10:08:09 - [MESSAGE][FAILED] - Unable to scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$5.call(Unknown Source)
+	at 98 Kioscos Eliminar.run(98 Kioscos Eliminar:37)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585402202.run(TempTestSuite1712585402202.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar' located by '//input[@id='cPHPri_Jornadas1_TablaHerramientas1_txtTextoABuscar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$5.call(Unknown Source)
+	at Script1654198797287.run(Script1654198797287.groovy:37)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240408_090839\\DIGITURNO\\BASICO\\98 Kioscos Crear Eliminar\\20240408_091002\\1712588889456.png]]
+
+2024-04-08 10:08:09 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-04-08 10:07:00 - [TEST_CASE][FAILED] - Test Cases/DIGITURNO/BASICO/98 Kioscos Eliminar: Test Cases/DIGITURNO/BASICO/98 Kioscos Eliminar FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$5.call(Unknown Source)
+	at 98 Kioscos Eliminar.run(98 Kioscos Eliminar:37)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585402202.run(TempTestSuite1712585402202.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar' located by '//input[@id='cPHPri_Jornadas1_TablaHerramientas1_txtTextoABuscar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-04-08 10:05:37 - [TEST_SUITE][FAILED] - 98 Kioscos Crear Eliminar: Test Cases/DIGITURNO/BASICO/98 Kioscos Crear FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$5.call(Unknown Source)
+	at 98 Kioscos Crear.run(98 Kioscos Crear:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585402202.run(TempTestSuite1712585402202.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar' located by '//input[@id='cPHPri_Jornadas1_TablaHerramientas1_txtTextoABuscar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2024-04-08 10:05:37 - [TEST_SUITE][FAILED] - 98 Kioscos Crear Eliminar: Test Cases/DIGITURNO/BASICO/98 Kioscos Crear FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$5.call(Unknown Source)
+	at 98 Kioscos Crear.run(98 Kioscos Crear:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1712585402202.run(TempTestSuite1712585402202.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar' located by '//input[@id='cPHPri_Jornadas1_TablaHerramientas1_txtTextoABuscar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

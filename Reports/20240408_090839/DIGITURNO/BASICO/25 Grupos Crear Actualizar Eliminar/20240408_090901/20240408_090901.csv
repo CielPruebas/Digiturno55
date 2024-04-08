@@ -1,0 +1,63 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+25 Grupos Crear Actualizar Eliminar,Chrome 123.0.0.0,,,2024-04-08 09:25:28,2024-04-08 09:27:46,"2m - 17,994s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/25 Grupos Crear,Chrome 123.0.0.0,,,2024-04-08 09:25:28,2024-04-08 09:26:15,"46,807s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/21 Distribucion Geografica""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:25:29,2024-04-08 09:25:52,"23,269s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/0Principal/img_4Grupos""))",Chrome 123.0.0.0,,,2024-04-08 09:25:52,2024-04-08 09:25:53,"0,779s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:25:53,2024-04-08 09:25:56,"3,002s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/0Modal Inicial Oficinas/td_1Bogota - CIEL""))",Chrome 123.0.0.0,,,2024-04-08 09:25:56,2024-04-08 09:25:56,"0,461s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:25:56,2024-04-08 09:25:58,"2,011s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Edicion/btn_SalaModal""))",Chrome 123.0.0.0,,,2024-04-08 09:25:58,2024-04-08 09:25:59,"0,467s",PASSED
+delay(1),Chrome 123.0.0.0,,,2024-04-08 09:25:59,2024-04-08 09:26:00,"1,006s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Edicion/btn_SalaModal(1)/a_CIEL - Sala General""))",Chrome 123.0.0.0,,,2024-04-08 09:26:00,2024-04-08 09:26:00,"0,443s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:26:00,2024-04-08 09:26:03,"3,012s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Edicion/input_Nombre""), ""Prueba"")",Chrome 123.0.0.0,,,2024-04-08 09:26:03,2024-04-08 09:26:04,"0,829s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Edicion/textarea_Descripcion""), ""Prueba"")",Chrome 123.0.0.0,,,2024-04-08 09:26:04,2024-04-08 09:26:05,"0,782s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Edicion/select_Busqueda de turnos en la actual""), 1, STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:26:05,2024-04-08 09:26:06,"1,099s",PASSED
+delay(0),Chrome 123.0.0.0,,,2024-04-08 09:26:06,2024-04-08 09:26:06,"0,004s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Edicion/select_Reclasificar turnos en la actual""), 1, STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:26:06,2024-04-08 09:26:07,"1,120s",PASSED
+delay(0),Chrome 123.0.0.0,,,2024-04-08 09:26:07,2024-04-08 09:26:07,"0,004s",PASSED
+"scrollToPosition(0, 1200)",Chrome 123.0.0.0,,,2024-04-08 09:26:07,2024-04-08 09:26:07,"0,050s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Edicion/label_Mostrar boton rellamar""))",Chrome 123.0.0.0,,,2024-04-08 09:26:07,2024-04-08 09:26:07,"0,464s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Edicion/label_De primero""))",Chrome 123.0.0.0,,,2024-04-08 09:26:07,2024-04-08 09:26:08,"0,395s",PASSED
+"scrollToPosition(0, 0)",Chrome 123.0.0.0,,,2024-04-08 09:26:08,2024-04-08 09:26:08,"0,022s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Edicion/img_Nuevo""))",Chrome 123.0.0.0,,,2024-04-08 09:26:08,2024-04-08 09:26:08,"0,457s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:26:08,2024-04-08 09:26:11,"3,012s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-08 09:26:11,2024-04-08 09:26:12,"0,767s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:26:12,2024-04-08 09:26:15,"3,006s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-08 09:26:15,2024-04-08 09:26:15,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/25 Grupos Actualizar,Chrome 123.0.0.0,,,2024-04-08 09:26:15,2024-04-08 09:27:00,"44,975s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/21 Distribucion Geografica""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:26:15,2024-04-08 09:26:38,"22,983s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/0Principal/img_4Grupos""))",Chrome 123.0.0.0,,,2024-04-08 09:26:38,2024-04-08 09:26:39,"0,910s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:26:39,2024-04-08 09:26:42,"3,005s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/0Modal Inicial Oficinas/td_1Bogota - CIEL""))",Chrome 123.0.0.0,,,2024-04-08 09:26:42,2024-04-08 09:26:43,"0,473s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:26:43,2024-04-08 09:26:45,"2,004s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Lista de Grupos/input_TextoABuscar""), ""Prueba"")",Chrome 123.0.0.0,,,2024-04-08 09:26:45,2024-04-08 09:26:46,"0,803s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:26:46,2024-04-08 09:26:49,"3,007s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Lista de Grupos/td_1 Seleccion Busqueda""))",Chrome 123.0.0.0,,,2024-04-08 09:26:49,2024-04-08 09:26:49,"0,407s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:26:49,2024-04-08 09:26:52,"3,013s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Edicion/textarea_Descripcion""), ""Grupo Prueba Actualizado"")",Chrome 123.0.0.0,,,2024-04-08 09:26:52,2024-04-08 09:26:53,"0,865s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Edicion/img_Actualizar""))",Chrome 123.0.0.0,,,2024-04-08 09:26:53,2024-04-08 09:26:53,"0,437s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:26:53,2024-04-08 09:26:56,"3,006s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-08 09:26:56,2024-04-08 09:26:57,"0,755s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:26:57,2024-04-08 09:27:00,"3,015s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-08 09:27:00,2024-04-08 09:27:00,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/25 Grupos Eliminar,Chrome 123.0.0.0,,,2024-04-08 09:27:00,2024-04-08 09:27:46,"45,928s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/21 Distribucion Geografica""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 09:27:00,2024-04-08 09:27:25,"24,546s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/0Principal/img_4Grupos""))",Chrome 123.0.0.0,,,2024-04-08 09:27:25,2024-04-08 09:27:26,"0,854s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:27:26,2024-04-08 09:27:29,"3,007s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/0Modal Inicial Oficinas/td_1Bogota - CIEL""))",Chrome 123.0.0.0,,,2024-04-08 09:27:29,2024-04-08 09:27:29,"0,448s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 09:27:29,2024-04-08 09:27:31,"2,001s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Lista de Grupos/input_TextoABuscar""), ""Prueba"")",Chrome 123.0.0.0,,,2024-04-08 09:27:31,2024-04-08 09:27:32,"0,732s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:27:32,2024-04-08 09:27:35,"3,011s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Lista de Grupos/td_1 Seleccion Busqueda""))",Chrome 123.0.0.0,,,2024-04-08 09:27:35,2024-04-08 09:27:36,"0,454s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:27:36,2024-04-08 09:27:39,"3,012s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Edicion/img_Eliminar""))",Chrome 123.0.0.0,,,2024-04-08 09:27:39,2024-04-08 09:27:39,"0,463s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/4Grupos/Edicion/img_Eliminar""))",Chrome 123.0.0.0,,,2024-04-08 09:27:39,2024-04-08 09:27:39,"0,189s",PASSED
+acceptAlert(),Chrome 123.0.0.0,,,2024-04-08 09:27:39,2024-04-08 09:27:39,"0,035s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:27:39,2024-04-08 09:27:42,"3,013s",PASSED
+takeFullPageScreenshot(),Chrome 123.0.0.0,,,2024-04-08 09:27:42,2024-04-08 09:27:43,"0,736s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 09:27:43,2024-04-08 09:27:46,"3,005s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-08 09:27:46,2024-04-08 09:27:46,"0,000s",PASSED

@@ -1,0 +1,36 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+98 Kioscos Crear Eliminar,Chrome 123.0.0.0,,,2024-04-08 10:05:37,2024-04-08 10:08:09,"2m - 32,328s",FAILED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/98 Kioscos Crear,Chrome 123.0.0.0,,,2024-04-08 10:05:37,2024-04-08 10:07:00,"1m - 23,074s",FAILED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 10:05:37,2024-04-08 10:06:05,"27,748s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 10:06:05,2024-04-08 10:06:08,"3,009s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_6Kioscos""))",Chrome 123.0.0.0,,,2024-04-08 10:06:08,2024-04-08 10:06:09,"0,922s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 10:06:09,2024-04-08 10:06:12,"3,011s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/0 Modal Oficinas/td_1 Bogota - CIEL""))",Chrome 123.0.0.0,,,2024-04-08 10:06:12,2024-04-08 10:06:12,"0,480s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 10:06:12,2024-04-08 10:06:15,"2,007s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/btn_SeleccionarSala""))",Chrome 123.0.0.0,,,2024-04-08 10:06:15,2024-04-08 10:06:15,"0,498s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 10:06:15,2024-04-08 10:06:17,"2,018s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/btn_SeleccionarSala(1)/a_1 CIEL - Sala General""))",Chrome 123.0.0.0,,,2024-04-08 10:06:17,2024-04-08 10:06:17,"0,451s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 10:06:17,2024-04-08 10:06:19,"2,013s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/input_Nombre""), ""Prueba"")",Chrome 123.0.0.0,Crea el Kiosco Prueba,,2024-04-08 10:06:19,2024-04-08 10:06:20,"0,856s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/input_Direccion Ip""), ""190.165.1.1"")",Chrome 123.0.0.0,,,2024-04-08 10:06:20,2024-04-08 10:06:21,"0,834s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/input_Extension""), ""143"")",Chrome 123.0.0.0,,,2024-04-08 10:06:21,2024-04-08 10:06:22,"0,802s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/input_Direccion en sala""), ""9"")",Chrome 123.0.0.0,Direccion de sala,,2024-04-08 10:06:22,2024-04-08 10:06:23,"0,816s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Edicion/img_Nuevo""))",Chrome 123.0.0.0,,,2024-04-08 10:06:23,2024-04-08 10:06:23,"0,438s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 10:06:23,2024-04-08 10:06:26,"3,011s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Lista de Kioscos/td_1 Kiosco Bogota""), STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 10:06:26,2024-04-08 10:06:27,"0,446s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 10:06:27,2024-04-08 10:06:29,"2,019s",PASSED
+"scrollToElement(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar""), 2)",Chrome 123.0.0.0,,,2024-04-08 10:06:29,2024-04-08 10:07:00,"31,355s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-08 10:07:00,2024-04-08 10:07:00,"0,015s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/98 Kioscos Eliminar,Chrome 123.0.0.0,,,2024-04-08 10:07:00,2024-04-08 10:08:09,"1m - 8,980s",FAILED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 10:07:00,2024-04-08 10:07:26,"25,164s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 10:07:26,2024-04-08 10:07:29,"3,010s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_6Kioscos""))",Chrome 123.0.0.0,,,2024-04-08 10:07:29,2024-04-08 10:07:30,"1,082s",PASSED
+delay(3),Chrome 123.0.0.0,,,2024-04-08 10:07:30,2024-04-08 10:07:33,"3,014s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/0 Modal Oficinas/td_1 Bogota - CIEL""))",Chrome 123.0.0.0,,,2024-04-08 10:07:33,2024-04-08 10:07:33,"0,451s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 10:07:33,2024-04-08 10:07:35,"2,011s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Lista de Kioscos/td_1 Kiosco Bogota""), STOP_ON_FAILURE)",Chrome 123.0.0.0,,,2024-04-08 10:07:35,2024-04-08 10:07:36,"0,462s",PASSED
+delay(2),Chrome 123.0.0.0,,,2024-04-08 10:07:36,2024-04-08 10:07:38,"2,011s",PASSED
+"scrollToElement(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/6 Kioscos/Jornadas Oficinas/input_TextoABuscar""), 2)",Chrome 123.0.0.0,,,2024-04-08 10:07:38,2024-04-08 10:08:09,"31,463s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 123.0.0.0,,,2024-04-08 10:08:09,2024-04-08 10:08:09,"0,000s",PASSED
