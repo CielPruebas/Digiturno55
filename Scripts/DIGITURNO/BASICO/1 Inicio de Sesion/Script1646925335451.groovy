@@ -23,5 +23,5 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('WIZARD/4Configuracion Terminales Y Selectores/a_1lnkLogo'))
+WebUI.click(findTestObject('null'))
 
