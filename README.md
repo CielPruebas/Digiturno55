@@ -5,12 +5,12 @@
 
 En el presente proyecto, se realiza la automatización para la aplicación Digiturno de propiedad de **Ciel Ingeniería SAS**, en ella se realiza una automatización mediante **Katalon Studio**.
 
-Cabe señalar, que esta es una automatización de creación Tomando en cuenta tres aspectos:
+Cabe señalar, que esta es una automatización va después del wizard de creación Tomando en cuenta dos aspectos:
 
-1. Wizard de Creación. 
-2. Actualizaciones.
-3. Operaciones Básicas en Terminal.
-4. Video Atención.
+
+1. Actualizaciones.
+2. Operaciones Básicas en Terminal.
+
 
 
 ## Que necesitan para poder automatizar
@@ -24,34 +24,7 @@ Para poder automatizar necesitan descargar Katalon Studio del siguiente enlace:
 **Para poder usarlo se necesita crear una cuenta, que es gratuita, mediante correo y contraseña.**
 
 
-## Funcionalidades Wizard de Creación
-| Id   | Proceso                                    | Descripción                                                      |
-|------|--------------------------------------------|------------------------------------------------------------------|
-| 1    | Crear Niveles                              | Crea los niveles Área, Tipo de Cliente, Servicios y Subservicios |
-| 2.1  | Creación Elemento de Área                  |                                                                  |
-| 2.2  | Creación Elementos Tipo Cliente            |                                                                  |
-| 2.3  | Creación Elementos Servicios               |                                                                  |
-| 2.4  | Creación elementos Subservicios            |                                                                  |
-| 3.1  | Agregar al árbol área                      |                                                                  |
-| 3.2  | Agregar al árbol Tipo Cliente              |                                                                  |
-| 3.3  | Agregar al árbol Servicios                 |                                                                  |
-| 3.4a | Agregar al árbol Subservicios Información  |                                                                  |
-| 3.4b | Agregar al árbol Subservicios Radicaciones |                                                                  |
-| 3.4c | Agregar al árbol Subservicios PQRS         |                                                                  |
-| 3.5  | Creación Colas                             |                                                                  |
-| 4    | Crear Niveles Geográficos                  | Se crean los Niveles geográficos: País, Departamento y Ciudad    |
-|4.1|	Crear Elemento Geográfico País	|
-|4.2|	Crear Elementos Geográficos Departamentos|	
-|4.3|	Crear Elementos Geográficos Ciudades	|
-|5.1|	Crear Oficinas|	Crea Oficinas: CIEL, Chipichape, Bocagrande, Manizales, Laureles, Virtual y WorkFlow|
-|5.2|	Crear Salas	|
-|5.3|	Crear Grupos|	
-|5.4|	Crear y Relacionar Selectores|	
-|5.5|	Crear Terminales|	
-|5.6|	Creación, Relación y columnas de Tableros|	
-|5.7|	Crear Motivos|	Motivos de cierre, Suspensión y cancelación de servicio|  
-|5.8|	Motivos por Oficinas|	Relaciona los motivos creados|
-|6|	Configuración Terminales y Selectores	|
+
 
 ## Funcionalidades Actualizaciones
 | Id  | Pagina                              | Descripción Pagina                                                                                                                                                          |
