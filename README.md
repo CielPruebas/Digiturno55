@@ -1,5 +1,5 @@
 # **Automatización Digiturno plus 5.5.0.0 en adelante**
-![Digiturno](Digiturno.png)
+![Digiturno](README/Digiturno.png)
 
 ## Descripción del Proyecto
 
@@ -17,14 +17,42 @@ Cabe señalar, que esta es una automatización va después del wizard de creaci�
 
 Para poder automatizar necesitan descargar Katalon Studio del siguiente enlace:
 
-![Katalon Studio](katalon-logo.png)
+![Katalon Studio](README/katalon-logo.png)
 
 [https://katalon.com/download](https://katalon.com/download)
 
 **Para poder usarlo se necesita crear una cuenta, que es gratuita, mediante correo y contraseña.**
 
+## Explicación Proyecto en Katalon
+
+Al abrir el proyecto se tendrá la siguiente pantalla principal:
+![Pantalla Principal](README/Principal.png)
 
 
+* **Profiles:** En el perfil Default, en algunos proyectos se utilizan variables globales a ser usadas para la automatización (URL, Usuarios, contraseñas). 
+* **Test Cases:** En esta carpeta se encuentran los caso de prueba individuales.
+* **Object Repository:** En esta carpeta se encuentran los objetos (elementos) que se utilizan para crear los test cases, Ellos tienen la facilidad de ser encontrados ya sea su id, Xpath, atributos, esto para facilitar su uso.
+* **Test Suites:** En esta carpeta, se encuentran los casos de pruebas que generan reportes (HTML,PDF), es decir que esta es la carpeta para explorar cuando se van a realizar casos de prueba completos.
+* **Data Files:** En esta carpeta se encuentran los datos que son ingresados mediante un archivo Excel a la aplicación, como ser: datos de URL para ingresar, usuario, contraseñas y otros datos que sirven para que los casos de pruebas se realicen sin intervención manual.
+* **Reports:** En esta carpeta se almacenan los reportes que se generan al ejecutar los Test Suites.
+
+### Ejecutar Test Case o Test Suite
+
+Para ejecutar un test case u un test suite, basta con dar doble click el archivo para abrirlo y posteriormente se da click en el botón de Play verde. como se indica en la imagen.
+
+![Ejecutar test suite o test case](README/ejecutar%20test.png)
+
+### Data Files
+
+Si deseamos modificar las URL de ingreso a las aplicaciones o contraseñas de inicios de sesión, lo podremos hacer en la carpeta **Data Files**, en los archivos correspondientes. Al hacer un cambio siempre se debe guardar el proyecto haciendo click en el disco (Esquina superior izquierda).
+
+![Data Files](README/Data%20files.png)
+
+### Reportes
+
+Al ejecutar los Test Suites, se generarán reportes de manera automática, generando el nombre mediante la fecha en que fue realizado y un número correlativo. Al hacer click derecho sobre el mismo dará la opción de exportar el reporte y descargarlo en HTML y en algunos casos en PDF, como muestra la imagen.
+
+![Reportes](README/reportes.png)
 
 ## Funcionalidades Actualizaciones
 | Id  | Pagina                              | Descripción Pagina                                                                                                                                                          |
