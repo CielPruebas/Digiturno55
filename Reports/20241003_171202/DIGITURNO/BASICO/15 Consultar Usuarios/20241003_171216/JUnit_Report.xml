@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="15 Consultar Usuarios" time="46.029" tests="1" failures="0" errors="0">
+   <testsuite name="15 Consultar Usuarios" tests="1" failures="0" errors="0" time="46.029" skipped="0" timestamp="2024-10-03 17:19:59" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/DIGITURNO/BASICO/15 Consultar Usuarios">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\15 Consultar Usuarios\\20241003_171216"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\15 Consultar Usuarios\\20241003_171216\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\15 Consultar Usuarios\\20241003_171216\\1727994019927.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\15 Consultar Usuarios\\20241003_171216\\1727994034469.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\15 Consultar Usuarios\\20241003_171216\\1727994042129.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.13"/>
+         <property name="sessionId" value="4cfe004ebbbc67b607df4ddb60c45bbf"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/DIGITURNO/BASICO/15 Consultar Usuarios" time="45.727" classname="Test Cases/DIGITURNO/BASICO/15 Consultar Usuarios" status="PASSED">
+         <system-out><![CDATA[2024-10-03 17:19:59 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/15 Consultar Usuarios: Test Cases/DIGITURNO/BASICO/15 Consultar Usuarios
+
+2024-10-03 17:20:00 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/5 Usuarios"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/5 Usuarios' successfully
+
+2024-10-03 17:20:00 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/5 Usuarios: Test Cases/DIGITURNO/BASICO/5 Usuarios
+
+2024-10-03 17:20:00 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-10-03 17:20:00 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-10-03 17:20:01 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-10-03 17:20:01 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-10-03 17:20:01 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-10-03 17:20:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-10-03 17:20:04 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-10-03 17:20:04 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-10-03 17:20:04 - [MESSAGE][PASSED] - Current window maximized
+
+2024-10-03 17:20:04 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:20:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:20:07 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-10-03 17:20:08 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-10-03 17:20:08 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-10-03 17:20:09 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-10-03 17:20:09 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-10-03 17:20:09 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-10-03 17:20:09 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:20:12 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:20:12 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-10-03 17:20:12 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-10-03 17:20:13 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-10-03 17:20:13 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:20:16 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:20:16 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_4Usuarios")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_4Usuarios' is clicked on
+
+2024-10-03 17:20:16 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_4Usuarios' is clicked on
+
+2024-10-03 17:20:16 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:20:19 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:20:19 - [TEST_STEP][PASSED] - takeFullPageScreenshot(STOP_ON_FAILURE): Taking screenshot successfully
+
+2024-10-03 17:20:20 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-10-03 17:20:20 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\15 Consultar Usuarios\\20241003_171216\\1727994019927.png]]
+
+2024-10-03 17:20:20 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:20:23 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:20:23 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/5 Usuarios' successfully
+
+2024-10-03 17:20:23 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:20:26 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:20:26 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/4Usuarios/0Principal/img_3Consultar Usuarios")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/0Principal/img_3Consultar Usuarios' is clicked on
+
+2024-10-03 17:20:27 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/0Principal/img_3Consultar Usuarios' is clicked on
+
+2024-10-03 17:20:27 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:20:30 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:20:30 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/input_TextoABuscar"), "admin"): Text 'admin' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/input_TextoABuscar'
+
+2024-10-03 17:20:31 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/input_TextoABuscar'
+
+2024-10-03 17:20:31 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/img_Filtrar")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/img_Filtrar' is clicked on
+
+2024-10-03 17:20:31 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/img_Filtrar' is clicked on
+
+2024-10-03 17:20:31 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:20:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:20:34 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-10-03 17:20:34 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-10-03 17:20:34 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\15 Consultar Usuarios\\20241003_171216\\1727994034469.png]]
+
+2024-10-03 17:20:34 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:20:37 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:20:37 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/input_TextoABuscar"), "CIEL"): Text 'CIEL' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/input_TextoABuscar'
+
+2024-10-03 17:20:38 - [MESSAGE][PASSED] - Text 'CIEL' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/input_TextoABuscar'
+
+2024-10-03 17:20:38 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/img_Filtrar")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/img_Filtrar' is clicked on
+
+2024-10-03 17:20:39 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/img_Filtrar' is clicked on
+
+2024-10-03 17:20:39 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:20:42 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:20:42 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-10-03 17:20:42 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-10-03 17:20:42 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\15 Consultar Usuarios\\20241003_171216\\1727994042129.png]]
+
+2024-10-03 17:20:42 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:20:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:20:45 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-10-03 17:19:59 - [TEST_SUITE][PASSED] - 15 Consultar Usuarios: Test Cases/DIGITURNO/BASICO/15 Consultar Usuarios]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,49 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+41 Numeradores Crear Actualizar Eliminar,Chrome 129.0.0.0,,,2024-10-03 17:45:10,2024-10-03 17:47:18,"2m - 7,510s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/41 Numeradores Crear,Chrome 129.0.0.0,,,2024-10-03 17:45:10,2024-10-03 17:45:51,"40,828s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/39 Modelo de atencion""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:45:11,2024-10-03 17:45:38,"26,987s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/0Principal/img_2Numeradores""))",Chrome 129.0.0.0,,,2024-10-03 17:45:38,2024-10-03 17:45:38,"0,632s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:45:38,2024-10-03 17:45:41,"3,015s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/2Numeradores/Edicion/input_Nombre""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:45:41,2024-10-03 17:45:42,"0,740s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/2Numeradores/Edicion/input_Numero Inicial""), ""1"")",Chrome 129.0.0.0,,,2024-10-03 17:45:42,2024-10-03 17:45:43,"0,735s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/2Numeradores/Edicion/input_Numero final""), ""500"")",Chrome 129.0.0.0,,,2024-10-03 17:45:43,2024-10-03 17:45:44,"0,719s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/2Numeradores/Edicion/input_Prefijo""), ""PR"")",Chrome 129.0.0.0,,,2024-10-03 17:45:44,2024-10-03 17:45:44,"0,679s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/2Numeradores/Edicion/img_Nuevo""))",Chrome 129.0.0.0,,,2024-10-03 17:45:44,2024-10-03 17:45:45,"0,380s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:45:45,2024-10-03 17:45:48,"3,018s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 17:45:48,2024-10-03 17:45:48,"0,531s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:45:48,2024-10-03 17:45:51,"3,004s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 17:45:51,2024-10-03 17:45:51,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/41 Numeradores Actualizar,Chrome 129.0.0.0,,,2024-10-03 17:45:51,2024-10-03 17:46:34,"43,209s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/39 Modelo de atencion""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:45:52,2024-10-03 17:46:17,"25,212s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/0Principal/img_2Numeradores""))",Chrome 129.0.0.0,,,2024-10-03 17:46:17,2024-10-03 17:46:18,"0,616s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:46:18,2024-10-03 17:46:21,"3,010s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/2Numeradores/Lista de Numeradores/input_Buscar""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:46:21,2024-10-03 17:46:21,"0,813s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/2Numeradores/Lista de Numeradores/btn_Buscar""))",Chrome 129.0.0.0,,,2024-10-03 17:46:21,2024-10-03 17:46:22,"0,395s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:46:22,2024-10-03 17:46:25,"3,009s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/2Numeradores/Lista de Numeradores/td_1 Seleccion Busqueda""))",Chrome 129.0.0.0,,,2024-10-03 17:46:25,2024-10-03 17:46:25,"0,401s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:46:25,2024-10-03 17:46:27,"2,018s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/2Numeradores/Edicion/label_Rellenar""))",Chrome 129.0.0.0,,,2024-10-03 17:46:27,2024-10-03 17:46:28,"0,422s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/2Numeradores/Edicion/img_Actualizar""))",Chrome 129.0.0.0,,,2024-10-03 17:46:28,2024-10-03 17:46:28,"0,418s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:46:28,2024-10-03 17:46:31,"3,006s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 17:46:31,2024-10-03 17:46:31,"0,479s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:46:31,2024-10-03 17:46:34,"3,001s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 17:46:34,2024-10-03 17:46:34,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/41 Numeradores Eliminar,Chrome 129.0.0.0,,,2024-10-03 17:46:35,2024-10-03 17:47:18,"43,192s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/39 Modelo de atencion""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:46:35,2024-10-03 17:47:00,"25,318s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/0Principal/img_2Numeradores""))",Chrome 129.0.0.0,,,2024-10-03 17:47:00,2024-10-03 17:47:01,"0,535s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:47:01,2024-10-03 17:47:04,"3,017s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/2Numeradores/Lista de Numeradores/input_Buscar""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:47:04,2024-10-03 17:47:05,"0,728s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/2Numeradores/Lista de Numeradores/btn_Buscar""))",Chrome 129.0.0.0,,,2024-10-03 17:47:05,2024-10-03 17:47:05,"0,432s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:47:05,2024-10-03 17:47:08,"3,009s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/2Numeradores/Lista de Numeradores/td_1 Seleccion Busqueda""))",Chrome 129.0.0.0,,,2024-10-03 17:47:08,2024-10-03 17:47:09,"0,461s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:47:09,2024-10-03 17:47:11,"2,003s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/2Numeradores/Edicion/img_Eliminar""))",Chrome 129.0.0.0,,,2024-10-03 17:47:11,2024-10-03 17:47:11,"0,404s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/2Numeradores/Edicion/img_Eliminar""))",Chrome 129.0.0.0,,,2024-10-03 17:47:11,2024-10-03 17:47:11,"0,193s",PASSED
+acceptAlert(),Chrome 129.0.0.0,,,2024-10-03 17:47:11,2024-10-03 17:47:11,"0,043s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:47:11,2024-10-03 17:47:14,"3,006s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 17:47:14,2024-10-03 17:47:15,"0,455s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:47:15,2024-10-03 17:47:18,"3,008s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 17:47:18,2024-10-03 17:47:18,"0,000s",PASSED

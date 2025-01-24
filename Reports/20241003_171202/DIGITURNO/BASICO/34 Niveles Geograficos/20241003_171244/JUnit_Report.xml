@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="34 Niveles Geograficos" time="36.157" tests="1" failures="0" errors="0">
+   <testsuite name="34 Niveles Geograficos" tests="1" failures="0" errors="0" time="36.157" skipped="0" timestamp="2024-10-03 17:38:08" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/DIGITURNO/BASICO/34 Niveles Geograficos">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\34 Niveles Geograficos\\20241003_171244"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\34 Niveles Geograficos\\20241003_171244\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\34 Niveles Geograficos\\20241003_171244\\1727995108488.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\34 Niveles Geograficos\\20241003_171244\\1727995120789.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.13"/>
+         <property name="sessionId" value="0d118532705e6ca85be38bbb20f8bb96"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/DIGITURNO/BASICO/34 Niveles Geograficos" time="35.86" classname="Test Cases/DIGITURNO/BASICO/34 Niveles Geograficos" status="PASSED">
+         <system-out><![CDATA[2024-10-03 17:38:08 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/34 Niveles Geograficos: Test Cases/DIGITURNO/BASICO/34 Niveles Geograficos
+
+2024-10-03 17:38:08 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/21 Distribucion Geografica"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/21 Distribucion Geografica' successfully
+
+2024-10-03 17:38:08 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/21 Distribucion Geografica: Test Cases/DIGITURNO/BASICO/21 Distribucion Geografica
+
+2024-10-03 17:38:09 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-10-03 17:38:09 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-10-03 17:38:09 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-10-03 17:38:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-10-03 17:38:10 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-10-03 17:38:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-10-03 17:38:13 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-10-03 17:38:13 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-10-03 17:38:13 - [MESSAGE][PASSED] - Current window maximized
+
+2024-10-03 17:38:13 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:38:16 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:38:16 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-10-03 17:38:17 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-10-03 17:38:17 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-10-03 17:38:17 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-10-03 17:38:17 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-10-03 17:38:18 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-10-03 17:38:18 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:38:21 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:38:21 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-10-03 17:38:21 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-10-03 17:38:21 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-10-03 17:38:21 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:38:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:38:24 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_2Distribucion Geografica")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_2Distribucion Geografica' is clicked on
+
+2024-10-03 17:38:25 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_2Distribucion Geografica' is clicked on
+
+2024-10-03 17:38:25 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:38:28 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:38:28 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-10-03 17:38:28 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-10-03 17:38:29 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\34 Niveles Geograficos\\20241003_171244\\1727995108488.png]]
+
+2024-10-03 17:38:29 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:38:32 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:38:32 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/21 Distribucion Geografica' successfully
+
+2024-10-03 17:38:32 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/2Distribucion Geografica/0Principal/img_1Niveles Geograficos")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/2Distribucion Geografica/0Principal/img_1Niveles Geograficos' is clicked on
+
+2024-10-03 17:38:32 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/2Distribucion Geografica/0Principal/img_1Niveles Geograficos' is clicked on
+
+2024-10-03 17:38:32 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:38:35 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:38:35 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/2Distribucion Geografica/1Niveles Geograficos/Edicion/Niveles Geograficos/td_Pais")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/2Distribucion Geografica/1Niveles Geograficos/Edicion/Niveles Geograficos/td_Pais' is clicked on
+
+2024-10-03 17:38:36 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/2Distribucion Geografica/1Niveles Geograficos/Edicion/Niveles Geograficos/td_Pais' is clicked on
+
+2024-10-03 17:38:36 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/2Distribucion Geografica/1Niveles Geograficos/Edicion/Niveles Geograficos/input_Nombre"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/2Distribucion Geografica/1Niveles Geograficos/Edicion/Niveles Geograficos/input_Nombre'
+
+2024-10-03 17:38:37 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/2Distribucion Geografica/1Niveles Geograficos/Edicion/Niveles Geograficos/input_Nombre'
+
+2024-10-03 17:38:37 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/2Distribucion Geografica/1Niveles Geograficos/Edicion/Niveles Geograficos/img_Actualizar")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/2Distribucion Geografica/1Niveles Geograficos/Edicion/Niveles Geograficos/img_Actualizar' is clicked on
+
+2024-10-03 17:38:37 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/2Distribucion Geografica/1Niveles Geograficos/Edicion/Niveles Geograficos/img_Actualizar' is clicked on
+
+2024-10-03 17:38:37 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:38:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:38:40 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-10-03 17:38:41 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-10-03 17:38:41 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\34 Niveles Geograficos\\20241003_171244\\1727995120789.png]]
+
+2024-10-03 17:38:41 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:38:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:38:44 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-10-03 17:38:08 - [TEST_SUITE][PASSED] - 34 Niveles Geograficos: Test Cases/DIGITURNO/BASICO/34 Niveles Geograficos]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

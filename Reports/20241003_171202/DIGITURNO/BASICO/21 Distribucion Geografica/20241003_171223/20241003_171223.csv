@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+21 Distribucion Geografica,Chrome 129.0.0.0,,,2024-10-03 17:22:59,2024-10-03 17:23:38,"38,777s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/21 Distribucion Geografica,Chrome 129.0.0.0,,,2024-10-03 17:23:00,2024-10-03 17:23:38,"38,464s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:23:00,2024-10-03 17:23:12,"12,242s",PASSED
+"click(findTestObject(""DIGITURNO/1Principal/img_Configuracion(1)""))",Chrome 129.0.0.0,,,2024-10-03 17:23:12,2024-10-03 17:23:13,"0,616s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:23:13,2024-10-03 17:23:16,"3,014s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/0Principal/img_2Distribucion Geografica""))",Chrome 129.0.0.0,Mostrará los iconos de Distribución Geográfica,,2024-10-03 17:23:16,2024-10-03 17:23:31,"15,544s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:23:31,2024-10-03 17:23:34,"3,016s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 17:23:34,2024-10-03 17:23:35,"0,609s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:23:35,2024-10-03 17:23:38,"3,011s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 17:23:38,2024-10-03 17:23:38,"0,000s",PASSED

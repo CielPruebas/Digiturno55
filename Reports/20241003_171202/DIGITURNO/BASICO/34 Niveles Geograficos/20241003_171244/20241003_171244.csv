@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+34 Niveles Geograficos,Chrome 129.0.0.0,,,2024-10-03 17:38:08,2024-10-03 17:38:44,"36,157s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/34 Niveles Geograficos,Chrome 129.0.0.0,,,2024-10-03 17:38:08,2024-10-03 17:38:44,"35,860s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/21 Distribucion Geografica""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:38:08,2024-10-03 17:38:32,"23,255s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/0Principal/img_1Niveles Geograficos""))",Chrome 129.0.0.0,,,2024-10-03 17:38:32,2024-10-03 17:38:32,"0,902s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:38:32,2024-10-03 17:38:35,"3,008s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/1Niveles Geograficos/Edicion/Niveles Geograficos/td_Pais""))",Chrome 129.0.0.0,,,2024-10-03 17:38:35,2024-10-03 17:38:36,"0,427s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/1Niveles Geograficos/Edicion/Niveles Geograficos/input_Nombre""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:38:36,2024-10-03 17:38:37,"0,999s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/1Niveles Geograficos/Edicion/Niveles Geograficos/img_Actualizar""))",Chrome 129.0.0.0,,,2024-10-03 17:38:37,2024-10-03 17:38:37,"0,398s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:38:37,2024-10-03 17:38:40,"3,007s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 17:38:40,2024-10-03 17:38:41,"0,431s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:38:41,2024-10-03 17:38:44,"3,010s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 17:38:44,2024-10-03 17:38:44,"0,000s",PASSED

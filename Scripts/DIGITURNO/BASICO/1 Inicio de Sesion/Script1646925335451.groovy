@@ -23,5 +23,3 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('null'))
-

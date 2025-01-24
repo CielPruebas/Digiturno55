@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="0 Generar Turno" time="129.629" tests="1" failures="0" errors="0">
+   <testsuite name="0 Generar Turno" tests="1" failures="0" errors="0" time="129.629" skipped="0" timestamp="2024-09-18 09:09:13" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/DIGITURNO/OPERACION BASICA TERMINAL/0 Generar Turno">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240918_090846\\DIGITURNO\\OPERACION BASICA TERMINAL\\0 Generar Turno\\20240918_090847"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240918_090846\\DIGITURNO\\OPERACION BASICA TERMINAL\\0 Generar Turno\\20240918_090847\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240918_090846\\DIGITURNO\\OPERACION BASICA TERMINAL\\0 Generar Turno\\20240918_090847\\1726668567679.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.6"/>
+         <property name="sessionId" value="ad29446b7214d25c80d7447e5ab9b5a9"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/DIGITURNO/OPERACION BASICA TERMINAL/0 Generar Turno" time="129.368" classname="Test Cases/DIGITURNO/OPERACION BASICA TERMINAL/0 Generar Turno" status="PASSED">
+         <system-out><![CDATA[2024-09-18 09:09:14 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/OPERACION BASICA TERMINAL/0 Generar Turno: Test Cases/DIGITURNO/OPERACION BASICA TERMINAL/0 Generar Turno
+
+2024-09-18 09:09:14 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesionOperacionBasica"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesionOperacionBasica' successfully
+
+2024-09-18 09:09:14 - [TEST_CASE][PASSED] - Test Cases/0InicioSesionOperacionBasica: Test Cases/0InicioSesionOperacionBasica
+
+2024-09-18 09:09:14 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-09-18 09:09:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-09-18 09:09:15 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-09-18 09:09:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-09-18 09:09:19 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-09-18 09:09:19 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-09-18 09:09:19 - [MESSAGE][PASSED] - Current window maximized
+
+2024-09-18 09:09:19 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:09:22 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:09:22 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-09-18 09:09:23 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-09-18 09:09:23 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-09-18 09:09:24 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-09-18 09:09:24 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-09-18 09:09:24 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-09-18 09:09:24 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:09:27 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:09:27 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-09-18 09:09:28 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-09-18 09:09:28 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20240918_090846\\DIGITURNO\\OPERACION BASICA TERMINAL\\0 Generar Turno\\20240918_090847\\1726668567679.png]]
+
+2024-09-18 09:09:28 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:09:31 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:09:31 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesionOperacionBasica' successfully
+
+2024-09-18 09:09:31 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:09:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:09:34 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Operacion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Operacion(1)' is clicked on
+
+2024-09-18 09:09:34 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Operacion(1)' is clicked on
+
+2024-09-18 09:09:34 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:09:37 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:09:37 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/0Principal/Elementos del Sistema/img_Selectores")): Object: 'Object Repository/DIGITURNO/OPERACION/0Principal/Elementos del Sistema/img_Selectores' is clicked on
+
+2024-09-18 09:09:38 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/0Principal/Elementos del Sistema/img_Selectores' is clicked on
+
+2024-09-18 09:09:38 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:09:41 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:09:41 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Oficinas/td_1Bogota - CIEL")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Oficinas/td_1Bogota - CIEL' is clicked on
+
+2024-09-18 09:09:41 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Oficinas/td_1Bogota - CIEL' is clicked on
+
+2024-09-18 09:09:41 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:09:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:09:44 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Lista de Selectores/td_Selector 01")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Lista de Selectores/td_Selector 01' is clicked on
+
+2024-09-18 09:09:45 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Lista de Selectores/td_Selector 01' is clicked on
+
+2024-09-18 09:09:45 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2024-09-18 09:09:50 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2024-09-18 09:09:50 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2024-09-18 09:09:50 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2024-09-18 09:09:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-09-18 09:09:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-09-18 09:09:52 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/input_cajaBusqueda"), "info"): Text 'info' is set on object 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/input_cajaBusqueda'
+
+2024-09-18 09:09:53 - [MESSAGE][PASSED] - Text 'info' is set on object 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/input_cajaBusqueda'
+
+2024-09-18 09:09:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:09:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:09:56 - [TEST_STEP][PASSED] - for (def index : (1..11)): Delayed 3 second(s)
+
+2024-09-18 09:09:56 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:09:57 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:09:57 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:00 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:01 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:01 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:04 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:04 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:10:05 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:10:05 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:08 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:08 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:08 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:08 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:11 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:10:11 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:10:11 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:14 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:14 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:15 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:15 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:18 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:18 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:10:18 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:10:18 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:21 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:22 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:22 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:22 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:25 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:25 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:10:25 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:10:25 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:28 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:28 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:29 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:29 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:32 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:32 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:10:33 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:10:33 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:36 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:36 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:36 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:39 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:39 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:10:39 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:10:39 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:43 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:43 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:43 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:43 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:46 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:46 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:10:46 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:10:46 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:49 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:49 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:50 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:50 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:53 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:53 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:10:54 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:10:54 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:10:57 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:10:57 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:58 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:10:58 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:11:01 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:11:01 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:11:01 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:11:01 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:11:04 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:11:04 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:11:05 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:11:05 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:11:08 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:11:08 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:11:08 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Jerarquia/a_WIZ General Informacion' is clicked on
+
+2024-09-18 09:11:08 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:11:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:11:11 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:11:12 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/Generar Turno/img_Con Impresion' is clicked on
+
+2024-09-18 09:11:12 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:11:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:11:15 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/0Informacion de Selector/img_Cerrar")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/0Informacion de Selector/img_Cerrar' is clicked on
+
+2024-09-18 09:11:16 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/0Informacion de Selector/img_Cerrar' is clicked on
+
+2024-09-18 09:11:16 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:11:19 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:11:19 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/OPERACION/1Selectores/Selector/0Informacion de Selector/img_Cerrar(1)/btn_4FindeJornada_8")): Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/0Informacion de Selector/img_Cerrar(1)/btn_4FindeJornada_8' is clicked on
+
+2024-09-18 09:11:20 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/OPERACION/1Selectores/Selector/0Informacion de Selector/img_Cerrar(1)/btn_4FindeJornada_8' is clicked on
+
+2024-09-18 09:11:20 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-09-18 09:11:23 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-09-18 09:11:23 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-09-18 09:09:13 - [TEST_SUITE][PASSED] - 0 Generar Turno: Test Cases/DIGITURNO/OPERACION BASICA TERMINAL/0 Generar Turno]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

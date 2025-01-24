@@ -1,0 +1,35 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+14 Paginas por perfil Asociar y Desasociar,Chrome 129.0.0.0,,,2024-10-03 16:27:17,2024-10-03 16:28:39,"1m - 21,788s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/14 Paginas por perfil Asociar,Chrome 129.0.0.0,,,2024-10-03 16:27:18,2024-10-03 16:28:00,"42,728s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/5 Usuarios""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 16:27:18,2024-10-03 16:27:41,"23,142s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 16:27:41,2024-10-03 16:27:44,"3,008s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/0Principal/img_2Paginas por perfil""))",Chrome 129.0.0.0,,,2024-10-03 16:27:44,2024-10-03 16:27:45,"0,703s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 16:27:45,2024-10-03 16:27:48,"3,014s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/2Paginas por perfil/Paginas de la aplicacion/input_TextoABuscar""), ""alarmas"")",Chrome 129.0.0.0,,,2024-10-03 16:27:48,2024-10-03 16:27:49,"0,726s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/2Paginas por perfil/Perfiles de la aplicacion/option_3Consulta""))",Chrome 129.0.0.0,,,2024-10-03 16:27:49,2024-10-03 16:27:49,"0,417s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 16:27:49,2024-10-03 16:27:51,"2,003s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/2Paginas por perfil/Paginas de la aplicacion/a_SeleccionarTodo""))",Chrome 129.0.0.0,,,2024-10-03 16:27:51,2024-10-03 16:27:51,"0,393s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 16:27:51,2024-10-03 16:27:53,"2,005s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/2Paginas por perfil/Perfiles de la aplicacion/img_Nuevo""))",Chrome 129.0.0.0,,,2024-10-03 16:27:53,2024-10-03 16:27:54,"0,389s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 16:27:54,2024-10-03 16:27:57,"3,006s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 16:27:57,2024-10-03 16:27:57,"0,539s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 16:27:57,2024-10-03 16:28:00,"3,010s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 16:28:00,2024-10-03 16:28:00,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/14 Paginas por perfil Desasociar,Chrome 129.0.0.0,,,2024-10-03 16:28:00,2024-10-03 16:28:39,"38,768s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/5 Usuarios""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 16:28:01,2024-10-03 16:28:23,"21,761s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 16:28:23,2024-10-03 16:28:26,"3,007s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/0Principal/img_2Paginas por perfil""))",Chrome 129.0.0.0,,,2024-10-03 16:28:26,2024-10-03 16:28:26,"0,692s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 16:28:26,2024-10-03 16:28:29,"3,014s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/2Paginas por perfil/Paginas de la aplicacion/input_TextoABuscar""), ""alarmas"")",Chrome 129.0.0.0,,,2024-10-03 16:28:29,2024-10-03 16:28:30,"0,753s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/2Paginas por perfil/Perfiles de la aplicacion/option_3Consulta""))",Chrome 129.0.0.0,,,2024-10-03 16:28:30,2024-10-03 16:28:30,"0,407s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 16:28:30,2024-10-03 16:28:32,"2,011s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/2Paginas por perfil/Paginas de la aplicacion/a_SeleccionarTodo""))",Chrome 129.0.0.0,,,2024-10-03 16:28:32,2024-10-03 16:28:33,"0,421s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 16:28:33,2024-10-03 16:28:35,"2,004s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/2Paginas por perfil/Perfiles de la aplicacion/img_Eliminar""))",Chrome 129.0.0.0,,,2024-10-03 16:28:35,2024-10-03 16:28:35,"0,452s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/2Paginas por perfil/Perfiles de la aplicacion/img_Eliminar""))",Chrome 129.0.0.0,,,2024-10-03 16:28:35,2024-10-03 16:28:35,"0,151s",PASSED
+acceptAlert(STOP_ON_FAILURE),Chrome 129.0.0.0,,,2024-10-03 16:28:35,2024-10-03 16:28:35,"0,054s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 16:28:35,2024-10-03 16:28:36,"0,546s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 16:28:36,2024-10-03 16:28:39,"3,008s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 16:28:39,2024-10-03 16:28:39,"0,000s",PASSED

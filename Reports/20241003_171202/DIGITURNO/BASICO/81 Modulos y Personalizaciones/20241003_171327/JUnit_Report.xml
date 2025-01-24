@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="81 Modulos y Personalizaciones" time="45.756" tests="1" failures="0" errors="0">
+   <testsuite name="81 Modulos y Personalizaciones" tests="1" failures="0" errors="0" time="45.756" skipped="0" timestamp="2024-10-03 18:03:31" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/DIGITURNO/BASICO/81 Modulos y Personalizaciones">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\81 Modulos y Personalizaciones\\20241003_171327"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\81 Modulos y Personalizaciones\\20241003_171327\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\81 Modulos y Personalizaciones\\20241003_171327\\1727996631994.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\81 Modulos y Personalizaciones\\20241003_171327\\1727996653906.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.13"/>
+         <property name="sessionId" value="853443071dbb2243c8c0d1a27690d963"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/DIGITURNO/BASICO/81 Modulos y Personalizaciones" time="45.47" classname="Test Cases/DIGITURNO/BASICO/81 Modulos y Personalizaciones" status="PASSED">
+         <system-out><![CDATA[2024-10-03 18:03:31 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/81 Modulos y Personalizaciones: Test Cases/DIGITURNO/BASICO/81 Modulos y Personalizaciones
+
+2024-10-03 18:03:32 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/30 Sistema"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/30 Sistema' successfully
+
+2024-10-03 18:03:32 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/30 Sistema: Test Cases/DIGITURNO/BASICO/30 Sistema
+
+2024-10-03 18:03:32 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-10-03 18:03:32 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-10-03 18:03:33 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-10-03 18:03:33 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-10-03 18:03:33 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-10-03 18:03:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-10-03 18:03:36 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-10-03 18:03:36 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-10-03 18:03:36 - [MESSAGE][PASSED] - Current window maximized
+
+2024-10-03 18:03:36 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 18:03:39 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 18:03:39 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-10-03 18:03:40 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-10-03 18:03:40 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-10-03 18:03:41 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-10-03 18:03:41 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-10-03 18:03:41 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-10-03 18:03:41 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 18:03:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 18:03:44 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-10-03 18:03:44 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-10-03 18:03:45 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-10-03 18:03:45 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 18:03:48 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 18:03:48 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_7Sistema")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_7Sistema' is clicked on
+
+2024-10-03 18:03:48 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_7Sistema' is clicked on
+
+2024-10-03 18:03:48 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 18:03:51 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 18:03:51 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-10-03 18:03:52 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-10-03 18:03:52 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\81 Modulos y Personalizaciones\\20241003_171327\\1727996631994.png]]
+
+2024-10-03 18:03:52 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 18:03:55 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 18:03:55 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/30 Sistema' successfully
+
+2024-10-03 18:03:55 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/7Sistema/0Principal/img_2 Modulos y Personalizaciones")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/7Sistema/0Principal/img_2 Modulos y Personalizaciones' is clicked on
+
+2024-10-03 18:04:10 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/7Sistema/0Principal/img_2 Modulos y Personalizaciones' is clicked on
+
+2024-10-03 18:04:10 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 18:04:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 18:04:13 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-10-03 18:04:14 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-10-03 18:04:14 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\81 Modulos y Personalizaciones\\20241003_171327\\1727996653906.png]]
+
+2024-10-03 18:04:14 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 18:04:17 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 18:04:17 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-10-03 18:03:31 - [TEST_SUITE][PASSED] - 81 Modulos y Personalizaciones: Test Cases/DIGITURNO/BASICO/81 Modulos y Personalizaciones]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

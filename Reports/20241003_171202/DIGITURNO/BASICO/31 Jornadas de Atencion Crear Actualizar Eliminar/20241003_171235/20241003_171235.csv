@@ -1,0 +1,81 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+31 Jornadas de Atencion Crear Actualizar Eliminar,Chrome 129.0.0.0,,,2024-10-03 17:31:30,2024-10-03 17:34:13,"2m - 42,810s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/31 Jornadas de Atencion Crear,Chrome 129.0.0.0,,,2024-10-03 17:31:30,2024-10-03 17:32:50,"1m - 20,138s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/3 Configuracion""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:31:31,2024-10-03 17:31:51,"19,847s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/0Principal/img_3Jornadas de atencion""))",Chrome 129.0.0.0,,,2024-10-03 17:31:51,2024-10-03 17:32:07,"15,977s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:32:07,2024-10-03 17:32:09,"2,017s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/0Modal Inicial Oficinas/td_1Bogota - CIEL""))",Chrome 129.0.0.0,,,2024-10-03 17:32:09,2024-10-03 17:32:09,"0,436s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:32:09,2024-10-03 17:32:12,"3,025s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/btn_SeleccionarOficina""))",Chrome 129.0.0.0,,,2024-10-03 17:32:12,2024-10-03 17:32:12,"0,408s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:32:12,2024-10-03 17:32:15,"3,001s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/btn_SeleccionarOficina(1)/td_1Bogota - CIEL""))",Chrome 129.0.0.0,,,2024-10-03 17:32:15,2024-10-03 17:32:16,"0,402s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:32:16,2024-10-03 17:32:19,"3,004s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/Label/label_Habilitada""))",Chrome 129.0.0.0,,,2024-10-03 17:32:19,2024-10-03 17:32:19,"0,473s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:32:19,2024-10-03 17:32:22,"3,012s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/input_Nombre""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:32:22,2024-10-03 17:32:23,"0,733s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/textarea_Descripcion""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:32:23,2024-10-03 17:32:24,"0,715s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/input_Prioridad""), ""9"")",Chrome 129.0.0.0,Cambiar prioridad para que no se repita con otra,,2024-10-03 17:32:24,2024-10-03 17:32:25,"0,724s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/input_Fecha inicio ddmmaaaa""), ""12/05/2022"")",Chrome 129.0.0.0,Fecha inicio Formato dd/mm/aaaa,,2024-10-03 17:32:25,2024-10-03 17:32:25,"0,726s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/input_Fecha Inicio HH""), ""08"")",Chrome 129.0.0.0,,,2024-10-03 17:32:25,2024-10-03 17:32:26,"1,037s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/input_Fecha Inicio MM""), ""00"")",Chrome 129.0.0.0,,,2024-10-03 17:32:26,2024-10-03 17:32:27,"0,726s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:32:27,2024-10-03 17:32:30,"3,017s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/input_Fecha fin ddmmaaaa""), ""30/06/2022"")",Chrome 129.0.0.0,Fecha Fin Formato dd/mm/aaaa,,2024-10-03 17:32:30,2024-10-03 17:32:31,"0,742s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/input_Fecha Fin HH""), ""18"")",Chrome 129.0.0.0,,,2024-10-03 17:32:31,2024-10-03 17:32:32,"1,045s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/input_Fecha Fin MM""), ""00"")",Chrome 129.0.0.0,,,2024-10-03 17:32:32,2024-10-03 17:32:33,"0,738s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:32:33,2024-10-03 17:32:36,"3,006s",PASSED
+"scrollToPosition(0, 700)",Chrome 129.0.0.0,,,2024-10-03 17:32:36,2024-10-03 17:32:36,"0,037s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/Label/label_Semanal""))",Chrome 129.0.0.0,,,2024-10-03 17:32:36,2024-10-03 17:32:36,"0,457s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:32:36,2024-10-03 17:32:38,"2,013s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/Label/label_Semanal(1)/label_lunes""))",Chrome 129.0.0.0,,,2024-10-03 17:32:38,2024-10-03 17:32:38,"0,415s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/Label/label_Semanal(1)/label_martes""))",Chrome 129.0.0.0,,,2024-10-03 17:32:38,2024-10-03 17:32:39,"0,439s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/Label/label_Semanal(1)/label_miercoles""))",Chrome 129.0.0.0,,,2024-10-03 17:32:39,2024-10-03 17:32:39,"0,456s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/Label/label_Semanal(1)/label_jueves""))",Chrome 129.0.0.0,,,2024-10-03 17:32:39,2024-10-03 17:32:40,"0,421s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/Label/label_Semanal(1)/label_viernes""))",Chrome 129.0.0.0,,,2024-10-03 17:32:40,2024-10-03 17:32:40,"0,412s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:32:40,2024-10-03 17:32:43,"3,002s",PASSED
+"scrollToPosition(0, 0)",Chrome 129.0.0.0,,,2024-10-03 17:32:43,2024-10-03 17:32:43,"0,021s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/img_Nuevo""))",Chrome 129.0.0.0,,,2024-10-03 17:32:43,2024-10-03 17:32:44,"0,455s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:32:44,2024-10-03 17:32:47,"3,012s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 17:32:47,2024-10-03 17:32:47,"0,744s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:32:47,2024-10-03 17:32:50,"3,014s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 17:32:50,2024-10-03 17:32:50,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/31 Jornadas de Atencion Actualizar,Chrome 129.0.0.0,,,2024-10-03 17:32:50,2024-10-03 17:33:34,"43,073s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/3 Configuracion""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:32:51,2024-10-03 17:33:09,"18,224s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/0Principal/img_3Jornadas de atencion""))",Chrome 129.0.0.0,,,2024-10-03 17:33:09,2024-10-03 17:33:10,"0,753s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:33:10,2024-10-03 17:33:12,"2,004s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/0Modal Inicial Oficinas/td_1Bogota - CIEL""))",Chrome 129.0.0.0,,,2024-10-03 17:33:12,2024-10-03 17:33:12,"0,466s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:33:12,2024-10-03 17:33:15,"3,010s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Lista de Jornadas/input_TextoABuscar""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:33:15,2024-10-03 17:33:16,"0,784s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:33:16,2024-10-03 17:33:19,"3,013s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Lista de Jornadas/td_1 Seleccion Busqueda""))",Chrome 129.0.0.0,,,2024-10-03 17:33:19,2024-10-03 17:33:20,"0,420s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:33:20,2024-10-03 17:33:23,"3,004s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/textarea_Descripcion""), ""Prueba Actualizada"")",Chrome 129.0.0.0,,,2024-10-03 17:33:23,2024-10-03 17:33:23,"0,804s",PASSED
+"scrollToElement(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/Label/label_Semanal(1)/label_sabado""), 1)",Chrome 129.0.0.0,,,2024-10-03 17:33:23,2024-10-03 17:33:24,"0,363s",PASSED
+"check(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/Label/label_Semanal(1)/label_sabado""))",Chrome 129.0.0.0,,,2024-10-03 17:33:24,2024-10-03 17:33:24,"0,518s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:33:24,2024-10-03 17:33:26,"2,015s",PASSED
+"scrollToPosition(0, 0)",Chrome 129.0.0.0,,,2024-10-03 17:33:26,2024-10-03 17:33:26,"0,022s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/img_Actualizar""))",Chrome 129.0.0.0,,,2024-10-03 17:33:26,2024-10-03 17:33:27,"0,451s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:33:27,2024-10-03 17:33:30,"3,016s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 17:33:30,2024-10-03 17:33:31,"0,729s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:33:31,2024-10-03 17:33:34,"3,005s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 17:33:34,2024-10-03 17:33:34,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/31 Jornadas de Atencion Eliminar,Chrome 129.0.0.0,,,2024-10-03 17:33:34,2024-10-03 17:34:13,"39,273s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/3 Configuracion""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:33:34,2024-10-03 17:33:52,"18,196s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/0Principal/img_3Jornadas de atencion""))",Chrome 129.0.0.0,,,2024-10-03 17:33:52,2024-10-03 17:33:53,"0,693s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:33:53,2024-10-03 17:33:55,"2,007s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/0Modal Inicial Oficinas/td_1Bogota - CIEL""))",Chrome 129.0.0.0,,,2024-10-03 17:33:55,2024-10-03 17:33:55,"0,413s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:33:55,2024-10-03 17:33:58,"3,013s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Lista de Jornadas/input_TextoABuscar""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:33:58,2024-10-03 17:33:59,"0,766s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:33:59,2024-10-03 17:34:02,"3,014s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Lista de Jornadas/td_1 Seleccion Busqueda""))",Chrome 129.0.0.0,,,2024-10-03 17:34:02,2024-10-03 17:34:02,"0,415s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:34:02,2024-10-03 17:34:05,"3,010s",PASSED
+"scrollToPosition(0, 0)",Chrome 129.0.0.0,,,2024-10-03 17:34:05,2024-10-03 17:34:05,"0,021s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/img_Eliminar""))",Chrome 129.0.0.0,,,2024-10-03 17:34:05,2024-10-03 17:34:06,"0,395s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/3Jornadas de Atencion/Edicion/img_Eliminar""))",Chrome 129.0.0.0,,,2024-10-03 17:34:06,2024-10-03 17:34:06,"0,170s",PASSED
+acceptAlert(),Chrome 129.0.0.0,,,2024-10-03 17:34:06,2024-10-03 17:34:06,"0,054s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:34:06,2024-10-03 17:34:09,"3,017s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 17:34:09,2024-10-03 17:34:10,"0,684s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:34:10,2024-10-03 17:34:13,"3,009s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 17:34:13,2024-10-03 17:34:13,"0,000s",PASSED

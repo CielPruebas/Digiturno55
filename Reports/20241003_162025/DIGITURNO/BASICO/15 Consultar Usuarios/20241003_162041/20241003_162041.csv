@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+15 Consultar Usuarios,Chrome 129.0.0.0,,,2024-10-03 16:28:49,2024-10-03 16:29:35,"45,999s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/15 Consultar Usuarios,Chrome 129.0.0.0,,,2024-10-03 16:28:49,2024-10-03 16:29:35,"45,726s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/5 Usuarios""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 16:28:50,2024-10-03 16:29:13,"23,079s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 16:29:13,2024-10-03 16:29:16,"3,006s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/0Principal/img_3Consultar Usuarios""))",Chrome 129.0.0.0,,,2024-10-03 16:29:16,2024-10-03 16:29:17,"0,872s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 16:29:17,2024-10-03 16:29:20,"3,017s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/input_TextoABuscar""), ""admin"")",Chrome 129.0.0.0,Mostrara los usuarios que tengan permiso de administrador,,2024-10-03 16:29:20,2024-10-03 16:29:21,"0,782s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/img_Filtrar""))",Chrome 129.0.0.0,,,2024-10-03 16:29:21,2024-10-03 16:29:21,"0,432s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 16:29:21,2024-10-03 16:29:24,"3,013s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 16:29:24,2024-10-03 16:29:24,"0,501s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 16:29:24,2024-10-03 16:29:28,"3,023s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/input_TextoABuscar""), ""CIEL"")",Chrome 129.0.0.0,Mostrara los usuarios que tengan permiso de administrador,,2024-10-03 16:29:28,2024-10-03 16:29:28,"0,786s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/3Consultar Usuarios/0Filtro Por Nombre de usuario/img_Filtrar""))",Chrome 129.0.0.0,,,2024-10-03 16:29:28,2024-10-03 16:29:29,"0,400s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 16:29:29,2024-10-03 16:29:32,"3,007s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 16:29:32,2024-10-03 16:29:32,"0,435s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 16:29:32,2024-10-03 16:29:35,"3,001s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 16:29:35,2024-10-03 16:29:35,"0,000s",PASSED

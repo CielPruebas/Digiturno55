@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+1 Inicio de Sesion,Chrome 129.0.0.0,,,2024-10-03 16:22:02,2024-10-03 16:22:29,"27,330s",FAILED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/1 Inicio de Sesion,Chrome 129.0.0.0,,,2024-10-03 16:22:02,2024-10-03 16:22:29,"26,999s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 16:22:03,2024-10-03 16:22:25,"21,857s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 16:22:25,2024-10-03 16:22:26,"1,599s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 16:22:26,2024-10-03 16:22:29,"3,005s",PASSED
+"click(findTestObject(""null""))",Chrome 129.0.0.0,,,2024-10-03 16:22:29,2024-10-03 16:22:29,"0,143s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 16:22:29,2024-10-03 16:22:29,"0,000s",PASSED

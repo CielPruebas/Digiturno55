@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="33 Terminales Crear Actualizar Eliminar" time="147.62" tests="3" failures="0" errors="0">
+   <testsuite name="33 Terminales Crear Actualizar Eliminar" tests="3" failures="0" errors="0" time="147.62" skipped="0" timestamp="2024-10-03 17:35:28" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/DIGITURNO/BASICO/33 Terminales Crear Actualizar Eliminar">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727994945791.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727994952956.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727994978850.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727994997896.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727995004934.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727995030138.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727995049156.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727995056125.png, C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727995072701.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.13"/>
+         <property name="sessionId" value="4f5df5a81320d4d332990f6d0107fbc5"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/DIGITURNO/BASICO/33 Terminales Crear" time="53.694" classname="Test Cases/DIGITURNO/BASICO/33 Terminales Crear" status="PASSED">
+         <system-out><![CDATA[2024-10-03 17:35:28 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/33 Terminales Crear: Test Cases/DIGITURNO/BASICO/33 Terminales Crear
+
+2024-10-03 17:35:29 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/32 Elementos del Sistema"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema' successfully
+
+2024-10-03 17:35:29 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema: Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema
+
+2024-10-03 17:35:29 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/3 Configuracion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-10-03 17:35:29 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/3 Configuracion: Test Cases/DIGITURNO/BASICO/3 Configuracion
+
+2024-10-03 17:35:30 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-10-03 17:35:30 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-10-03 17:35:30 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-10-03 17:35:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-10-03 17:35:31 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-10-03 17:35:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-10-03 17:35:34 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-10-03 17:35:34 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-10-03 17:35:34 - [MESSAGE][PASSED] - Current window maximized
+
+2024-10-03 17:35:34 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:35:37 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:35:37 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-10-03 17:35:38 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-10-03 17:35:38 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-10-03 17:35:38 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-10-03 17:35:38 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-10-03 17:35:39 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-10-03 17:35:39 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:35:42 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:35:42 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-10-03 17:35:42 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-10-03 17:35:42 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-10-03 17:35:42 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:35:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:35:45 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-10-03 17:35:46 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-10-03 17:35:46 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727994945791.png]]
+
+2024-10-03 17:35:46 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:35:49 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:35:49 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-10-03 17:35:49 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema' is clicked on
+
+2024-10-03 17:35:49 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema' is clicked on
+
+2024-10-03 17:35:49 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:35:52 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:35:52 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-10-03 17:35:53 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-10-03 17:35:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727994952956.png]]
+
+2024-10-03 17:35:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:35:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:35:56 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema' successfully
+
+2024-10-03 17:35:56 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_3Terminales")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_3Terminales' is clicked on
+
+2024-10-03 17:35:57 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_3Terminales' is clicked on
+
+2024-10-03 17:35:57 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:36:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:36:00 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/0 Modal oficina/td_1Bogota - CIEL")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/0 Modal oficina/td_1Bogota - CIEL' is clicked on
+
+2024-10-03 17:36:00 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/0 Modal oficina/td_1Bogota - CIEL' is clicked on
+
+2024-10-03 17:36:00 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:36:03 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:36:03 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/btn_SeleccionarGrupo")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/btn_SeleccionarGrupo' is clicked on
+
+2024-10-03 17:36:04 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/btn_SeleccionarGrupo' is clicked on
+
+2024-10-03 17:36:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-10-03 17:36:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-10-03 17:36:06 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/btn_Seleccionar Grupo(1)/a_1Grupo General")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/btn_Seleccionar Grupo(1)/a_1Grupo General' is clicked on
+
+2024-10-03 17:36:06 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/btn_Seleccionar Grupo(1)/a_1Grupo General' is clicked on
+
+2024-10-03 17:36:06 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:36:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:36:09 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/input_Nombre"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/input_Nombre'
+
+2024-10-03 17:36:10 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/input_Nombre'
+
+2024-10-03 17:36:10 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/textarea_Descripcion"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/textarea_Descripcion'
+
+2024-10-03 17:36:11 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/textarea_Descripcion'
+
+2024-10-03 17:36:11 - [TEST_STEP][PASSED] - selectOptionByIndex(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/select_Tipo Terminal"), 0, STOP_ON_FAILURE): All options with index in [0] are selected on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/select_Tipo Terminal'
+
+2024-10-03 17:36:12 - [MESSAGE][PASSED] - All options with index in [0] are selected on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/select_Tipo Terminal'
+
+2024-10-03 17:36:12 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-10-03 17:36:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-10-03 17:36:14 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/input_Direccion en sala"), "9"): Text '9' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/input_Direccion en sala'
+
+2024-10-03 17:36:15 - [MESSAGE][PASSED] - Text '9' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/input_Direccion en sala'
+
+2024-10-03 17:36:15 - [TEST_STEP][PASSED] - check(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/label_Mostrar Ventana Emergente")): Object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/label_Mostrar Ventana Emergente' is checked
+
+2024-10-03 17:36:15 - [MESSAGE][PASSED] - Object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/label_Mostrar Ventana Emergente' is checked
+
+2024-10-03 17:36:15 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/img_Nuevo")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/img_Nuevo' is clicked on
+
+2024-10-03 17:36:15 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/img_Nuevo' is clicked on
+
+2024-10-03 17:36:15 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:36:18 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:36:18 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-10-03 17:36:19 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-10-03 17:36:19 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727994978850.png]]
+
+2024-10-03 17:36:19 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:36:22 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:36:22 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DIGITURNO/BASICO/33 Terminales Actualizar" time="51.257" classname="Test Cases/DIGITURNO/BASICO/33 Terminales Actualizar" status="PASSED">
+         <system-out><![CDATA[2024-10-03 17:36:22 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/33 Terminales Actualizar: Test Cases/DIGITURNO/BASICO/33 Terminales Actualizar
+
+2024-10-03 17:36:23 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/32 Elementos del Sistema"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema' successfully
+
+2024-10-03 17:36:23 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema: Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema
+
+2024-10-03 17:36:23 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/3 Configuracion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-10-03 17:36:23 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/3 Configuracion: Test Cases/DIGITURNO/BASICO/3 Configuracion
+
+2024-10-03 17:36:23 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-10-03 17:36:23 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-10-03 17:36:23 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-10-03 17:36:23 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-10-03 17:36:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-10-03 17:36:24 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-10-03 17:36:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-10-03 17:36:26 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-10-03 17:36:26 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-10-03 17:36:26 - [MESSAGE][PASSED] - Current window maximized
+
+2024-10-03 17:36:26 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:36:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:36:29 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-10-03 17:36:30 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-10-03 17:36:30 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-10-03 17:36:30 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-10-03 17:36:30 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-10-03 17:36:31 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-10-03 17:36:31 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:36:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:36:34 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-10-03 17:36:34 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-10-03 17:36:34 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-10-03 17:36:34 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:36:37 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:36:37 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-10-03 17:36:38 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-10-03 17:36:38 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727994997896.png]]
+
+2024-10-03 17:36:38 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:36:41 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:36:41 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-10-03 17:36:41 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema' is clicked on
+
+2024-10-03 17:36:41 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema' is clicked on
+
+2024-10-03 17:36:41 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:36:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:36:44 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-10-03 17:36:45 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-10-03 17:36:45 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727995004934.png]]
+
+2024-10-03 17:36:45 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:36:48 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:36:48 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema' successfully
+
+2024-10-03 17:36:48 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_3Terminales")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_3Terminales' is clicked on
+
+2024-10-03 17:36:49 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_3Terminales' is clicked on
+
+2024-10-03 17:36:49 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:36:52 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:36:52 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/0 Modal oficina/td_1Bogota - CIEL")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/0 Modal oficina/td_1Bogota - CIEL' is clicked on
+
+2024-10-03 17:36:52 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/0 Modal oficina/td_1Bogota - CIEL' is clicked on
+
+2024-10-03 17:36:52 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:36:55 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:36:55 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Lista de Terminales/input_TextoABuscar"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Lista de Terminales/input_TextoABuscar'
+
+2024-10-03 17:36:56 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Lista de Terminales/input_TextoABuscar'
+
+2024-10-03 17:36:56 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-10-03 17:36:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-10-03 17:36:58 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Lista de Terminales/td_1 Seleccion Busqueda")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Lista de Terminales/td_1 Seleccion Busqueda' is clicked on
+
+2024-10-03 17:36:58 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Lista de Terminales/td_1 Seleccion Busqueda' is clicked on
+
+2024-10-03 17:36:58 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:37:01 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:37:01 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/textarea_Descripcion"), "Prueba actualizada"): Text 'Prueba actualizada' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/textarea_Descripcion'
+
+2024-10-03 17:37:02 - [MESSAGE][PASSED] - Text 'Prueba actualizada' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/textarea_Descripcion'
+
+2024-10-03 17:37:02 - [TEST_STEP][PASSED] - selectOptionByIndex(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/select_Tipo Terminal"), 3): All options with index in [3] are selected on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/select_Tipo Terminal'
+
+2024-10-03 17:37:03 - [MESSAGE][PASSED] - All options with index in [3] are selected on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/select_Tipo Terminal'
+
+2024-10-03 17:37:03 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:37:06 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:37:06 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-10-03 17:37:06 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-10-03 17:37:06 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/img_Actualizar")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/img_Actualizar' is clicked on
+
+2024-10-03 17:37:07 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/img_Actualizar' is clicked on
+
+2024-10-03 17:37:07 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:37:10 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:37:10 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-10-03 17:37:10 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-10-03 17:37:10 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727995030138.png]]
+
+2024-10-03 17:37:10 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:37:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:37:13 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DIGITURNO/BASICO/33 Terminales Eliminar" time="42.355" classname="Test Cases/DIGITURNO/BASICO/33 Terminales Eliminar" status="PASSED">
+         <system-out><![CDATA[2024-10-03 17:37:13 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/33 Terminales Eliminar: Test Cases/DIGITURNO/BASICO/33 Terminales Eliminar
+
+2024-10-03 17:37:14 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/32 Elementos del Sistema"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema' successfully
+
+2024-10-03 17:37:14 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema: Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema
+
+2024-10-03 17:37:14 - [TEST_STEP][PASSED] - callTestCase(findTestCase("DIGITURNO/BASICO/3 Configuracion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-10-03 17:37:14 - [TEST_CASE][PASSED] - Test Cases/DIGITURNO/BASICO/3 Configuracion: Test Cases/DIGITURNO/BASICO/3 Configuracion
+
+2024-10-03 17:37:14 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-10-03 17:37:14 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-10-03 17:37:14 - [TEST_STEP][PASSED] - openBrowser(UrlDigiturno): Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-10-03 17:37:14 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-10-03 17:37:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-10-03 17:37:15 - [MESSAGE][INFO] - User set preference: ['args', '[--use-fake-ui-for-media-stream, --disable-notifications]']
+
+2024-10-03 17:37:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-10-03 17:37:17 - [MESSAGE][PASSED] - Browser is opened with url: 'https://PCPruebas101.ciel.cielingenieria.com:8910'
+
+2024-10-03 17:37:17 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-10-03 17:37:17 - [MESSAGE][PASSED] - Current window maximized
+
+2024-10-03 17:37:17 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:37:20 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:37:20 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Usuario"), "Ciel"): Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-10-03 17:37:21 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/0Inicio Sesion/input_Usuario'
+
+2024-10-03 17:37:21 - [TEST_STEP][PASSED] - setText(findTestObject("0Inicio Sesion/input_Clave"), "digiturno"): Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-10-03 17:37:22 - [MESSAGE][PASSED] - Text 'digiturno' is set on object 'Object Repository/0Inicio Sesion/input_Clave'
+
+2024-10-03 17:37:22 - [TEST_STEP][PASSED] - click(findTestObject("0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-10-03 17:37:22 - [MESSAGE][PASSED] - Object: 'Object Repository/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-10-03 17:37:22 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:37:25 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:37:25 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-10-03 17:37:25 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/1Principal/img_Configuracion(1)")): Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-10-03 17:37:26 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/1Principal/img_Configuracion(1)' is clicked on
+
+2024-10-03 17:37:26 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:37:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:37:29 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-10-03 17:37:29 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-10-03 17:37:29 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727995049156.png]]
+
+2024-10-03 17:37:29 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:37:32 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:37:32 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/3 Configuracion' successfully
+
+2024-10-03 17:37:32 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema' is clicked on
+
+2024-10-03 17:37:33 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/0Principal/img_6Elementos del sistema' is clicked on
+
+2024-10-03 17:37:33 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:37:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:37:36 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-10-03 17:37:36 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-10-03 17:37:36 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727995056125.png]]
+
+2024-10-03 17:37:36 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:37:39 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:37:39 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/DIGITURNO/BASICO/32 Elementos del Sistema' successfully
+
+2024-10-03 17:37:39 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_3Terminales")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_3Terminales' is clicked on
+
+2024-10-03 17:37:40 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_3Terminales' is clicked on
+
+2024-10-03 17:37:40 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:37:43 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:37:43 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/0 Modal oficina/td_1Bogota - CIEL")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/0 Modal oficina/td_1Bogota - CIEL' is clicked on
+
+2024-10-03 17:37:43 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/0 Modal oficina/td_1Bogota - CIEL' is clicked on
+
+2024-10-03 17:37:43 - [TEST_STEP][PASSED] - setText(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Lista de Terminales/input_TextoABuscar"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Lista de Terminales/input_TextoABuscar'
+
+2024-10-03 17:37:44 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Lista de Terminales/input_TextoABuscar'
+
+2024-10-03 17:37:44 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-10-03 17:37:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-10-03 17:37:46 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Lista de Terminales/td_1 Seleccion Busqueda")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Lista de Terminales/td_1 Seleccion Busqueda' is clicked on
+
+2024-10-03 17:37:47 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Lista de Terminales/td_1 Seleccion Busqueda' is clicked on
+
+2024-10-03 17:37:47 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:37:50 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:37:50 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/img_Eliminar")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/img_Eliminar' is clicked on
+
+2024-10-03 17:37:50 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/img_Eliminar' is clicked on
+
+2024-10-03 17:37:50 - [TEST_STEP][PASSED] - click(findTestObject("DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/img_Eliminar")): Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/img_Eliminar' is clicked on
+
+2024-10-03 17:37:50 - [MESSAGE][PASSED] - Object: 'Object Repository/DIGITURNO/CONFIGURACION/6Elementos del Sistema/3 Terminales/Edicion/img_Eliminar' is clicked on
+
+2024-10-03 17:37:50 - [TEST_STEP][PASSED] - acceptAlert(): Alert accepted
+
+2024-10-03 17:37:50 - [MESSAGE][PASSED] - Alert accepted
+
+2024-10-03 17:37:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-10-03 17:37:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-10-03 17:37:52 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-10-03 17:37:53 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-10-03 17:37:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\Digiturno55\\Reports\\20241003_171202\\DIGITURNO\\BASICO\\33 Terminales Crear Actualizar Eliminar\\20241003_171241\\1727995072701.png]]
+
+2024-10-03 17:37:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-10-03 17:37:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-03 17:37:56 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-10-03 17:35:28 - [TEST_SUITE][PASSED] - 33 Terminales Crear Actualizar Eliminar: Test Cases/DIGITURNO/BASICO/33 Terminales Eliminar]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

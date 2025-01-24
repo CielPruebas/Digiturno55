@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+67 Administracion de Redes,Chrome 129.0.0.0,,,2024-10-03 18:00:10,2024-10-03 18:01:04,"53,739s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/67 Administracion de Redes,Chrome 129.0.0.0,,,2024-10-03 18:00:11,2024-10-03 18:01:04,"53,444s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/32 Elementos del Sistema""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 18:00:11,2024-10-03 18:00:38,"26,973s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/0Principal/img_7Redes""))",Chrome 129.0.0.0,,,2024-10-03 18:00:38,2024-10-03 18:00:39,"0,746s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 18:00:39,2024-10-03 18:00:42,"3,016s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/7 Redes/Administracion/span_Administrador de recursos locales(1)/Edicion Administrador Recursos Locales/input_Nombre""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 18:00:42,2024-10-03 18:00:42,"0,736s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/7 Redes/Administracion/span_Administrador de recursos locales(1)/Edicion Administrador Recursos Locales/textarea_Descripcion""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 18:00:42,2024-10-03 18:00:43,"0,734s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/7 Redes/Administracion/span_Administrador de recursos locales(1)/Edicion Administrador Recursos Locales/img_Nuevo""))",Chrome 129.0.0.0,,,2024-10-03 18:00:43,2024-10-03 18:00:44,"0,421s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 18:00:44,2024-10-03 18:00:47,"3,004s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/7 Redes/Administracion/span_Redes""))",Chrome 129.0.0.0,,,2024-10-03 18:00:47,2024-10-03 18:00:47,"0,402s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 18:00:47,2024-10-03 18:00:49,"2,006s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/7 Redes/Administracion/span_Redes(1)/Edicion Redes/input_Nombre Red""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 18:00:49,2024-10-03 18:00:50,"0,986s",PASSED
+"selectOptionByValue(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/7 Redes/Administracion/span_Redes(1)/Edicion Redes/select_Administrador Recursos Locales""), ""Prueba"", false)",Chrome 129.0.0.0,,,2024-10-03 18:00:50,2024-10-03 18:00:51,"0,711s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 18:00:51,2024-10-03 18:00:54,"3,016s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/7 Redes/Administracion/span_Redes(1)/Edicion Redes/label_Serial""))",Chrome 129.0.0.0,,,2024-10-03 18:00:54,2024-10-03 18:00:54,"0,420s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 18:00:54,2024-10-03 18:00:56,"2,011s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/7 Redes/Administracion/span_Redes(1)/Edicion Redes/Serial/input_Puerto""), ""1111111"")",Chrome 129.0.0.0,,,2024-10-03 18:00:56,2024-10-03 18:00:57,"0,769s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/6Elementos del Sistema/7 Redes/Administracion/span_Redes(1)/Edicion Redes/img_Nuevo""))",Chrome 129.0.0.0,,,2024-10-03 18:00:57,2024-10-03 18:00:57,"0,401s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 18:00:57,2024-10-03 18:01:00,"3,007s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 18:01:00,2024-10-03 18:01:01,"0,698s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 18:01:01,2024-10-03 18:01:04,"3,009s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 18:01:04,2024-10-03 18:01:04,"0,000s",PASSED

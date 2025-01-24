@@ -40,10 +40,6 @@ WebUI.setText(findTestObject('DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 S
 WebUI.setText(findTestObject('DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/textarea_Descripcion'), 
     'Prueba')
 
-WebUI.check(findTestObject('DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/label_Habilitado'))
-
-WebUI.check(findTestObject('DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/label_Balanceo entre salas'))
-
 WebUI.click(findTestObject('DIGITURNO/CONFIGURACION/6Elementos del Sistema/1 Selectores/Configuracion/span_Edicion(1)/Infomacion General/img_Nuevo'))
 
 WebUI.delay(3)

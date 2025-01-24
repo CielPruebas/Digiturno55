@@ -1,0 +1,79 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+23 Oficinas Crear Actualizar Eliminar,Chrome 129.0.0.0,,,2024-10-03 17:23:50,2024-10-03 17:26:22,"2m - 32,145s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/23 Oficinas Crear,Chrome 129.0.0.0,,,2024-10-03 17:23:51,2024-10-03 17:25:01,"1m - 10,800s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/21 Distribucion Geografica""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:23:51,2024-10-03 17:24:14,"23,262s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/0Principal/img_2Oficinas""))",Chrome 129.0.0.0,,,2024-10-03 17:24:14,2024-10-03 17:24:16,"1,312s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:24:16,2024-10-03 17:24:18,"2,014s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/select_Pais""), 1, STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:24:18,2024-10-03 17:24:19,"1,040s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:24:19,2024-10-03 17:24:21,"2,010s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/select_Departamento""), 1)",Chrome 129.0.0.0,,,2024-10-03 17:24:21,2024-10-03 17:24:22,"1,090s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:24:22,2024-10-03 17:24:24,"2,008s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/select_Ciudad""), 1)",Chrome 129.0.0.0,,,2024-10-03 17:24:24,2024-10-03 17:24:25,"0,988s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:24:25,2024-10-03 17:24:27,"2,011s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/input_Nombre""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:24:27,2024-10-03 17:24:28,"0,798s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/select_Nivel Pregunta""), 0, STOP_ON_FAILURE)",Chrome 129.0.0.0,Oficina Sala Grupo,,2024-10-03 17:24:28,2024-10-03 17:24:29,"0,954s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:24:29,2024-10-03 17:24:31,"2,006s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/input_Nivel de servicio de espera""), ""1"")",Chrome 129.0.0.0,,,2024-10-03 17:24:31,2024-10-03 17:24:31,"0,733s",PASSED
+"scrollToElement(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/App/input_NombreAMostrar""), 0)",Chrome 129.0.0.0,,,2024-10-03 17:24:31,2024-10-03 17:24:32,"0,401s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/App/input_NombreAMostrar""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:24:32,2024-10-03 17:24:33,"1,099s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/App/input_Direccion""), ""Carrera"")",Chrome 129.0.0.0,,,2024-10-03 17:24:33,2024-10-03 17:24:33,"0,717s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/App/input_Telefono""), ""1234567"")",Chrome 129.0.0.0,,,2024-10-03 17:24:33,2024-10-03 17:24:34,"0,700s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/App/input_Distancia minima creacion turnos (m)""), ""100"")",Chrome 129.0.0.0,,,2024-10-03 17:24:34,2024-10-03 17:24:35,"0,732s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/App/input_Cantidad de turnos para prellamado""), ""2"")",Chrome 129.0.0.0,,,2024-10-03 17:24:35,2024-10-03 17:24:36,"0,699s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/Coordenada Grafica/input_Longitud""), ""0.0000000000"")",Chrome 129.0.0.0,,,2024-10-03 17:24:36,2024-10-03 17:24:36,"0,738s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/Coordenada Grafica/input_Latitud""), ""0.0000000000"")",Chrome 129.0.0.0,,,2024-10-03 17:24:36,2024-10-03 17:24:37,"0,771s",PASSED
+"scrollToPosition(0, 0)",Chrome 129.0.0.0,,,2024-10-03 17:24:37,2024-10-03 17:24:37,"0,048s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:24:37,2024-10-03 17:24:39,"2,015s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/img_Nuevo""))",Chrome 129.0.0.0,,,2024-10-03 17:24:39,2024-10-03 17:24:40,"0,441s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:24:40,2024-10-03 17:24:43,"3,003s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Otras Configuraciones/span_Numeradores""))",Chrome 129.0.0.0,,,2024-10-03 17:24:43,2024-10-03 17:24:43,"0,406s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:24:43,2024-10-03 17:24:46,"3,014s",PASSED
+"scrollToPosition(0, 1800)",Chrome 129.0.0.0,,,2024-10-03 17:24:46,2024-10-03 17:24:46,"0,021s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:24:46,2024-10-03 17:24:49,"3,013s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Otras Configuraciones/span_Numeradores(1)/Numeradores/td_1Numerador Bogota - CIEL""))",Chrome 129.0.0.0,,,2024-10-03 17:24:49,2024-10-03 17:24:49,"0,397s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:24:49,2024-10-03 17:24:51,"2,002s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Otras Configuraciones/span_Numeradores(1)/Colas del sistema/a_SeleccionarTodo""))",Chrome 129.0.0.0,,,2024-10-03 17:24:51,2024-10-03 17:24:52,"0,418s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:24:52,2024-10-03 17:24:54,"2,004s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Otras Configuraciones/span_Numeradores(1)/Numeradores/img_Relacionar colas""))",Chrome 129.0.0.0,,,2024-10-03 17:24:54,2024-10-03 17:24:54,"0,437s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:24:54,2024-10-03 17:24:57,"3,015s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 17:24:57,2024-10-03 17:24:58,"1,055s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:24:58,2024-10-03 17:25:01,"3,014s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 17:25:01,2024-10-03 17:25:01,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/23 Oficinas Actualizar,Chrome 129.0.0.0,,,2024-10-03 17:25:01,2024-10-03 17:25:43,"41,881s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/21 Distribucion Geografica""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:25:02,2024-10-03 17:25:24,"21,807s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/0Principal/img_2Oficinas""))",Chrome 129.0.0.0,,,2024-10-03 17:25:24,2024-10-03 17:25:25,"0,949s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:25:25,2024-10-03 17:25:27,"2,007s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Lista de oficinas/input_TextoABuscar""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:25:27,2024-10-03 17:25:27,"0,743s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Lista de oficinas/img_Filtrar""))",Chrome 129.0.0.0,,,2024-10-03 17:25:27,2024-10-03 17:25:28,"0,400s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:25:28,2024-10-03 17:25:30,"2,010s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Lista de oficinas/td_1 Seleccion Busqueda""))",Chrome 129.0.0.0,,,2024-10-03 17:25:30,2024-10-03 17:25:30,"0,403s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:25:30,2024-10-03 17:25:32,"2,012s",PASSED
+"scrollToPosition(0, 1600)",Chrome 129.0.0.0,,,2024-10-03 17:25:32,2024-10-03 17:25:32,"0,023s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:25:32,2024-10-03 17:25:35,"3,012s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Otras Configuraciones/span_Colas(1)/a__SeleccionarTodo""))",Chrome 129.0.0.0,,,2024-10-03 17:25:35,2024-10-03 17:25:36,"0,458s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Otras Configuraciones/span_Colas(1)/img_Eliminar""))",Chrome 129.0.0.0,,,2024-10-03 17:25:36,2024-10-03 17:25:36,"0,511s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Otras Configuraciones/span_Colas(1)/img_Eliminar""))",Chrome 129.0.0.0,,,2024-10-03 17:25:36,2024-10-03 17:25:36,"0,152s",PASSED
+acceptAlert(),Chrome 129.0.0.0,,,2024-10-03 17:25:36,2024-10-03 17:25:36,"0,051s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:25:36,2024-10-03 17:25:39,"3,012s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 17:25:39,2024-10-03 17:25:40,"0,904s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:25:40,2024-10-03 17:25:43,"3,002s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 17:25:43,2024-10-03 17:25:43,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/23 Oficinas Eliminar,Chrome 129.0.0.0,,,2024-10-03 17:25:43,2024-10-03 17:26:22,"39,143s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/21 Distribucion Geografica""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:25:44,2024-10-03 17:26:05,"21,740s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/0Principal/img_2Oficinas""))",Chrome 129.0.0.0,,,2024-10-03 17:26:05,2024-10-03 17:26:06,"0,958s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:26:06,2024-10-03 17:26:08,"2,009s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Lista de oficinas/input_TextoABuscar""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:26:08,2024-10-03 17:26:09,"0,726s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Lista de oficinas/img_Filtrar""), STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:26:09,2024-10-03 17:26:10,"0,421s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:26:10,2024-10-03 17:26:12,"2,012s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Lista de oficinas/td_1 Seleccion Busqueda""))",Chrome 129.0.0.0,,,2024-10-03 17:26:12,2024-10-03 17:26:12,"0,465s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:26:12,2024-10-03 17:26:15,"3,017s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/img_Eliminar""), STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:26:15,2024-10-03 17:26:16,"0,407s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/2Distribucion Geografica/2Oficinas/Edicion/img_Eliminar""))",Chrome 129.0.0.0,,,2024-10-03 17:26:16,2024-10-03 17:26:16,"0,156s",PASSED
+acceptAlert(),Chrome 129.0.0.0,,,2024-10-03 17:26:16,2024-10-03 17:26:16,"0,021s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:26:16,2024-10-03 17:26:19,"3,011s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 17:26:19,2024-10-03 17:26:19,"0,784s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:26:19,2024-10-03 17:26:22,"3,006s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 17:26:22,2024-10-03 17:26:22,"0,000s",PASSED

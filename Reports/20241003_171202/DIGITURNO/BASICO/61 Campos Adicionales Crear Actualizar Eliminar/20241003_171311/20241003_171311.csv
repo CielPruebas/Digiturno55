@@ -1,0 +1,48 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+61 Campos Adicionales Crear Actualizar Eliminar,Chrome 129.0.0.0,,,2024-10-03 17:53:39,2024-10-03 17:55:55,"2m - 15,455s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/61 Campos Adicionales Crear,Chrome 129.0.0.0,,,2024-10-03 17:53:39,2024-10-03 17:54:23,"43,924s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/59 Datos Complementarios""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:53:40,2024-10-03 17:54:07,"26,935s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/0Principal/img_campos adicionales""))",Chrome 129.0.0.0,,,2024-10-03 17:54:07,2024-10-03 17:54:08,"0,939s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:54:08,2024-10-03 17:54:11,"3,014s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/input_Nombre""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:54:11,2024-10-03 17:54:11,"0,787s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/select_TipoDato""), 3)",Chrome 129.0.0.0,,,2024-10-03 17:54:11,2024-10-03 17:54:13,"1,077s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:54:13,2024-10-03 17:54:16,"3,006s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/input_Valor por defecto""), ""0"")",Chrome 129.0.0.0,,,2024-10-03 17:54:16,2024-10-03 17:54:16,"0,707s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/img_Nuevo""))",Chrome 129.0.0.0,,,2024-10-03 17:54:16,2024-10-03 17:54:17,"0,423s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:54:17,2024-10-03 17:54:20,"3,005s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 17:54:20,2024-10-03 17:54:20,"0,624s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:54:20,2024-10-03 17:54:23,"3,026s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 17:54:23,2024-10-03 17:54:23,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/61 Campos Adicionales Actualizar,Chrome 129.0.0.0,,,2024-10-03 17:54:23,2024-10-03 17:55:10,"46,704s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/59 Datos Complementarios""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:54:24,2024-10-03 17:54:49,"25,092s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/0Principal/img_campos adicionales""))",Chrome 129.0.0.0,,,2024-10-03 17:54:49,2024-10-03 17:54:50,"0,666s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:54:50,2024-10-03 17:54:53,"3,008s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/0 Lista de campos/input_TextoABuscar""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:54:53,2024-10-03 17:54:53,"0,825s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:54:53,2024-10-03 17:54:56,"3,012s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/0 Lista de campos/td_1 Seleccion""))",Chrome 129.0.0.0,,,2024-10-03 17:54:56,2024-10-03 17:54:57,"0,417s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:54:57,2024-10-03 17:55:00,"3,009s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/select_TipoDato""), 4)",Chrome 129.0.0.0,,,2024-10-03 17:55:00,2024-10-03 17:55:01,"1,047s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:55:01,2024-10-03 17:55:03,"2,007s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/img_Actualizar""))",Chrome 129.0.0.0,,,2024-10-03 17:55:03,2024-10-03 17:55:03,"0,415s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:55:03,2024-10-03 17:55:06,"3,017s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 17:55:06,2024-10-03 17:55:07,"0,642s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:55:07,2024-10-03 17:55:10,"3,021s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 17:55:10,2024-10-03 17:55:10,"0,000s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/61 Campos Adicionales Eliminar,Chrome 129.0.0.0,,,2024-10-03 17:55:10,2024-10-03 17:55:55,"44,514s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/59 Datos Complementarios""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:55:11,2024-10-03 17:55:36,"25,721s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/0Principal/img_campos adicionales""))",Chrome 129.0.0.0,,,2024-10-03 17:55:36,2024-10-03 17:55:37,"0,696s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:55:37,2024-10-03 17:55:40,"3,011s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/0 Lista de campos/input_TextoABuscar""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:55:40,2024-10-03 17:55:41,"0,768s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:55:41,2024-10-03 17:55:44,"3,013s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/0 Lista de campos/td_1 Seleccion""))",Chrome 129.0.0.0,,,2024-10-03 17:55:44,2024-10-03 17:55:44,"0,458s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:55:44,2024-10-03 17:55:47,"3,002s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/img_Eliminar""))",Chrome 129.0.0.0,,,2024-10-03 17:55:47,2024-10-03 17:55:48,"0,386s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/5Datos Complementarios/Campos Adicionales/Adicion de campos Adicionales/Edicion de campos/img_Eliminar""))",Chrome 129.0.0.0,,,2024-10-03 17:55:48,2024-10-03 17:55:48,"0,186s",PASSED
+acceptAlert(),Chrome 129.0.0.0,,,2024-10-03 17:55:48,2024-10-03 17:55:48,"0,037s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:55:48,2024-10-03 17:55:51,"3,005s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 17:55:51,2024-10-03 17:55:52,"0,676s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:55:52,2024-10-03 17:55:55,"3,003s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 17:55:55,2024-10-03 17:55:55,"0,000s",PASSED

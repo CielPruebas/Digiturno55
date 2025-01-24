@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+16 Agregar Usuario,Chrome 129.0.0.0,,,2024-10-03 17:20:56,2024-10-03 17:21:48,"51,967s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/16 Agregar Usuario,Chrome 129.0.0.0,,,2024-10-03 17:20:56,2024-10-03 17:21:48,"51,660s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/5 Usuarios""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:20:57,2024-10-03 17:21:20,"23,235s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:21:20,2024-10-03 17:21:23,"3,005s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/0Principal/img_4Agregar Usuarios""))",Chrome 129.0.0.0,,,2024-10-03 17:21:23,2024-10-03 17:21:24,"0,745s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:21:24,2024-10-03 17:21:27,"3,000s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/4Agregar Usuarios/Informacion Principal/input_Usuario""), ""Usuario de Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:21:27,2024-10-03 17:21:27,"0,767s",PASSED
+"selectOptionByLabel(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/4Agregar Usuarios/Informacion Principal/select_Perfil""), ""Consulta"", false)",Chrome 129.0.0.0,,,2024-10-03 17:21:27,2024-10-03 17:21:28,"0,731s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:21:28,2024-10-03 17:21:30,"2,002s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/4Agregar Usuarios/Informacion Principal/input_Nombre a mostrar""), ""Prueba"")",Chrome 129.0.0.0,,,2024-10-03 17:21:30,2024-10-03 17:21:31,"0,739s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/4Agregar Usuarios/Informacion Principal/input_Correo""), ""prueba@gmail.com"")",Chrome 129.0.0.0,,,2024-10-03 17:21:31,2024-10-03 17:21:32,"0,780s",PASSED
+"setText(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/4Agregar Usuarios/Informacion Principal/input_NumeroCelular""), ""1234567"")",Chrome 129.0.0.0,,,2024-10-03 17:21:32,2024-10-03 17:21:32,"0,753s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/4Agregar Usuarios/Informacion Principal/select_Pais""), ""1"", STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:21:32,2024-10-03 17:21:33,"1,032s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:21:33,2024-10-03 17:21:35,"2,002s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/4Agregar Usuarios/Informacion Principal/select_Departamento""), ""1"", STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:21:35,2024-10-03 17:21:36,"1,036s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:21:36,2024-10-03 17:21:38,"2,015s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/4Agregar Usuarios/Informacion Principal/select_Ciudad""), ""1"", STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:21:38,2024-10-03 17:21:39,"0,960s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:21:39,2024-10-03 17:21:41,"2,003s",PASSED
+"selectOptionByIndex(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/4Agregar Usuarios/Informacion Principal/select_Oficina""), ""1"", STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:21:41,2024-10-03 17:21:42,"0,995s",PASSED
+delay(2),Chrome 129.0.0.0,,,2024-10-03 17:21:42,2024-10-03 17:21:44,"2,013s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/4Usuarios/4Agregar Usuarios/Informacion Principal/img_Nuevo""))",Chrome 129.0.0.0,,,2024-10-03 17:21:44,2024-10-03 17:21:45,"0,425s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:21:45,2024-10-03 17:21:48,"3,006s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 17:21:48,2024-10-03 17:21:48,"0,005s",PASSED

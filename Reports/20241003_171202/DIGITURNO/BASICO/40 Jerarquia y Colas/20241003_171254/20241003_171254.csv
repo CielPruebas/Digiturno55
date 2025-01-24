@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+40 Jerarquia y Colas,Chrome 129.0.0.0,,,2024-10-03 17:44:13,2024-10-03 17:44:59,"46,378s",PASSED
+,,,,,,,
+Test Cases/DIGITURNO/BASICO/40 Jerarquia y Colas,Chrome 129.0.0.0,,,2024-10-03 17:44:13,2024-10-03 17:44:59,"46,107s",PASSED
+"callTestCase(findTestCase(""DIGITURNO/BASICO/39 Modelo de atencion""), [:], STOP_ON_FAILURE)",Chrome 129.0.0.0,,,2024-10-03 17:44:13,2024-10-03 17:44:40,"26,938s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/0Principal/img_1Jerarquia y colas""))",Chrome 129.0.0.0,,,2024-10-03 17:44:40,2024-10-03 17:44:41,"0,910s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:44:41,2024-10-03 17:44:44,"3,005s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/1Jerarquia y Colas/2Configuracion/1Nodos y elementos/1Niveles/option_1Area""))",Chrome 129.0.0.0,Niveles,,2024-10-03 17:44:44,2024-10-03 17:44:44,"0,395s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:44:44,2024-10-03 17:44:47,"3,014s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/1Jerarquia y Colas/2Configuracion/1Nodos y elementos/2Elementos/td_1General (G)""))",Chrome 129.0.0.0,Elementos,,2024-10-03 17:44:47,2024-10-03 17:44:48,"0,384s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:44:48,2024-10-03 17:44:51,"3,004s",PASSED
+"scrollToElement(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/1Jerarquia y Colas/2Configuracion/1Nodos y elementos/2Elementos/Edicion/img_Nuevo""), 0)",Chrome 129.0.0.0,,,2024-10-03 17:44:51,2024-10-03 17:44:51,"0,400s",PASSED
+"click(findTestObject(""DIGITURNO/CONFIGURACION/1Modelo de Atencion/1Jerarquia y Colas/2Configuracion/1Nodos y elementos/3Nodos/img_Nuevo""))",Chrome 129.0.0.0,Agregar Nodo,,2024-10-03 17:44:51,2024-10-03 17:44:52,"0,805s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:44:52,2024-10-03 17:44:55,"3,005s",PASSED
+takeFullPageScreenshot(),Chrome 129.0.0.0,,,2024-10-03 17:44:55,2024-10-03 17:44:56,"0,876s",PASSED
+delay(3),Chrome 129.0.0.0,,,2024-10-03 17:44:56,2024-10-03 17:44:59,"3,002s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 129.0.0.0,,,2024-10-03 17:44:59,2024-10-03 17:44:59,"0,000s",PASSED
